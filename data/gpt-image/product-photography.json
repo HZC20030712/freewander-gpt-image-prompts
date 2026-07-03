@@ -1,0 +1,1218 @@
+[
+  {
+    "id": "3f967938-0cd9-41be-a553-020ee529d7a7",
+    "prompt": "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K ultra-high-definition\",\n      \"aspect_ratio\": \"3:4 vertical\",\n      \"style\": \"hyper-realistic AI-edited commercial product photography\",\n      \"sharpness\": \"extreme clarity, micro-detail visibility\",\n      \"lighting_quality\": \"cinematic studio lighting with controlled highlights and shadows\",\n      \"motion_freeze\": \"high-speed capture, frozen splashes and particles\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n\n\"module_1_image_1_style\": {\n      \"subject\": {\n        \"type\": \"plastic protein drink bottle\",\n        \"color\": \"deep matte blue\",\n        \"surface_details\": \"condensation droplets across entire bottle\",\n        \"label_text_visible\": [\n          \"milk & yogurt\",\n          \"mock up\",\n          \"protein\",\n          \"SEPARATED SHADOWS\"\n        ]\n      },\n      \"pose_and_orientation\": {\n        \"position\": \"slightly tilted to the right\",\n        \"angle\": \"three-quarter view\",\n        \"motion_feel\": \"dynamic, leaning into splash\"\n      },\n      \"liquid_and_motion\": {\n        \"liquid_color\": \"white and light beige milk mixture\",\n        \"texture\": \"smooth, creamy, fluid\",\n        \"motion\": \"swirling splash rising around bottle base and sides\"\n      },\n      \"floating_elements\": {\n        \"blueberries\": \"whole and halved blueberries at different depths\",\n        \"mint_leaves\": \"small green leaves with visible veins\",\n        \"droplets\": \"milk droplets and spheres suspended mid-air\"\n      },\n      \"background\": {\n        \"color_gradient\": \"dark blue to warm amber\",\n        \"bokeh\": \"soft circular light particles scattered throughout\"\n      },\n      \"surface_and_reflection\": {\n        \"base\": \"matte ground with light liquid pooling\",\n        \"shadow_style\": \"soft separated shadow under bottle\"\n      }\n    },\n\"module_2_image_2_style\": {\n      \"subject\": {\n        \"type\": \"metal coffee can\",\n        \"color\": \"warm gold\",\n        \"surface_details\": \"heavy condensation with visible droplets\",\n        \"branding_text_visible\": [\n          \"NESCAFÉ\",\n          \"Latte\",\n          \"NEW LOOK\",\n          \"ICED COFFEE WITH MILK\",\n          \"SUGAR AND SWEETENER OPTIONAL\"\n        ]\n      },\n      \"pose_and_orientation\": {\n        \"position\": \"upright, centered\",\n        \"angle\": \"front-facing\",\n        \"presence\": \"hero product stance\"\n      },\n      \"liquid_and_motion\": {\n        \"liquid_color\": \"coffee and milk blend\",\n        \"motion\": \"splash erupting from base\",\n        \"droplet_behavior\": \"fine droplets scattered outward\"\n      },\n      \"floating_elements\": {\n        \"coffee_beans\": \"whole roasted beans floating around can\",\n        \"steam\": \"thick swirling steam rising upward\",\n        \"embers\": \"tiny glowing particles in background\"\n      },\n      \"background\": {\n        \"color_palette\": \"deep brown, amber, gold\",\n        \"atmosphere\": \"warm, smoky, intense\"\n      },\n      \"surface_and_reflection\": {\n        \"base\": \"wet surface with liquid splash crown\",\n        \"reflection_quality\": \"subtle reflective highlights\"\n      }\n    }",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2017420332458774791/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2017420332458774791",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-31T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "27aceded-21af-4bc5-ad5b-6b95904ca2c8",
+    "prompt": "Low-angle fashion campaign photograph of a confident model holding a large [product name] very close to the camera, exaggerated perspective with the hand and product dominating the foreground, full-body pose visible in the background, wide stance, dynamic posture, clean pure white studio background, high-key lighting, sharp focus on product, slight depth of field on the model, bold colorful outfit with strong contrast tones, modern beauty advertising aesthetic, ultra-clean composition, commercial studio photography, glossy packaging detail visible, crisp shadows",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048748266293190833/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Amira Zairi",
+      "author_url": "https://x.com/azed_ai",
+      "license": "MIT",
+      "original_id": "2048748266293190833",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "4b0394c2-4160-432f-a031-fd59592bb3a2",
+    "prompt": "Create a polished multi-page (multiple images) brand kit for a company called [YOYOYO]. The brand should feel playful, futuristic, vibrant, and design-forward, blending the energy of a toy-inspired product with the sophistication of a premium creative tech brand. Use a bold, experimental visual identity with bright color, clean geometry, modern typography, dynamic motion cues, and slightly surreal imagery. The overall mood should feel inventive, youthful, rhythmic, tactile, and high-concept, with a balance of fun consumer product culture, fashionlike presentation, and contemporary digital design.\n\nInclude a sense of product obsession, visual experimentation, packaging exploration, editorial photography, immersive retail, and cross-platform brand application. Make it feel like a confident, contemporary brand world that is both accessible and art-directed, with strong graphic cohesion and a premium creative-studio aesthetic.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046682439985082441/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "RIO",
+      "author_url": "https://x.com/riomadeit",
+      "license": "MIT",
+      "original_id": "2046682439985082441",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "4659a2d8-4590-4986-a4e9-764fd1a8ec77",
+    "prompt": "Create a high-converting carousel image for Grüns (greens gummies).\nBold hook, clear outcome, premium DTC design.\nMobile-first, 4:5, advanced design level.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047064581051142166/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Oliver Kenyon",
+      "author_url": "https://x.com/oliverkenyon",
+      "license": "MIT",
+      "original_id": "2047064581051142166",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "890fffc7-053c-497b-ac4d-39cbe895c9cc",
+    "prompt": "Hyper-realistic cinematic 8k photograph, low-angle wide perspective. A massive Monster Energy can standing vertically like an arctic monument, partially frozen inside thick blue ice and snow. Frost covering the textured surface, icicles forming along the logo and rim, snow filling the pull-tab opening. Snowcat vehicle and scientists in red parkas emphasize scale. Overcast arctic daylight, HDR, ultra-detailed frozen textures, cinematic realism --ar 2:3",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2021057289785053348/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2021057289785053348",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-10T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c043e88c-6918-4504-a9a7-a9aa82958fb0",
+    "prompt": "Create a polished email sequence template for fenty beauty",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046717569013293231/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Salma",
+      "author_url": "https://x.com/Salmaaboukarr",
+      "license": "MIT",
+      "original_id": "2046717569013293231",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e774f45c-9d61-4a52-a133-f282d889786d",
+    "prompt": "Conceptual transformation, bird nest construction techniques shaping a sculptural lounge chair, sequence from nest-building photography to weaving diagrams to organic structural abstraction to final product, interwoven frame forming seat and backrest, natural fibers with soft cushioning, earthy tones with refined finish, sustainable luxury aesthetic, presentation layout, sketches above, render below, warm natural lighting.\n\nAR – 4:3",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048667175112802778/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Aleena Amir",
+      "author_url": "https://x.com/aleenaamiir",
+      "license": "MIT",
+      "original_id": "2048667175112802778",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d36f7da8-bd93-4ab3-aaff-48e2737ee2a7",
+    "prompt": "A detailed technical blueprint illustration of [CHARACTER], drawn in blueprint style on a blue grid background with precise white linework. Includes subtle measurement markings, labels, and schematic-style annotations around the figure. The design is clean, symmetrical, and centered, giving it the look of a professional engineering drawing. ",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009585651554116028/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2009585651554116028",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-09T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8ef5a9c4-9afb-4d78-a7f3-29ab49bc8131",
+    "prompt": "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K ultra-high-definition\",\n      \"aspect_ratio\": \"3:4 vertical\",\n      \"style\": \"hyper-realistic AI-edited commercial product photography\",\n      \"sharpness\": \"extreme clarity, micro-detail visibility\",\n      \"lighting_quality\": \"cinematic studio lighting with controlled highlights and shadows\",\n      \"motion_freeze\": \"high-speed capture, frozen splashes and particles\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n\n\"module_1_image_1_style\": {\n      \"subject\": {\n        \"type\": \"orange-flavored soda can\",\n        \"color\": \"bright orange\",\n        \"surface_details\": \"condensation droplets across can\",\n        \"branding_text_visible\": [\n          \"Sesla\",\n          \"cola\"\n        ]\n      },\n      \"pose_and_orientation\": {\n        \"position\": \"upright, slightly embedded in splash\",\n        \"angle\": \"centered frontal view\"\n      },\n      \"liquid_and_motion\": {\n        \"liquid_color\": \"transparent orange-tinted liquid\",\n        \"motion\": \"high-energy splash bursting upward and outward\",\n        \"splash_detail\": \"clear liquid arcs with suspended droplets\"\n      },\n      \"floating_elements\": {\n        \"oranges\": [\n          \"whole oranges\",\n          \"halved oranges with visible pulp\"\n        ],\n        \"ice_cubes\": \"clear sharp-edged cubes floating mid-air\",\n        \"droplets\": \"numerous spherical liquid droplets\"\n      },\n      \"background\": {\n        \"color\": \"solid bright orange\",\n        \"lighting\": \"high-key, evenly lit\"\n      },\n      \"surface_and_reflection\": {\n        \"base\": \"shallow liquid pool\",\n        \"reflection_quality\": \"strong mirror-like reflection with ripples\"\n      }\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2018525109041135790/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2018525109041135790",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-03T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "0d03ae96-5bb1-46f2-a9c1-9b9cbed94e56",
+    "prompt": "Commercial luxury product photography, photorealistic, ultra high detail, 8K quality. A minimalist matte black cosmetic dropper bottle placed on a clear glass podium. Low angle camera view to make the bottle feel tall and powerful. The bottom of the bottle is clearly visible through the transparent glass. The glass surface is wet with realistic water droplets, with a few drops hanging underneath the glass, frozen mid drip for a time stopped effect. Matte light gray background with no texture or gradient. Soft, even studio lighting with clean reflections, premium skincare advertising look, sharp focus, realistic materials, no distractions.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2018215856577360311/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Harboriis",
+      "author_url": "https://x.com/harboriis",
+      "license": "MIT",
+      "original_id": "2018215856577360311",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "2bb50975-7b87-4ae4-a3fb-bd1257afd4a2",
+    "prompt": "{\n  \"master_prompt\": {\n    \"product\": {\n      \"type\": \"luxury perfume bottle\",\n      \"brand_name\": \"AURUM NOCTIS\",\n      \"fragrance_line\": \"Velvet Obsidian\",\n      \"container_shape\": \"sleek monolithic oval bottle with sculpted contours\",\n      \"material\": \"obsidian-black glass with subtle smoked transparency\",\n      \"finish\": \"high-gloss reflective body with satin matte side panels\",\n      \"cap_design\": \"heavy magnetic cap in brushed antique gold with engraved crest\",\n      \"label_style\": \"minimal gold foil typography floating on glass surface\",\n      \"liquid_color\": \"dark amber with molten gold undertones\"\n    },\n    \"composition\": {\n      \"scene_type\": \"ultra-cinematic luxury fragrance advertising photography\",\n      \"orientation\": \"vertical\",\n      \"aspect_ratio\": \"4:5\",\n      \"camera_angle\": \"low hero angle for power and prestige\",\n      \"subject_position\": \"floating mid-air with elegant slow rotation\",\n      \"motion\": \"fluid golden fragrance trails and aromatic vapor ribbons suspended in motion\"\n    },\n    \"environment\": {\n      \"background\": \"deep charcoal-to-black gradient fading into shadow\",\n      \"atmosphere\": \"soft volumetric haze enhancing depth and mystery\",\n      \"floating_elements\": [\n        \"molten gold dust particles glowing softly\",\n        \"dark cocoa shards catching highlights\",\n        \"black orchid petals drifting slowly\",\n        \"smoked vanilla pods suspended in air\",\n        \"tiny amber resin fragments sparkling\"\n      ],\n      \"surface_effects\": \"micro condensation droplets and polished reflections enhancing realism\"\n    },\n    \"lighting\": {\n      \"style\": \"dramatically sculpted low-key studio lighting\",\n      \"key_light\": \"soft directional light defining contours and glass curvature\",\n      \"rim_lights\": \"warm golden rim lights outlining silhouette\",\n      \"accent_lights\": \"subtle amber highlights emphasizing cap and liquid glow\",\n      \"shadow_depth\": \"deep shadows for cinematic luxury mood\",\n      \"contrast\": \"rich contrast with controlled highlights and luminous reflections\"\n    },\n    \"color_palette\": {\n      \"primary_colors\": [\"obsidian black\", \"charcoal shadow\", \"deep amber\"],\n      \"accent_colors\": [\"antique gold\", \"warm bronze glow\"]\n    },\n    \"camera_settings\": {\n      \"lens\": \"macro cinema prime lens\",\n      \"depth_of_field\": \"shallow depth isolating product\",\n      \"focus_point\": \"brand crest and glass curvature\",\n      \"bokeh\": \"soft golden bokeh from reflective particles\",\n      \"detail_capture\": \"extreme micro-detail clarity\"\n    },\n    \"render_quality\": {\n      \"resolution\": \"8K ultra high definition\",\n      \"render_style\": \"hyper-realistic luxury commercial render\",\n      \"glass_physics\": \"accurate refraction and internal reflections\",\n      \"liquid_simulation\": \"physically accurate fluid glow and viscosity\",\n      \"textures\": \"ultra-detailed glass, metal, vapor, and dust textures\",\n      \"sharpness\": \"tack sharp product focus with cinematic background softness\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n    \"mood\": {\n      \"tone\": \"mysterious, opulent, and powerful\",\n      \"emotion\": \"nighttime luxury, sensual elegance, timeless prestige\"\n    },\n    \"final_output\": {\n      \"usage\": \"luxury fragrance campaign and premium magazine advertising\",\n      \"branding_focus\": \"hero product dominance with elite brand presence\",\n      \"visual_style\": \"cinematic haute parfumerie commercial aesthetic\"\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2025013736139096574/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2025013736139096574",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "65edf7a5-3e7e-48ed-a056-66a8efdd40df",
+    "prompt": "\"A hyperrealistic premium product photography scene of a smooth beige cosmetic jar labeled “Collagen\" Pomegranate & Collagen Volume Lifting Cream” exploding open mid-air, with the metallic rose-gold lid floating slightly above the jar and a thick, whipped, pale pink cream bursting upward in a dramatic splash, glossy and textured with visible red pomegranate seeds, surrounded by suspended whole red pomegranates and halved pomegranates with glistening ruby-red arils, golden liquid droplets and creamy splashes frozen in motion around the jar, the container tilted slightly to the right and centered in frame, shot from a straight-on macro perspective, illuminated by soft yet high-contrast studio lighting from above and slightly behind to create glowing highlights on the wet textures and translucent splashes, subtle shadows beneath the floating elements, a smooth warm beige gradient background enhancing the color palette of soft pinks, creams, and deep red fruit tones, ultra-sharp focus on the jar and cream with shallow depth of field for the outer fruit, cinematic realism, luxury skincare advertising aesthetic, crisp reflections, 8K photorealistic detail, energetic and fresh mood.\"",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2018191168451043584/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2018191168451043584",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "165a1664-51c4-468c-ab02-37dcce2a874d",
+    "prompt": "Low angle luxury product photography of a black ribbed glass perfume bottle placed on a dark horizontal podium, shot from below for a heroic, monumental feel. The bottle is Tom Ford Black Orchid, matte black texture clearly visible.\nDramatic low key studio lighting. Soft diffused key light from above and slightly left, gently lighting the label and top, revealing volume and texture. Strong hard red rim light from behind and right, creating a bold red outline along the edge and cap, with a subtle red glow bleeding into the background.\nDeep soft shadows with smooth falloff. Slightly underexposed for drama. High contrast between highlights and shadows while keeping transitions soft.\nColor palette limited to deep black and rich burgundy red, warm color balance, black remains neutral and clean.\nMatte surface shows soft red reflections, not glossy, giving depth and form.\nMinimal background, dark red gradient, cinematic mood, luxury fragrance advertising style, photorealistic, ultra high detail, studio quality.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2018312144358703594/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Harboriis",
+      "author_url": "https://x.com/harboriis",
+      "license": "MIT",
+      "original_id": "2018312144358703594",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "1f79d931-d24e-47c2-a8d3-7d0ac69a3aeb",
+    "prompt": "{\n  \"master_prompt\": {\n    \"product\": {\n      \"type\": \"luxury perfume bottle\",\n      \"brand_name\": \"NOIR ÉLIXIR\",\n      \"fragrance_line\": \"Crimson Reserve\",\n      \"container_shape\": \"faceted geometric crystal bottle with sharp elegant edges\",\n      \"material\": \"high-clarity glass with deep ruby gradient tint\",\n      \"finish\": \"polished reflective surfaces with subtle matte facets\",\n      \"cap_design\": \"magnetic cap in brushed rose-gold metal with engraved emblem\",\n      \"label_style\": \"minimal serif typography etched directly into glass with metallic inlay\",\n      \"liquid_color\": \"rich crimson red with glowing ruby undertones\"\n    },\n    \"composition\": {\n      \"scene_type\": \"ultra-cinematic luxury fragrance advertising photography\",\n      \"orientation\": \"vertical\",\n      \"aspect_ratio\": \"4:5\",\n      \"camera_angle\": \"dramatic diagonal hero angle\",\n      \"subject_position\": \"floating mid-air with slight forward tilt\",\n      \"motion\": \"atomized perfume mist trails and fluid fragrance ribbons suspended in motion\"\n    },\n    \"environment\": {\n      \"background\": \"deep black velvet gradient fading into shadow\",\n      \"atmosphere\": \"volumetric mist with delicate fragrance vapor swirling around the bottle\",\n      \"floating_elements\": [\n        \"atomized perfume droplets suspended mid-air\",\n        \"shattering crystal fragments catching highlights\",\n        \"dark red rose petals drifting slowly\",\n        \"glossy blood-orange peel curls\",\n        \"fine rose-gold dust particles sparkling in light\"\n      ],\n      \"surface_effects\": \"micro condensation beads and polished reflections enhancing realism\"\n    },\n    \"lighting\": {\n      \"style\": \"dramatic low-key studio lighting\",\n      \"key_light\": \"soft directional light sculpting the glass facets\",\n      \"rim_lights\": \"strong rim lights outlining silhouette and edges\",\n      \"accent_lights\": \"warm ruby and rose-gold specular highlights on cap and engraved details\",\n      \"shadow_depth\": \"deep cinematic shadows for luxury mood\",\n      \"contrast\": \"high contrast with controlled reflections and luminous highlights\"\n    },\n    \"color_palette\": {\n      \"primary_colors\": [\"obsidian black\", \"deep garnet\", \"ruby red\"],\n      \"accent_colors\": [\"rose gold\", \"warm champagne glow\"]\n    },\n    \"camera_settings\": {\n      \"lens\": \"macro cinema prime lens\",\n      \"depth_of_field\": \"shallow depth isolating product from background\",\n      \"focus_point\": \"engraved logo and glass surface textures\",\n      \"bokeh\": \"smooth cinematic bokeh from reflective particles\",\n      \"detail_capture\": \"extreme micro-detail clarity\"\n    },\n    \"render_quality\": {\n      \"resolution\": \"8K ultra high definition\",\n      \"render_style\": \"hyper-realistic luxury commercial render\",\n      \"glass_physics\": \"accurate refraction and internal reflections\",\n      \"liquid_simulation\": \"physically accurate fluid dynamics\",\n      \"textures\": \"ultra-detailed crystal, metal, mist, and micro-droplet textures\",\n      \"sharpness\": \"tack sharp product focus with cinematic background softness\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n    \"mood\": {\n      \"tone\": \"seductive, passionate, and ultra-premium\",\n      \"emotion\": \"luxury, desire, elegance, timeless sophistication\"\n    },\n    \"final_output\": {\n      \"usage\": \"high-end perfume campaign and luxury magazine advertising\",\n      \"branding_focus\": \"hero product dominance with strong brand prestige\",\n      \"visual_style\": \"cinematic fragrance commercial aesthetic\"\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2024420826016338208/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Johnn",
+      "author_url": "https://x.com/john_my07",
+      "license": "MIT",
+      "original_id": "2024420826016338208",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "6885cdfc-83c3-4e7c-a82d-f435d68811dd",
+    "prompt": "Surreal premium commercial illustration for [BRAND NAME] [OIL TYPE], featuring the product bottle embedded into a massive natural landscape made entirely from the core ingredient. The ingredient appears at the top source, flowing as a natural element into the bottle, then transforming into waterfalls, rivers, or pools below. The environment, terrain, vegetation, textures, and color palette are all inspired by [PRIMARY INGREDIENT]. Small human figures interact naturally with the environment to emphasize scale. Cinematic lighting, soft painterly realism, ultra-detailed textures, fantasy-meets-nature aesthetic, vertical poster composition, 8K ultra-high resolution.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008878369107276184/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2008878369107276184",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-07T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "213ad9e3-4ff2-475c-ae08-699ad9f67bea",
+    "prompt": "{\n  \"master_prompt\": {\n    \"product\": {\n      \"type\": \"luxury body deodorant\",\n      \"brand_name\": \"VELORÉ\",\n      \"product_line\": \"Pure Aura\",\n      \"container_style\": \"sleek cylindrical deodorant stick with softly rounded edges\",\n      \"material\": \"frosted glass body with brushed champagne-gold metal accents\",\n      \"finish\": \"velvety matte surface with refined metallic detailing\",\n      \"cap_design\": \"magnetic cap with polished gold rim and engraved crest\",\n      \"branding\": \"minimal serif logo etched vertically with understated elegance\",\n      \"dispense_style\": \"precision twist-up deodorant balm with smooth surface finish\",\n      \"color\": \"warm ivory body with subtle golden undertones\",\n      \"accent_details\": \"champagne gold band and minimal crest emblem\",\n      \"texture_details\": \"soft satin deodorant balm surface visible at top\"\n    },\n\n    \"composition\": {\n      \"scene_type\": \"ultra-cinematic luxury personal care advertising photography\",\n      \"orientation\": \"vertical\",\n      \"aspect_ratio\": \"4:5\",\n      \"camera_angle\": \"low hero angle emphasizing elegance and premium form\",\n      \"subject_position\": \"deodorant standing upright on reflective surface\",\n      \"motion\": \"fine mist spray particles suspended mid-air for freshness effect\"\n    },\n\n    \"environment\": {\n      \"background\": \"soft warm marble gradient fading into shadow\",\n      \"atmosphere\": \"light spa mist creating a serene premium ambiance\",\n      \"floating_elements\": [\n        \"delicate mist particles suspended in air\",\n        \"white orchid petals drifting gently\",\n        \"tiny golden light particles shimmering softly\",\n        \"fresh eucalyptus leaves floating nearby\",\n        \"soft vapor trails suggesting freshness\"\n      ],\n      \"surface_effects\": \"glossy reflections with micro condensation droplets enhancing freshness\"\n    },\n\n    \"lighting\": {\n      \"style\": \"soft spa-inspired studio lighting\",\n      \"key_light\": \"diffused overhead light revealing frosted texture\",\n      \"rim_lights\": \"subtle warm highlights outlining silhouette\",\n      \"accent_lights\": \"soft golden glow enhancing luxury appeal\",\n      \"shadow_depth\": \"gentle shadows for calm elegance\",\n      \"contrast\": \"balanced contrast with luminous clean highlights\"\n    },\n\n    \"color_palette\": {\n      \"primary_colors\": [\"warm ivory\", \"soft cream\", \"clean white\"],\n      \"accent_colors\": [\"champagne gold\", \"botanical green\"]\n    },\n\n    \"camera_settings\": {\n      \"lens\": \"macro cinema lens\",\n      \"depth_of_field\": \"shallow depth isolating product\",\n      \"focus_point\": \"engraved logo and frosted glass texture\",\n      \"bokeh\": \"soft luminous bokeh from mist particles\",\n      \"detail_capture\": \"extreme micro-detail clarity\"\n    },\n\n    \"render_quality\": {\n      \"resolution\": \"8K ultra high definition\",\n      \"render_style\": \"hyper-realistic luxury personal care commercial render\",\n      \"material_physics\": \"accurate frosted glass translucency and metallic reflections\",\n      \"particle_simulation\": \"physically accurate mist and condensation droplets\",\n      \"textures\": \"ultra-detailed frosted glass, metallic accents, and balm surface\",\n      \"sharpness\": \"tack sharp product focus with soft cinematic background\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n\n    \"mood\": {\n      \"tone\": \"pure, refined, and ultra-premium\",\n      \"emotion\": \"freshness, confidence, and indulgent self-care luxury\"\n    },\n\n    \"final_output\": {\n      \"usage\": \"luxury personal care campaign and premium wellness advertising\",\n      \"branding_focus\": \"hero product freshness with elite wellness appeal\",\n      \"visual_style\": \"cinematic luxury spa aesthetic\"\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2025391098437529837/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2025391098437529837",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "50ff6f92-0932-47f2-a5db-1d542e29ef4e",
+    "prompt": "{\n  \"master_prompt\": {\n    \"scene_type\": \"high-speed commercial beverage photography\",\n    \"product\": {\n      \"type\": \"sleek frosted glass bottle filled with sparkling citrus tonic\",\n      \"brand_name\": \"AURELIA FIZZ\",\n      \"label_design\": \"minimalist vertical ivory label with refined gold serif typography\",\n      \"liquid_color\": \"translucent golden citrus with effervescent bubbles\"\n    },\n    \"composition\": {\n      \"action\": \"dynamic high-velocity liquid splash explosion\",\n      \"surrounding_elements\": [\n        \"sculptural splashes of sparkling tonic water\",\n        \"spiraling ribbons of fresh lemon and orange zest\",\n        \"floating citrus slices with visible pulp texture\",\n        \"tiny suspended carbonation bubbles\",\n        \"mist of fine droplets catching the light\"\n      ],\n      \"placement\": \"centered hero bottle with a crisp reflection on a polished marble surface\"\n    },\n    \"lighting\": {\n      \"style\": \"luxury glossy studio product lighting\",\n      \"effects\": [\n        \"sharp rim lighting to define bottle silhouette\",\n        \"brilliant highlights on splashes and bubbles\",\n        \"soft golden glow in the background for warmth\"\n      ]\n    },\n    \"color_palette\": {\n      \"background\": \"sunlit gradient of warm gold fading into soft champagne beige\",\n      \"accents\": \"citrus yellow, fresh orange, and subtle mint green\"\n    },\n    \"technical_specs\": {\n      \"camera\": \"macro lens, eye-level angle\",\n      \"shutter\": \"ultra-fast freeze-motion capture\",\n      \"depth_of_field\": \"shallow focus on the label, gentle blur on dynamic splash elements\",\n      \"quality\": \"8K resolution, ultra-photorealistic texture\"\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2027421733666586809/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Jack",
+      "author_url": "https://x.com/j_smeaton99",
+      "license": "MIT",
+      "original_id": "2027421733666586809",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d7a431bc-55ac-46f7-a3e5-edfd2d8632c4",
+    "prompt": "A bitten realistic classic [brand] product on the dish, revealed inner dessert layers, and there are cake crumbs near, finished fork and knife near by, against blurry high end restaurant background, white small logo on top of background, beneath the logo, there is a tiny brand slogan that suit this scene.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2003072041889800346/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Howard Chen ✦",
+      "author_url": "https://x.com/hc_dsn",
+      "license": "MIT",
+      "original_id": "2003072041889800346",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "677f67d2-78df-4307-ad1b-7833243cffd3",
+    "prompt": "Hyper-realistic cinematic product photograph of a Pepsi Black can, front-facing and perfectly legible, ice-cold surface covered in crisp condensation. Dark cola splashes explode around the can in frozen motion, glossy liquid waves and fine droplets catching the light. Moody low-key lighting with cool blue rim light and soft front fill, shallow depth of field, ultra-sharp texture detail, high-end advertising aesthetic.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2020531946108158457/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2020531946108158457",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-08T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d122d60a-2a25-4306-a2d5-b5e4f3ecc49b",
+    "prompt": "Create a premium brand kit board for [BRAND NAME], presented like a professional branding studio slide. Show the existing brand identity in a clean, organized visual presentation. Include primary logo, secondary logo, icon, [COLOR PALETTE], typography pairing, branded packaging or product mockups, social media mockup, and simple brand pattern elements. Style: [STYLE]. Use a clean editorial grid, realistic materials, strong hierarchy, and polished presentation. Text to include: \"[BRAND NAME]",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047375056125428013/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "MayorkingAI",
+      "author_url": "https://x.com/MayorKingAI",
+      "license": "MIT",
+      "original_id": "2047375056125428013",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "bcaf0863-f448-4ccd-aa46-981e23274880",
+    "prompt": "Luxury perfume product photography in a dark cinematic studio. A premium black matte perfume box with sharp edges and subtle gold accents placed slightly behind a transparent glass perfume bottle filled with warm amber liquid. The bottle has a thick clear glass body and a polished metallic cap. Minimal elegant label design with gold typography. Soft low key lighting with a smooth gradient dark background. Gentle reflections on a glossy surface beneath the products. Dramatic shadows for depth and contrast. High fashion fragrance advertisement style. Ultra realistic textures crisp focus shallow depth of field professional studio shot 8k quality.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2019001339985133694/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Harboriis",
+      "author_url": "https://x.com/harboriis",
+      "license": "MIT",
+      "original_id": "2019001339985133694",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "bfeeeb82-b6ae-4e3f-a484-9f739fefeb84",
+    "prompt": "{\n  \"master_prompt\": {\n    \"scene_type\": \"ultra-realistic luxury perfume commercial photography\",\n\n    \"product\": {\n      \"type\": \"luxury perfume bottle\",\n      \"brand_name\": \"VÉRÉLLE NOIR\",\n      \"product_name\": \"Nocturne Élixir — Parfum Intense\",\n      \"container_shape\": \"faceted architectural silhouette with sharp beveled geometry\",\n      \"material\": \"obsidian-black crystal glass\",\n      \"finish\": \"deep glossy translucence with mirror-like reflections\",\n      \"cap_design\": \"magnetic cap in brushed black titanium with precision-cut edges\",\n\n      \"label_design\": {\n        \"style\": \"minimal haute couture typography\",\n        \"primary_text\": \"Nocturne Élixir\",\n        \"secondary_text\": \"Parfum Intense\",\n        \"finish\": \"black chrome foil emboss with micro-engraved detailing\"\n      },\n\n      \"liquid_color\": \"midnight amber with subtle smoky undertones\"\n    },\n\n    \"composition\": {\n      \"placement\": \"center hero placement\",\n      \"pedestal\": \"black marble pedestal with subtle silver veining\",\n      \"base_surface\": \"high-gloss reflective onyx surface\",\n\n      \"surrounding_elements\": [\n        \"black velvet fabric folds\",\n        \"dark rose petals\",\n        \"polished obsidian stones\",\n        \"faint aromatic smoke wisps\"\n      ],\n\n      \"atmospheric_effect\": \"soft drifting fragrance vapor creating a mysterious aura\"\n    },\n\n    \"lighting\": {\n      \"style\": \"dark luxury cinematic lighting\",\n      \"key_light\": \"soft focused glow revealing reflective contours\",\n      \"rim_light\": \"cool silver edge highlights defining silhouette\",\n      \"fill_light\": \"low ambient fill preserving deep shadows\",\n      \"reflections\": \"controlled specular highlights for high-end finish\"\n    },\n\n    \"background\": {\n      \"color\": \"deep charcoal to black gradient\",\n      \"style\": \"editorial noir luxury backdrop\",\n      \"depth\": \"cinematic shallow depth with soft shadow falloff\"\n    },\n\n    \"camera\": {\n      \"angle\": \"low dramatic hero angle\",\n      \"focus\": \"glass texture and metallic detailing\",\n      \"depth_of_field\": \"cinematic shallow depth\",\n      \"resolution\": \"8K ultra-detailed clarity\"\n    },\n\n    \"mood_keywords\": [\n      \"dark elegance\",\n      \"noir luxury\",\n      \"sensual sophistication\",\n      \"mysterious allure\",\n      \"modern opulence\",\n      \"timeless night glamour\"\n    ]\n  }\n}",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2026649286772179445/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Jack",
+      "author_url": "https://x.com/j_smeaton99",
+      "license": "MIT",
+      "original_id": "2026649286772179445",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b69ff540-eea7-4133-a9f9-0a1169d06571",
+    "prompt": "{\n  \"master_prompt\": {\n    \"product\": {\n      \"type\": \"luxury perfume bottle\",\n      \"brand_name\": \"NOIR ÉLIXIR\",\n      \"fragrance_line\": \"Midnight Reserve\",\n      \"container_shape\": \"faceted geometric crystal bottle with sharp elegant edges\",\n      \"material\": \"high-clarity glass with deep smoked black gradient tint\",\n      \"finish\": \"polished reflective surfaces with subtle matte facets\",\n      \"cap_design\": \"magnetic cap in brushed gold metal with engraved emblem\",\n      \"label_style\": \"minimal serif typography etched directly into glass with gold inlay\",\n      \"liquid_color\": \"dark amber with subtle golden undertones\"\n    },\n    \"composition\": {\n      \"scene_type\": \"ultra-cinematic luxury fragrance advertising photography\",\n      \"orientation\": \"vertical\",\n      \"aspect_ratio\": \"4:5\",\n      \"camera_angle\": \"dramatic diagonal hero angle\",\n      \"subject_position\": \"floating mid-air with slight forward tilt\",\n      \"motion\": \"atomized perfume mist trails and fluid fragrance ribbons suspended in motion\"\n    },\n    \"environment\": {\n      \"background\": \"deep black velvet gradient fading into shadow\",\n      \"atmosphere\": \"volumetric mist with delicate fragrance vapor swirling around the bottle\",\n      \"floating_elements\": [\n        \"atomized perfume droplets suspended mid-air\",\n        \"shattered crystal glass fragments catching highlights\",\n        \"dark orchid petals drifting slowly\",\n        \"glossy black citrus peel curls\",\n        \"fine gold dust particles sparkling in light\"\n      ],\n      \"surface_effects\": \"micro condensation beads and polished reflections enhancing realism\"\n    },\n    \"lighting\": {\n      \"style\": \"dramatic low-key studio lighting\",\n      \"key_light\": \"soft directional light sculpting the glass facets\",\n      \"rim_lights\": \"strong rim lights outlining silhouette and edges\",\n      \"accent_lights\": \"gold-toned specular highlights on cap and engraved details\",\n      \"shadow_depth\": \"deep cinematic shadows for luxury mood\",\n      \"contrast\": \"high contrast with controlled reflections and luminous highlights\"\n    },\n    \"color_palette\": {\n      \"primary_colors\": [\"obsidian black\", \"smoked charcoal\", \"deep amber\"],\n      \"accent_colors\": [\"metallic gold\", \"warm champagne glow\"]\n    },\n    \"camera_settings\": {\n      \"lens\": \"macro cinema prime lens\",\n      \"depth_of_field\": \"shallow depth isolating product from background\",\n      \"focus_point\": \"engraved logo and glass surface textures\",\n      \"bokeh\": \"smooth cinematic bokeh from reflective particles\",\n      \"detail_capture\": \"extreme micro-detail clarity\"\n    },\n    \"render_quality\": {\n      \"resolution\": \"8K ultra high definition\",\n      \"render_style\": \"hyper-realistic luxury commercial render\",\n      \"glass_physics\": \"accurate refraction and internal reflections\",\n      \"liquid_simulation\": \"physically accurate fluid dynamics\",\n      \"textures\": \"ultra-detailed crystal, metal, mist, and micro-droplet textures\",\n      \"sharpness\": \"tack sharp product focus with cinematic background softness\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n    \"mood\": {\n      \"tone\": \"mysterious, sensual, and ultra-premium\",\n      \"emotion\": \"luxury, seduction, elegance, timeless sophistication\"\n    },\n    \"final_output\": {\n      \"usage\": \"high-end perfume campaign and luxury magazine advertising\",\n      \"branding_focus\": \"hero product dominance with strong brand prestige\",\n      \"visual_style\": \"cinematic fragrance commercial aesthetic\"\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2024104039827578910/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Jack",
+      "author_url": "https://x.com/j_smeaton99",
+      "license": "MIT",
+      "original_id": "2024104039827578910",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-18T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e003f8dc-a4c8-469e-a37a-3ddd09ee3f35",
+    "prompt": "Minimalist commercial ad featuring oversized white smartwatch, ultra-clean design. A young woman in all-white outfit leans casually against the giant watch, relaxed confident pose, eyes closed, also wearing the same smartwatch on her wrist. Soft gradient blue background with large bold white “APPLE” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Stay connected, move smarter.”",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048643867222962518/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Mr Das",
+      "author_url": "https://x.com/MrDasOnX",
+      "license": "MIT",
+      "original_id": "2048643867222962518",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9990b5f3-53f2-478e-ace7-a25bbff47530",
+    "prompt": "Person from the reference image, with a fade haircut, brown eyes, and a well-groomed short beard, wearing a glossy oversized red puffer jacket and loose red pants with white and red nike sneakers, crouching low with one knee up and one leg forward, left arm resting casually over the raised knee and right hand relaxed near the other leg, body angled slightly to the side while head tilts forward looking directly at the camera with a confident expression, ultra wide-angle low perspective shot emphasizing the front sneaker appearing large and dominant in the foreground, set in a fully red environment with smooth floor and backdrop featuring large white nike swoosh logos behind and flowing ribbon-like red shapes around, hyper-realistic photography, extremely sharp details on fabric shine and sneaker texture, dramatic studio lighting with strong highlights and soft shadows, saturated monochromatic red color palette with white accents, modern streetwear campaign style, no blur, no distortion, no extra limbs, no artifacts",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2038433331944292723/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Saul Goodman",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "license": "MIT",
+      "original_id": "2038433331944292723",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-30T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a8f1c063-43f7-40f6-a008-1e2c63ae4cdd",
+    "prompt": "logo completely wrapped in a single layer of elastic plastic or shrink wrap. The shapes of the logo should be visible only through the relief under the film, the logo surfaces themselves are not visible.\n\nBrand Analysis System:\n\nLogo geometry: Determine the full visual brand identifier [ADIDAS ORIGINAL] according to the official catalog: an icon, a text element, or a combination thereof. Keep the exact spatial relationship between the icon and the text.\nColor system: Use one monochrome tone [ADIDAS ORIGINAL] for all elements of the scene — background, film, wrapped object. Variations are achieved only through light and shadow.\nThe nature of the film: Based on the selected color [ADIDAS ORIGINAL], determine the behavior of the material: bright saturated colors create a dense glossy or latex film with visible tension lines; neutral — matte stretch film; dark - translucent vacuum film; light — matte food film.\n\nStage 1: Stage and Surface\n\nThe whole scene is monochromatic, the [ADIDAS ORIGINAL] color covers every surface without exception.\nThe background is made of the same film material, which is freely assembled and crumpled around the logo. Natural tension lines are created, the folds diverge from the peaks of the relief.\nThere are no floor lines, walls, or horizons — the stage is completely immersed in a solid plastic material.\n\nStage 2: Applying the logo\n\nEach element of the logo is voluminous, rounded, like a balloon, with visual depth.\nThe logo is fixed on the background and is completely covered with a single layer of film, tightly stretched over the tops of the elements, creating visible tension lines.\nFree folds are formed in the hollows between the letters, geometric elements of the icon and around the perimeter of the logo.\nThe logo remains fully readable, the icon is recognizable, but not a single surface of the logo itself is visible.\nThe physics of the film is precise: tight tension at high points, diverging stress lines, small raised areas between elements, shadows in the gaps.\n\nStage 3: Lighting\n\nThe main light source is soft, diffused, from the top left, emphasizing the relief of the film.\nFor glossy films, there are subtle highlights along the stretched areas, for matte films, there is only diffused light.\nGlobal lighting preserves details in deep folds without smoothing out the overall relief.\n\nTechnical specifications\n\nOnly the [ADIDAS ORIGINAL] color, variations through light and shadow.\nThere are no exposed logo surfaces and unnecessary text.\nThe film is realistic: the tension, the folds, the physics of plastic, not fabric.\nThe film grain corresponds to ISO 400.\nMood: the product is packed and ready for opening, the shape is known, but not yet touched.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2040963305901273505/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2040963305901273505",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-06T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c6ebdefd-77c1-4240-a438-ec47eb3f3a88",
+    "prompt": "{\n\"master_prompt\": {\n\"scene_type\": \"ultra-realistic luxury skincare commercial photography\",\n\n\"product\": {  \n  \"type\": \"premium beauty elixir vial\",  \n  \"brand_name\": \"VÉRÉLLE\",  \n  \"product_name\": \"Lumière Nectar — Youth Infusions\",  \n  \"container_shape\": \"tall faceted crystal vial with elegant vertical geometry\",  \n  \"material\": \"optical crystal glass\",  \n  \"finish\": \"prismatic clarity with soft light dispersion\",  \n  \"cap_design\": \"brushed champagne-gold cap with beveled edge\",  \n\n  \"label_design\": {  \n    \"style\": \"Parisian luxury serif typography\",  \n    \"primary_text\": \"Lumière Nectar\",  \n    \"secondary_text\": \"Youth Infusions\",  \n    \"finish\": \"champagne foil emboss with micro-engraved detailing\"  \n  },  \n\n  \"liquid_color\": \"soft golden nectar with luminous micro-pearl shimmer\"  \n},  \n\n\"composition\": {  \n  \"placement\": \"center hero placement\",  \n  \"pedestal\": \"ivory marble pedestal with subtle gold veining\",  \n  \"base_surface\": \"polished reflective stone surface\",  \n\n  \"surrounding_elements\": [  \n    \"white orchid petals\",  \n    \"golden honey droplets\",  \n    \"chamomile blossoms\",  \n    \"glass dew spheres\"  \n  ],  \n\n  \"liquid_effect\": \"soft golden mist swirl behind the vial\"  \n},  \n\n\"lighting\": {  \n  \"style\": \"high-end beauty studio lighting\",  \n  \"key_light\": \"soft frontal glow for glass clarity\",  \n  \"rim_light\": \"warm rim highlights enhancing crystal edges\",  \n  \"fill_light\": \"luxury soft diffusion\",  \n  \"reflections\": \"controlled highlights for premium finish\"  \n},  \n\n\"background\": {  \n  \"color\": \"warm ivory to champagne gradient\",  \n  \"style\": \"clean editorial luxury backdrop\",  \n  \"depth\": \"cinematic shallow depth with elegant falloff\"  \n},  \n\n\"camera\": {  \n  \"angle\": \"slightly low hero angle\",  \n  \"focus\": \"crystal edges and typography\",  \n  \"depth_of_field\": \"cinematic shallow depth\",  \n  \"resolution\": \"8K ultra-detailed clarity\"  \n},  \n\n\"mood_keywords\": [  \n  \"Parisian luxury\",  \n  \"timeless beauty\",  \n  \"radiant skin\",  \n  \"elegant purity\",  \n  \"premium skincare campaign\",  \n  \"refined sophistication\"  \n]\n\n}\n}",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2026285999660397026/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2026285999660397026",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "1d327c1d-6f11-49e6-abb8-0332600cd322",
+    "prompt": "High-impact e-commerce infographic for \"Apple Pods Pro 3\" \npremium wireless over-ear headphones.\n\nFOREGROUND - PRODUCT HERO SHOT\nExtreme close-up of a hand holding a sleek, \nmatte-white premium over-ear headphone toward the camera \nat a slight angle. The headphone features:\n- Glossy white ear cushions with soft memory foam padding\n- Brushed aluminum silver headband with subtle Apple Pods \n  Pro 3 embossed branding\n- Black mesh speaker grille visible on the ear cup face\n- A tiny glowing green LED status indicator on the \n  right ear cup edge\n- Subtle touch-control icons etched on the outer cup surface\n\nMacro-lens shallow depth of field — hand and headphone \nslightly blurred at edges to create cinematic depth. \nProduct remains razor-sharp in center frame.\n\nCENTRAL SUBJECT — MODEL\nIn the mid-ground: a smiling young woman with freckles \nand wavy pastel-pink hair. She wears:\n- A vibrant lime-green knit beanie\n- A psychedelic black and white-striped long-sleeve shirt\n- The white over-ear headphones resting stylishly \n  around her neck (not on ears) — one hand casually \n  touching the ear cup\n\nExpression: relaxed, confident, joyful. \nShe is glancing slightly off-camera with a natural smile.\n\nBACKGROUND & ATMOSPHERE\nClean soft-focus studio backdrop — light gray gradient \nfading to warm white at center. \n\nAtmospheric overlays:\n- Diagonal rainbow prism lens flares cutting across \n  upper-left to lower-right\n- Soft pastel light leaks in pink and yellow at corners\n- 4–5 blurred white over-ear headphones floating \n  artistically in the background at various depths \n  and rotation angles\n- Subtle bokeh circles from background studio lights\n\nLighting: Soft professional three-point studio lighting. \nKey light from upper-left, fill light right side. \nRim light behind model for separation. \nGlossy highlights on headphone surfaces catching light naturally.\n\nTYPOGRAPHY & LAYOUT — Sans-Serif, Clean white \nTOP CENTER (behind model, large background text):\n→ Massive bold oversized text: \"HEADPHONES\"\n   Semi-transparent white, spanning full width behind subject\n\nTOP RIGHT CORNER:\n→ Bold clean text: \"Apple Pods Pro 3\"\n   Subtitle smaller text: \"Over-Ear Wireless\"\n\nMID LEFT:\n→ Icon: small sound wave symbol\n→ Bold text: \"Premium Sound\"\n→ Sub-text: \"Active Noise Cancellation + Transparency Mode\"\n\nMID RIGHT:\n→ Extra-large bold numeral: \"40\"\n→ Smaller text below: \"hours of battery life\"\n\nLOWER LEFT:\n→ Extra-large bold numeral: \"0\"\n   with \"to\" beside it → then bold \"100%\"\n→ Sub-text: \"Fast charge — 10 min = 3hrs playback\"\n\nBOTTOM RIGHT:\n→ Extra-large bold numeral: \"1\"\n→ Sub-text: \"Year Warranty Included\"\n\nBOTTOM CENTER (fine print style):\n→ Small elegant text: \n   \"Bluetooth 5.4  |  Hi-Res Audio Certified  \n    |  Foldable Design  |  USB-C Charging\"\n\nTECHNICAL SPECS\nResolution: 8K ultra-sharp\nStyle: Commercial product photography meets \n       editorial fashion advertising\nColor Palette: White, lime green, pastel pink, \n               rainbow prism accents\nFocus: Tack-sharp on headphone product — \n       shallow DOF on everything else\nLens: 85mm macro, slight low angle\nRender Quality: Hyperrealistic, clean ad aesthetic, \n                vibrant yet professional color grading",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047935217231663186/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2047935217231663186",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "18eb6e02-c169-4075-a810-901b9aec445e",
+    "prompt": "Create a high-impact 9:16 vertical e-commerce infographic for Bolt True Wireless Earbuds with a premium lifestyle advertising aesthetic.\nComposition & Framing\nFull-body shot of a young woman (match face and identity exactly to the provided reference image — accurate facial features, skin tone, hairstyle)\nCamera angle slightly low and close (fashion campaign perspective) to add depth and presence\nThe subject is sitting casually on the floor, one knee raised, one leg extended forward toward the camera\nForeground (Product Focus)\nThe woman is holding an open Bolt earbud charging case toward the camera\nInside the case: one earbud visible\nThe second earbud is worn in her ear\nCase should be glossy white with subtle branding (“BOLT”)\nAdd slight macro depth-of-field blur on the hand and case for cinematic realism\nSubject Styling\nOutfit: modern sporty streetwear\nlightweight jacket (off-white / neutral tone)\ncrop top or sports bra\nloose joggers (light pink or soft color)\nwhite sneakers with visible texture\nExpression: confident, relaxed, slight smile\nPose: natural, lifestyle-oriented — not stiff or overly posed\nBackground & Atmosphere\nClean studio background with soft gray gradient\nAdd:\nrainbow prism lens flares\nsubtle light leaks\nfloating blurred earbuds and charging case in background\nGround surface slightly textured (studio floor look)\nLighting\nSoft, diffused commercial lighting\nHighlight:\nskin texture\nglossy earbud case\nfabric details\nSubtle rim lighting for separation from background\nTypography Layout (Modern Sans-Serif, White)\nTop Center (Behind Model):\nBOLD HUGE TEXT:\n“BOLT” (partially hidden behind subject)\nTop Right:\nBolt Earbuds\nTrue Wireless\nMid Left:\nPowerful sound.\nEffortless vibes.\nEngineered for every beat of your day.\nMid Right:\nBIG: 30\nsmall: hours of playtime\nBelow that:\nBIG: IPX5\nsmall: water resistant\nBottom Right:\nBIG: 1\nsmall: year warranty\nStyle & Quality\n8K ultra-realistic commercial photography\nSharp focus on face + earbuds\nSlight depth blur for foreground and background elements\nClean Apple/Nike-style premium ad aesthetic\nBalanced composition with strong negative space",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048641686994407474/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Johnn",
+      "author_url": "https://x.com/john_my07",
+      "license": "MIT",
+      "original_id": "2048641686994407474",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "1938acf0-ecc8-4b87-a0f9-863157b93f0d",
+    "prompt": "[product], luxury packaging reveal scene, premium unboxing moment, pristine hands partially visible at the edges, delicate interaction with the packaging, lid slightly lifted to reveal the product inside, crisp folds and precise alignment, tactile materials [ ex: matte paper, soft touch coating, embossed details, foil accents], subtle micro texture and dust free finish, clean white background, soft diffused studio lighting, controlled specular highlights, realistic shadows, macro product photography look, shallow depth of field with sharp focus on the product and branding area, high end editorial commercial style, ultra realistic, 4k, 1:1, no watermark, no extra text",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2011729859572351448/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2011729859572351448",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-15T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "6ccfdac6-b1eb-49d0-abe3-100a34624905",
+    "prompt": "[BRAND NAME] | [COLOR]\n\nABSOLUTE RULE — READ BEFORE GENERATING ANYTHING: The fluid mass in this image has the exact shape of the [BRAND NAME] logo and nothing else. Not a circle. Not an oval. Not a blob. Not a rounded shape with the logo inside it. The outer silhouette of the fluid IS the logo outline — identical to the canonical [BRAND NAME] logo trademark. If someone covers the bubble texture and looks only at the silhouette they must immediately recognize it as the [BRAND NAME] logo. The fluid does not flow into a circle. The fluid does not form a blob. The fluid is constrained to the exact logo shape. This is the single most important rule in this prompt — it overrides everything else. Act as a Macro Fluid Photographer and CGI Art Director creating a hero typographic image where the brand logo is formed entirely from living fluorescent foam and bubble liquid — as if the logo was poured into a logo-shaped mold on a black surface and captured at the exact moment of maximum bubble activity. References: macro fluid photography, fluorescent paint foam art, soap bubble macro photography. --- PHASE 0: BRAND LOGO INTELLIGENCE — GEOMETRY IS LAW Retrieve the 100% canonical trademark-accurate primary mark of [BRAND NAME]. Use only the core logo symbol or emblem. STEP 1 — ESTABLISH EXACT SILHOUETTE: reconstruct the precise canonical [BRAND NAME] logo silhouette — every curve, every angle, every proportion exactly as trademarked. Draw this silhouette in your mind as a flat solid shape. This is the mold. It is rigid. It does not change shape. STEP 2 — FLUID FILLS THE MOLD: the fluid foam fills the interior of this rigid mold. The outer boundary of the fluid mass IS the logo outline — precise, hard, clean. Think of it as the logo shape cut from foam rubber and placed on a black surface. The fluid is solid where the logo is solid. The fluid is absent where the logo has designed empty space — those gaps show pure black background. STEP 3 — NO CONTAINER: there is no circle, no oval, no badge, no rounded rectangle, no frame around the logo. The logo floats directly on the black background. Its edges are the logo edges — nothing more. STEP 4 — ORIENTATION LOCKED: correct canonical upright orientation exactly as in official brand materials. Not rotated, not flipped, not mirrored, not tilted. STEP 5 — ZERO FLUID OUTSIDE BOUNDARY: the logo silhouette is an absolute hard boundary. Zero fluid, zero bubbles, zero tendrils, zero droplets outside this boundary. The black background begins exactly where the logo outline ends. STEP 6 — GEOMETRY WINS ALWAYS: wherever fluid simulation physics conflict with exact logo geometry — the logo geometry wins. Always. Apply [COLOR] as the fluid foam color throughout — in its most saturated fluorescent version. --- PHASE 1: FLUID MATERIAL SYSTEM — CRITICAL The entire logo form is filled with a single continuous viscous fluid existing in two physical states simultaneously. The fluid is NOT water — thick, viscous, surface-tension-dominant, like fluorescent soap foam, acrylic paint with trapped air, or colored slime. Base color: [COLOR] at maximum fluorescent saturation — self-luminous quality as if internally lit, consistent with UV-reactive fluorescent paint. Tonal variation strictly within [COLOR] family: thin bubble membrane walls — 35 to 45% lighter than base [COLOR], approaching near-transparency. Mid-thickness fluid zones — pure saturated [COLOR]. Deep thick liquid pools — 25 to 35% darker than base [COLOR]. Fluid surface in liquid zone: high gloss, wet, shiny, visible broad specular reflection. Foam zone membranes: lower gloss, slight soap film iridescence. --- PHASE 2: BUBBLE ARCHITECTURE SYSTEM Full bubble size hierarchy present across the foam zone only. Large anchor bubbles — 10 to 18mm diameter, 4 to 8 present. Medium bubbles — 4 to 9mm, 15 to 25 present. Small bubbles — 1.5 to 3mm, 30 to 50 present. Micro bubbles — 0.5 to 1mm, 50 to 100+ present. Each bubble: physically accurate sphere of trapped air enclosed by thin colored fluid membrane, 0.1 to 0.3mm thick, semi-transparent. Soap film iridescence barely perceptible. Bubble dome highlight: bright white crescent arc in UPPER-LEFT portion of each dome — 15 to 20% of dome surface, soft-edged, white regardless of bubble color. Inside large bubbles: dark reflection with [COLOR] tint confirming membrane transparency. Bubble contact deformation: flat septum membranes at contact points. Burst bubble holes: 3 to 8 irregular dark voids within foam zone only — revealing black background. Never at or near the logo boundary edges. --- PHASE 3: DUAL-STATE CONTRAST — CRITICAL Left zone — foam state: dense chaotic foam with full bubble hierarchy strictly within the logo silhouette. All bubble activity stays inside the logo boundary — never at or beyond the edge. Right zone — liquid state: solid continuous smooth mass — bubbles completely absent, maximum 2 to 3 micro-bubbles at transition edge only. Smooth viscous pool: gentle surface tension undulation 0.5 to 1mm, high gloss, broad soft specular highlight toward upper-left. Dense, heavy, pooled. Transition zone: gradual 8 to 15mm wide transition through vertical center — large bubbles disappear, fluid surface becomes smooth, last bubbles partially collapsed with sagging membranes dissolving into liquid surface. Edge behavior: both the foam side and the liquid side terminate exactly at the canonical logo outline. The logo boundary is geometric and exact on all sides. Clean edge. No organic ragged outer silhouette. The logo shape is always recognizable from the outer boundary alone. NO SPLATTER — ABSOLUTE: zero droplets, zero spray, zero tendrils, zero extensions beyond logo boundary. The composition is completely calm and contained. --- PHASE 4: LIGHTING — MATCH REFERENCE EXACTLY Primary light: large softbox upper-LEFT at 20 to 30° offset from vertical — NOT directly overhead. Light from above AND left simultaneously. Temperature 5500K neutral white. Left side and upper-left surfaces brighter. Right side relatively darker. Every bubble dome highlight arc in UPPER-LEFT. Liquid zone broad specular reflection toward upper-left. Micro-shadows from bubbles fall lower-right, 0.5 to 1mm, barely visible. Secondary ambient: 8 to 10% cool ambient from above. No fill from right. No rim light. No colored light. --- PHASE 5: COMPOSITION & CAMERA Background: absolute black #000000 — perfectly clean, zero texture, zero noise, zero gradient. Pure void. Aspect ratio: 1:1 square. Logo form occupies 60 to 70% of frame — centered horizontally and vertically. Generous clean black surround on all sides. Camera: directly overhead, perfectly perpendicular — zero elevation, zero perspective distortion, zero rotation. Pure top-down flat-lay macro. The logo silhouette reads as the correct [BRAND NAME] mark from this top-down view. Depth of field: sharp across entire fluid surface. --- PHASE 6: TECH SPECS Render: Houdini FLIP fluid simulation + Redshift or Octane, OR photorealistic CGI achieving identical result. CRITICAL: the fluid simulation domain is bounded by the exact logo silhouette — the simulation cannot escape the logo boundary. Fluid mesh: real FLIP simulation geometry constrained to logo shape. Bubble geometry: real curved surface per bubble, not texture map. Bubble membranes: thin-shell geometry, IOR 1.33, transmission 0.7 to 0.85, thin-film iridescence. Liquid zone: smooth FLIP mesh, roughness 0.02 to 0.05, high gloss. Foam zone material: fluorescent shader, emissive 0.05 to 0.1, subsurface scattering 2 to 4mm. Lighting: one large rectangular area light 80×80cm, upper-left 20 to 30° from vertical, 5500K. Secondary HDRI ambient 8 to 10%, neutral gray. Ray tracing minimum 12 bounces. Caustics on. Sampling minimum 2048. Anti-aliasing maximum. No film grain. No post-process. Output feel: indistinguishable from professional macro photograph of real fluorescent foam in a perfectly clean studio. --- FINAL CHECK — MANDATORY BEFORE OUTPUT: (1) Does the outer silhouette of the fluid mass match the exact [BRAND NAME] logo shape? If no — regenerate. (2) Is the fluid inside a circle, oval, or any container? If yes — regenerate. (3) Is there any fluid, droplet, or bubble outside the logo boundary? If yes — regenerate. (4) Are both foam state and liquid state clearly visible? If no — regenerate.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048828286466134200/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "AmirMušić",
+      "author_url": "https://x.com/AmirMushich",
+      "license": "MIT",
+      "original_id": "2048828286466134200",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "36640331-e1c7-41e5-a44d-4c13dd4248b4",
+    "prompt": "A clean, refreshing vertical advertising poster design for a face wash product, using a graphic illustration style with soft watercolor and vector elements. The poster is set against a clean white and light teal background. The central figure is a beautiful, smiling young woman with natural, glowing, radiant skin and her hair loosely tied back in a messy bun, looking confidently towards the viewer with fresh-faced appearance. She has a touch of natural makeup.\nThe overall style is clean, modern, and graphic, with flowing organic shapes, stylized leaves, flowers, and water splashes in shades of aqua, teal, light green, and white. The background features delicate, stylized illustrations of botanical ingredients like aloe vera, green tea leaves, and lavender.\nAt the top, large, friendly, rounded sans-serif font reads: \"RADIANT SKIN STARTS HERE\". Below this, a catchy tagline: \"Cleanse, Refresh, Glow.\"\nThe main product, a stylized bottle of face wash with a white pump and green and blue labeling, is illustrated to the right of the woman. The bottle is labeled \"FRESH FACE DAILY CLEANSER\" and mentions \"With Aloe Vera & Green Tea.\" There are small graphical icons around the bottle with text: \"Deep Pore Cleansing\", \"Soothes & Hydrates\", \"For All Skin Types\", \"Paraben Free\".\nSmall illustrative bubbles, stars, and botanical accents float around the composition, adding a sense of lightness and freshness. At the bottom, in a clean, modern font, it says: \"AVAILABLE NOW AT ALL MAJOR RETAILERS\" followed by a stylized logo \"FRESH FACE\" and the website \"https://t.co/OUIoDMOWF6\" and social media icons (freshfacecare). The poster has a clean layout with ample negative space and soft, natural lighting.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048662802475409637/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Ozair AI",
+      "author_url": "https://x.com/Ozayrr_irl",
+      "license": "MIT",
+      "original_id": "2048662802475409637",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "1791603d-b9cc-4e49-acf1-702af28faf13",
+    "prompt": "Create a 16:9 horizontal bento-grid brand collage for [BRAND NAME] in a polished contemporary campaign style.  \nUse a fixed 3-row, 4-column bento structure with rounded tiles, equal gaps, clean alignment, and a light neutral background.\nThe layout must stay consistent across generations, but the content inside each tile must adapt to the real business model, product ecosystem, and brand language of [brand name].\n\nGrid blueprint\nBuild the composition as 11 visible content zones arranged in a fixed bento layout:\nTop-left tile: 1 column × 2 rows, tall vertical hero device or primary brand surface\nTop-middle-left tile: 1 column × 1 row, compact square brand asset tile\nTop-middle-right tile: 2 columns × 1 row, wide headline/message tile\n\nCenter tile: 2 columns × 2 rows, dominant campaign hero scene\n\nTop-right tile: 1 column × 1 row, secondary device / product surface / branded object\n\nBottom-left tile: 1 column × 1 row, product artifact or branded utility object\n\nBottom-center tile: 2 columns × 1 row, large bold typography tile\n\nBottom-right tile: 1 column × 2 rows, tall informational product / interface / feature tile\n\nAll tiles must share the same corner radius, spacing system, and visual polish.\nThe dominant focal points are the large center hero tile, the wide top headline tile, and the wide bottom typography tile.\n\nAdaptive content logic\nDo not assume [brand name] is a fintech brand.\nBefore deciding what appears inside each tile, infer what [brand name] actually is: social platform, SaaS tool, media brand, retailer, hospitality brand, hardware company, mobility app, AI product, consumer app, etc.\n\nEvery tile must contain a plausible branded asset based on that business type.\n\nUse this rule:\n\nIf [brand name] has a real consumer app, dashboard, product UI, creator interface, booking flow, editor, storefront, feed, player, workspace, or operating surface, use those.\n\nIf [brand name] does not realistically have payment cards, watches, or hardware, do not invent them.\n\nOnly include branded physical objects when they make sense for the brand: packaging, merch, signage, magazine, laptop sticker, storefront card, delivery box, product box, wearable, poster, notebook, tote, badge, ticket, book, etc.\n\nIf the brand is primarily digital, prioritize screens, interface fragments, campaign graphics, app/store listings, editorial visuals, and branded communication assets.\n\nIf the brand is a platform, use realistic platform surfaces: profile screens, creator dashboards, boards, playlists, templates, analytics, publishing tools, discovery feeds, search, collaboration views, etc.\n\nIf the brand is a physical-product company, use realistic product shots, packaging, product detail pages, retail signage, and lifestyle scenes.\n\nIf the brand is a service business, use realistic booking, scheduling, marketplace, onboarding, testimonial, results, or service-delivery interfaces.\n\nIf exact assets are unknown, infer the most believable official-looking product and campaign system for [brand name].\n\nTile-by-tile rules\n1) Tall left hero tile\nShow the most iconic primary branded surface for [brand name].\n\nExamples:\n\nphone with app UI\nlaptop with dashboard/editor\ntablet with creative workspace\nproduct packaging held in hand\nbranded poster or printed object\nstorefront or physical product close-up\n\nThis tile should represent the brand’s main touchpoint, not a generic device.\n\n2) Small square brand asset tile\nShow a compact brand-signature element:\n\napp icon\nlogo mark\nsymbol\nproduct badge\nbranded motif\nminiature packaging unit\nicon system object\nsticker or seal\nsimplified 3D brand emblem\n\nThis tile should feel like a distilled identity marker.\n\n3) Wide top headline tile\nUse a short strategic message that fits [brand name]’s category and tone.\nDo not repeat generic fintech copy.\nThe line should feel like a real campaign headline for that specific brand.\n\nExamples of direction:\n\ndiscovery\ncreativity\norganization\ninspiration\nconnection\ntravel\nproductivity\nexpression\nstreaming\ncollaboration\nautomation\n\nUse large, bold, high-contrast typography.\n\n4) Large center hero tile\nCreate the main campaign scene for [brand name] in a real-world or branded-environment context.\nThis should be the most expressive tile.\n\nPossible formats:\noutdoor billboard\nsubway poster\nretail installation\ncity poster wall\nlaptop-on-desk hero scene\ncreator workspace\nproduct-in-use lifestyle shot\neditorial campaign image\ninterface projected into environment\nbranded event signage\nThe scene must make sense for the brand’s world and audience.\n\n5) Top-right support tile\nShow a secondary but still realistic brand surface:\n\nanother device view\nproduct detail\nbranded object\ncampaign variation\ninterface zoom-in\npackaging angle\nsocial post mockup\ndesktop widget\ncreator tool panel\nnotification / discovery / search view\n\nThis tile should complement the main touchpoint, not duplicate it exactly.\n\n6) Bottom-left artifact tile\nShow a category-appropriate branded artifact, not a fixed “bank card”.\n\nChoose the artifact based on [brand name]:\n\nfor fintech: payment card, wallet pass, transfer screen, exchange card\n\nfor social/media: creator card, profile card, post template, content preview, board tile, channel card\n\nfor SaaS/productivity: workspace card, document preview, template card, dashboard widget\n\nfor e-commerce/retail: packaging, shipping box, loyalty pass, product tag, order card\n\nfor travel/hospitality: booking card, room key, boarding-style pass, itinerary card\n\nfor music/media: album card, playlist card, player card, event ticket\n\nfor AI/software: prompt card, generation result card, model card, workflow card\n\nThis tile must feel like a believable branded unit of value for that company.\n\n7) Wide bottom message tile\nUse one strong oversized statement in uppercase or bold display typography.\nThis is not necessarily the slogan from the top tile; it can be a broader campaign line or category promise.\n\nThe message must match the actual brand behavior of [brand name].\nFor example, do not use “MOVE MONEY WITHOUT BORDERS” unless the brand actually deals with payments or finance.\n\n8) Tall right informational tile\nShow a structured branded information surface:\napp store page\nproduct page\nonboarding screen\nfeature overview\nmarketplace listing\ncreator profile\nbrand campaign landing screen\ndashboard overview\neditorial page\ndiscovery feed\nhelp center / setup / feature panel\nThis tile should add product depth and make the collage feel like a full brand system.\n\nBrand realism rules\nUse the real or highly plausible brand identity of [brand name]: logo, color palette, typography feel, icon language, image treatment, interface style, and tone of voice.\nIf exact assets are unavailable, invent only what is necessary, but make it feel like the official visual system of [brand name].\n\nDo not force a product category onto the brand.\nDo not invent impossible hardware, payment tools, packaging, or app features unless they are realistic adjacent extensions of the brand.\nPrefer believable brand adaptation over visual symmetry.\n\nVisual consistency rules\nEven though tile content is adaptive, the final image must still feel like one campaign system:\n\nsame overall grid structure\nsame tile spacing\nsame corner radius\nsame art direction quality\nsame brand palette across all tiles\nconsistent typography logic\nconsistent mockup realism\nconsistent lighting and polish\n\nStyle\nClean premium brand presentation, high detail, polished mockup realism, soft shadows, strong hierarchy, editorial-quality composition, modern campaign aesthetics.\nAvoid random collage chaos.\nAvoid tiny unreadable text.\nAvoid generic placeholder UI.\nKeep the structure fixed, but let the objects and branded surfaces adapt intelligently to [brand name].\n\nStronger one-line instruction\n\nImportant: the layout is fixed, but the objects are not fixed.\nFor each generation, select tile content based on what [brand name] realistically sells, ships, publishes, displays, or lets users interact with.\nNever insert category-inappropriate objects just to fill the grid.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047420285817929961/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "AmirMušić",
+      "author_url": "https://x.com/AmirMushich",
+      "license": "MIT",
+      "original_id": "2047420285817929961",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "5b844347-b84a-46ad-a5e4-0385304d13c4",
+    "prompt": "Create a hyper-realistic cinematic luxury perfume product photograph featuring [PERFUME BOTTLE DESIGN] positioned in [COMPOSITION / ANGLE] within a dramatic elemental environment of [ELEMENTAL SETTING: water, smoke, ice, firelight, forest, florals, spices, gemstones].\n\nThe bottle should feel premium and tactile, with [MATERIAL DETAILS: glossy glass, metallic cap, gold label, transparent liquid, frosted surface, engraved text], sharp reflections, realistic refractions, and crisp readable branding: [BRAND / LABEL TEXT].\n\nSurround the product with carefully arranged sensory ingredients such as [BOTANICALS / SPICES / FRUITS / OBJECTS], using strong contrast between [PRIMARY COLOR PALETTE] and [ACCENT COLORS].\n\nLighting should be cinematic and high-contrast, with [LIGHTING STYLE], deep shadows, sparkling highlights, volumetric atmosphere, and a luxurious commercial advertising finish.\n\nBackground: [BACKGROUND DESCRIPTION], shallow depth of field, premium editorial composition, ultra-detailed textures, 8k resolution, photorealistic studio quality.\n\n\nCheat Sheet\n[PERFUME BOTTLE DESIGN]: shape, color, cap, label style\n[COMPOSITION / ANGLE]: tilted crash, centered still life, close-up tray, hand interaction\n[ELEMENTAL SETTING]: splash, smoke, candlelight, ice, forest, aurora\n[MATERIAL DETAILS]: glass, metal, liquid, frost, reflections\n[BRAND / LABEL TEXT]: exact readable perfume text\n[BOTANICALS / SPICES / FRUITS / OBJECTS]: lemons, vanilla pods, roses, pinecones, gemstones\n[PRIMARY COLOR PALETTE]: navy, amber, silver, black, icy blue\n[ACCENT COLORS]: gold, red, lime green, magenta, teal\n[LIGHTING STYLE]: dramatic spotlight, candle glow, cool moonlight, golden rim light\n[BACKGROUND DESCRIPTION]: moody studio, dark forest, blurred luxury interior, smoky backdrop\n\n",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048956977250726018/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Gilbert Odera | Your AI Plug🇰🇪",
+      "author_url": "https://x.com/yourPlugAI",
+      "license": "MIT",
+      "original_id": "2048956977250726018",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3eb2eb94-d23e-48c3-adaf-03ca78daf080",
+    "prompt": "Create a 3×3 grid in\n3:4 aspect ratio for a high-end commercial marketing campaign using the uploaded product as the central subject.\n\nEach frame must present a distinct visual concept while maintaining perfect product consistency across all nine images.\n\nGrid Concepts (one per cell):\n\n1. Iconic hero still life with bold composition\n\n2. Extreme macro detail highlighting material, surface, or texture\n\n3. Dynamic liquid or particle interaction surrounding the product\n\n4. Minimal sculptural arrangement with abstract forms\n\n5. Floating elements composition suggesting lightness and innovation\n\n6. Sensory close-up emphasizing tactility and realism\n\n7. Color-driven conceptual scene inspired by the product palette\n\n8. Ingredient or component abstraction (non-literal, symbolic)\n\n9. Surreal yet elegant fusion scene combining realism and imagination\n\nVisual Rules:\nProduct must remain 100% accurate in shape, proportions, label, typography, color, and branding\nNo distortion, deformation, or redesign of the product\nClean separation between product and background\n\nLighting & Style:\nSoft, controlled studio lighting\nSubtle highlights, realistic shadows\nHigh dynamic range, ultra-sharp focus\nEditorial luxury advertising aesthetic\nPremium sensory marketing look\n\nOverall Feel:\nModern, refined, visually cohesive\nHigh-end commercial campaign\nDesigned for brand websites, social grids, and digital billboards\nHyperreal, cinematic, polished, and aspirational",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047419255931748377/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Amira Zairi",
+      "author_url": "https://x.com/azed_ai",
+      "license": "MIT",
+      "original_id": "2047419255931748377",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9e752b52-a650-4657-a8c7-6fb890711cbe",
+    "prompt": "Hyper-realistic cinematic perfume billboard poster for Vera Moss Tavernier Blue Eau De Parfum, built around freshness, clarity, and modern sharp identity\n\nScene: minimal architectural environment with smooth stone surfaces and cool-toned textures, soft air-like mist flowing horizontally across frame, creating a sense of movement and freshness\n\nProduct placement:\nperfume bottle placed center on a clean elevated platform, perfectly upright, label facing camera\nsubtle reflective surface beneath with soft diffused reflection\n\nEnvironment styling:\nabstract stone formations + soft gradient sky tones (light blue to grey), inspired by open air and water freshness\nno clutter, strong negative space\n\nComposition:\ncentered hero product\nstrong breathing space around\nbackground depth layers for cinematic feel\n\nTypography system (Nike-style, strict hierarchy):\n\ntop-left — Vera Moss logo\nbeneath — small thin uppercase “MURPHY AI”\n\ncenter massive —\n“STAY SHARP.”\nbold condensed sans-serif, high impact\n\nbackground typography (very faint, oversized):\n“FRESH / CLEAN / MODERN / TIMELESS”\nlayered subtly into environment\n\nmid-lower —\n“Your everyday signature, bottled.”\n\nbottom strip (clean spec line):\n“EAU DE PARFUM · 6–8 HOURS · AQUA FRESH NOTES”\n\nbottom right — website\n\nLighting:\nsoft cool daylight with slight blue tint\ngentle highlights on glass edges\nsubtle rim light for separation\n\nColor palette:\nicy blue, soft grey, white, silver accents\n\nAtmosphere:\nlight mist / air particles to represent freshness\n\nCamera:\n50mm lens, slight low angle for presence\nshallow depth of field, ultra sharp product focus\n\nMood:\ncalm, confident, modern, effortless\n\nOutput:\n4:5 billboard format\nultra high resolution\nluxury commercial finish\n\nHyper-realistic cinematic perfume billboard poster for Vera Moss Tsunami Eau De Parfum, built around energy, motion, and explosive freshness\n\nScene: dynamic water environment where a powerful wave is frozen mid-impact, curling around the perfume bottle, capturing the exact moment of motion and force\n\nProduct placement:\nperfume bottle placed center, emerging from the water surface\npartially surrounded by a rising wave arc\nglass and liquid reflecting blue tones\n\nEnvironment styling:\ndeep aqua-blue gradient background transitioning from dark ocean tones to bright fresh highlights\nwater particles suspended in air\nfine droplets and mist frozen in motion\n\nComposition:\ncentral hero bottle\ndiagonal motion created by wave direction\nstrong depth and perspective\n\nTypography system (Nike-style, high energy):\n\ntop-left — Vera Moss logo\nbeneath — small thin uppercase “MURPHY AI”\n\ncenter massive —\n“FEEL THE RUSH.”\nbold condensed sans-serif, slightly stretched vertically\n\nbackground typography (layered, kinetic):\n“WAVE / POWER / MOTION / ENERGY”\n\nsubtly warped as if affected by water movement\n\nmid-lower —\n“Powerful freshness in motion.”\n\nbottom strip —\n“EAU DE PARFUM · STRONG INTENSITY · AQUATIC CITRUS NOTES”\n\nbottom right — website\n\nLighting:\nhigh contrast lighting\nstrong highlights on water edges\nreflective glow on bottle\nsubtle backlight through water for depth\n\nColor palette:\naqua blue, deep navy, white highlights\n\nAtmosphere:\nwater spray, mist, droplets, motion particles\n\nCamera:\nlow angle + slight tilt for dynamism\n35mm cinematic lens feel\n\nMood:\nenergetic, powerful, refreshing, bold\n\nOutput:\n4:5 billboard format\nultra high resolution\npremium commercial finish",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047711520059252891/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2047711520059252891",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "02cff27e-c81d-4af0-aace-cdecf290947a",
+    "prompt": "请为品牌[品牌名称]、类目为[品牌类目]创作一张高审美、高完成度的「品牌包装系统展示图」。这不是普通电商白底图，也不是单一产品图，而是一张具有品牌提案感、视觉识别系统感和商业摄影质感的包装家族陈列效果图。画面需要体现“同一品牌在多个包装载体上的统一落地”，呈现一个成熟消费品牌的完整包装系统。 \n\n【画幅要求】整体必须为固定 4:5 的竖版海报构图，画面方向明确为纵向，禁止生成横版构图、宽幅桌面陈列或过于分散的横向展示。整体构图需符合海报阅读逻辑：上方保留呼吸感，中部为品牌包装系统的主要视觉焦点，下方安排辅助包装、标签和产品本体，整体重心集中，适合直接作为品牌展示海报发布。\n\n【核心要求】根据【类目】自动匹配最合理、最自然的包装组合与产品形态，并围绕【品牌名字】建立统一的品牌视觉系统。画面中应选择少量但有代表性的包装形式，组成一组完整而精炼的品牌包装系统，不追求堆砌数量，而强调主次层级、品牌统一性与陈列美感。可根据类目合理选择以下包装类型中的一部分：手提袋 / 购物袋、纸盒 / 礼盒 / 外包装盒、长条盒 / 单品盒 / 套装盒、包装袋 / 封套 / 小样袋 / 软袋、杯子 / 瓶子 / 罐子 / 管状容器 / 喷雾瓶 / 泵头瓶、标签 / 贴纸 / 封签 / 吊牌 / 小卡片，以及与类目对应的真实产品本体。\n\n【类目适配逻辑】包装形式与产品形态需要根据【类目】自动匹配，但不局限于单一方向。可参考以下适配逻辑自由发散：若类目为食品 / 烘焙 / 零食 / 饮品，则以纸袋、纸盒、包装袋、杯子、食品容器、贴纸、封签及真实产品本体为主；若类目为茶饮 / 咖啡 / 饮料，则以杯子、瓶子、罐装包装、提袋、杯套、封口贴、礼盒等为主；若类目为美妆 / 护肤 / 彩妆 / 香水，则以瓶、罐、管、盒、礼盒、手提袋、小样包装等为主；若类目为香氛 / 家居 / 生活方式，则以香薰瓶、蜡烛杯、包装盒、礼盒、提袋、吊卡、标签卡等为主；若类目为服饰 / 饰品 / 潮玩 / 文创，则以包装盒、抽屉盒、防尘袋、手提袋、贴纸、吊牌、配件包装等为主；若类目为数码配件 / 工具 / 小型消费品，则以硬盒、外包装盒、收纳袋、说明卡、贴纸、封套、标签等为主。整体必须体现“类目合理、品牌统一、包装成体系”的效果。\n\n【数量与密度控制】请控制画面中的物件数量，不要过多堆砌，也不要把所有可能包装形式全部展示出来。整体应呈现“少而精、完整但不拥挤”的品牌包装系统效果。建议选择最具代表性的包装载体进行展示：大件包装 1～2 个，中型包装 2～3 个，小型包装或辅助物件 2～4 个，真实产品本体 1～3 个，总可见元素建议控制在 6～10 个之间。包装种类应体现层次变化与系统感，但不宜重复过多同类物件。画面需要有足够留白与呼吸感，确保每个包装都清晰可见、主次明确、摆放舒展，宁可少而精，也不要为了“完整”而过度塞满。\n\n【品牌视觉系统要求】所有包装必须属于同一个品牌系统，统一使用【品牌名字】作为核心品牌识别元素。整体应具备一致的 logo / 标志呈现、字体风格、图形语言、插画语言或纹样系统、排版逻辑、配色体系、材质与印刷质感。品牌调性、色彩方向、图案元素、辅助图形和视觉氛围，请根据【类目】自动匹配并合理发散，不局限于任何固定风格。整体风格应统一、协调、具有品牌识别度，可以是简约高级、自然有机、时尚现代、轻奢精致、年轻清新、艺术感、潮流个性或经典优雅，但必须符合【类目】特征，并呈现成熟品牌的设计完成度。\n\n【配色机制要求】整体配色不要固化为某一种固定组合，也不要连续多次出现高度相似的主色系统。每次生成时应根据【类目】与品牌气质，主动形成不同的主色方案与配色关系，采用“受控发散”的方式进行色彩演绎。色彩可以是低饱和自然色、现代中性色、轻复古色、明快清新色、轻奢深色系或艺术感综合色系，但必须保持高级、统一、克制、有品牌感。允许每次生成时呈现不同的视觉气质，例如奶油白与焦糖棕、雾灰蓝与暖白、橄榄绿与亚麻米、酒红与奶霜白、可可棕与象牙白、炭灰与麦秆金、雾粉灰与米白、海军蓝与暖灰等，仅作为参考方向而非固定模板。不要荧光色，不要廉价高饱和，不要杂乱失控的多色拼贴。\n\n【画面构图与陈列要求】画面采用品牌包装家族陈列逻辑，而不是杂乱堆放。整体为商业摄影棚场景，使用 3/4 轻俯视角或略带透视的正面陈列角度，形成有层次、有秩序、有主次的包装展示画面。构图参考以下逻辑：后景摆放 1～2 个较大的包装作为视觉支撑，如手提袋、大礼盒、大外盒；中景安排品牌核心包装或主力单品包装，作为主要视觉焦点；前景摆放较小包装、辅助包装、标签、贴纸及真实产品本体；至少有一个真实产品与包装产生自然互动，如产品半露出、摆放在包装前方、与包装组合展示；整体形成平衡而有设计感的三角式或错落式构图。画面干净、有留白、不拥挤，内容丰富但克制，以有限而精准的包装组合体现完整的品牌包装生态。\n\n【视觉风格要求】整体呈现高端商业摄影质感与品牌提案感，背景为干净的摄影棚环境，可为白色、暖白色、浅灰色，或根据品牌调性自动匹配的极简背景。画面应强调真实的包装材质表现、清晰的纸张折痕、盒型结构、瓶罐轮廓、标签细节、印刷质感、压纹 / 烫金 / 哑光 / 棉纸纹理 / 牛皮纸纹理等材质细节，以及统一而高级的配色搭配、精致现代干净的品牌视觉语言和强烈的“这是一整套品牌包装系统”的完整感。\n\n【光影要求】采用真实商业摄影级光影，可为柔和棚拍光，也可带有轻微方向性的自然侧光。需要有清晰但克制的阴影，以增强立体感、空间感与高级感。整体光线通透、明亮、干净，不要阴暗，不要廉价感，不要杂乱背景。\n\n【最终效果要求】最终画面应像一个成熟品牌的包装系统展示海报、包装家族提案图或品牌视觉落地效果图，而不是零散商品拼图。重点突出：固定 4:5 竖版海报感、品牌统一性、包装家族完整性、商业摄影感、设计提案感、类目适配性，以及高级审美与视觉完成度。",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047253028462317674/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Larus Canus",
+      "author_url": "https://x.com/MrLarus",
+      "license": "MIT",
+      "original_id": "2047253028462317674",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "228273d1-21bb-451f-a1fd-b5f38f1679a4",
+    "prompt": "ChatGPT Image 1.5 × Google Veo 3.1\n\n→ Nano Banana Pro / GPT-Image 1.5\n→ Copy & Paste the Prompt\n→ View Results Below ⤵️\n\nPrompt:\n\nA surreal miniature city scene where a giant coffee cup transforms into a cozy café building. The coffee cup forms the main structure, with steam rising like clouds, ceramic textures glowing softly, and the lid acting as a rooftop terrace. The ground floor is a warmly lit café storefront with glass windows, tiny tables, stools, barista counters, and glowing street lamps. Nighttime atmosphere with cinematic bokeh lights, floating particles, soft fog, warm interior glow, hyper-detailed materials, fantasy realism, premium brand storytelling. Tilt-shift effect, ultra-sharp focus, dramatic lighting, square frame, 1080×1080, high-end commercial illustration, ultra-detailed 8K quality.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009310549994283496/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "LOKII",
+      "author_url": "https://x.com/TheLOKII_",
+      "license": "MIT",
+      "original_id": "2009310549994283496",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-08T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "6bc21e48-1c2c-4c8a-a2ae-7fe9dbdb226f",
+    "prompt": "Create a 16:9 horizontal bento-grid brand collage for [BRAND NAME] in a polished contemporary campaign style.  \nUse a fixed 3-row, 4-column bento structure with rounded tiles, equal gaps, clean alignment, and a light neutral background.\nThe layout must stay consistent across generations, but the content inside each tile must adapt to the real business model, product ecosystem, and brand language of [brand name].\n\nGrid blueprint\nBuild the composition as 11 visible content zones arranged in a fixed bento layout:\nTop-left tile: 1 column × 2 rows, tall vertical hero device or primary brand surface\nTop-middle-left tile: 1 column × 1 row, compact square brand asset tile\nTop-middle-right tile: 2 columns × 1 row, wide headline/message tile\n\nCenter tile: 2 columns × 2 rows, dominant campaign hero scene\n\nTop-right tile: 1 column × 1 row, secondary device / product surface / branded object\n\nBottom-left tile: 1 column × 1 row, product artifact or branded utility object\n\nBottom-center tile: 2 columns × 1 row, large bold typography tile\n\nBottom-right tile: 1 column × 2 rows, tall informational product / interface / feature tile\n\nAll tiles must share the same corner radius, spacing system, and visual polish.\nThe dominant focal points are the large center hero tile, the wide top headline tile, and the wide bottom typography tile.\n\nAdaptive content logic\nDo not assume [brand name] is a fintech brand.\nBefore deciding what appears inside each tile, infer what [brand name] actually is: social platform, SaaS tool, media brand, retailer, hospitality brand, hardware company, mobility app, AI product, consumer app, etc.\n\nEvery tile must contain a plausible branded asset based on that business type.\n\nUse this rule:\n\nIf [brand name] has a real consumer app, dashboard, product UI, creator interface, booking flow, editor, storefront, feed, player, workspace, or operating surface, use those.\n\nIf [brand name] does not realistically have payment cards, watches, or hardware, do not invent them.\n\nOnly include branded physical objects when they make sense for the brand: packaging, merch, signage, magazine, laptop sticker, storefront card, delivery box, product box, wearable, poster, notebook, tote, badge, ticket, book, etc.\n\nIf the brand is primarily digital, prioritize screens, interface fragments, campaign graphics, app/store listings, editorial visuals, and branded communication assets.\n\nIf the brand is a platform, use realistic platform surfaces: profile screens, creator dashboards, boards, playlists, templates, analytics, publishing tools, discovery feeds, search, collaboration views, etc.\n\nIf the brand is a physical-product company, use realistic product shots, packaging, product detail pages, retail signage, and lifestyle scenes.\n\nIf the brand is a service business, use realistic booking, scheduling, marketplace, onboarding, testimonial, results, or service-delivery interfaces.\n\nIf exact assets are unknown, infer the most believable official-looking product and campaign system for [brand name].\n\nTile-by-tile rules\n1) Tall left hero tile\nShow the most iconic primary branded surface for [brand name].\n\nExamples:\n\nphone with app UI\nlaptop with dashboard/editor\ntablet with creative workspace\nproduct packaging held in hand\nbranded poster or printed object\nstorefront or physical product close-up\n\nThis tile should represent the brand’s main touchpoint, not a generic device.\n\n2) Small square brand asset tile\nShow a compact brand-signature element:\n\napp icon\nlogo mark\nsymbol\nproduct badge\nbranded motif\nminiature packaging unit\nicon system object\nsticker or seal\nsimplified 3D brand emblem\n\nThis tile should feel like a distilled identity marker.\n\n3) Wide top headline tile\nUse a short strategic message that fits [brand name]’s category and tone.\nDo not repeat generic fintech copy.\nThe line should feel like a real campaign headline for that specific brand.\n\nExamples of direction:\n\ndiscovery\ncreativity\norganization\ninspiration\nconnection\ntravel\nproductivity\nexpression\nstreaming\ncollaboration\nautomation\n\nUse large, bold, high-contrast typography.\n\n4) Large center hero tile\nCreate the main campaign scene for [brand name] in a real-world or branded-environment context.\nThis should be the most expressive tile.\n\nPossible formats:\noutdoor billboard\nsubway poster\nretail installation\ncity poster wall\nlaptop-on-desk hero scene\ncreator workspace\nproduct-in-use lifestyle shot\neditorial campaign image\ninterface projected into environment\nbranded event signage\nThe scene must make sense for the brand’s world and audience.\n\n5) Top-right support tile\nShow a secondary but still realistic brand surface:\n\nanother device view\nproduct detail\nbranded object\ncampaign variation\ninterface zoom-in\npackaging angle\nsocial post mockup\ndesktop widget\ncreator tool panel\nnotification / discovery / search view\n\nThis tile should complement the main touchpoint, not duplicate it exactly.\n\n6) Bottom-left artifact tile\nShow a category-appropriate branded artifact, not a fixed “bank card”.\n\nChoose the artifact based on [brand name]:\n\nfor fintech: payment card, wallet pass, transfer screen, exchange card\n\nfor social/media: creator card, profile card, post template, content preview, board tile, channel card\n\nfor SaaS/productivity: workspace card, document preview, template card, dashboard widget\n\nfor e-commerce/retail: packaging, shipping box, loyalty pass, product tag, order card\n\nfor travel/hospitality: booking card, room key, boarding-style pass, itinerary card\n\nfor music/media: album card, playlist card, player card, event ticket\n\nfor AI/software: prompt card, generation result card, model card, workflow card\n\nThis tile must feel like a believable branded unit of value for that company.\n\n7) Wide bottom message tile\nUse one strong oversized statement in uppercase or bold display typography.\nThis is not necessarily the slogan from the top tile; it can be a broader campaign line or category promise.\n\nThe message must match the actual brand behavior of [brand name].\nFor example, do not use “MOVE MONEY WITHOUT BORDERS” unless the brand actually deals with payments or finance.\n\n8) Tall right informational tile\nShow a structured branded information surface:\napp store page\nproduct page\nonboarding screen\nfeature overview\nmarketplace listing\ncreator profile\nbrand campaign landing screen\ndashboard overview\neditorial page\ndiscovery feed\nhelp center / setup / feature panel\nThis tile should add product depth and make the collage feel like a full brand system.\n\nBrand realism rules\nUse the real or highly plausible brand identity of [brand name]: logo, color palette, typography feel, icon language, image treatment, interface style, and tone of voice.\nIf exact assets are unavailable, invent only what is necessary, but make it feel like the official visual system of [brand name].\n\nDo not force a product category onto the brand.\nDo not invent impossible hardware, payment tools, packaging, or app features unless they are realistic adjacent extensions of the brand.\nPrefer believable brand adaptation over visual symmetry.\n\nVisual consistency rules\nEven though tile content is adaptive, the final image must still feel like one campaign system:\n\nsame overall grid structure\nsame tile spacing\nsame corner radius\nsame art direction quality\nsame brand palette across all tiles\nconsistent typography logic\nconsistent mockup realism\nconsistent lighting and polish\n\nStyle\nClean premium brand presentation, high detail, polished mockup realism, soft shadows, strong hierarchy, editorial-quality composition, modern campaign aesthetics.\nAvoid random collage chaos.\nAvoid tiny unreadable text.\nAvoid generic placeholder UI.\nKeep the structure fixed, but let the objects and branded surfaces adapt intelligently to [brand name].\n\nStronger one-line instruction\n\nImportant: the layout is fixed, but the objects are not fixed.\nFor each generation, select tile content based on what [brand name] realistically sells, ships, publishes, displays, or lets users interact with.\nNever insert category-inappropriate objects just to fill the grid.",
+    "model": "gpt-image",
+    "category": "product-photography",
+    "difficulty": "intermediate",
+    "tags": [
+      "Product & Brand",
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047423024068952489/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "AI Pulse",
+      "author_url": "https://x.com/youraipulse",
+      "license": "MIT",
+      "original_id": "2047423024068952489",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  }
+]

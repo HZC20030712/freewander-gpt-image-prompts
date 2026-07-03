@@ -1,20 +1,43 @@
 {
-  "repository": "freewander-gpt-image-prompts",
-  "schema_version": "v1.0",
-  "phase": "phase-1",
+  "version": "1.0",
   "model": "gpt-image",
-  "asset_policy": {
-    "original_freewander_assets_allowed": false,
-    "allowed_source_licenses": [
-      "MIT",
-      "Apache-2.0",
-      "BSD-2-Clause",
-      "BSD-3-Clause",
-      "CC0-1.0",
-      "CC-BY-4.0"
-    ]
-  },
-  "categories": [],
-  "items": [],
-  "status": "staging"
+  "last_updated": "2026-07-03",
+  "categories": [
+    {
+      "id": "ui-design",
+      "name": "Ui Design",
+      "file": "gpt-image/ui-design.json",
+      "count": 15
+    },
+    {
+      "id": "product-photography",
+      "name": "Product Photography",
+      "file": "gpt-image/product-photography.json",
+      "count": 39
+    },
+    {
+      "id": "cinematic",
+      "name": "Cinematic",
+      "file": "gpt-image/cinematic.json",
+      "count": 61
+    },
+    {
+      "id": "poster-design",
+      "name": "Poster Design",
+      "file": "gpt-image/poster-design.json",
+      "count": 75
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "file": "gpt-image/food.json",
+      "count": 42
+    },
+    {
+      "id": "3d-render",
+      "name": "3d Render",
+      "file": "gpt-image/3d-render.json",
+      "count": 66
+    }
+  ]
 }

@@ -1,0 +1,1893 @@
+[
+  {
+    "id": "41557b55-3c0d-4a09-a60a-afcb3dd2baf2",
+    "prompt": "Create an infographic image of [LANDMARK], combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “[LANDMARK]” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007523056822939698/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2007523056822939698",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-03T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "86bc3532-1931-4df5-aee8-7a000890714b",
+    "prompt": "Hyper-realistic cinematic Create an 8k close-up portrait of a beautiful woman with medium, brown, slightly wind-swept hair falling across her face. Her striking, light-colored eyes gaze upwards and to the right, catching a sharp, diagonal beam of natural light that illuminates the high points of her cheekbone, nose, and plump, fair skin, glossy, mauve-toned lips a slightly light weight silk shirt. The rest of her face and the background are cast in deep,dramatic shadow (chiaroscuro) emphasizing the play of light and shadow Subtle textures of her dark clothing are visible on her left shoulder. The image should capture a mysterious and introspective mood, with incredible detail in her skin, hair strands, and the subtle reflections in her eyes and lips.\nOutfit should white.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2028853502358003808/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2028853502358003808",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-03T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "723de8a1-be39-468d-aacf-7bcb003bb5a3",
+    "prompt": "A [person type] standing full-body near the edge of the frame, slightly to the left, in [real-world incomplete / empty / damaged environment]. The camera is positioned behind and slightly to the right of the person, capturing them from a three-quarter rear angle. The person stands calmly and thoughtfully, looking toward the space ahead.\n\nThe environment is [describe the real space as it exists now: empty, unfinished, decayed, rigid, lifeless]. The atmosphere feels [emotional tone: quiet, dry, historical, minimal, raw]. Natural light illuminates the scene, creating realistic shadows and depth. Floating hand-drawn sketch lines appear over and within the environment, aligned precisely in perspective with the real space. These sketches represent [what is missing / what once existed / what could exist in the future].\n\nThe sketch lines are black, clean, and hand-drawn, resembling [architectural / interior / restoration / urban planning] concept sketches made with pencil or ink. The strokes are expressive, slightly imperfect, and organic — not rigid or mechanical. The sketched elements occupy the foreground and midground, appearing closer to the person than expected. Some sketch lines subtly overlap the person’s silhouette and the real surfaces, visually merging imagination with reality. The sketches float naturally within the scene, seamlessly blending with the environment and conveying the idea of [vision / restoration / transformation / potential] coming to life.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2002826415939682584/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ΛRMIN | AI",
+      "author_url": "https://x.com/Arminn_Ai",
+      "license": "MIT",
+      "original_id": "2002826415939682584",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "dfcaaaf3-d992-45c3-a47c-d728fac0621e",
+    "prompt": "{\n  \"type\": \"image_generation_prompt\",\n  \"language\": \"en\",\n  \"style\": \"hyper-realistic cinematic selfie photography\",\n  \"aspect_ratio\": \"9:16\",\n  \"identity_preservation\": {\n    \"use_reference_image\": true,\n    \"strict_identity_lock\": true,\n    \"alter_face\": false,\n    \"alter_skin\": false,\n    \"alter_hair\": false,\n    \"alter_gender\": false,\n    \"notes\": \"Preserve identical facial features, skin texture, hair, glasses, age, and gender from the uploaded reference image. No synthetic skin or sculptural look.\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"capture_method\": \"selfie taken by the subject herself\",\n    \"pose\": {\n      \"selfie_arm\": {\n        \"description\": \"one arm fully straight and completely extended upward holding the camera that takes the selfie\",\n        \"visibility\": \"arm clearly visible, straight and dominant in frame\",\n        \"camera_visibility\": \"the selfie camera device itself must NOT be visible in the frame\"\n      },\n      \"product_arm\": {\n        \"description\": \"the other arm fully extended toward the camera holding the attached Canon camera\",\n        \"importance\": \"product is closest to the camera and visually dominant\"\n      },\n      \"head\": {\n        \"tilt\": \"slightly tilted toward the selfie camera\"\n      },\n      \"expression\": \"natural and relaxed facial expression\"\n    },\n    \"body_visibility\": \"full body visible from head to toe\",\n    \"feet\": \"feet clearly touching the road surface\"\n  },\n  \"composition\": {\n    \"perspective\": \"natural selfie perspective at chest height\",\n    \"camera_angle\": \"extreme top-down angle, camera above the subject looking directly downward\",\n    \"layer_depth\": [\n      \"product (closest to camera)\",\n      \"face\",\n      \"full body\",\n      \"city environment (background)\"\n    ]\n  },\n  \"scale_and_perspective\": {\n    \"effect\": \"forced perspective\",\n    \"subject_scale\": \"the woman appears extremely giant\",\n    \"buildings_scale\": \"buildings appear much smaller, reaching no higher than her knees\",\n    \"dominance\": \"the subject visually dominates the entire scene\",\n    \"realism\": \"inspiring scale while remaining physically believable\"\n  },\n  \"environment\": {\n    \"location\": \"real urban intersection\",\n    \"elements\": [\n      \"pedestrian crosswalk\",\n      \"road markings\",\n      \"traffic signs\",\n      \"cars\",\n      \"bicycles\",\n      \"pedestrians at realistic human scale\"\n    ],\n    \"setting\": \"ground-level urban environment\"\n  },\n  \"lighting\": {\n    \"type\": \"natural daylight\",\n    \"conditions\": \"clear or lightly cloudy sky\",\n    \"shadows\": \"soft and realistic\",\n    \"restrictions\": \"no fantasy or dramatic lighting\"\n  },\n  \"product_rules\": {\n    \"usage\": \"use the uploaded Canon product exactly as provided\",\n    \"distortion\": \"none\",\n    \"logo\": \"unchanged\",\n    \"appearance\": \"natural reflections and realistic highlights only\"\n  },\n  \"camera_quality\": {\n    \"realism\": \"maximum photorealism\",\n    \"depth\": \"clear separation of foreground, subject, and background\",\n    \"artifacts\": \"none\"\n  },\n  \"constraints\": [\n    \"No AI-art look\",\n    \"No plastic or sculpted skin\",\n    \"No distortion of face or body\",\n    \"No extra limbs or incorrect anatomy\",\n    \"No text or watermarks\",\n    \"No visible selfie camera device\"\n  ],\n  \"output_goal\": \"Create a hyper-realistic cinematic selfie image of a woman using her exact reference identity, captured from an extreme top-down perspective in a real urban crosswalk, with forced perspective scale, natural daylight, and a Canon camera product prominently held toward the lens.\"\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009834337043394622/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝗦𝗮𝗻𝗶𝗮",
+      "author_url": "https://x.com/saniaspeaks_",
+      "license": "MIT",
+      "original_id": "2009834337043394622",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-10T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "5e18f625-6a16-4e21-aa09-c776907e16d2",
+    "prompt": "9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046151898621993364/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "BubbleBrain",
+      "author_url": "https://x.com/BubbleBrain",
+      "license": "MIT",
+      "original_id": "2046151898621993364",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-20T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "141384d3-73e4-4a80-a4d3-ead6e3d4a887",
+    "prompt": "Surreal comedic scene inside a modern kitchen: a young man bends backward in an extreme dodge pose, acrobatic and exaggerated, with a kettle mid-air above him splashing hot tea in a dramatic frozen moment. A woman in the background extends her arm as if she accidentally threw the kettle, expression shocked and energetic.Dynamic action freeze-frame, dramatic liquid splash, wide-angle lens distortion, sharp details, realistic lighting, cinematic color grading, humorous storytelling, high-resolution digital art.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2022894575040512280/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2022894575040512280",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-15T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "21965a7d-0654-4f87-a275-08ffa3f47b9e",
+    "prompt": "{\n\"image_type\": \"studio portrait\",\n\"composition\": {\n\"framing\": \"tight head-and-shoulders close-up\",\n\"camera_angle\": \"eye-level\",\n\"orientation\": \"vertical\",\n\"symmetry\": \"near-perfect central symmetry\",\n\"focus\": \"sharp focus on eyes and facial features\",\n\"depth_of_field\": \"shallow, background fully blurred to black\"\n},\n\"subject\": {\n\"description\": \"middle-aged male-presenting subject\",\n\"pose\": \"frontal, facing camera directly\",\n\"expression\": \"calm, confident, intense gaze\",\n\"eye_direction\": \"looking straight into lens\",\n\"facial_features\": {\n\"facial_hair\": \"short salt-and-pepper stubble and trimmed goatee\",\n\"skin_texture\": \"visible pores and fine lines, realistic skin detail\",\n\"eyes\": \"light-colored eyes emphasized by catchlights\"\n},\n\"hair\": {\n\"style\": \"medium-length, brushed back\",\n\"texture\": \"natural, slightly tousled\",\n\"color\": \"dark brown with subtle gray highlights\"\n}\n},\n\"wardrobe\": {\n\"top\": \"white crew-neck t-shirt\",\n\"outerwear\": \"dark jacket or coat with soft texture\",\n\"accessories\": \"thin chain necklace partially visible\"\n},\n\"lighting\": {\n\"style\": \"cinematic, high-contrast neon lighting\",\n\"key_light\": {\n\"position\": \"front-left\",\n\"color\": \"cool cyan/blue\",\n\"effect\": \"dominant illumination across face and torso\"\n},\n\"rim_light\": {\n\"position\": \"rear-right\",\n\"color\": \"saturated red/magenta\",\n\"effect\": \"strong edge highlight on hair and face contour\"\n},\n\"fill_light\": \"minimal to none\",\n\"contrast_level\": \"high\",\n\"mood\": \"dramatic, futuristic, intense\"\n},\n\"color_palette\": {\n\"dominant_colors\": [\"cyan blue\", \"deep red\", \"black\"],\n\"color_temperature\": \"mixed cool and warm neon tones\",\n\"saturation\": \"high saturation on lighting, neutral clothing tones\",\n\"color_grading\": \"stylized cyberpunk-inspired grading\"\n},\n\"background\": {\n\"environment\": \"studio\",\n\"details\": \"pure black background with no visible texture or objects\",\n\"separation\": \"strong subject-background separation via rim lighting\"\n},\n\"technical_details\": {\n\"camera_style\": \"professional studio photography\",\n\"lens_effect\": \"slight compression typical of portrait lens\",\n\"estimated_focal_length\": \"85mm equivalent\",\n\"image_sharpness\": \"high\",\n\"noise\": \"minimal\",\n\"dynamic_range\": \"controlled highlights with deep shadows\"\n},\n\"artistic_style\": {\n\"genre\": \"cinematic portrait\",\n\"influences\": [\"cyberpunk\", \"neo-noir\", \"editorial fashion\"],\n\"visual_aesthetic\": \"bold, modern, high-impact\",\n\"post_processing\": {\n\"skin_retouching\": \"subtle, realistic\",\n\"color_enhancement\": \"strong split-toning blue/red\",\n\"clarity\": \"enhanced micro-contrast\"\n}\n},\n\"overall_impression\": {\n\"tone\": \"powerful and enigmatic\",\n\"intended_use\": \"editorial, album cover, cinematic poster, AI style reference\",\n\"style_recreation_keywords\": [\n\"cinematic neon portrait\",\n\"blue and red split lighting\",\n\"black background\",\n\"intense direct gaze\",\n\"cyberpunk color grading\",\n\"high-contrast studio lighting\"\n]\n}\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2002763964476965234/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2002763964476965234",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "f1b71cb5-37b4-45d3-ae4a-b43d2410d27d",
+    "prompt": "Create an Ultra-realistic photo composite of uploaded person breaking out of an Instagram post frame. Standing pose, both hands holding frame edges, upper body outside frame with real shadows. High top-down view, strong 10mm fisheye effect on person only (big head, smaller body), frame straight. Confident upward gaze, purple graffiti puffer jacket, black tee, gold chain, white sneakers, sunglasses, black cap, yellow floor, clean Instagram UI (simeon-sanai) overlay, photorealistic.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2026703924888219706/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2026703924888219706",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "96bca130-0cf7-4bef-a72d-1912098c7007",
+    "prompt": "A stylish man wearing a tan suit and sunglasses is featured in a creative split image, framed by two ornate gold frames. In the top frame, he is pouring Coca-Cola from a bottle. The cola streams downward, passing through the gap between the frames. In the bottom frame, the same man, also in a tan suit and sunglasses, is shown with a joyful expression as the stream of cola splashes into a glass mug he is holding, creating a dynamic splash.The background behind the frames is a softly blurred night cityscape with tall buildings and lights, suggesting.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2005541752187273292/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Zar⭕on",
+      "author_url": "https://x.com/Xaroonx",
+      "license": "MIT",
+      "original_id": "2005541752187273292",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-29T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "deed4757-d16f-41e7-a2c1-348d0e64eaf7",
+    "prompt": "Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean and pressed white social shirt with folded collar and a small lapel microphone, dark navy-blue dress pants and polished brown social shoes. Casually and unpretentiously leaning against a smooth light gray studio wall; hands are in pockets and one leg is crossed over the other, with relaxed and confident body language. Add to the wall next to them a prominent vector portrait in black and white of their face and bust - with sharp lines and angles, overlapping polygonal shapes and a minimalist modern graphic style, right below the information: “[PERSON’S FULL NAME]”, and below the name: “[PROFESSION]”",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2018389139826037141/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2018389139826037141",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ee27a86b-3c01-428c-a4da-e9c196702edc",
+    "prompt": "Convert uploaded photo into ultra-wide 10mm fisheye portrait from dramatic high top-down angle with strong perspective distortion (larger head, compressed body). Add black oversized sunglasses and plain white cap, right hand adjusting cap, confident upward gaze. Color-block puffer jacket (burnt orange/cream/brown), white tee, white sneakers. Bold terracotta studio background, smooth gradient, high contrast, sharp editorial lighting, 8k.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2033570946985144647/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2033570946985144647",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-16T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c59d90d8-a15b-464d-a080-cf50ae62f112",
+    "prompt": "Ultra-realistic studio portrait of a young woman, front-facing, centered composition, symmetrical face, pale skin with soft cheeks and nose, light gray-blue eyes with a subtle dark limbal ring, soft neutral makeup, slightly glossy natural lips, faint smoky eyeliner, dark brown slightly messy hair with wispy bangs framing the forehead, a few loose strands around the face, wearing a dark gray fitted turtleneck sweater, small silver hoop earrings, calm neutral expression, looking directly into the camera, soft diffused cinematic lighting from the front and side, smooth gradient dark background, shallow depth of field, 85mm lens look, f1.8, ultra sharp focus, hyper-detailed skin texture, photorealistic, 8k, high dynamic range, professional studio photography, no text, no watermark, no logo, no signature, no artifacts.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2011645375460057533/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2011645375460057533",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-15T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "82d4d0b1-f04d-4322-aa80-637bbcf1bd6f",
+    "prompt": "Create a high-contrast black and white portrait in a quiet classroom.Use uploaded image as reference. Person leans casually on a wooden school chair, legs crossed, wearing a navy blue sweatshirt, beige chinos, and black-and-white Converse sneakers. calm neutral expression. His left arm rests on the desk, his right hand drops casually to the side. Behind him, an off-white classroom wall with visible wear, pinned papers, photos, and sticky notes in a grid. One page clearly shows the printed word “Silence”, positioned above his head. Sunlight enters sharply from the right, casting a triangular beam of light on the wall and her shadow. The contrast is dramatic, cinematic, and natural, with a warm late-afternoon tone",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2028623800313798810/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2028623800313798810",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-03T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "cf3b849b-0c73-4d63-a033-92a024216cba",
+    "prompt": "Extreme close-up portrait of a woman with piercing green eyes and bold, matte red lips, her face framed by a vibrant red textured hood. Dramatic cinematic lighting creates sharp shadows across her features, with fine strands of dark black hair blowing across her face. High-fashion editorial photography style, hyper-realistic, sharp focus, intense gaze, and a high-contrast color palette of deep reds and blacks.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2020789772617478217/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2020789772617478217",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-09T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "480240f1-51e2-4315-a1ad-a17a5e473626",
+    "prompt": "A cinematic silhouette shot of local fishermen lining the Galata Bridge in Istanbul during sunset. In the foreground, a weary fisherman leans against the railing, looking at the sea. The background features the hazy, dreamlike silhouette of the Süleymaniye Mosque and seagulls flying over the Golden Horn. Warm orange and deep blue color palette. Shot on Sony A7R IV with Sony FE 85mm f/1.4 GM lens at f/1.8. Atmospheric haze, emotional storytelling, award-winning travel photography.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2001003144566681621/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Ozan Sihay",
+      "author_url": "https://x.com/ozan_sihay",
+      "license": "MIT",
+      "original_id": "2001003144566681621",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-16T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "2559efbe-c169-4c31-aacb-b7298efcfe6c",
+    "prompt": "{\n  \"image_style\": \"surreal, dark cinematic, ethereal\",\n  \"subject\": {\n    \"person\": \"woman with features of reference image\",\n    \"pose\": \"head tilted back, eyes closed, expression of freedom and release\",\n    \"framing\": \"close-up portrait from chest upward\",\n    \"clothing\": \"long-sleeve blouse made of organic, layered deep matte black raven feathers\",\n    \"accessories\": \"large black hoop earrings\"\n  },\n  \"visual_effects\": {\n    \"hair\": \"loose, dynamically suspended, blowing upward and forward by wind\",\n    \"dissolving_elements\": [\n      \"feathers and hair merging with black ink splatters\",\n      \"charcoal dust\",\n      \"wisps of dark smoke\"\n    ],\n    \"face_details\": \"fine black ink splatters and wisps spreading across face and neck\"\n  },\n  \"environment\": {\n    \"background\": \"smoky gray, moody atmosphere\",\n    \"elements\": \"thick, dense, layered smoke swirling throughout the frame\"\n  },\n  \"technical_aspects\": {\n    \"resolution\": \"high-resolution\",\n    \"lighting\": \"cinematic, moody, diffused through smoke\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007661583246471621/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝗦𝗮𝗻𝗶𝗮",
+      "author_url": "https://x.com/saniaspeaks_",
+      "license": "MIT",
+      "original_id": "2007661583246471621",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "55a6543e-6a0a-4d50-a441-974855615758",
+    "prompt": "Create an infographic image of [LANDMARK], combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “[LANDMARK]” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008190630317764651/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝐌",
+      "author_url": "https://x.com/Strength04_X",
+      "license": "MIT",
+      "original_id": "2008190630317764651",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-05T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "828aaa90-6ba5-45d8-ab7c-2b44ab1509c7",
+    "prompt": "Photorealistic studio portrait of an average British man in his late 20s to early 40s, natural appearance, realistic facial features, short well-groomed hair, light stubble or clean-shaven. He stands confidently with a relaxed posture, conveying quiet self-assurance.\n\nHe wears a stylish, comfortable, modern casual outfit, a well-fitted neutral-toned jacket or overshirt, premium plain t-shirt, tailored trousers or dark jeans, and clean minimalist sneakers. The look is contemporary, understated, and effortlessly fashionable.\n\nShot in a professional studio with minimal lighting: a soft key light focused on the subject with gentle shadow falloff, dark neutral background, high contrast, and strong subject isolation. Lighting highlights facial structure, textures, and silhouette while keeping the environment subtle.\n\nSharp focus on the subject, shallow depth of field, natural skin texture, realistic fabric detail, editorial fashion photography style, ultra-realistic, high resolution.\n\nNegative prompt (optional): blur, heavy retouching, unrealistic skin, dramatic fashion styling, cluttered background, extra limbs, distortion, cartoonish style.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2024491215035511151/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Jack",
+      "author_url": "https://x.com/j_smeaton99",
+      "license": "MIT",
+      "original_id": "2024491215035511151",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ae4be41c-803e-45a6-a142-d8d98a997762",
+    "prompt": "{\n  \"image_type\": \"fashion portrait photography\",\n  \"resolution_target\": \"8K Ultra HD\",\n  \"aspect_ratio\": \"vertical (portrait)\",\n  \"composition\": {\n    \"framing\": \"medium close-up portrait\",\n    \"crop\": \"from upper chest to slightly above head\",\n    \"subject_position\": \"centered\",\n    \"camera_angle\": \"low angle, slightly upward-facing\",\n    \"perspective\": \"dramatic upward perspective emphasizing neck and jawline\",\n    \"depth_of_field\": \"shallow depth of field with soft background blur\"\n  },\n  \"subject\": {\n    \"gender_presentation\": \"female-presenting\",\n    \"age_range\": \"young adult\",\n    \"skin_tone\": \"fair/light\",\n    \"pose\": {\n      \"head_position\": \"tilted slightly back\",\n      \"chin\": \"raised upward\",\n      \"shoulders\": \"relaxed, facing forward\"\n    },\n    \"facial_expression\": {\n      \"eyes\": \"closed\",\n      \"mouth\": \"slightly parted\",\n      \"expression_mood\": \"calm, confident, introspective\"\n    },\n    \"face_details\": {\n      \"face_shape\": \"oval\",\n      \"jawline\": \"soft but defined\",\n      \"cheekbones\": \"subtly defined\",\n      \"skin_texture\": \"smooth, evenly lit\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"reddish-brown / auburn\",\n    \"length\": \"medium\",\n    \"style\": \"loosely styled with soft waves\",\n    \"texture\": \"slightly tousled\",\n    \"flyaways\": \"visible loose strands around head and neck\"\n  },\n  \"eyewear\": {\n    \"type\": \"eyeglasses\",\n    \"frame_style\": \"rounded\",\n    \"frame_material_appearance\": \"translucent\",\n    \"frame_color\": \"light amber / peach-tinted\",\n    \"lens\": \"clear\"\n  },\n  \"makeup\": {\n    \"lip_color\": \"deep pink / rose\",\n    \"lip_finish\": \"glossy\",\n    \"eye_makeup\": \"subtle, warm-toned\",\n    \"overall_style\": \"natural with emphasis on lips\"\n  },\n  \"accessories\": {\n    \"earrings\": {\n      \"type\": \"dangling earrings\",\n      \"material_appearance\": \"metallic\",\n      \"design\": \"intricate, elongated\"\n    },\n    \"necklace\": {\n      \"type\": \"chain necklace\",\n      \"pendant\": \"ornamental pendant\",\n      \"material_appearance\": \"gold-toned metal\"\n    }\n  },\n  \"clothing\": {\n    \"garment_type\": \"tailored jacket or dress with lapels\",\n    \"neckline\": \"deep V-neck\",\n    \"fit\": \"structured yet flowing\",\n    \"fabric_texture\": \"smooth, slightly reflective\",\n    \"pattern\": \"vertical multicolored stripes\",\n    \"colors\": [\n      \"orange\",\n      \"red\",\n      \"green\",\n      \"teal\",\n      \"yellow\"\n    ],\n    \"buttons\": \"visible front button at mid-torso\"\n  },\n  \"lighting\": {\n    \"type\": \"studio lighting\",\n    \"direction\": \"soft frontal with slight side emphasis\",\n    \"contrast\": \"moderate\",\n    \"highlights\": \"gentle highlights on face and glasses\",\n    \"shadows\": \"soft shadows under chin and neck\"\n  },\n  \"background\": {\n    \"environment\": \"studio setup\",\n    \"elements\": \"colored smoke or mist\",\n    \"color_palette\": [\n      \"pink\",\n      \"coral\",\n      \"peach\",\n      \"soft green\"\n    ],\n    \"background_style\": \"abstract, atmospheric\"\n  },\n  \"atmosphere\": {\n    \"mood\": \"cinematic, fashion-forward\",\n    \"visual_effects\": \"floating colored smoke surrounding subject\",\n    \"clarity\": \"subject sharp, background diffused\"\n  },\n  \"color_grading\": {\n    \"tone\": \"warm\",\n    \"saturation\": \"rich but balanced\",\n    \"overall_palette\": \"harmonized warm and pastel tones\"\n  },\n  \"image_quality\": {\n    \"sharpness\": \"high detail on facial features, clothing texture, accessories\",\n    \"noise\": \"none visible\",\n    \"finish\": \"clean, professional, editorial-grade\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2003730339542499635/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2003730339542499635",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "22ed9037-4c22-4258-acb3-cb99916583fe",
+    "prompt": "Create a dramatic, digital painting-style portrait of a male footballer looking upwards with a determined expression. The style should be bold and textured, using dynamic brushstrokes and a limited color palette mainly black, white, red, and yellow. The background should be split vertically with abstract red and yellow paint streaks. On the red side, include the bold motivational text ‘I’VE JUST BEGUN’ in large white, hand-painted font. Capture the intensity and ambition in the player’s gaze. The composition should feel motivational and powerful, ideal for a sports poster. 8k Resolution, Image Aspect Ratio 4:5.\"",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2024432382124945823/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2024432382124945823",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "7d0794b2-0f07-4c43-a517-cf8ba75f1298",
+    "prompt": "{\n  \"image_type\": \"studio fashion portrait photography\",\n  \"resolution_target\": \"8K ultra high definition\",\n  \"aspect_ratio\": \"portrait (vertical)\",\n  \"composition\": {\n    \"framing\": \"medium portrait\",\n    \"crop\": \"head to mid-torso\",\n    \"subject_position\": \"slightly right of center\",\n    \"camera_angle\": \"eye-level\",\n    \"pose\": {\n      \"body_orientation\": \"three-quarter turn to the left\",\n      \"head_orientation\": \"turned toward camera\",\n      \"arm_position\": \"one arm raised with hand placed behind or on top of head, other arm lowered and relaxed\"\n    }\n  },\n  \"subject\": {\n    \"gender_presentation\": \"female\",\n    \"age_range\": \"young adult\",\n    \"skin_tone\": \"light to medium\",\n    \"facial_expression\": {\n      \"expression\": \"neutral to mildly serious\",\n      \"gaze_direction\": \"directly at camera\",\n      \"emotion\": \"confident, composed\"\n    },\n    \"face_details\": {\n      \"face_shape\": \"oval\",\n      \"complexion\": \"smooth, even\",\n      \"makeup\": {\n        \"eyes\": \"defined eyeliner and mascara\",\n        \"lips\": \"deep muted red or berry tone lipstick\",\n        \"overall\": \"moderate, polished makeup\"\n      },\n      \"piercings\": [\n        \"small nose ring on left nostril\"\n      ]\n    },\n    \"eyes\": {\n      \"visibility\": \"partially visible through tinted glasses\",\n      \"eyewear\": {\n        \"type\": \"narrow rectangular sunglasses\",\n        \"lens_color\": \"dark tinted\",\n        \"frame\": \"thin metal frame\",\n        \"position\": \"worn low on the bridge of the nose\"\n      }\n    },\n    \"hair\": {\n      \"color\": \"medium brown with strong magenta/purple lighting highlights\",\n      \"length\": \"long\",\n      \"style\": \"loose, softly wavy\",\n      \"parting\": \"center part\"\n    }\n  },\n  \"clothing_and_accessories\": {\n    \"outerwear\": {\n      \"type\": \"faux fur coat\",\n      \"color\": \"dark gray to black\",\n      \"texture\": \"thick, plush, high-volume fur\",\n      \"fit\": \"oversized\",\n      \"wearing_style\": \"draped loosely off the shoulders\"\n    },\n    \"inner_clothing\": {\n      \"type\": \"sleeveless top\",\n      \"color\": \"black\",\n      \"neckline\": \"straight or slightly scooped\"\n    },\n    \"jewelry\": {\n      \"necklace\": {\n        \"type\": \"thin chain necklace\",\n        \"material\": \"metallic\",\n        \"visibility\": \"clearly visible at collarbone\"\n      }\n    }\n  },\n  \"lighting\": {\n    \"style\": \"studio lighting\",\n    \"primary_light\": {\n      \"direction\": \"front-left\",\n      \"quality\": \"soft but directional\"\n    },\n    \"accent_lighting\": {\n      \"color\": \"magenta/purple\",\n      \"placement\": \"from above and behind, especially on hair and shoulders\"\n    },\n    \"contrast\": \"medium to high\",\n    \"shadow_detail\": \"soft shadows with smooth falloff\"\n  },\n  \"background\": {\n    \"type\": \"studio backdrop\",\n    \"color\": \"deep purple gradient\",\n    \"texture\": \"smooth, seamless\",\n    \"depth\": \"no visible background objects\"\n  },\n  \"color_palette\": {\n    \"dominant_colors\": [\n      \"purple\",\n      \"magenta\",\n      \"black\",\n      \"dark gray\"\n    ],\n    \"accent_colors\": [\n      \"skin tones\",\n      \"metallic silver\"\n    ]\n  },\n  \"image_quality\": {\n    \"sharpness\": \"high\",\n    \"detail_level\": \"very high\",\n    \"noise\": \"minimal to none\",\n    \"dynamic_range\": \"wide\"\n  },\n  \"overall_style\": {\n    \"aesthetic\": \"fashion editorial\",\n    \"mood\": \"moody, stylish, confident\",\n    \"era_influence\": \"modern\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2003650158064730620/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2003650158064730620",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "876be027-af53-4041-a67b-0396bdfaf6fe",
+    "prompt": "{\n  \"meta\": {\n    \"image_quality\": \"High\",\n    \"image_type\": \"Mixed Media (Photography + Vector Illustration)\",\n    \"reference_image_usage\": \"Use the attached image strictly for facial identity matching only. Face shape, beard, glasses, eyes, nose, lips, and hair texture must match exactly. Do not copy clothing, lighting, or background from the reference.\",\n    \"resolution_estimation\": \"High resolution, sharp vector edges\",\n    \"file_characteristics\": {\n      \"compression_artifacts\": \"Low\",\n      \"noise_level\": \"None\",\n      \"lens_type_estimation\": \"Standard portrait look (35–50mm equivalent)\"\n    }\n  },\n  \"global_context\": {\n    \"scene_description\": \"A full-body studio portrait of a young man in a dynamic, confident pose against a solid bright blue background. The image blends realistic photography with white hand-drawn vector doodles and abstract blue liquid shapes, creating a modern street-art editorial look.\",\n    \"environment_type\": \"Studio / Graphic Design Composition\",\n    \"atmosphere\": \"Energetic, urban, creative, cool\",\n    \"lighting\": {\n      \"source\": \"Artificial studio lighting\",\n      \"direction\": \"Front-right dominant\",\n      \"quality\": \"Soft and diffused\",\n      \"color_temperature\": \"Neutral white\"\n    },\n    \"color_palette\": {\n      \"dominant_colors\": [\n        \"Bright blue background\",\n        \"Deep blue clothing\",\n        \"White graphic accents\"\n      ],\n      \"contrast_level\": \"High\"\n    }\n  },\n  \"composition\": {\n    \"camera_angle\": \"Low-angle, slightly upward\",\n    \"framing\": \"Full body (head to toe)\",\n    \"depth_of_field\": \"Deep focus\",\n    \"focal_point\": \"Face and upper torso\",\n    \"balance\": \"Asymmetrical with graphics filling negative space\"\n  },\n  \"subject\": {\n    \"identity_source\": \"Attached reference image\",\n    \"gender\": \"Male\",\n    \"pose\": \"Standing with relaxed confidence, body angled slightly right, head tilted slightly left, one hand raised near the face, legs casually crossed\",\n    \"expression\": \"Neutral, confident, calm\",\n    \"face_constraints\": {\n      \"glasses\": \"Round black eyeglasses\",\n      \"facial_hair\": \"Trimmed beard\",\n      \"hair\": \"Short, slightly tousled\",\n      \"must_match_reference\": true\n    }\n  },\n  \"wardrobe\": {\n    \"style\": \"Monochromatic blue streetwear\",\n    \"upper_body\": \"Blue fleece-style jacket worn open\",\n    \"inner_layer\": \"Blue t-shirt with large white abstract graphic symbol\",\n    \"lower_body\": \"Dark blue denim jeans with visible white contrast stitching and rolled cuffs\",\n    \"footwear\": \"Clean white low-top sneakers\"\n  },\n  \"graphic_elements\": {\n    \"style\": \"Hand-drawn white vector doodles\",\n    \"elements\": [\n      \"Microphone outline near raised hand\",\n      \"Boombox line-art floating to the side\",\n      \"Radiating sound or motion lines around head\",\n      \"Cracked ground illustration beneath feet\"\n    ],\n    \"background_graphics\": \"Abstract blue liquid shapes layered behind the subject\"\n  },\n  \"background_details\": {\n    \"color\": \"Solid bright blue\",\n    \"texture\": \"Flat, uniform\",\n    \"lighting_behavior\": \"Even, shadow-free background\"\n  },\n  \"reconstruction_notes\": {\n    \"mandatory\": [\n      \"Exact facial identity match from reference image\",\n      \"Full-body pose\",\n      \"Blue-on-blue color harmony\",\n      \"White doodle overlays\",\n      \"Sharp separation between photo and vector layers\"\n    ],\n    \"do_not_copy_from_reference\": [\n      \"Clothing\",\n      \"Pose\",\n      \"Lighting\",\n      \"Background\"\n    ],\n    \"intended_use\": \"High-impact editorial image or start frame for image-to-video animation\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2018611988553752643/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2018611988553752643",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-03T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "32b7e7af-961c-4d3a-aa96-1af261e3c168",
+    "prompt": "{\n  \"type\": \"image_generation_prompt\",\n  \"style\": \"photorealistic cinematic street photography, documentary aesthetic\",\n  \"resolution\": \"ultra-high resolution\",\n  \"identity_preservation\": {\n    \"use_reference_image\": true,\n    \"alter_face\": false,\n    \"strict_identity_lock\": true,\n    \"notes\": \"Use the uploaded reference image as the compositional base. Replace the central character with the woman from the reference image, preserving exact facial structure, skin texture, lighting direction, shadows, depth of field, angle, and emotional expression. No distortions, no artifacts, no skin tone mismatch.\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"appearance\": {\n      \"hair\": \"bald (as in the original composition)\",\n      \"age\": \"adult\",\n      \"expression\": \"calm, introspective, emotionally neutral\",\n      \"skin\": \"realistic texture with natural pores and tones\"\n    },\n    \"pose\": {\n      \"position\": \"standing still in the center of a busy urban crosswalk\",\n      \"action\": \"gently smelling a flower held near the face\",\n      \"posture\": \"upright, relaxed, perfectly static\"\n    },\n    \"wardrobe\": {\n      \"outerwear\": \"dark minimalist blazer\",\n      \"top\": \"black shirt\"\n    }\n  },\n  \"environment\": {\n    \"location\": \"busy urban pedestrian crosswalk\",\n    \"atmosphere\": \"metropolitan street scene\",\n    \"crowd\": {\n      \"behavior\": \"people moving rapidly around the subject\",\n      \"effect\": \"motion blur from long exposure\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"natural daylight\",\n    \"conditions\": \"overcast sky\",\n    \"quality\": \"soft, diffused light\",\n    \"effects\": [\n      \"realistic skin tones\",\n      \"no artificial highlights\",\n      \"natural shadows\"\n    ]\n  },\n  \"cinematic_effects\": {\n    \"long_exposure\": true,\n    \"subject_clarity\": \"central subject perfectly sharp\",\n    \"surroundings\": \"crowd blurred with motion\",\n    \"mood\": \"isolation and stillness amid chaos\"\n  },\n  \"color_grading\": {\n    \"palette\": [\n      \"cool grays\",\n      \"muted browns\",\n      \"soft blacks\"\n    ],\n    \"saturation\": \"desaturated\",\n    \"style\": \"professional cinematic grading\"\n  },\n  \"camera\": {\n    \"lens_look\": \"85mm\",\n    \"depth_of_field\": \"shallow\",\n    \"grain\": \"realistic film grain\",\n    \"perspective\": \"identical to original reference image\"\n  },\n  \"quality_constraints\": [\n    \"no facial deformation\",\n    \"no AI artifacts\",\n    \"no artificial lighting effects\",\n    \"perfect facial integration\",\n    \"consistent shadows and perspective\"\n  ],\n  \"output_goal\": \"Create a photorealistic, cinematic street photograph featuring a woman standing still in a busy crosswalk, smelling a flower, with long-exposure motion blur around her, preserving the exact realism, lighting, depth, and emotional tone of the original reference image.\"\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2003500034239938642/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝗦𝗮𝗻𝗶𝗮",
+      "author_url": "https://x.com/saniaspeaks_",
+      "license": "MIT",
+      "original_id": "2003500034239938642",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3b29a0e3-10a6-48d9-ac2b-9744b472e33d",
+    "prompt": "Ultra-realistic photo featuring a young man (insert user’s photo) in perfect detail, preserving 100% of his facial features, wearing warm winter clothing suitable for the penguins’ icy habitat (thick jacket, scarf, gloves, beanie). The man is interacting naturally with penguins in their snowy and icy environment (snow, ice, rocks, frozen water reflections).\nInclude natural and spontaneous photo poses:\n– sitting on a rock while touching a penguin",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2015264060754080239/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2015264060754080239",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b2d5a1dd-de41-4c3c-ac65-0c1e3e824730",
+    "prompt": "Transform this image [UPLOAD YOUR IMAGE] into a 64K DSLR-quality shot resolution Ultra-hyperrealistic cinematic Create a photorealistic, beauty portrait in a vertical 4:5 frame, captured as a tight close-up to extreme close-up. The framing focuses primarily on the face - from just above the forehead to slightly below the lips — with minimal negative space. The camera is positioned mid-close to the subject (same face as the uploaded",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2022898659336298658/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Professor",
+      "author_url": "https://x.com/Professor_134",
+      "license": "MIT",
+      "original_id": "2022898659336298658",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-15T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9b598dec-25dd-4ed2-a5bf-f92578edfe4e",
+    "prompt": "A futuristic cyber-aesthetic portrait of a young woman wearing glowing neon-yellow glasses, with luminous mathematical equations projected across her face and jacket. Soft bokeh blue lights in the background create a high-tech atmosphereHyper-realistic detail, sharp eyes, smooth skin, and vivid color contrast. Sci-fi digital-glow style, immersive and modern.\" Her expression is calm and focused. The lighting is vibrant and cinematic, with reflections on the glasses and warm yellow highlights on her clothing.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2014990545345810674/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2014990545345810674",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "706c08f4-4c46-4eda-a93c-4c9394c67431",
+    "prompt": "A cinematic, ultra-realistic advertising shot of a man holding a Lay’s [FLAVOR NAME] chips packet in his hand.\nThe packet color, branding, and typography are perfectly accurate to Lay’s official design.\nThe man’s outfit color, texture, and style match the packet theme (same color palette and mood), modern and stylish, premium fashion look.\nHis pose is confident and natural, hand clearly gripping the Lay’s packet in the foreground.\nBackground environment matches the flavor theme — spices, ingredients, atmosphere, and lighting inspired by the flavor (for example: fiery spices for masala, fresh greens for sour cream, smoky tones for barbecue).\nChips are flying in slow motion around the scene with realistic motion blur and seasoning particles in the air.\nDramatic golden-hour lighting, cinematic depth of field, sharp focus on the packet, soft background bokeh.\nHyper-realistic textures, commercial food photography, high contrast, rich colors, ultra-detailed, 8K quality, professional brand advertisement style.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2012714937089749208/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2012714937089749208",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-18T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "49eee74f-4498-4635-a18b-be1afe8cb10d",
+    "prompt": "{\n  \"image_type\": \"portrait\",\n  \"generation_quality\": \"8K ultra-high resolution\",\n  \"realism_level\": \"photorealistic\",\n  \"subject\": {\n    \"human_presence\": true,\n    \"gender_presentation\": \"feminine\",\n    \"age_appearance\": \"young adult\",\n    \"visible_pose\": {\n      \"head_position\": \"slightly tilted\",\n      \"hand_position\": \"one hand raised touching hair near the side of the head\",\n      \"shoulder_visibility\": \"upper torso visible\"\n    },\n    \"facial_expression\": {\n      \"mouth\": \"slightly parted lips\",\n      \"expression\": \"neutral to soft, relaxed\",\n      \"gaze_direction\": \"looking directly toward the camera\"\n    }\n  },\n  \"face_details\": {\n    \"face_shape\": \"oval\",\n    \"skin_texture\": \"smooth with visible natural skin texture\",\n    \"skin_finish\": \"soft matte with subtle highlights\",\n    \"cheeks\": \"natural blush visible\",\n    \"nose\": {\n      \"shape\": \"straight\",\n      \"size\": \"medium\",\n      \"tip\": \"softly rounded\"\n    },\n    \"lips\": {\n      \"shape\": \"full\",\n      \"color\": \"muted warm rose / nude\",\n      \"texture\": \"matte finish\"\n    },\n    \"jawline\": \"softly defined\",\n    \"chin\": \"rounded\"\n  },\n  \"eyes\": {\n    \"shape\": \"almond-shaped\",\n    \"eye_color\": \"appears green or hazel under lighting\",\n    \"eyelids\": \"natural crease visible\",\n    \"lashes\": \"natural, not exaggerated\",\n    \"eyebrows\": {\n      \"shape\": \"well-groomed, natural arch\",\n      \"density\": \"medium-full\",\n      \"color\": \"dark brown\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"medium to dark brown\",\n    \"length\": \"short to medium\",\n    \"texture\": \"wavy\",\n    \"style\": \"loose, slightly tousled\",\n    \"parting\": \"off-center\",\n    \"movement\": \"some strands falling across the forehead and partially covering one eye\",\n    \"shine\": \"natural sheen visible\"\n  },\n  \"makeup\": {\n    \"foundation\": \"natural, skin-like\",\n    \"blush\": \"soft peach-pink\",\n    \"lip_product\": \"matte lipstick\",\n    \"eye_makeup\": \"minimal, natural enhancement\",\n    \"overall_style\": \"clean, understated, realistic\"\n  },\n  \"clothing\": {\n    \"garment_type\": \"button-up shirt\",\n    \"fit\": \"relaxed fit\",\n    \"fabric_appearance\": \"lightweight fabric\",\n    \"pattern\": \"abstract floral or ornamental pattern\",\n    \"color_palette\": {\n      \"primary\": \"dark navy or charcoal\",\n      \"secondary\": \"off-white or light beige\"\n    },\n    \"buttons\": {\n      \"visibility\": \"visible\",\n      \"color\": \"light neutral\"\n    },\n    \"collar\": \"standard pointed collar\"\n  },\n  \"lighting\": {\n    \"type\": \"natural light\",\n    \"direction\": \"side lighting\",\n    \"contrast\": \"soft to medium contrast\",\n    \"highlights\": \"gentle highlights on cheekbones, nose, and lips\",\n    \"shadows\": \"soft shadows adding depth to facial contours\"\n  },\n  \"background\": {\n    \"type\": \"out-of-focus\",\n    \"style\": \"minimal, neutral\",\n    \"colors\": \"dark gray and muted tones\",\n    \"depth_of_field\": \"shallow\",\n    \"distractions\": \"none visible\"\n  },\n  \"camera_and_composition\": {\n    \"framing\": \"close-up portrait\",\n    \"angle\": \"eye-level\",\n    \"focus\": \"sharp focus on face\",\n    \"bokeh\": \"soft background blur\",\n    \"crop\": \"head and upper torso\"\n  },\n  \"overall_aesthetic\": {\n    \"mood\": \"calm, intimate\",\n    \"style\": \"editorial portrait photography\",\n    \"visual_cleanliness\": \"high\",\n    \"artifacts\": \"none visible\",\n    \"post_processing\": \"minimal, natural color grading\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008370131815342380/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2008370131815342380",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-06T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fe23d0be-991f-46ad-a59c-dd5e08c044ce",
+    "prompt": "{\n  \"render_goal\": \"Create a hyper-realistic, cinematic portrait with a rugged outdoor adventure aesthetic\",\n  \"subject\": {\n    \"gender\": \"male\",\n    \"age_range\": \"mid-to-late 20s\",\n    \"appearance\": {\n      \"hair\": \"textured, windswept\",\n      \"beard\": \"short, well-groomed\",\n      \"facial_features\": \"sharp, chiseled\",\n      \"expression\": \"intense, serious\"\n    },\n    \"skin_detail\": \"ultra-detailed, natural texture with realistic tones\"\n  },\n  \"wardrobe\": {\n    \"outerwear\": \"worn dark leather jacket\",\n    \"details\": \"visible stitching, rugged texture\"\n  },\n  \"environment\": {\n    \"location\": \"outdoor mountain landscape\",\n    \"background\": {\n      \"mountains\": \"misty, fog-covered\",\n      \"trees\": \"dark evergreen forest fading into distance\",\n      \"atmosphere\": \"dense atmospheric fog\"\n    }\n  },\n  \"lighting_and_color\": {\n    \"lighting_style\": \"moody, cinematic\",\n    \"light_source\": \"soft overcast daylight\",\n    \"shadows\": \"dramatic but natural\",\n    \"color_palette\": \"cool, desaturated tones\"\n  },\n  \"camera_settings\": {\n    \"lens\": \"85mm\",\n    \"aperture\": \"f/1.8\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"razor-sharp on subject, blurred background\"\n  },\n  \"photography_style\": {\n    \"quality\": \"professional photography\",\n    \"realism_level\": \"hyper-realistic\",\n    \"details\": \"high micro-detail, crisp textures, cinematic contrast\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2001888275724984383/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Johnn",
+      "author_url": "https://x.com/john_my07",
+      "license": "MIT",
+      "original_id": "2001888275724984383",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "47e5ee66-1380-4a44-af1a-9afe46d3f51c",
+    "prompt": "Ultra-realistic, glossy magazine-style portrait of a young male model, bald, with a stem, rugged expression and defined facial texture (pores, stubble shadows, subtle scars). Camera at shoe level (very low angle), wide-angle perspective, model tilted toward the lens, leaning forward and holding a Pepsi can extremely close to the camera - can label perfectly facing viewer and crisply legible with realistic metal reflections. Wearing a red Adidas tracksuit with visible Adidas logo and clean white sneakers, one foot stepped forward in the foreground. Urban USSR 1990s street environment: weathered concrete, vintage shop signs, old cars, period graffiti, small puddles. Bright sunny daytime with strong direct sunlight casting sharp cinematic shadows, warm sunlight highlights, slight wet reflections on asphalt and subtle water splashes near shoes for dynamism. Shallow depth of field (pin-sharp on face and can, creamy bokeh), ultra high detail, high contrast, vivid colors, warm sunlight with subtle teal-orange grade. Commercial editorial retouching style but preserving skin texture, enhanced clarity on label and metal, realistic specular highlights, natural micro-contrast. Composition: Pepsi can prominent in right foreground, eye-line slightly above center, negative space for masthead/logo--v 7 --style raw --quality 2 --ar 9:16 --chaos 3 --stylize 499-weird 99--exp 50",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2029064691482542266/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Harboriis",
+      "author_url": "https://x.com/harboriis",
+      "license": "MIT",
+      "original_id": "2029064691482542266",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c5b3f4d2-4f87-467b-a34d-922f1e9427a2",
+    "prompt": "Ultra-realistic cinematic studio portrait using provided person only. Subject wears black cyberpunk hoodie fully covered in bright glowing neon-orange circuit lines and illuminated zipper, hood up, hands in pockets, three-quarter pose facing right, head slightly down. Round shutter glasses with glowing orange bars. Dramatic studio lighting, glow casting light spill. Smooth dark-to-burnt orange gradient background. Style locked.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2026603084760363062/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2026603084760363062",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fced6195-2370-443e-aacc-a3e4593b8512",
+    "prompt": "Create an ultra-photorealistic cinematic portrait of a man viewed from a slightly low angle looking upward with a confident, powerful expression. Generate his face using the uploaded portrait photo. The composition is a tight upper-body portrait with the head tilted slightly upward, emphasizing the jawline and beard structure.\nThe background is a smooth vibrant studio\ngradient transitioning between deep orange and warm red tones, creating a\ndramatic modern aesthetic. Use strong cinematic dual-color lighting: warm\nred/orange light from one side and cool teal/blue rim lighting from the\nopposite side to create striking contrast across the face and beard. The man\nis wearing a futuristic white oversized puffer jacket with large quilted sections\nand a high protective collar. The jacket should look premium and modern with\nrealistic fabric folds, padded insulation volume, and subtle material sheen\nsimilar to high-end technical winter fashion. Add extremely detailed textures:\nvisible skin pores, beard hair strands, subtle facial imperfections, realistic lip\ntexture, micro skin reflections, and detailed hair follicles. The sunglasses\nshould have thin metal frames with realistic reflections and slightly tinted\nlenses reflecting the colored lighting. The white puffer jacket must show\ndetailed stitching, fabric grain, padded segments, and realistic light interaction\nacross the material. Lighting should create soft shadows, strong color\ncontrast, and dramatic highlights across the face, beard, glasses, and jacket.\nMaintain sharp focus on the subject with studio-quality depth and clarity.\nUltra photorealistic portrait photography, cinematic studio lighting, hyper-\ndetailed textures, 8K detail, premium editorial fashion portrait, extremely\nrealistic skin and fabric materials.\nAdd a subtle handwritten text in the bottom-right corner that reads \"Created by Naik\", elegant fashion-editorial signature style, thin white ink, slightly transparent, like a photographer's signature on a luxury magazine shoot.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2036271660765159675/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2036271660765159675",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c4af7763-eaad-41b0-a088-ab3854ded41c",
+    "prompt": "{\n  \"prompt_type\": \"beauty_editorial_collage\",\n  \"layout\": {\n    \"structure\": \"4-panel split-screen grid\",\n    \"dividers\": \"Thick white diagonal borders\",\n    \"style\": \"Modern magazine spread aesthetic\"\n  },\n  \"subject\": {\n    \"demographic\": \"Young woman\",\n    \"aesthetic\": \"Clean girl / K-beauty influence\",\n    \"features\": {\n      \"skin\": \"Flawless, dewy, 'glass skin' texture, high luminosity\",\n      \"hair\": \"Short brown bob cut with wispy bangs, smooth texture\",\n      \"eyes\": \"Soft grey/hazel contacts\"\n    }\n  },\n  \"makeup\": {\n    \"style\": \"No-makeup makeup look\",\n    \"details\": [\n      \"Soft rosy blush high on cheeks\",\n      \"Glossy pink lip tint\",\n      \"Groomed natural fluffy brows\",\n      \"Subtle mascara\"\n    ]\n  },\n  \"attire_and_accessories\": {\n    \"headwear\": \"Brown houndstooth pattern newsboy cap (Baker boy hat)\",\n    \"jewelry\": \"Small delicate gold butterfly stud earrings, thin gold chain necklace\"\n  },\n  \"panel_composition\": {\n    \"top_left\": \"Close-up 3/4 angle, focus on cheek highlight and earring\",\n    \"top_right\": \"Direct front-facing portrait, symmetrical composition\",\n    \"bottom_left\": \"Portrait with hat, 3/4 turn, looking at camera\",\n    \"bottom_right\": \"Extreme close-up side profile, cropping into face\"\n  },\n  \"technical_specs\": {\n    \"resolution\": \"8K\",\n    \"lighting\": \"Soft commercial studio lighting, ring light reflection in eyes\",\n    \"color_grading\": \"Desaturated background, warm skin tones, high contrast\",\n    \"style\": \"High-end beauty photography, hyper-realistic\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2016088856077205937/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2016088856077205937",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fd487d38-fd53-4ddd-a40a-6e7e85405f14",
+    "prompt": "{\n  \"type\": \"image_generation_prompt\",\n  \"language\": \"en\",\n  \"style\": \"realistic smartphone photography, vibrant sports atmosphere\",\n  \"aspect_ratio\": \"3:4\",\n  \"identity_preservation\": {\n    \"use_reference_image\": true,\n    \"strict_identity_lock\": true,\n    \"alter_face\": false,\n    \"alter_features\": false,\n    \"notes\": \"Use the uploaded reference photo. Preserve 100% of the woman’s facial features, proportions, skin texture, hair, and identity.\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"pose\": {\n      \"type\": \"selfie-style pose\",\n      \"orientation\": \"facing the camera\",\n      \"action\": \"static moment, as if pausing to take a selfie\"\n    },\n    \"expression\": \"serious, confident, and admiring\",\n    \"appearance\": {\n      \"hair\": \"unchanged from reference image\",\n      \"accessories\": [\n        \"aviator-style sunglasses with gold frame\",\n        \"diamond stud earring in the right ear\",\n        \"silver chain necklace with a pendant\"\n      ]\n    },\n    \"wardrobe\": {\n      \"top\": \"official FC Barcelona jersey with Spotify sponsorship\"\n    }\n  },\n  \"composition\": {\n    \"framing\": \"centered composition\",\n    \"foreground\": \"woman occupying the first plane\",\n    \"background\": \"football stadium and crowd\",\n    \"perspective\": \"first-person selfie perspective\"\n  },\n  \"environment\": {\n    \"location\": \"packed football stadium\",\n    \"elements\": [\n      \"vibrant green football pitch\",\n      \"crowded stands full of fans\",\n      \"energetic stadium atmosphere\"\n    ],\n    \"weather\": \"cloudy sky\",\n    \"mood\": \"excitement, celebration, pride\"\n  },\n  \"lighting\": {\n    \"type\": \"natural daylight\",\n    \"conditions\": \"bright but diffused due to cloudy sky\",\n    \"effects\": [\n      \"vivid colors\",\n      \"balanced exposure\",\n      \"clear facial details\"\n    ]\n  },\n  \"camera\": {\n    \"device_style\": \"smartphone rear camera\",\n    \"shot_type\": \"selfie-style medium close-up\",\n    \"focus\": \"sharp focus on the subject with slightly softened background\",\n    \"quality\": \"high sharpness and clarity\"\n  },\n  \"quality\": {\n    \"realism\": \"highly realistic\",\n    \"color\": \"vibrant and true-to-life\",\n    \"detail_level\": \"clear textures on clothing, face, and stadium\"\n  },\n  \"constraints\": [\n    \"Do not alter facial features\",\n    \"No stylization or artistic filters\",\n    \"No distortion of body or face\",\n    \"No text overlays or watermarks\",\n    \"Maintain realistic proportions and lighting\"\n  ],\n  \"output_goal\": \"Create a realistic, selfie-style photo of a woman wearing a Barcelona jersey in front of a packed football stadium, preserving her exact facial identity and conveying pride and admiration within a vibrant match-day atmosphere.\"\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2010667809014264132/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝗦𝗮𝗻𝗶𝗮",
+      "author_url": "https://x.com/saniaspeaks_",
+      "license": "MIT",
+      "original_id": "2010667809014264132",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-12T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b31de8d0-5444-4691-a3ce-2952c6c89bde",
+    "prompt": "Japanese negative film aesthetic, rooftop summer scene, soft natural sunlight, slight overexposure highlights, low contrast, muted faded colors, subtle grain  subject standing or sitting on rooftop edge area, body relaxed, slight wind moving hair and clothes, looking toward camera with calm distant gaze, not posing  open sky, empty space, minimal elements, imperfect composition, quiet isolated mood, nostalgic and reflective, “memory-like realism” --2:3",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047631839406297325/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "BubbleBrain",
+      "author_url": "https://x.com/BubbleBrain",
+      "license": "MIT",
+      "original_id": "2047631839406297325",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "f21bff56-77d2-46cd-af62-149486998d4d",
+    "prompt": "Create a cinematic, high-fashion half-length portrait of me with a dreamy editorial vibe.\nUse multi-exposure blur for ghosting and vertical streaks.\nSet against a blue gradient background\n(#0033A0 to #66CCFF), the subject wears an oversized white T-shirt.\nApply high-contrast lighting (cool blue wash + orange/yellow edge highlights) for a futuristic glow.\nExpression: neutral/introspective, eyes softly lit.\nSimulate 50-85mm lens at f/1.8 with shallow dep r field\nEnhance with motion blur and chromatic separation, keeping central details sharp.\nAim for a surreal, digital-youth mood blending minimalism and light play.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2015623609533026575/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2015623609533026575",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-26T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b9b8627e-4db4-415b-a4cd-d69f21d6dea5",
+    "prompt": "青蛇小青写真大片，绿色紧身蛇鳞裙，湿发红唇，妖娆妩媚",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046924538643107922/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "松果先森",
+      "author_url": "https://x.com/songguoxiansen",
+      "license": "MIT",
+      "original_id": "2046924538643107922",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "0b8c1d45-155f-41a5-a3ff-7c0d9c950361",
+    "prompt": "Fantastic digital painting of a young man with high detail, smooth shading, and sharp, bold lines. He stands in a powerful victory pose with his arms outstretched, confident and fearless expression. A brilliantly blended background with swirling smoke and flame like energy effects surrounds him. Neon sparks radiate from his body, creating a vibrant, glowing aura with cinematic lighting and dramatic contrast.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2020464744197693597/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Harboriis",
+      "author_url": "https://x.com/harboriis",
+      "license": "MIT",
+      "original_id": "2020464744197693597",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-08T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9e56cbc1-63be-459c-a3a7-c4b737ca10ae",
+    "prompt": "{\n  \"type\": \"image_generation_prompt\",\n  \"style\": \"Polaroid-style candid photography\",\n  \"camera_style\": {\n    \"camera\": \"Polaroid instant camera\",\n    \"look\": \"ordinary snapshot\",\n    \"effects\": [\n      \"slight blur\",\n      \"soft focus\",\n      \"flash-lit dark room glow\",\n      \"light scattering from on-camera flash\",\n      \"subtle film grain\",\n      \"slight exposure falloff\"\n    ]\n  },\n  \"identity_preservation\": {\n    \"use_reference_images\": true,\n    \"strict_identity_lock\": true,\n    \"alter_face\": false,\n    \"notes\": \"Do not change or distort either person’s facial features, expressions, or proportions.\"\n  },\n  \"subjects\": [\n    {\n      \"gender\": \"female\",\n      \"identity\": \"user\",\n      \"pose\": \"cute, casual pose standing close to the boy\",\n      \"prop\": \"holding a burger\",\n      \"expression\": \"natural, playful, candid\"\n    },\n    {\n      \"gender\": \"male\",\n      \"identity\": \"boy from reference\",\n      \"pose\": \"cute, relaxed pose next to the girl\",\n      \"prop\": \"holding a red Coca-Cola can\",\n      \"expression\": \"natural, playful, candid\"\n    }\n  ],\n  \"interaction\": {\n    \"relationship\": \"friendly and cute\",\n    \"body_language\": \"standing close together, relaxed, slightly leaning toward each other\"\n  },\n  \"environment\": {\n    \"background\": \"plain white curtains\",\n    \"location\": \"indoor room\",\n    \"lighting\": {\n      \"type\": \"single on-camera flash\",\n      \"quality\": \"consistent, frontal flash lighting\",\n      \"mood\": \"cozy, intimate, nostalgic\"\n    }\n  },\n  \"composition\": {\n    \"framing\": \"medium shot\",\n    \"angle\": \"eye-level\",\n    \"balance\": \"centered, casual snapshot composition\"\n  },\n  \"aesthetic\": {\n    \"vibe\": \"cute, nostalgic, intimate\",\n    \"era_feel\": \"classic instant film look\",\n    \"imperfections\": [\n      \"minor blur\",\n      \"soft edges\",\n      \"natural exposure inconsistencies\"\n    ]\n  },\n  \"constraints\": [\n    \"No change to faces\",\n    \"No dramatic posing\",\n    \"No artificial glamour or studio look\",\n    \"No text or watermarks\",\n    \"Must look like a real Polaroid photo\"\n  ],\n  \"output_goal\": \"Create a realistic Polaroid-style instant photo of a boy and girl posing cutely together indoors, with white curtains behind them, flash-lit from a dark room, the boy holding a red Coca-Cola can and the girl holding a burger, maintaining an authentic, nostalgic snapshot feel.\"\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2006946255709340062/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝗦𝗮𝗻𝗶𝗮",
+      "author_url": "https://x.com/saniaspeaks_",
+      "license": "MIT",
+      "original_id": "2006946255709340062",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9ef89767-5b52-4fe6-ac44-e9d19e722e2d",
+    "prompt": "Convert this image into a dramatic, stylized portrait (use the same face as the uploaded photo), 9:16 aspect ratio, featuring a dark, almost silhouetted figure in profile looking to the left. The background is a deep electric blue. Intense black and sapphire paint splashes burst outward from the head and shoulders, creating powerful motion energy. Ultra-sharp lighting, cinematic contrast, HD photo.\nSignature: DUET",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2015406181804843044/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2015406181804843044",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "26b66917-b1f5-4024-af0e-16c4e119cae0",
+    "prompt": "Low-angle close-up portrait of a platinum blonde woman wearing oversized sculptural sunglasses crafted from delicate translucent layered flower petals in vibrant magenta, amber, and lilac hues, subtle silk texture visible in each petal with soft golden light passing through the edges, an extravagant couture choker necklace constructed from densely layered matching petals wrapping seamlessly around her entire neck with dimensional depth and organic curvature, her chin slightly lifted with a confident sculpted jawline, subtle freckles dusted across the bridge of her nose, naturally hydrated glossy lips with a soft highlight along the cupid’s bow, fine platinum hair strands gently lifted by a warm breeze with delicate motion at the ends, standing against a softly textured architectural backdrop of warm terracotta walls washed in golden sunset light with cascading lilac bougainvillea and amber-toned stone details, background melting into creamy magenta and lavender bokeh with soft atmospheric glow, rich golden hour sunlight illuminating her face evenly with gentle shadow contouring, warm reflected light from terracotta surfaces enhancing skin luminosity, faint rim light outlining her hair and shoulders, ultra-photorealistic high-fashion editorial photography, cinematic jewel-toned color grading balancing amber highlights with soft lilac shadows and magenta accents, shallow depth of field with elegant telephoto compression, razor-sharp focus on eyelashes and petal contours, shot on Sony A1, 70–200mm lens at 135mm, f/2, ISO 125, 1/1000s, professional editorial sharpness, museum-quality detail, vertical 2:3 composition with eye aligned along upper third\n\n–ar 2:3 –v 6 –s 900 –q 3 –style raw –no text, harsh shadows, lens distortion, oversaturation, artifacts, artificial glow",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2023256749310988332/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2023256749310988332",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-16T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e1ed9ecb-8e52-4bb0-ac83-6cb054badc31",
+    "prompt": "A luxury [BRAND] brand advertisement featuring three stylish [ATHLETES / MODELS / PEOPLE] arranged in a single horizontal 1×3 grid, each posed in their own separate architectural window frame.\n\nComposition & framing:\n3 vertical window niches aligned side-by-side horizontally, Each character shown in a waist-up mid-shot, Fully inside the frame, with hands and props naturally breaking the bottom/side frame edges, No legs or lower body visible, hands anatomically correct, no missing fingers, no deformed limbs. All 3 frames must be fully visible, no cropping at the top or bottom, Clean, symmetrical, editorial alignment, consistent camera perspective, photorealistic fashion photography, DSLR, 85mm lens, shallow depth of field, natural skin texture, real pores, realistic fabric texture\n\nCharacter slots (left to right):\n[CHARACTER 1] wearing [OUTFIT 1], holding [OBJECT 1], in [POSE/ACTION 1], [EXPRESSION 1], [ACCESSORIES 1].\n[CHARACTER 2] wearing [OUTFIT 2], holding [OBJECT 2] or doing [GESTURE 2], hands centered, breaking the frame edge outward (not sideways), [EXPRESSION 2], [ACCESSORIES 2].\n[CHARACTER 3] wearing [OUTFIT 3], holding/carrying [OBJECT 3], projecting [VIBE 3], [EXPRESSION 3], [ACCESSORIES 3].\n\nStyle:\nAuthentic [BRAND] premium styling, couture-inspired detailing, expressive editorial fashion poses, glamorous, iconic, fashion-forward campaign vibe.\n\nBackdrop & materials:\nElegant [BACKGROUND COLOR + MATERIAL] wall backdrop with subtle textures, refined architectural detailing, premium finish.\n\nLighting & camera:\nHigh-fashion bright studio lighting, soft shadows, high contrast contours, realistic reflections, commercial studio photography, no CGI, no illustration, crisp product highlights. Aspect ratio & layout control: Ultra-wide horizontal composition, 1×3 grid, all three niches visible, balanced spacing.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2004219626897465419/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ΛRMIN | AI",
+      "author_url": "https://x.com/Arminn_Ai",
+      "license": "MIT",
+      "original_id": "2004219626897465419",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "586a05da-a6e6-4387-a2ed-1d5949e1fdfe",
+    "prompt": "A dramatic ultra-realistic portrait of a woman shown in extreme close-up, only half of her face visible. Her skin is painted with bold tribal markings in deep red, navy blue, and muted earth tones, layered with rough textures and symbolic patterns. One striking light-blue eye is sharply in focus, conveying strength, resilience, and quiet intensity. She wears weathered fabric and woven textiles around her head, with frayed edges and smallwooden beads, suggesting ancient or nomadic culture. Cinematic lighting with soft shadows, shallow depth of field, dark neutral background, hyper-detailed skin texture, painterly realism, 8K quality, editorial poster style, moody and powerful atmosphere.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2015094660725940712/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2015094660725940712",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "5c1d1381-fe19-4149-a965-df52db14d2d5",
+    "prompt": "Fashion photography, professional man model, shot with Canon eos r3, 50mm f/1.2 rf lens, f/2.8 settings, 1/160s, iso 1600, gradient neon violet, streetwear style, holographic effect on wear, luminescent sneaker soles, dark backdrop with deep purple atmospheric lighting, professional studio setup with two led strip lights at floor level and one overhead softbox, cyberpunk aesthetic, side profile active pose with silhouette, dramatic contrast, ultra sharp details, photorealistic quality, rich detailing",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2026182718435066073/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Harboriis",
+      "author_url": "https://x.com/harboriis",
+      "license": "MIT",
+      "original_id": "2026182718435066073",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d48eb072-c02a-4c32-a09a-b7e5d2f653bb",
+    "prompt": "{\n  \"image_type\": \"studio fashion portrait\",\n  \"resolution_target\": \"8K ultra high definition\",\n  \"orientation\": \"vertical\",\n  \"framing\": {\n    \"shot_type\": \"full body shot\",\n    \"camera_angle\": \"straight-on, eye-level\",\n    \"subject_position\": \"centered\",\n    \"cropping\": \"head to feet fully visible\"\n  },\n  \"subject\": {\n    \"count\": 1,\n    \"gender_presentation\": \"female-presenting\",\n    \"pose\": {\n      \"body_orientation\": \"facing forward\",\n      \"weight_distribution\": \"weight shifted to one leg\",\n      \"legs\": {\n        \"front_leg\": \"slightly bent at the knee\",\n        \"back_leg\": \"extended, supporting balance\",\n        \"visibility\": \"one leg partially exposed through dress slit\"\n      },\n      \"arms\": {\n        \"left_arm\": \"bent with hand resting on hip\",\n        \"right_arm\": \"raised with hand touching hair near head\"\n      },\n      \"posture\": \"upright, relaxed, confident stance\"\n    },\n    \"facial_features\": {\n      \"expression\": \"neutral to soft confident expression\",\n      \"eyes\": \"open, looking directly at camera\",\n      \"eyebrows\": \"well-defined\",\n      \"lips\": \"full, slightly parted\",\n      \"makeup\": {\n        \"foundation\": \"smooth, even-toned\",\n        \"blush\": \"subtle\",\n        \"lip_color\": \"soft pink\",\n        \"eye_makeup\": \"defined lashes, neutral tones\"\n      }\n    },\n    \"hair\": {\n      \"color\": \"dark brown\",\n      \"length\": \"long\",\n      \"texture\": \"slightly wavy\",\n      \"styling\": \"loose, flowing\",\n      \"bangs\": \"short fringe across forehead\"\n    },\n    \"skin\": {\n      \"tone\": \"light to medium\",\n      \"texture\": \"smooth, evenly lit\"\n    }\n  },\n  \"clothing\": {\n    \"dress\": {\n      \"type\": \"evening gown\",\n      \"length\": \"floor length\",\n      \"fit\": \"fitted bodice, flowing skirt\",\n      \"neckline\": \"asymmetrical single-strap\",\n      \"strap\": {\n        \"count\": 1,\n        \"placement\": \"over one shoulder\"\n      },\n      \"pattern\": \"snake-skin inspired geometric pattern\",\n      \"primary_color\": \"green\",\n      \"secondary_colors\": [\"white\", \"light mint green\"],\n      \"fabric\": {\n        \"bodice\": \"structured, patterned fabric\",\n        \"skirt\": \"sheer, lightweight, flowing fabric\"\n      },\n      \"slit\": {\n        \"presence\": true,\n        \"location\": \"front side\",\n        \"height\": \"upper thigh\"\n      },\n      \"hemline\": \"uneven, flowing with layered folds\"\n    },\n    \"footwear\": {\n      \"type\": \"high-heeled sandals\",\n      \"color\": \"matching green\",\n      \"heel_style\": \"thin heel\",\n      \"details\": \"decorative floral or bow-like embellishment on front strap\",\n      \"toe_style\": \"open-toe\"\n    },\n    \"accessories\": {\n      \"visible_jewelry\": \"none clearly visible\",\n      \"other_accessories\": \"none visible\"\n    }\n  },\n  \"background\": {\n    \"type\": \"studio backdrop\",\n    \"color_palette\": [\"teal\", \"green\"],\n    \"texture\": \"soft, cloudy gradient\",\n    \"pattern\": \"non-uniform, painterly\",\n    \"depth\": \"flat backdrop with subtle tonal variation\"\n  },\n  \"lighting\": {\n    \"style\": \"studio lighting\",\n    \"key_light\": \"soft frontal light\",\n    \"fill_light\": \"even fill reducing harsh shadows\",\n    \"shadows\": \"minimal, soft\",\n    \"highlights\": \"gentle highlights on face and dress texture\",\n    \"overall_exposure\": \"balanced\"\n  },\n  \"color_balance\": {\n    \"dominant_colors\": [\"green\", \"teal\"],\n    \"contrast\": \"moderate\",\n    \"saturation\": \"medium to slightly high\",\n    \"color_harmony\": \"monochromatic green tones\"\n  },\n  \"image_quality\": {\n    \"sharpness\": \"high\",\n    \"clarity\": \"clean and crisp\",\n    \"noise\": \"none visible\",\n    \"focus\": \"sharp across entire subject\"\n  },\n  \"style_tags\": [\"fashion photography\", \"studio portrait\", \"elegant\", \"glamour\", \"high fashion\", \"editorial\"],\n  \"ai_generation_notes\": {\n    \"do_not_add\": [\"extra jewelry\", \"additional subjects\", \"background objects\", \"props\", \"text\", \"logos\"]\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2005820511801254047/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2005820511801254047",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-30T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9bc61a88-1b56-4390-a3be-3c56bf2c941e",
+    "prompt": "Create a high-end promotional poster for International Women's Day, designed as a luxury editorial campaign seamlessly blending photorealistic studio photography with sophisticated modern graphic design.\nIdentity Matching (Critical): Strictly reference the uploaded image for precise face and identity matching. Preserve the exact facial structure, proportions, skin tone, hairstyle, and natural expression with full fidelity — the subject must remain clearly and unmistakably recognizable throughout.\nComposition & Framing: Vertical 4:5 poster format. Three-quarter seated portrait with mid-thigh framing, subject occupying 30–40% of the frame. Subject is positioned slightly left of center, creating intentional visual breathing room on the right for the sculptural element. Editorial balance is paramount.\nSubject & Pose: A confident woman with natural wavy hair cascading over one shoulder with soft studio shine. She sits upright yet relaxed in a modern plush red velvet armchair angled slightly toward camera — right leg crossed over left, hands resting softly on her knee, fingers elegant and relaxed. Shoulders are open and confident. Head tilted gently toward camera with a warm, natural smile conveying strength and inspiration. She wears a minimalist tailored white pantsuit — structured blazer, matching trousers, and a clean white blouse beneath — creating bold contrast against the red environment.\nSymbolic Element: Behind and slightly right of the subject stands a large transparent acrylic/glass sculpture in the shape of the number \"8\" (referencing March 8th), nearly matching the subject's seated height. The structure features clean reflective edges with soft studio highlights emphasizing its transparency. Lush floral arrangements cascade organically along its curves — deep red roses, soft pink peonies, delicate light pink blossoms, and natural green leaves — clustered naturally toward the middle and lower sections of the numeral.\nBackground: Rich monochromatic red studio environment. Wall and floor merge into a seamless smooth red gradient backdrop with a subtle floor reflection anchoring the composition. The red velvet chair blends into the environment while remaining distinct through lighting and fabric texture.\nTypography: Elegant, modern poster typography integrated into the layout —\nTop left: Clean uppercase white sans-serif text: \"SHE IS STRENGTH, / COURAGE, AND / INSPIRATION / EVERY DAY\"\nLower section: Small uppercase label: \"HAPPY INTERNATIONAL WOMEN'S DAY\"\nMain headline: Very large bold white block letters spelling \"WOMAN\" spanning the lower frame, overlaid with a stylized red handwritten script \"Woman\" crossing diagonally for a dynamic graphic contrast\nBottom center: \"08 . MARCH\" in wide-tracked minimalist type\nLighting: Professional three-point studio setup — soft frontal key light for flawless skin tones, gentle fill light eliminating harsh shadows, and a subtle rim light sculpting the subject and chair. The glass number 8 catches sharp highlights along its edges.\nVisual Effects & Finish: Subtle cinematic prism lens flares and soft rainbow light leaks in the corners and lower foreground for editorial luxury depth. Shallow depth of field keeps the subject and floral sculpture razor sharp while the red background fades into a smooth gradient. Vibrant cinematic color grading, high-end digital compositing polish.\nRender Quality: 8K ultra-high resolution. Photorealistic. Luxury advertising aesthetic. No repeated titles or duplicate text elements",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2030675663095820332/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2030675663095820332",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-08T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "86a1b325-7a46-41d2-a78c-da00f1cd4a79",
+    "prompt": "A cinematic flash-photography shot viewed through a rain-streaked car window at night. Inside a vintage black car, a chic Asian woman with long dark hair wears bright red cat-eye sunglasses, large hoop earrings, and a fuzzy green sweater. She has glossy red lipstick and is posing coolly. Sitting next to her on the maroon leather seat is a large, fluffy orange tabby cat wearing a red bandana. The background features blurred city streetlights and bokeh in green and teal tones. High-contrast lighting, Wong Kar-wai aesthetic, retro 90s fashion vibe, realistic texture, film grain, 35mm photography.\",\n  \"elements\": {\n    \"subject\": {\n      \"human\": \"Young Asian woman, trendy, red cat-eye sunglasses, green fuzzy sweater, hoop earrings, glossy red lips\",\n      \"animal\": \"Fluffy orange tabby cat, Maine Coon mix, red bandana, calm expression\"\n    },\n    \"environment\": \"Inside vintage car, night time, city street, rain on glass, street lights\",\n    \"lighting\": \"Direct flash, atmospheric street lighting, bokeh background, high contrast shadows\",\n    \"style\": \"Cinematic, retro 90s, Hong Kong cinema style, film photography, lo-fi aesthetic, candid\"\n  },\n  \"negative_prompt\": \"blurry, low resolution, cartoon, illustration, 3d render, drawing, distorted features, bad anatomy, missing limbs, text, watermark, daylight, bright sun\",\n  \"technical_settings\": {\n    \"aspect_ratio\": \"9:16\",\n    \"film_stock\": \"Kodak Portra 800\",\n    \"camera_angle\": \"Eye-level, shot through glass\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2017162200230797327/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2017162200230797327",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-30T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "4dda7e7c-992b-497d-a03b-413a4624117f",
+    "prompt": "A hyper-realistic iPhone RAW photo, vertical 9:16 ratio, candid street photography style with natural daylight, no filter, no cinematic grading, realistic color balance, Pinterest-style artsy realism.\nThe camera angle MUST MATCH THE REFERENCE IMAGE EXACTLY: a slightly elevated wide-angle perspective looking down toward a zebra crosswalk, similar to a street-level overhead shot, capturing the full crosswalk lines horizontally with the subject positioned at the center and symmetrically surrounded by characters, maintaining the exact spatial relationship and perspective of the reference photo. A young adult man with an athletic and naturally fit build is walking forward mid-step on the zebra crossing, body orientation, walking direction, and pose following the reference precisely, expression calm, neutral, and candid as if casually crossing the street, not posing. Outfit consists of fashionable casual streetwear with relaxed silhouettes: an oversized jacket in earthy muted tones such as brown, olive, or charcoal, a simple inner shirt, loose straight-cut trousers, and clean minimalist sneakers, creating an effortless modern daily-wear look that supports the calm surreal theme. Props include multiple Popmart Skullpanda characters in fluffy costumes placed around the subject in the SAME formation, spacing, and positioning as the reference image, each Skullpanda featuring soft plush textures, rounded proportions, and varied colors, appearing to walk alongside the human subject on the crosswalk. The location is an empty urban street with a clearly visible zebra crossing, realistic asphalt texture with subtle grain and natural wear, no traffic, no extra people, and an identical street layout perspective to the reference. Camera and composition are wide shot and full-body framing with no portrait crop, handheld but steady feel with slight natural imperfections, realistic depth of field keeping both subject and surrounding characters in focus, matching reference scale and depth. Lighting is natural daylight from above with soft consistent shadows on the ground, balanced exposure, no harsh sunlight, and no dramatic contrast. Skin texture is realistic and human, smooth yet visibly porous with natural highlights and subtle imperfections, no airbrushing, no plastic or CGI skin. Negative prompt: different camera angle, low angle, eye-level shot, close-up portrait, cinematic lighting, HDR, oversharpening, overly smooth skin, CGI look, 3D render, cartoon human, face alteration, distorted anatomy, text, watermark, logo.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2011274988700205370/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2011274988700205370",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-14T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fe74c604-69ca-4c40-a35b-18f96a134378",
+    "prompt": "Portrait of a 21-year-old man of appearance with masculine facial features and white hair styled with a wet look. The camera angle is slightly from the side and below. Neutral facial expression, very light gray background. Orange-red glowing light and abstract luminous lines around the head, passing through the face and neck, creating a dynamic and high-tech effect. Futuristic atmosphere, professional lighting, emphasis on details. Saturated colors, the left side of the face is illuminated, the right side is in shadow. Highly detailed, high-quality photograph in a modern style",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2017514445321474551/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Harboriis",
+      "author_url": "https://x.com/harboriis",
+      "license": "MIT",
+      "original_id": "2017514445321474551",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-31T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "5ecb2c99-04d3-4ad6-aabf-37fb1a761bfd",
+    "prompt": "{\n  \"image_type\": \"portrait_photography\",\n  \"resolution_target\": \"8K UHD\",\n  \"aspect_ratio\": \"vertical\",\n  \"frame_composition\": {\n    \"crop\": \"mid-chest to head\",\n    \"orientation\": \"portrait\",\n    \"subject_position\": \"centered\",\n    \"camera_angle\": \"eye-level\",\n    \"perspective\": \"straight-on\"\n  },\n  \"subject\": {\n    \"gender_presentation\": \"female\",\n    \"age_appearance\": \"young adult\",\n    \"face\": {\n      \"shape\": \"oval\",\n      \"skin_tone\": \"fair with neutral undertone\",\n      \"skin_texture\": \"smooth, natural, visible realism, no heavy retouching\",\n      \"facial_features\": {\n        \"eyes\": {\n          \"color\": \"light blue-green\",\n          \"shape\": \"almond-shaped\",\n          \"gaze_direction\": \"directly toward camera\",\n          \"eyelids\": \"slightly relaxed\",\n          \"eyelashes\": \"natural length, not exaggerated\"\n        },\n        \"eyebrows\": {\n          \"color\": \"dark brown\",\n          \"thickness\": \"medium\",\n          \"shape\": \"soft natural arch\"\n        },\n        \"nose\": {\n          \"shape\": \"straight\",\n          \"size\": \"proportionate\",\n          \"bridge\": \"smooth\"\n        },\n        \"lips\": {\n          \"color\": \"soft natural pink\",\n          \"fullness\": \"medium to full\",\n          \"state\": \"slightly parted\"\n        }\n      },\n      \"expression\": \"neutral, calm, composed\"\n    },\n    \"hair\": {\n      \"color\": \"dark brown\",\n      \"length\": \"short to medium\",\n      \"style\": \"loose, slightly wavy\",\n      \"movement\": \"wind-blown strands crossing face\",\n      \"parting\": \"natural, unstructured\"\n    }\n  },\n  \"clothing\": {\n    \"outerwear\": {\n      \"type\": \"coat\",\n      \"color\": \"deep royal blue\",\n      \"material_appearance\": \"wool or felt-like texture\",\n      \"fit\": \"structured but relaxed\",\n      \"visible_details\": \"clean seams, minimal design\"\n    },\n    \"accessory\": {\n      \"type\": \"scarf\",\n      \"color\": \"matching royal blue\",\n      \"material_appearance\": \"soft, fabric texture\",\n      \"placement\": \"wrapped loosely around neck\"\n    }\n  },\n  \"color_palette\": {\n    \"dominant_colors\": [\n      \"royal blue\",\n      \"deep blue\",\n      \"soft skin tones\"\n    ],\n    \"contrast\": \"high contrast between blue clothing and lighter skin\",\n    \"color_temperature\": \"cool\"\n  },\n  \"lighting\": {\n    \"type\": \"natural light\",\n    \"direction\": \"frontal with slight side softness\",\n    \"intensity\": \"moderate\",\n    \"shadows\": \"soft, minimal harsh shadows\",\n    \"highlights\": \"subtle highlights on cheekbones and lips\"\n  },\n  \"background\": {\n    \"environment\": \"open outdoor setting\",\n    \"elements\": \"blurred horizon line, blue gradient background\",\n    \"depth_of_field\": \"shallow\",\n    \"background_detail\": \"intentionally out of focus\",\n    \"color\": \"blue gradient resembling sky and distant water\"\n  },\n  \"image_style\": {\n    \"realism\": \"high realism with subtle AI polish\",\n    \"sharpness\": \"high facial detail\",\n    \"texture_detail\": \"visible fabric texture and skin detail\",\n    \"noise\": \"minimal\",\n    \"post_processing\": \"clean color grading, no heavy filters\"\n  },\n  \"mood\": {\n    \"overall_feel\": \"calm, serene, minimalistic\",\n    \"visual_energy\": \"soft and composed\"\n  },\n  \"generation_constraints\": {\n    \"preserve_original_composition\": true,\n    \"preserve_subject_structure\": true,\n    \"no_face_alteration\": true,\n    \"no_style_assumptions\": true,\n    \"do_not_change_image_size\": true\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2005107364203298875/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2005107364203298875",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "4aed7295-830c-44ad-aaa4-928b7e9b5c79",
+    "prompt": "Create an infographic image of [LANDMARK], combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “[LANDMARK]” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. \nStyle: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007809144397648042/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2007809144397648042",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "f38501ce-f268-4bd9-af3c-b67481bf1d3f",
+    "prompt": "editorial portrait, Korean female idol, subtly sensual  outfit: silk shirt or soft fabric top, slightly loose, elegant and flowing  pose: body slightly turned away, face partially visible, one hand near collar or neck  expression: soft but unreadable, eyes partially hidden  lighting: strong directional light (window light), casting shadows across face and body  background: dark or minimal interior  composition: partial visibility, half-lit face, shadow covering features  mood: mysterious, intimate, quiet tension  style: cinematic editorial, light and shadow storytelling  sensuality: created through concealment and ambiguity --3:2",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048600232577933720/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "BubbleBrain",
+      "author_url": "https://x.com/BubbleBrain",
+      "license": "MIT",
+      "original_id": "2048600232577933720",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "cafaeb20-a4a0-47ed-a038-22a13684430e",
+    "prompt": "ultra-realistic IMAX-grade cinematic action shot, extreme high-angle perspective looking down from a massive height, 9:16 vertical aspect ratio, a man or woman matching the exact reference face and hairstyle climbing the side of a modern glass skyscraper, body stretched dynamically across the reflective facade, positioned on the right side of the frame, one leg raised gripping the glass while the other is bent for support, both palms pressed tightly against the glass surface creating tension and realism, wearing futuristic clear-framed glasses with subtle reflections, outfit: premium black fitted t-shirt, black tactical pants, futuristic black gloves with protective padding and bright green LED accents glowing softly, black tactical climbing boots with gold detailing and strong grip texture, a sleek black vest or harness securely fitted over the torso adding realism and safety gear detail, expression: determined and slightly tense with focused eyes and head slightly tilted forward, face lock: maintain exact facial structure, proportions, skin tone, hairstyle, and identity from reference with 100% accuracy, preserve micro-details and natural imperfections, no beautification, facial rendering: soft natural skin with visible pores, smooth tonal transitions, subtle subsurface scattering, no smoothing or artificial glow, environment: towering skyscraper with ultra-reflective glass panels showing the subject’s shadow, sky reflections, and a detailed cityscape far below including intricate walkways, a lush green circular park, and distant street traffic with tiny moving cars, strong sense of depth and scale, lighting: bright natural daylight casting sharp directional shadows, high contrast reflections on glass surface, crisp highlights with controlled roll-off, color science: ultra-clean cinematic color grading with high color separation, natural saturation, deep contrast, HDR dynamic range preserving both sky and ground detail, lens: full-frame Sony A7R, 24mm wide-angle lens to exaggerate height and perspective, sharp foreground subject with slight depth falloff into the city below, realism: extreme photorealistic detail, realistic reflections, natural perspective distortion, micro-contrast textures, no HDR overprocessing, no artificial sharpening\nnegative prompt: distorted face, changed identity, altered hairstyle, flat lighting, dull colors, unrealistic reflections, floating pose, weak grip, plastic skin, over-smooth face, beauty filter effect, low detail, noise artifacts, color banding, extra limbs, incorrect anatomy, blurry subject",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047276802620411960/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Gopal Tiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "license": "MIT",
+      "original_id": "2047276802620411960",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "6e73b593-a050-414c-ae61-4761c9865c1f",
+    "prompt": "Create a dark, high‑contrast poster with a moody, underground club aesthetic. The composition features a monochrome portrait of a young woman from the chest up, shot from a slightly low angle for attitude and power. She wears large over‑ear headphones and reflective round sunglasses with warm amber‑gold lenses that stand out vividly against the black‑and‑white portrait. One hand is raised near her head, the other near her chin, creating a dynamic, expressive pose associated with music immersion. Behind her head is a large flat golden‑yellow circular shape, like a spotlight, creating a strong focal point and visual contrast. The background is deep black with subtle grunge textures, dust, scratches, and poster‑wear imperfections, giving it a raw, printed‑flyer feel. Use 4:5 aspect ratio.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048586749778293129/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Sarah",
+      "author_url": "https://x.com/SyntheSarah",
+      "license": "MIT",
+      "original_id": "2048586749778293129",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "81cd5f6b-929e-468b-a6aa-29dba7faff08",
+    "prompt": "A 3x3 grid storyboard contact sheet comprised of nine candid, cinematic movie stills showing a continuous sequence of a young man, approximately 20-25 years old. He has tousled brown hair and a youthful, expressive face, clean-shaven. Across all nine panels, he is consistently wearing a brown short-sleeved linen button-down shirt and is seated at a wooden dining table during a family dinner. The panels show varied natural actions: gesturing with his hands while animatedly talking, laughing, eating lasagna from a large dish, listening intently, and smiling. The environment is a warm, cozy home dining room with a wooden hutch filled with china and patterned wallpaper visible in the background. The lighting is soft, warm tungsten evening light creating natural shadows. The shots are a mix of medium angles and close-ups with a shallow depth of field, rendered with a film photography aesthetic and slight grain.",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2001975468577403099/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Oogie",
+      "author_url": "https://x.com/oggii_0",
+      "license": "MIT",
+      "original_id": "2001975468577403099",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ce6c5dd2-6c03-4bde-aab8-a9171aa9210c",
+    "prompt": "A soft-focus dream photograph of a [subject] in a [setting], seen through translucent fabric and [atmospheric element], delicate silhouettes, desaturated [color1] and [color2] palette, diffused light, intimate mood, ethereal editorial atmosphere",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047631914769756180/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Amira Zairi",
+      "author_url": "https://x.com/azed_ai",
+      "license": "MIT",
+      "original_id": "2047631914769756180",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "2e8075fb-45f3-4d71-a86f-bb6687c0461e",
+    "prompt": "{\n  \"objective\": \"Generate a hyper-realistic black and white street fashion photograph with selective color accents.\",\n  \"image_type\": \"photography\",\n  \"prompt\": {\n    \"subject\": \"A stylish, confident woman crossing a busy city intersection\",\n    \"wardrobe\": {\n      \"outerwear\": \"Oversized blazer in neutral tone\",\n      \"innerwear\": \"Bright red fitted top (selective color)\",\n      \"bottoms\": \"Loose tailored trousers in neutral tone\",\n      \"accessories\": [\n        \"Bright red leather clutch in hand\",\n        \"Bright red sunglasses\"\n      ]\n    },\n    \"action_motion\": \"Walking briskly toward the camera, hair flowing backward due to motion, blazer and trousers moving naturally\",\n    \"scene\": \"Busy urban crosswalk with pedestrians and cars motion-blurred in the background\",\n    \"perspective\": \"Frontal tracking shot at waist level\",\n    \"style\": [\n      \"High-end street fashion\",\n      \"Paparazzi aesthetic\",\n      \"Editorial candid\",\n      \"Dynamic movement photography\"\n    ],\n    \"visual_details\": [\n      \"Realistic fabric physics\",\n      \"Detailed hair movement\",\n      \"Sharp facial features\",\n      \"Asphalt road texture\",\n      \"Motion blur on background crowd\",\n      \"Bokeh city lights\"\n    ],\n    \"mood\": [\n      \"Confident\",\n      \"Cosmopolitan\",\n      \"Urgent\",\n      \"Powerful\"\n    ]\n  },\n  \"camera_and_composition\": {\n    \"angle\": \"Waist-level\",\n    \"framing\": \"Subject centered, background expanding outward with motion blur\",\n    \"depth_of_field\": \"Shallow depth of field isolating the subject\"\n  },\n  \"lighting\": {\n    \"type\": \"Natural backlight with rim lighting\",\n    \"contrast\": \"High contrast emphasizing silhouette and edges\"\n  },\n  \"post_processing\": {\n    \"color_mode\": \"Black and white with selective red color accents only on innerwear, sunglasses, and clutch bag\",\n    \"effects\": [\n      \"Subtle lens flare\",\n      \"Vintage film stock emulation\",\n      \"High micro-contrast\",\n      \"Film grain texture\"\n    ]\n  },\n  \"negative_prompt\": [\n    \"Posed studio look\",\n    \"Empty street\",\n    \"Static posture\",\n    \"Low realism\",\n    \"Full color image\",\n    \"Overexposed highlights\",\n    \"Flat lighting\"\n  ],\n  \"output_quality\": {\n    \"resolution\": \"Ultra high resolution\",\n    \"detail_level\": \"Maximum photorealism\",\n    \"sharpness\": \"Crisp subject, soft background\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2003075417305928072/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2003075417305928072",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "f03783f4-34d6-448b-a9df-1dfe4ddef656",
+    "prompt": "Create a hyper-realistic, stylish vertical poster featuring a smartphone lying on a table, transformed into a hockey rink. The screen resembles cracked ice with deep fissures, while tiny hockey players compete in an intense game Use diffused daylight with elegant reflections and refractions to enhance depth. Add realistic details like fingerprints, smudges, and subtle scratches on the phone's surface for authenticity. Craft a dynamic perspective with an intriguing camera angle-slightly tilted for dramatic effect. The image should look like a high-quality DSLR photograph, with sharp focus, rich textures, and cinematic lighting to amplify the surreal yet lifelike atmosphere",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007711515458318421/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝐌",
+      "author_url": "https://x.com/Strength04_X",
+      "license": "MIT",
+      "original_id": "2007711515458318421",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "96363c23-1fbf-472f-ae0e-1714e40d56b3",
+    "prompt": "A high-quality, candid street photography shot of a stylish young woman with short wavy brown hair. She is wearing a maroon cardigan, oversized beige denim cargo pants, and a maroon baseball cap. She has large white over-ear headphones around her ears and a black quilted shoulder bag with a small plush dog keychain hanging from it.Same face as in reference",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2013755199643603392/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2013755199643603392",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-20T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "df38f940-0ce3-4362-ae9b-ec7f23267098",
+    "prompt": "description: \"A clean, aesthetic 3x3 collage portrait showcasing different men's hairstyles. The same young man is captured in each frame, positioned in consistent lighting and pose, creating a style comparison grid.\",\n\n  \"subject\": {\n    \"type\": \"young man\",\n    \"age\": \"early 20s\",\n    \"skin_tone\": \"medium with smooth texture\",\n    \"facial_features\": \"sharp jawline, well-groomed beard stubble, symmetrical face\",\n    \"expression\": \"neutral and confident\"\n  },\n\n  \"hairstyles\": [\n    \"clean shaved buzz cut\",\n    \"slicked back classic hairstyle\",\n    \"medium wavy long hair\",\n    \"short textured fringe\",\n    \"voluminous messy hairstyle\",\n    \"man bun\",\n    \"cornrow braids\",\n    \"side swept modern fade\",\n    \"tight curly textured cut\"\n  ],\n\n  \"environment\": {\n    \"location\": \"outdoor courtyard with white architecture arches\",\n    \"lighting\": \"soft sunset golden-hour lighting\",\n    \"background\": \"slightly blurred but clean and minimal\"\n  },\n\n  \"camera\": {\n    \"shot\": \"shoulder-level portrait\",\n    \"angle\": \"eye-level\",\n    \"lens\": \"standard lens (50mm)\",\n    \"composition\": \"consistent framing for all nine shots\"\n  },\n\n  \"wardrobe\": {\n    \"top\": \"plain fitted white t-shirt\",\n    \"style\": \"minimal, clean, modern\"\n  },\n\n  \"mood\": [\n    \"stylish\",\n    \"fresh\",\n    \"groomed\",\n    \"aesthetic\"\n  ]\n}",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2001987275119538341/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2001987275119538341",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "51f3f25e-6ea6-4b2e-af1b-dbed8a39ef01",
+    "prompt": "Higgsfield just dropped GPT Image 1.5 — I tried the \"impossible\" test everyone thought would fail:\n1⃣ Pure anime illustration only\n2⃣ Extract every clothing item while keeping anime style\n3⃣ Take those flat 2D clothes\n4⃣ Dress a 100% photorealistic girl with them\nNo LoRA. No training. Just one simple prompt.\n\nResult: pleats fold like real fabric, cardigan has actual weight, socks compress naturally. \nGPT Image 1.5 doesn’t just copy styles — it truly understands clothing physics and materials. Anime uniform on a real human. For real. My brain is broken 🤯✨\n#Higgsfield #gptimage",
+    "model": "gpt-image",
+    "category": "cinematic",
+    "difficulty": "intermediate",
+    "tags": [
+      "Photography"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2002023740490784993/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "CHAO2U AI",
+      "author_url": "https://x.com/CHAO2U_AI",
+      "license": "MIT",
+      "original_id": "2002023740490784993",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  }
+]

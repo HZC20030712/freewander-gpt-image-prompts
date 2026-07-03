@@ -1,0 +1,2333 @@
+[
+  {
+    "id": "ec8a97b2-a231-4f84-a53f-9c75fe218a17",
+    "prompt": "请根据[主题]自动生成一张[博物馆图鉴式中文拆解信息图]。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据[主题]自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写\n- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2045504669401653414/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Larus Canus",
+      "author_url": "https://x.com/MrLarus",
+      "license": "MIT",
+      "original_id": "2045504669401653414",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-18T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "91eedee2-c903-43b7-ae41-6d84f60b97a7",
+    "prompt": "生成一张[餐饮品牌触点矩阵]系列视觉图，用于展示一个完整的餐饮品牌视觉系统与包装应用方案。\n\n这是一个面向餐饮行业的品牌VI样机展示板 / 包装系统陈列图 / 品牌提案页。画面不是单张宣传海报，而是将品牌主视觉、主打产品、包装物料、菜单信息、促销内容与小型延展物料整合成一张系统化品牌展示图。\n\n【用户输入信息】\n- 品牌名：[品牌名]\n- 经营类目：[经营类目]\n\n【可选补充信息】\n- 主打产品：[主打产品]\n- 品牌口号：[品牌口号]\n- 风格方向：[风格方向]\n- 主色调：[主色调]\n- 辅助色：[辅助色]\n- 客群定位：[客群定位]\n- 价格定位：[价格定位]\n- 地域风格：[地域风格]\n- 画幅比例：[画幅比例]\n\n【自动补全规则】\n如果用户没有提供完整品牌信息，请根据【品牌名】与【经营类目】自动推导并完成最优组合，包括：\n1. 判断品牌调性（年轻、亲和、国潮、复古、清新、治愈、精致、快餐感等）\n2. 匹配适合该类目的视觉风格\n3. 自动设定合理的主色、辅助色与点缀色\n4. 自动补全主打产品与辅助产品\n5. 自动生成适合餐饮传播的品牌口号、卖点文案、价格信息与推荐标签\n6. 自动匹配合适的餐饮物料类型与展示内容\n\n【画面内容要求】\n画面中应围绕【品牌名】构建一整套餐饮品牌物料系统，包含但不限于以下内容：\n- 核心包装：手提袋、外卖袋、包装盒、打包盒、纸袋、塑料袋\n- 饮品 / 食品容器：纸杯、杯套、碗、餐盒、封口贴、标签\n- 信息传播物料：菜单、促销海报、价格牌、桌牌、立牌、小卡片\n- 小型品牌延展：贴纸、徽章、纸巾、餐具、包装封条、吊牌\n- 产品表现：主打餐品照片、单品主视觉、食物特写、切面图、推荐组合图\n\n【构图与版式要求】\n采用竖版【画幅比例】构图，整体为白色、米白色或浅灰色背景，以品牌提案板 / 样机矩阵板的方式组织画面。\n通过大中小物料混排形成视觉层级：\n- 大型包装和主视觉物料作为视觉锚点\n- 中型菜单、海报和价格模块负责信息传达\n- 小型贴纸、餐具、标签与周边物料增强系统完整度\n\n整体构图应具有明确秩序感，接近品牌方案展示页、作品集陈列页、包装提案页的视觉效果。元素要排列整齐但不呆板，丰富但不杂乱，具有模块化与可阅读性。\n\n【风格与质感要求】\n整体风格应符合【经营类目】与【品牌名】气质，具有明显的餐饮品牌感、商业传播感、样机展示感与系统设计感。\n可融合以下风格倾向：现代简洁、国潮趣味、轻复古、生活方式感、快消感、温暖治愈感、年轻化传播感。\n材质真实，包含纸张、塑料、布袋、包装盒、杯体、贴纸、餐具等真实物料质感；光影柔和统一，像在干净摄影棚环境中拍摄的品牌物料合集。\n\n【文字与图形要求】\n所有物料上应统一出现品牌名、Logo、品牌符号、主色块、口号或卖点文案。\n文案可为中文或中英混排，但要符合餐饮传播表达，简洁直接，具备商品售卖感。\n图形系统可以根据品牌调性选择简洁插画、几何图形、卡通吉祥物、符号化图标或辅助纹样，用于增强品牌记忆点。\n\n【输出目标】\n最终生成一张完整的【品牌名】餐饮品牌视觉系统展示图，像设计团队为该餐饮品牌制作的整套品牌提案样机板。\n要求画面统一、精致、具备商业落地感与作品集展示质量，并能清楚体现品牌风格、主打类目与多触点包装延展能力。\n\nMake the aspect ratio 9:16",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048360321379701233/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Larus Canus",
+      "author_url": "https://x.com/MrLarus",
+      "license": "MIT",
+      "original_id": "2048360321379701233",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-26T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8c858f15-7941-47b4-a0e3-a1125a1d656b",
+    "prompt": "Create a complete visual worldbuilding set for a futuristic desert civilization powered by solar technology, multiple images including architecture, characters, clothing, vehicles, and maps, cohesive design language, cinematic realism, ultra detailed.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046866168208916503/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Aleena Amir",
+      "author_url": "https://x.com/aleenaamiir",
+      "license": "MIT",
+      "original_id": "2046866168208916503",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a248b107-9631-4cc9-a1db-a42026e186a2",
+    "prompt": "[INPUT IMAGE: USER_PHOTO] Use the person in the input image as the ONLY subject. Preserve their identity and facial features clearly.\n\nCreate a hyper-realistic high-fashion editorial photo inside a surreal 3D geometric “color box” room (a hollow cube / tilted cube set). Each render MUST randomly choose:\n1) a bold single-color box (monochrome environment, vivid and saturated),\n2) a dynamic “cool” fashion pose (gravity-defying or extreme stretch / leap / sideways bracing against the walls),\n3) a dramatic camera angle (wide-angle 24–35mm equivalent, tilted horizon, strong perspective).\n\nThe subject appears full-body and sharp, wearing an avant-garde fashion styling that feels modern and editorial (clean silhouette, stylish layering, premium fabric texture). Keep clothing tasteful and fashion-forward. The subject’s pose should feel athletic, stylish, and unusual—like a magazine campaign shot.\n\nLighting: studio quality, crisp and cinematic; strong key light with controlled soft shadows, subtle rim light; realistic reflections and bounce light from the colored walls. Ultra-detailed skin texture, natural pores, realistic fabric weave, clean edges, high dynamic range. \nComposition: subject centered with plenty of negative space and strong geometric lines; the box perspective frames the subject. \nColor: the box color is a SINGLE bold color and MUST be different each run (random vivid hue). The subject’s outfit contrasts well with the box color.\n\nOutput: hyper-real, photorealistic, 8k detail, editorial campaign quality, sharp focus on subject, no motion blur, no distortion of face, natural proportions.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2017598696678895882/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Saman | AI",
+      "author_url": "https://x.com/Samann_ai",
+      "license": "MIT",
+      "original_id": "2017598696678895882",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-31T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b816dc11-00d9-4762-a72d-ac69444e177e",
+    "prompt": "武则天同款皇后内衣广告大片，明黄底色龙纹刺绣，大红丝绸飘带衬托\n",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047215501798244570/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "松果先森",
+      "author_url": "https://x.com/songguoxiansen",
+      "license": "MIT",
+      "original_id": "2047215501798244570",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d342b949-465b-491c-ae9b-856d1e215533",
+    "prompt": "请根据【主题】生成一张高质量竖版「科普百科图」。 \n\n这张图不是普通海报，也不是单纯插画，而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。\n\n请让画面包含：\n- 一个清晰漂亮的主题主视觉\n- 若干局部特征放大细节\n- 多个圆角模块化信息分区\n- 清楚的标题层级与重点标签\n- 简洁但丰富的百科内容\n- 可视化评分、要点总结或Top 5模块\n\n内容栏目请根据主题自动适配，优先从这些方向中选择并合理组合：\n基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。\n\n视觉要求：\n浅色干净背景，柔和配色，轻阴影，精致小图标，圆角信息框，整洁排版，信息密度高但不拥挤，阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡，而不是广告图。\n\n请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046231542817497392/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Larus Canus",
+      "author_url": "https://x.com/MrLarus",
+      "license": "MIT",
+      "original_id": "2046231542817497392",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-20T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "13f307ab-7423-41de-affa-6525e3a2df08",
+    "prompt": "4:5 vertical social poster, ultra high resolution, 8K\n\nSCENE / BACKGROUND:\nFlat racing yellow with subtle gradient (light → deep amber)\nGrain texture 2–3%\nSoft rectangular overlays at 3% opacity\n\nPRODUCT:\nPorsche 911 GT3 RS\nGloss yellow with carbon details\nRear 3/4 angle, slightly elevated\nWing dominant\n\nPosition:\nRight of center\n\nTYPOGRAPHY:\n“PORSCHE”\nUltra tall, condensed, stretched\nDeep charcoal\n\nSecondary:\n“PORSCHE 911 GT3 RS”\n\nEDITORIAL:\n“Porsche — Where Precision Meets Passion”\n\nFocus:\nengineering, obsession, track DNA\n\nFADED TEXT:\n“GT3 RS” at 3–5%\n\nSPECS:\n386 kW / 525 PS\n3.2 s\n296 km/h\n\nLIGHTING:\nClean studio, sharp highlights\n\nMOOD:\nPrecision.\nIconic.\nTimeless performance.\n\nFORMAT:\n4:5 vertical social poster, ultra high resolution, 8K, print-quality sharpness\n\nSCENE / BACKGROUND:\nFlat, high-saturation BMW blue background\n\nGradient:\nTop → slightly lighter electric blue\nBottom → deep navy blue\n\nSurface:\n- Subtle grain texture (2–3%)\n- Faint rectangular overlays (2–4% opacity)\n- Clean, graphic — no realism\n\nShadow:\nSoft contact shadow under car\n\nPRODUCT (CAR):\nBMW M4 CSL\n\nColor:\nMatte frozen blue / deep metallic navy\n\nAngle:\nRear 3/4 perspective (IMPORTANT — match Porsche angle for consistency)\nSlightly elevated camera\n\nPosition:\nSlightly right of center\n\nDetails:\n- Carbon roof visible\n- Aggressive diffuser\n- Sharp reflections\n- Subtle brake detail\n\nCOMPOSITION:\nIDENTICAL to Porsche:\nTop → branding\nMiddle → giant type\nCenter → car overlap\nBottom → editorial + specs\n\nTYPOGRAPHY:\n\nPRIMARY:\n“BMW”\n\nStyle:\nUltra condensed bold sans serif\nTall vertical scaling (same as Porsche)\n\nColor:\nDeep navy / near black\n\nBehavior:\nStatic (NO distortion — unlike previous version)\nActs as structural backdrop\n\nSECONDARY HEADER:\n“BMW M4 CSL”\nThin, wide tracking\n\nLOGO AREA:\nBMW roundel centered above\n\nEDITORIAL BLOCK:\n\nHeadline:\n“BMW — Where Driving Becomes Instinct”\n\nBody:\nFocus on:\n- driver connection\n- control\n- performance precision\n\nBoxed layout, same structure as Porsche\n\nFADED TEXT:\n“CSL” large, 3–5% opacity behind box\n\nBOTTOM LEFT:\n“M4 CSL”\n\nBOTTOM RIGHT SPECS:\n\n405 kW / 550 PS\n3.4 s\n307 km/h\n\nLIGHTING:\nClean studio lighting\nSharp but controlled highlights\n\nCOLOR GRADING:\nDeep blues, high contrast, clean blacks\n\nCAMERA:\n50mm, slightly elevated rear 3/4\n\nMOOD:\nPerformance.\nPrecision.\nDriver focus.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047986905896427670/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2047986905896427670",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "de130424-43d0-405a-aa98-7713153dee01",
+    "prompt": "生成一张适合小红书发布的 3:4 竖版九宫格海报，整体为 3列 × 3行 排版，九个宫格边界清晰，方便后期直接切割成 9 张单图发布。整体风格干净、高级、统一，适合女性向健康生活方式内容，具有小红书爆款封面气质。画面要求 信息排版清晰、文字大、可读性强、留白舒服、配色温柔治愈。\n\n整体视觉风格：\n奶油白、浅米色、淡燕麦色、浅焦糖色为主色调，搭配少量深棕色文字，ins风、治愈感、睡眠疗愈主题，简约排版，轻拟物插画点缀，可加入枕头、月亮、星星、热牛奶、香薰、书本、眼罩、窗帘、床铺等元素。整体像专业新媒体设计图，字体工整，适合做知识科普类小红书九宫格。\n排版要求：\n\n整张图必须是标准九宫格构图，切分后每一格都能独立成图\n\n每个宫格内容完整居中，不要把标题或正文压在分割线附近\n每个格子之间保留明显间隔或细边框，保证裁切后不影响阅读\n所有文字使用中文，清晰易读，不要乱码，不要英文\n每个宫格都像独立的小红书图文卡片，但视觉风格保持统一\n画面精致、真实、自然，不要廉价营销感，不要过度花哨\n九宫格具体内容：\n\n第1格（封面）\n大标题：让你倒头就睡的8个 tips\n副标题：失眠党、熬夜党一定要收藏\n封面视觉最吸睛，适合做首图，加入柔软床铺、月亮、枕头、眼罩等治愈睡眠元素，标题突出，排版高级。\n\n第2格\n标题：1. 睡前1小时别玩手机\n正文：蓝光会让大脑更清醒，越刷越睡不着。\n配图元素：手机、月亮、困倦表情的小插画\n第3格\n标题：2. 睡前把灯光调暗\n正文：暖光环境能帮助身体进入“准备睡觉”的状态。\n配图元素：床头灯、暖黄色灯光、窗帘\n第4格\n标题：3. 房间温度别太高\n正文：稍微凉一点，更容易快速入睡。\n配图元素：空调、温度计、被子\n第5格\n标题：4. 晚上别喝浓茶咖啡\n正文：咖啡因会延迟困意，让你躺很久还睡不着。\n配图元素：咖啡杯、茶杯、禁止符号\n\n第6格\n标题：5. 睡前洗个热水澡\n正文：能让身体放松下来，入睡速度更快。\n配图元素：浴室蒸汽、毛巾、热水\n第7格\n标题：6. 脑子停不下来就写下来\n正文：把烦心事和待办清单写下，大脑会更容易放松。\n配图元素：笔记本、钢笔、小台灯\n第8格\n标题：7. 固定上床时间\n正文：每天差不多时间睡，生物钟会越来越稳定。\n配图元素：时钟、月亮、床\n第9格\n标题：8. 试试深呼吸放松法\n正文：吸气4秒，停4秒，呼气6秒，慢慢就有困意了。\n底部小字：收藏这组，今晚试试看\n配图元素：呼吸线条、闭眼人物、星星\n\n画质要求：\n高清，高级排版，杂志感，真实可发布，新媒体运营审美，小红书爆款图文风格，文字布局规整，适合直接切图。",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046037688969769346/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Austin",
+      "author_url": "https://x.com/austinit",
+      "license": "MIT",
+      "original_id": "2046037688969769346",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-20T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "448ed8ea-2bb2-49e1-afb9-e15799b8f335",
+    "prompt": "Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2045378877363798279/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "みどり🐲Midori Tatsuta",
+      "author_url": "https://x.com/midori_tatsuta",
+      "license": "MIT",
+      "original_id": "2045378877363798279",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-18T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c1917fa1-8eca-4765-a981-1fac0dc52490",
+    "prompt": "画像生成: 商品広告写真, 夏にぴったりの季節商品, 炭酸飲料, 名称=\"夏柑SODA\", 形状=ペットボトル500ml, 2025年に飲料広告として高CTAだったデザインをリサーチしてから画像仕様をデザインして生成, アスペクト比=3:4",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2045852114673635507/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "いにしえ@AI Director & Creator｜Will Oldgram",
+      "author_url": "https://x.com/old_pgmrs_will",
+      "license": "MIT",
+      "original_id": "2045852114673635507",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "4b4e2dde-8ce3-46ed-a13a-e67361e53c39",
+    "prompt": "Cinematic portrait of [Athlete Name] showing his/her journey, with bold text of achievements and best performances",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047325329052823996/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Aleena Amir",
+      "author_url": "https://x.com/aleenaamiir",
+      "license": "MIT",
+      "original_id": "2047325329052823996",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "5905b627-efe1-4a98-a89a-fcd665b3ffed",
+    "prompt": "赵飞燕同款掌中舞香膏广告，错金缠枝莲铜瓶，冷艳诡谲深宫氛围感，竖屏9:16",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046844986533056947/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "行者AI视频",
+      "author_url": "https://x.com/joshesye",
+      "license": "MIT",
+      "original_id": "2046844986533056947",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "2fac3506-81da-47ae-ab3a-4937b1cef6e8",
+    "prompt": "Make a wheatpaste poster setup on a brick wall in sf featuring posters from various AI labs",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046700418554851630/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Justine Moore",
+      "author_url": "https://x.com/venturetwins",
+      "license": "MIT",
+      "original_id": "2046700418554851630",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d2055b3a-f617-4b99-a15d-af5a58c93b1d",
+    "prompt": "A hyper-realistic travel advertisement in square format (1080x1080), featuring a hand holding a sleek, ultra-thin smartphone or tablet in portrait orientation, tilted slightly sideways to create a striking 3D portal effect. The screen displays a high-resolution image of an iconic landmark from [COUNTRY], which continues into the real background, blending seamlessly. The landmark appears to emerge from the screen. Birds fly nearby and a commercial airplane passes through a bright blue sky with soft white clouds. Bold, clean sans-serif text reading [CITY] is placed prominently above. The lighting is warm and natural, casting soft shadows across the landscape. The surroundings reflect the region’s natural environment (like meadows, coastlines, or city skylines). The device is glossy and minimal-bezel, enhancing realism and depth.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007190982408974659/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2007190982408974659",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "abe2c0cf-1e88-45ab-aa53-04c3befd3e49",
+    "prompt": "Avant-garde sports fashion advertisement, oversized tennis racket positioned like monumental sculpture, female athlete seated casually on the strings as if a suspended lounge, giant word “PRECISION” in bold typography behind, crisp white studio backdrop, reflective court-like floor, luxury sportswear editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047989228274118901/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Aron厚玉",
+      "author_url": "https://x.com/aronhouyu",
+      "license": "MIT",
+      "original_id": "2047989228274118901",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "38cabb8d-cbad-4d9e-a092-bea0c6d02565",
+    "prompt": "日本語の架空広告をテーマに、SNSでバズることを目的としたインパクトの強いビジュアルを作成してください。 1:1の正方形キャンバスに、4種類の広告を「2×2グリッド」で配置してください。 \n\nジャンル： ①テック（AI・アプリ） ②美容・コスメ ③飲食 ④フィットネス すべて日本語コピー入り・架空ブランドで作成。 \n\n【バズるための演出要件】 \n・一瞬で目を引く強烈なキャッチコピー\n ・感情を動かす要素（驚き・共感・焦り・欲望） \n・コントラストの強い配色（ネオン、ビビッドカラー、黒×蛍光など）\n ・大胆なレイアウト（はみ出し・斜め配置・大きすぎる文字） \n・サムネ映えする構図（中央強調・顔アップ・視線誘導）\n ・SNS広告っぽい“あざとさ”（矢印・強調枠・吹き出し） \n\n【デザインスタイル】 \n・2025年トレンドのSNS広告風\n・TikTok / Instagram広告風 \n・視認性最優先（スマホで見ても読める） \n・写真風 or 高品質イラスト \n・CTA入り（例：今だけ無料・限定・残り3日など） \n\n【ランダムバズ要素】 \n以下の①〜③から、それぞれ1つずつランダムに選び、必ずキャッチコピーに反映すること。\n ①禁断ワード系（いずれか1つ） \n・知らないと損 \n・99%が間違ってる \n・今すぐやめて \n②ギャップ演出（いずれか1つ） \n・見た目かわいいのに中身がヤバい \n・普通に見えて実は… \n・これ、○○じゃありません\n③数字・限定（いずれか1つ）\n・3日限定 \n・残り1枠 \n・無料→0円 \n\n【重要】 \n・4つそれぞれ明確に違う雰囲気にする \n・グリッドは崩さない \n・文字は読みやすく配置する \n・“スクロールを止める違和感”を意図的に入れる \n\n出力：4広告が1枚にまとまった高インパクトビジュアル",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046460259817210284/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ヨシダ＠AIエンタメ",
+      "author_url": "https://x.com/akiramenaiwoman",
+      "license": "MIT",
+      "original_id": "2046460259817210284",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "67cd537e-20ef-410f-aa1b-89957616369a",
+    "prompt": "根据[红楼梦]自动生成一张 收藏版史诗叙事海报，\n\n巨大优雅的{林黛玉}人物侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观、标志性场景、角色关系、象征符号、关键建筑、生物、道具与氛围。\n\n整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光式联想，但强化为电影级叙事表达与空间调度。\n\n电影海报风格 + 东方现实主义美学融合，强调真实物理光影、镜头语言、空间纵深与叙事层级。\n\n光影采用电影级侧逆光与局部暖光点缀，冷暖对比克制真实，加入体积光与轻雾增强空间感。\n\n材质表现为真实质感（建筑、丝绸、肌肤、石材），避免纯绘画笔触感，\n\n保留柔和空气透视，但优化为电影级景深与焦点控制。\n\n轻微胶片颗粒，边缘飞白与刷痕改为电影式柔和融合过渡，\n\n大面积留白，版式克制高级，安静、宏大、克制、宿命感强的东方电影叙事。\n\n所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047305151342596557/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "李岳",
+      "author_url": "https://x.com/liyue_ai",
+      "license": "MIT",
+      "original_id": "2047305151342596557",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3196a4ec-774d-4400-a62b-348c024a4dae",
+    "prompt": "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K ultra-high-definition\",\n      \"aspect_ratio\": \"3:4 vertical\",\n      \"style\": \"hyper-realistic AI-edited commercial product photography\",\n      \"sharpness\": \"extreme clarity, micro-detail visibility\",\n      \"lighting_quality\": \"cinematic studio lighting with controlled highlights and shadows\",\n      \"motion_freeze\": \"high-speed capture, frozen splashes and particles\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n\n    \"module_1_image_1_style\": {\n      \"subject\": {\n        \"type\": \"beverage can\",\n        \"material\": \"matte black metal\",\n        \"surface_details\": \"fine condensation droplets evenly distributed\",\n        \"branding_text_visible\": [\n          \"SNICKERS\",\n          \"STOUTT\",\n          \"BERRY WHIPT\",\n          \"BREW IN WITT ISLAUTT\"\n        ]\n      },\n      \"pose_and_orientation\": {\n        \"position\": \"upright, centered\",\n        \"angle\": \"slight forward-facing perspective\",\n        \"scale\": \"dominant foreground subject\"\n      },\n      \"liquid_and_motion\": {\n        \"liquid_color\": \"glossy pink\",\n        \"liquid_texture\": \"thick, creamy, whipped consistency\",\n        \"motion\": \"explosive upward splash wrapping around the can\",\n        \"splash_shape\": \"curved arcs with sharp liquid peaks and droplets\"\n      },\n      \"floating_elements\": {\n        \"berries\": [\n          \"raspberries\",\n          \"blackberries\",\n          \"blueberries\"\n        ],\n        \"chocolate_pieces\": \"rectangular chocolate chunks with sharp edges\",\n        \"nuts\": \"round and halved nuts scattered near base and mid-air\",\n        \"distribution\": \"suspended at various depths around the can\"\n      },\n      \"background\": {\n        \"color_gradient\": \"purple to blue\",\n        \"light_effects\": \"soft radial glow behind can\",\n        \"particles\": \"small pink droplets and specks floating\"\n      },\n      \"surface_and_reflection\": {\n        \"base\": \"glossy reflective surface\",\n        \"reflection_quality\": \"clear mirrored reflection with slight ripple distortion\"\n      }\n    },\n\n    \"module_2_image_2_style\": {\n      \"subject\": {\n        \"type\": \"plastic protein drink bottle\",\n        \"color\": \"deep matte blue\",\n        \"surface_details\": \"condensation droplets across entire bottle\",\n        \"label_text_visible\": [\n          \"milk & yogurt\",\n          \"mock up\",\n          \"protein\",\n          \"SEPARATED SHADOWS\"\n        ]\n      },\n      \"pose_and_orientation\": {\n        \"position\": \"slightly tilted to the right\",\n        \"angle\": \"three-quarter view\",\n        \"motion_feel\": \"dynamic, leaning into splash\"\n      },\n      \"liquid_and_motion\": {\n        \"liquid_color\": \"white and light beige milk mixture\",\n        \"texture\": \"smooth, creamy, fluid\",\n        \"motion\": \"swirling splash rising around bottle base and sides\"\n      },\n      \"floating_elements\": {\n        \"blueberries\": \"whole and halved blueberries at different depths\",\n        \"mint_leaves\": \"small green leaves with visible veins\",\n        \"droplets\": \"milk droplets and spheres suspended mid-air\"\n      },\n      \"background\": {\n        \"color_gradient\": \"dark blue to warm amber\",\n        \"bokeh\": \"soft circular light particles scattered throughout\"\n      },\n      \"surface_and_reflection\": {\n        \"base\": \"matte ground with light liquid pooling\",\n        \"shadow_style\": \"soft separated shadow under bottle\"\n      }\n    },",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2011708873418424581/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2011708873418424581",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-15T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8a066324-582b-4237-a57d-04ca6c02c7c9",
+    "prompt": "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K ultra-high-definition\",\n      \"aspect_ratio\": \"3:4 vertical\",\n      \"style\": \"hyper-realistic AI-edited commercial product photography\",\n      \"sharpness\": \"extreme clarity, micro-detail visibility\",\n      \"lighting_quality\": \"cinematic studio lighting with controlled highlights and shadows\",\n      \"motion_freeze\": \"high-speed capture, frozen splashes and particles\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n\n    \"module_1_image_1_style\": {\n      \"subject\": {\n        \"type\": \"functional yogurt smoothie bottle\",\n        \"material\": \"frosted plastic\",\n        \"color\": \"soft pastel lavender\",\n        \"surface_details\": \"dense condensation droplets covering the entire bottle\",\n        \"label_text_visible\": [\n          \"probiotic blend\",\n          \"mock up\",\n          \"high protein\",\n          \"LOW FAT\",\n          \"SEPARATED SHADOWS\"\n        ]\n      },\n      \"pose_and_orientation\": {\n        \"position\": \"slightly tilted forward\",\n        \"angle\": \"three-quarter view\",\n        \"motion_feel\": \"energetic, mid-impact splash moment\"\n      },\n      \"liquid_and_motion\": {\n        \"liquid_color\": \"light purple yogurt smoothie\",\n        \"texture\": \"thick, creamy, glossy\",\n        \"motion\": \"smooth splash wrapping around the bottle with upward arcs\"\n      },\n      \"floating_elements\": {\n        \"berries\": \"blackberries and blueberries floating at varying depths\",\n        \"lavender_petals\": \"soft purple petals suspended mid-air\",\n        \"droplets\": \"yogurt droplets and micro splashes frozen in motion\"\n      },\n      \"background\": {\n        \"color_gradient\": \"deep violet fading into soft peach highlights\",\n        \"bokeh\": \"subtle glowing circular light orbs\"\n      },\n      \"surface_and_reflection\": {\n        \"base\": \"matte surface with creamy liquid pooling\",\n        \"shadow_style\": \"clean, separated soft shadow beneath bottle\"\n      }\n    },\n\n    \"module_2_image_2_style\": {\n      \"subject\": {\n        \"type\": \"sparkling electrolyte drink can\",\n        \"material\": \"brushed aluminum\",\n        \"color\": \"icy silver with neon cyan accents\",\n        \"surface_details\": \"intense cold condensation with crystal-clear droplets\",\n        \"branding_text_visible\": [\n          \"HYDRATE+\",\n          \"Electrolyte Drink\",\n          \"ZERO SUGAR\",\n          \"NEW FORMULA\",\n          \"WITH MINERALS\"\n        ]\n      },\n      \"pose_and_orientation\": {\n        \"position\": \"upright and centered\",\n        \"angle\": \"straight-on front view\",\n        \"presence\": \"strong hero product stance\"\n      },\n      \"liquid_and_motion\": {\n        \"liquid_color\": \"clear carbonated liquid with bubbles\",\n        \"motion\": \"explosive splash bursting outward from the base\",\n        \"droplet_behavior\": \"sharp, glass-like droplets flying outward\"\n      },\n      \"floating_elements\": {\n        \"ice_cubes\": \"transparent ice cubes spinning in mid-air\",\n        \"lime_slices\": \"fresh lime slices with visible pulp\",\n        \"bubbles\": \"carbonation bubbles rising around the can\"\n      },\n      \"background\": {\n        \"color_palette\": \"cool blues, cyan highlights, metallic silver tones\",\n        \"atmosphere\": \"fresh, high-energy, ultra-refreshing\"\n      },\n      \"surface_and_reflection\": {\n        \"base\": \"wet reflective surface with splash crown\",\n        \"reflection_quality\": \"crisp reflections with controlled specular highlights\"\n      }\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2019069034365698163/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Johnn",
+      "author_url": "https://x.com/john_my07",
+      "license": "MIT",
+      "original_id": "2019069034365698163",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c4389df9-b993-4462-a71c-36e29cdfb29e",
+    "prompt": "A cinematic side-profile portrait of a rugged man with a tied-back bun and full beard, wearing round dark sunglasses and a textured leather jacket. His skin is detailed and slightly weathered. The background is a futuristic sci-fi interface filled with glowing orange and red data streams, star maps, celestial navigation diagrams, grids, and holographic UI elements. Fiery particle effects and ember-like energy swirl around him, creating a cosmic, high-tech atmosphere. Dark color palette with strong contrast, dramatic lighting, ultra-detailed, sharp focus, 8K, cyberpunk aesthetic, cinematic composition, depth of field.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047882171336253928/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Aijaz",
+      "author_url": "https://x.com/iamsofiaijaz",
+      "license": "MIT",
+      "original_id": "2047882171336253928",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "213ca6f8-b26f-4cb2-ad57-5a41345a4106",
+    "prompt": "生成完整高端的品牌运营图 ，产品是老干妈和星巴克的联名款：老干妈美式，中间是主图，下面放一些联名的设计，包装袋、杯套以及吉祥物。",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046603938485637446/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "黄小木",
+      "author_url": "https://x.com/ai_xiaomu",
+      "license": "MIT",
+      "original_id": "2046603938485637446",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a732cbfa-1191-487b-ac55-9bd9df3b8e46",
+    "prompt": "Ultra-cinematic product photography of a matte black luxury soda bottle labeled “NOIR FIZZ”, floating mid-air at a sharp diagonal angle; carbonated bubbles and liquid soda waves frozen in motion, shattered ice cubes and glossy black citrus slices suspended; dramatic low-key lighting with strong rim lights, metallic highlights, deep shadows; black and gold color palette, volumetric mist, macro textures, hyper-realistic glass, 8K, premium commercial ad style.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2019629174374429017/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2019629174374429017",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-06T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8e225e59-2ae7-498c-acac-2cb39bb5addf",
+    "prompt": "Create an epic premium automotive poster of \n[CAR MODEL].\n\nPlace the car as the heroic central subject in a dynamic three-quarter side profile, visually dominant and impossible to ignore.\n\nShow the full beauty of the vehicle with aggressive stance, perfect proportions, premium wheels, signature headlights, aerodynamic lines, spoilers, performance details, and luxury design language.\n\nAdd bold premium typography with the brand name, model name, performance stats, horsepower, acceleration, top speed, engine specs, and iconic achievements beautifully integrated into the composition.\n\nInclude subtle background elements inspired by the car’s heritage: faded blueprint lines, racing legacy, silhouette overlays, iconic tracks, engineering details, speed graphics, and collector-poster aesthetics.\n\nUse strong visual contrast, bright premium colors (avoid dark black-heavy backgrounds), cinematic lighting, ultra-detailed reflections, glossy paint finish, luxury magazine quality, modern graphic design, and scroll-stopping masterpiece energy.\n\nClean composition, high-end automotive advertisement style, collector poster aesthetic, highly detailed, visually powerful, premium masterpiece.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048752153343545390/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Marcio Lima 利真 マルシオ 💎",
+      "author_url": "https://x.com/Preda2005",
+      "license": "MIT",
+      "original_id": "2048752153343545390",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "387a944b-f11a-4a47-a7a7-236318e1ad3e",
+    "prompt": "Cinematic automotive billboard poster, [CAR MODEL + VARIANT] in [PAINT COLOR + FINISH], parked center-frame, dominant stance, [CAMERA ANGLE — e.g. low angle / front three-quarter / elevated SUV angle], ultra controlled composition\n\ndramatic studio lighting setup with [PRIMARY LIGHT COLOR/TONE] key light, [RIM LIGHT COLOR] rim lighting defining silhouette, high contrast shadow falloff, precise specular highlights across body panels\n\nmassive billboard-style typography composition, bold condensed sans-serif white text \"[BRAND NAME]\" filling entire background wall behind the car, perfectly centered and spanning edge-to-edge, with thin vertical dark lines slicing through each letter evenly, consistent spacing, no distortion\n\nenvironment designed to match brand mood: [ENVIRONMENT DESCRIPTION — e.g. minimal concrete / desert haze / forest stone / industrial steel], seamlessly fading into deep gradient background, zero clutter\n\nground surface: [SURFACE TYPE — wet asphalt / gloss studio floor / textured terrain] with subtle realistic reflections, controlled diffusion, no noise\n\natmosphere: [FOG / HAZE / PARTICLES — optional but controlled], only at ground level for depth\n\ntop right corner: [BRAND LOGO DESCRIPTION], small and elegant, paired with minimal uppercase text \"[YOUR SIGNATURE — e.g. MURPHY AI]\" aligned cleanly\n\nSTRICT RULES:\n— no extra taglines  \n— no performance specs  \n— no additional typography  \n— no random elements  \n— maintain premium minimal billboard aesthetic  \n\nrender quality: hyper-detailed photorealism, ultra sharp reflections, realistic paint microtexture, cinematic color grade matching environment\n\ncomposition: perfectly balanced, symmetrical, professional automotive advertising layout\n\nformat: 1:1 square, ultra high resolution, print-ready billboard finish",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2045830975318610408/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2045830975318610408",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "32e4f495-052d-43f9-a4bd-5ab432ec5a9b",
+    "prompt": "Create the most realistic front page design of a vintage newspaper featuring the main character. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic.\nThe main photo should be prominently placed in the center, framed, like the image in the title of the article. The subject in the photo should remain unchanged and clearly distinguishable in natural light and slightly increased contrast in order to match the spectacular editorial style.\nCreate a bold, attention-grabbing headline at the top (create a unique title that matches the spirit of the photo - it can be romantic, mysterious, funny, or dramatic). Add a smaller subtitle under it, which will look like a real newspaper caption.\nAdd realistic newspaper elements:\nColumns of small text (in the style of lorem ipsum, but framed like real news)\nAt the top is the fictitious name of the publication (for example, “The Daily Prompts”, “AI Times” or similar - think creatively, according to the picture)\nDate, issue number and location\nDecorative lines, dividers, and vintage typography\nSmall additional articles or captions to the main image\nOptional stamps, doodles, or editorial notes to add personality.\nStyle:\nBlack and white or slightly faded monochrome paper\nFine paper texture, grain, and ink defects\nSmall shadows and creases that mimic real printed paper\nThe aesthetics of a clean but slightly worn vintage newspaper\nMood: Give the design personality, expressiveness and plot, as if the plot is part of the main article.\nAspect ratio: 4:5 or 1:1\nHigh-detail, ultra-realistic hybrid of editorial photography and print design.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047207812800147647/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2047207812800147647",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "88754052-29e0-4093-a6f5-4ccf51c05471",
+    "prompt": "A hyperrealistic Nike sneaker advertisement shot in a dark, moody editorial style. A male leg wearing crisp white athletic crew socks with subtle Nike logo detail is suspended mid-air against a near-black charcoal background, angled diagonally toward the camera at a bold 45-degree perspective. The sneaker — a Nike low-top silhouette featuring a clean two-tone colorway of glacier teal suede panels and off-white tumbled leather, with an iridescent chrome Swoosh catching ambient light — dominates the lower two-thirds of the frame.\nThe composition uses shallow depth of field with sharp focus on the shoe and soft blur on the upper leg. The background is layered with subtle urban texture - faint graffiti strokes in electric yellow and muted olive, barely visible through a heavy dark vignette. Multiple rows of ultra-small all-caps typographic text orbit the sneaker at different angles, reading phrases like \"THE ONLY LIMITS ARE THE ONES YOU SET FOR YOURSELF\" - evoking motion, speed, and energy. Some text runs vertically, some at 30-degree angles, giving the composition a chaotic yet intentional graphic design feeling.\nAt the upper right, the bold Nike wordmark and Swoosh logo appear in clean white against the dark background. At the top center, a thin horizontal navigation-style text bar reads: \"PURE COMFORT · ALWAYS AHEAD · THE FUTURE IS NOW\" in spaced all-caps serif font. A large, commanding headline is placed center-right in contrasting weight typography - \"MOVE\" in massive ultra-bold white letters followed by \"BEYOND\" in lighter weight, creating dramatic type hierarchy.\nSmall yellow plus (+) symbols and diagonal arrows (↗) are scattered throughout the composition as accent details, adding a contemporary graphic zine aesthetic. Bottom left features a bold brand slogan lockup: \"DEFINE YOUR STRIDE\" in large bold sans-serif white text with a thin subline: \"An inspiring reminder that speed is a mindset. Every step forward is a statement.\" The overall lighting is dramatic and directional - a single cold key light from the left, causing the Swoosh to shimmer and the white leather to glow against the darkness. Photorealistic. Commercial photography quality. High contrast. 4K resolution, 3:4 vertical format optimized for social media.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048018776785064328/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Heisenberg",
+      "author_url": "https://x.com/rovvmut_",
+      "license": "MIT",
+      "original_id": "2048018776785064328",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "17af3f8b-6977-4cd5-a769-dfae9000f4db",
+    "prompt": "A cinematic epic sci-fi fantasy movie poster featuring three powerful tech leaders standing together as rival kings of artificial intelligence, dramatic futuristic battlefield, dark stormy sky, glowing AI energy, towering digital fortress in the background, armies of advanced robots below, intense blue and golden lighting contrast, ultra-detailed armor-inspired futuristic outfits, heroic serious expressions, high-budget streaming series poster style, dramatic composition, sharp facial details, atmospheric smoke, lightning, sparks, cinematic depth, professional poster typography with the title “THE FINAL AI BATTLE”, subtitle “The future is intelligent. The battle is real.”, 4:3 aspect ratio",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047676720707482049/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Amira Zairi",
+      "author_url": "https://x.com/azed_ai",
+      "license": "MIT",
+      "original_id": "2047676720707482049",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "edf15d9c-0ea7-4552-a4ef-8831948fafac",
+    "prompt": "A luxury high-fashion magazine cover. Magazine name at the very top in massive elegant serif font reads \"LUMIÈRE\" — the letters are large, slightly transparent/ghost-style overlapping the model's head just like ELLE magazine, in soft platinum silver color blending into the background.\nCharacter: A young beautiful white woman, early 20s, soft feminine features, big blue eyes, naturally full lips, flawless porcelain skin, subtle makeup — rosy cheeks, nude lips, defined brows. Her hair is platinum blonde, long and wavy, loosely flowing over one shoulder. She looks directly into the camera with a soft yet powerful gaze. Slight tilt of the head, naturally elegant posture.\nOutfit: She is wearing a dramatic deep burgundy wine-red ballgown — structured corset top with off-shoulder neckline, voluminous layered satin skirt billowing around her dramatically. Behind her shoulders, large sculptural fabric rises like rose petals — same architectural drama as reference. She leans slightly forward, both hands resting gently on her knees.\nBackground: Pure soft warm white/ivory background — completely clean, minimal, high-end studio editorial. Soft diffused light, no harsh shadows.\nTypography — placed EXACTLY like ELLE magazine reference:\nTop: \"LUMIÈRE\" massive serif, platinum/silver, overlapping model's head slightly\nLeft mid: \"GRACE & POWER\" bold serif, then smaller below \"THE NEW VISION OF LUXURY\"\nRight mid: \"TIMELESS & FEARLESS\" bold, then \"PURE OPULENCE\" smaller below\nBottom right large: \"ICONIC & UNSTOPPABLE\" elegant large serif\nAll text in deep charcoal/dark navy. Font style: classic high fashion serif — same weight, spacing, and elegance as ELLE. Text naturally integrated into the composition, NOT floating randomly.\nUltra photorealistic, 8K, real magazine cover quality, perfect typography placement, vertical 9:13 format.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047178898375426212/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Ozair AI",
+      "author_url": "https://x.com/Ozayrr_irl",
+      "license": "MIT",
+      "original_id": "2047178898375426212",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3e4fb614-a126-45e9-a689-5568622042e7",
+    "prompt": "武则天同款皇后香水广告，龙纹金瓶，暗黑宫廷氛围感大片",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046766344163737788/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "松果先森",
+      "author_url": "https://x.com/songguoxiansen",
+      "license": "MIT",
+      "original_id": "2046766344163737788",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "88ab150e-671a-4f1b-acc1-59286d3dea64",
+    "prompt": "高级概念海报，竖版 3:4，核心文字为[输入文字]\n\n请先深度理解'[输入文字]'的表层含义、深层寓意、情绪气质、文化联想、人物命运感与隐含张力，再决定最适合它的画面风格、构图方式、色彩气质和视觉隐喻。\n\n画面风格必须由词义自动生成，不要机械套用统一模板。每个词都应拥有和它自身内涵相匹配的独特视觉语言。\n\n画面中，巨大中文主标题“[输入文字]”必须是绝对主体，字形清晰完整，无错字无缺笔，占据大部分画面，形成最强第一视觉。\n不要做普通插画，不要只画人物外貌。\n\n请提炼一个最准确、最有代表性的视觉隐喻，让人物、物体、空间或象征元素与大字发生关系，让观者一眼感受到这个词为什么会被这样表达。\n整体气质要求高级、极简、克制、展览级，具有强排版、强隐喻、强情绪、强记忆点。\n\n可根据词义自动选择更冷峻、更诗意、更悲剧、更锋利、更温柔或更庄严的视觉风格。\n\n色彩也应根据词义自动调整，但保持整体高级感和节制感。\n\n小字文案只保留三处：\n\n左上角：2到4个关键词\n右侧竖排：一句命运感短句\n左下角：一句有传播力的总结句\n要求元素少，概念准，留白克制。\n\n文字是第一视觉，隐喻图像是第二视觉，小字是第三视觉。\n\n不要拥挤，不要廉价广告感，不要多余英文，不要解释性长文案。\n\n最终效果应像展览级文学人物或概念主题海报，把“【输入文字】”背后的精神状态和文化意味真正视觉化。",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048630851051892985/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "小互",
+      "author_url": "https://x.com/xiaohu",
+      "license": "MIT",
+      "original_id": "2048630851051892985",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fe2eecc7-3555-4057-ac3b-cae3655050b2",
+    "prompt": "Hip-hop fashion model standing full-frame, clothing distorted into stretched streaks like motion drag, bold red background, retro film grain, barcode + tiny technical text in bottom area, modern fashion-magazine layout, expressive weirdness, cool attitude , 4K high detail. --ar 4:5 --raw",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048599189681291673/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Saul Goodman",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "license": "MIT",
+      "original_id": "2048599189681291673",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "38792a73-1139-49ed-a12a-bb38150c7c50",
+    "prompt": "Ultra-clean modern editorial infographic on the topic of [ROUTINE] routine. Hero visual: a stylized flat-lay or floating arrangement of 3–4 objects closely associated with the routine — slightly angled or in soft perspective, glowing subtly. All elements arranged dynamically around the hero in a non-restrictive editorial layout. Ingredients Section: Label it ‘What You Need’ — include 6–8 items with small icons or emoji illustrations next to each. Each item has a name and a practical quantity or duration written like a recipe (e.g. ‘x minutes of Y’). Arranged in a cluster or list connected visually to the hero. Steps Section: 5–6 numbered panels with arrows or connecting lines forming a logical flow. Each step has a short action label and a small relevant icon. Panels use glassmorphism or frosted card styling. Stats Badges: 4–5 floating pill-shaped badges showing relevant metadata — total time, difficulty, consistency streak, energy cost — displayed as clean minimal bubbles near the hero. Visual Style: Warm, soft editorial background — cream, warm white, or soft morning light tones. Muted earthy accent colors with clean highlights. Bold modern sans-serif typography. Clean vector icons. Subtle grain or paper texture in background. Composition: Hero object cluster centered or slightly offset. Ingredients on one side. Steps flow opposite or below with connecting lines. Stat badges scattered as floating pills. Generous negative space to keep it airy and readable. Lighting: Soft warm natural light feel emanating from the hero cluster. Premium lifestyle editorial aesthetic, social-feed optimized. Ultra-crisp. No watermark.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047683043918311670/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2047683043918311670",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "50a62f7b-9d45-4a74-aec7-fe1cb716c06c",
+    "prompt": "新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，\n\n整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，\n\n广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼，\n传统与现代建筑自然融合，层次递进，远近虚实分明，\n\n风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实，\n\n色彩方案（重点）：\n高饱和但克制 ，中国红、青蓝、鎏金为主色，\n辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，\n\n背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感，\n\n细节：祥云与水纹具有轻微浮雕/烫金质感，\n局部加入微光粒子或流动光线，增强现代感，\n\n光影：柔和渐变光+局部高光，突出恢弘大气氛围，\n\n整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2045744531686166878/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "李岳",
+      "author_url": "https://x.com/liyue_ai",
+      "license": "MIT",
+      "original_id": "2045744531686166878",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9fc6bb80-f977-4663-ac86-cfb9570f6258",
+    "prompt": "full body female model in confident fashion pose (one leg slightly raised, relaxed luxury stance), wearing oversized black blazer, fitted black crop top, high-waisted baggy blue denim jeans, black heels, slim sunglasses, holding a small black handbag, clean long hair, sharp facial features\nminimal luxury studio background, soft beige gradient wall, smooth shadows, editorial lighting, high-end fashion campaign style\nlarge embossed “PREMIUM” text in background, subtle 3D depth, tone-on-tone color blending with wall, elegant and soft\nkeep “BAGGY” text bold and minimal near bottom, modern premium sans-serif font\nadd “GUCCI” logo top right corner, clean spacing, luxury typography\nultra realistic, sharp focus, premium color grading, soft highlights, depth of field, magazine-quality, clean composition, no clutter",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048615041566449922/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "auqib",
+      "author_url": "https://x.com/auqibhabib",
+      "license": "MIT",
+      "original_id": "2048615041566449922",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "11e955df-df91-4f21-acdb-b34712525d9b",
+    "prompt": "A bold fashion editorial poster featuring a young woman model in a close-up half-body portrait, wrapped in an oversized black puffer jacket with a high padded collar partially covering the lower face, styled in a minimal, sleek, modern luxury streetwear aesthetic. The model turns her upper body slightly away from the camera while looking back over her shoulder toward the viewer, creating a tense and magnetic pose, with one hand raised delicately near the jacket zipper and collar, fingers lightly touching the fabric as if adjusting it, giving a controlled, elegant, and intentional gesture that contrasts softly with the heavy oversized jacket, while her shoulders are slightly hunched into the coat to create a protective, stylish, and intimate silhouette. Her facial expression is calm, serious, and subtly mysterious with direct eye contact, slightly parted lips, relaxed brows, and a smooth yet intense gaze, conveying a quiet, emotionally reserved, high-fashion attitude that feels soft, cold, elegant, and untouchable. The overall mood is moody, minimalist, premium, and polished with a quiet luxury winter editorial feel. The outfit consists of an oversized matte black down puffer jacket with dramatic volume, a high collar, and a clean zipper line, with no additional accessories, maintaining a monochrome modern Korean magazine vibe. The poster design features a clean graphic magazine cover style with a white background, oversized red vertical typography behind the subject spelling “GUVET” or similar bold letterforms, a sharp editorial layout, red and black color scheme, modern sans-serif text, small microtext blocks, inset cropped detail frames showing close-up facial features, and subtle fashion publication branding elements at the bottom. The lighting is soft studio lighting with clean skin texture, crisp contrast, smooth shadows, high detail on the eyes and lips, refined print-magazine finishing, ultra sharp focus, and a luxury commercial fashion poster aesthetic in high resolution with a premium composition.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048748484011204693/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝗦𝗮𝗻𝗶𝗮",
+      "author_url": "https://x.com/saniaspeaks_",
+      "license": "MIT",
+      "original_id": "2048748484011204693",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "7cb5f2d0-16a1-490e-a92b-7f23b341f187",
+    "prompt": "Ultra-dynamic motocross racing scene featuring a professional dirt bike rider performing extreme stunts inside a massive indoor stadium. The composition blends realism and cinematic energy — showing the rider in multiple perspectives: a close-up portrait with a blue and yellow helmet, a mid-action jump on a dirt track, and a victory pose near the finish line. The background features dramatic smoke, spotlights,and structural beams of the stadium, with flashes of neon green accents cutting through the atmosphere. The dirt track is rugged, filled with motion blur, dust particles, and intense lighting contrast. Energy drink branding and banners add authenticity to the motorsport environment. The overall tone is high-octane, gritty, and heroic — perfect for a motorsport poster or promotional artwork.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2023624269385855301/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2023624269385855301",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-17T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "31a4acac-3e52-43d6-ab6c-17ef8f67cdab",
+    "prompt": "Create a stylized travel poster / graphic collage for [ALGERIA]. The main subject should be a stylish international tourist visiting [ALGERIA], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [ALGERIA]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [ALGERIA]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [ALGERIA], but keep the tourist’s appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: “VISIT [ALGERIA]”. Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048057470812074251/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Ayyoub Ai",
+      "author_url": "https://x.com/MaAyyoub",
+      "license": "MIT",
+      "original_id": "2048057470812074251",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "f6e898a3-f71b-4c84-a6d2-008400f1a458",
+    "prompt": "Cinematic luxury tourism poster, Spain, iconic view of Sagrada Família in Barcelona rising prominently above the city, detailed organic architecture with surrounding urban grid softly visible, clean and centered composition\n\ncamera angle: elevated wide perspective capturing full structure symmetry with city depth behind\n\nlighting: warm golden hour sunlight casting soft highlights across stone textures, gentle shadows, glowing atmosphere\n\ntypography: elegant high-fashion editorial serif font, large refined text \"SPAIN\" integrated across sky and upper architecture, subtly blending with light and structure\n\ntext hierarchy:\nsmall top text: \"Visit\"\nmain: \"SPAIN\"\nsmall bottom line: \"FEEL THE PASSION\"\n\nenvironment: clean Barcelona cityscape simplified for clarity, no clutter, focus on architecture\n\ncolor palette: warm gold, sandstone beige, soft blue sky\n\natmosphere: light haze with sun glow enhancing depth and warmth\n\nbranding: top right minimal text \"MURPHY AI\"\n\nSTRICT RULES:\n— Sagrada Família must be the dominant focal point\n— maintain elegance and warmth\n— avoid overcrowded city details\n\nrender quality: ultra photorealistic, cinematic warm Mediterranean grade, premium tourism campaign style\n\ncomposition: balanced, symmetrical, editorial luxury layout\n\nformat: 1:1 square, ultra high resolution\n\nCinematic luxury tourism poster, Brazil, iconic aerial view of Christ the Redeemer statue overlooking Rio de Janeiro with coastline and mountains visible, perfectly centered composition\n\ncamera angle: elevated aerial perspective behind or slightly above statue, revealing city and ocean depth\n\nlighting: warm sunrise or sunset golden light with vibrant yet controlled tones\n\ntypography: elegant editorial serif font, large refined text \"BRAZIL\" integrated across sky and horizon, softly blending with clouds\n\ntext hierarchy:\nsmall top text: \"Visit\"\nmain: \"BRAZIL\"\nsmall bottom line: \"FEEL THE ENERGY\"\n\nenvironment: lush mountains, coastline, cityscape simplified for clarity\n\ncolor palette: green, blue, gold highlights\n\natmosphere: light haze, soft clouds catching sunlight\n\nbranding: top right minimal text \"MURPHY AI\"\n\nSTRICT RULES:\n— Christ statue must be clear focal point\n— avoid over-saturation\n— keep composition clean\n\nrender quality: ultra photorealistic, cinematic vibrant grade\n\ncomposition: balanced, iconic, postcard-level framing\n\nformat: 1:1 square\n\nCinematic luxury tourism poster, United Arab Emirates, iconic centered view of Burj Khalifa dominating Dubai skyline, seen from elevated perspective with surrounding skyscrapers and subtle desert tones\n\ncamera angle: wide symmetrical aerial framing emphasizing vertical dominance\n\nlighting: warm golden sunset light reflecting across glass buildings, soft glow, controlled highlights\n\ntypography: elegant high-end serif font, large refined text \"DUBAI\" integrated into sky and skyline, partially blending with architecture\n\ntext hierarchy:\nsmall top text: \"Visit\"\nmain: \"DUBAI\"\nsmall bottom line: \"FEEL THE POWER\"\n\nenvironment: ultra modern skyline, clean composition, no clutter\n\ncolor palette: gold, warm amber, deep shadows\n\natmosphere: light haze, glowing skyline diffusion\n\nbranding: top right minimal text \"MURPHY AI\"\n\nSTRICT RULES:\n— Burj Khalifa must be dominant focal point\n— clean luxury aesthetic\n— no distractions\n\nrender quality: ultra photorealistic, cinematic warm grade\n\ncomposition: symmetrical, powerful, iconic skyline shot\n\nformat: 1:1 square\n",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046089486719930845/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2046089486719930845",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-20T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "045cf999-b35c-4db2-af55-ef16ae694d75",
+    "prompt": "Avant-garde fashion advertisement, oversized futuristic sunglasses positioned like sculpture, model casually seated on the frame as if furniture, giant word \"VISION\" behind in bold white typography, powder blue studio background, reflective floor, luxury eyewear campaign aesthetic, ultra-clean layout, editorial magazine styling, 1:1",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047700936605479334/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Synthia",
+      "author_url": "https://x.com/AIwithSynthia",
+      "license": "MIT",
+      "original_id": "2047700936605479334",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3b1f6727-fd45-4a40-aaab-507d5eb26845",
+    "prompt": "Bright colorful children's shoe brand advertisement for \"Happy Smile☺️\", happy young child jumping in the air wearing oversized colorful foam  black and white shoes, giant rainbow colored shoe prop in background, bright green and white studio background, playful bubbly bold typography \"CLOUD\" in background, tagline \"Every step \nis an adventure.\", confetti falling, fun joyful lighting, \ncommercial photography style, ultra HD 8K , Designed with Shamus image 2.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design",
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048726962001379515/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Al-Shamus",
+      "author_url": "https://x.com/im_shahid7",
+      "license": "MIT",
+      "original_id": "2048726962001379515",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "6efd00e6-8064-4993-a58a-4f5030e7e5bb",
+    "prompt": "Create a [food name] food preparation poster",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046995536528445697/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "John",
+      "author_url": "https://x.com/johnAGI168",
+      "license": "MIT",
+      "original_id": "2046995536528445697",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c0d96043-8cce-4d1f-a6f1-bcce6909d84c",
+    "prompt": "Create a high-resolution vertical character concept poster with a luxury pink and white  aesthetic, blending elegance with edgy, modern fashion. The layout should feel like a premium magazine profile with clean sections and perfect grid alignment.\n\nMain subject: A unique young woman (not resembling any real person), with long silky dark hair featuring subtle pink highlights. She has a confident, calm expression with a slightly mysterious aura. She wears a black and pink fusion outfit (mix of streetwear and idol fashion) with glossy textures, lace, and metallic accents. Lighting is soft but dramatic, with neon pink glow against dark tones.\n\nTop section:\nLarge hero portrait on one side. On the other side, include a sleek profile panel with elegant English text:\n\nName: Nyra Vale\nAge: 23\nHeight: 170 cm\nStyle: Dark Elegance\n\nShort description:\n“She doesn’t follow trends—she defines them. Quiet strength, sharp vision, and a presence that speaks without words.”\n\nAdd a Traits section with stylish progress bars:\n\nConfidence\nCreativity\nDiscipline\nCharisma\nEmotional Depth\n\nMiddle section:\nGrid of 5–6 small portraits showing different expressions (soft smile, intense gaze, playful smirk, thoughtful, confident).\n\nLower sections:\n\nFull-body poses (front, side, walking pose, power stance, casual stance).\nOutfit variations (street luxe, stage outfit, minimal chic).\nAccessories panel (heels, boots, chains, rings, handbags, hairstyles).\n\nText tone:\nStrong, meaningful, and confident—focused on individuality, self-worth, and silent power. Avoid filler text.\n\nStyle:\nUltra-detailed, 4K quality, glossy magazine finish, cinematic lighting, sharp focus, balanced contrast, modern editorial layout, perfectly aligned grid.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048779320966230339/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Cherry 2.O",
+      "author_url": "https://x.com/Mind_Boticni",
+      "license": "MIT",
+      "original_id": "2048779320966230339",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "85644db6-ef0c-4d24-adeb-c75ef8533299",
+    "prompt": "TAG Heuer — Track Surface (REAL, NOT FAKE)\n\nHigh-end commercial watch advertisement, TAG Heuer chronograph, single watch leaning against its box, centered composition, slight front three-quarter angle\n\nenvironment: real wet asphalt surface inspired by race track texture, subtle tire marks, light moisture, NOT full scene\n\nbackground: soft dark depth with slight motion blur light streak hints, minimal, not literal track\n\nlighting: controlled studio lighting with strong key for dial clarity, subtle red rim light for racing identity, crisp reflections on metal and glass\n\ncomposition: tight grouping, grounded, realistic spacing\n\nperspective typography (primary): large “PRECISION” in background, soft perspective, slightly diffused, low opacity, blending into depth\n\nsecondary typography:\n“CHRONOGRAPH SERIES”\n“SWISS MADE”\n\nbranding: logo top center, “MURPHY AI” beneath\n\nsurface: wet asphalt reflection, controlled, not exaggerated\n\ncolor palette: black, steel, red accents\n\nultra-realistic materials (brushed metal, sapphire reflections, lume details)\n\n1:1 square format\n\nCasio G-Shock — Rugged Ground (LIKE YOUR CHARCOAL SHOT)\n\nHigh-end commercial watch advertisement, G-Shock rugged watch, single watch leaning against its box, centered\n\nenvironment: controlled rough stone / cracked surface with dust particles, minimal debris (like your Nivea charcoal setup)\n\nbackground: dark soft gradient with slight haze, no literal landscape\n\nlighting: directional studio lighting, strong highlights on edges, controlled shadow depth\n\ncomposition: grounded, tight product grouping\n\nperspective typography (primary): bold “TOUGH” in background, slightly broken texture, soft perspective depth, low opacity\n\nsecondary typography:\n“SHOCK RESISTANT”\n“BUILT TO LAST”\n\nbranding: logo top center, “MURPHY AI” beneath\n\nsurface: matte rough texture, minimal reflection\n\ncolor palette: charcoal, black, muted tones\n\nultra-detailed rugged material finish\n\n1:1 square format\n\nGarmin — Outdoor Tech (CONTROLLED, NOT LANDSCAPE)\n\nHigh-end commercial watch advertisement, Garmin GPS smartwatch, single watch leaning against its box, centered\n\nenvironment: textured rock surface with subtle moisture and fine dust, clean minimal outdoor feel (not full mountain scene)\n\nbackground: deep cool gradient with faint mist layers for depth\n\nlighting: soft controlled lighting, cool rim highlights, clean display visibility\n\ncomposition: tight, balanced, grounded\n\nperspective typography (primary): “ENDURANCE” large in background, geometric, fading into depth with soft haze\n\nsecondary typography:\n“GPS MULTISPORT”\n“PERFORMANCE TRACKING”\n\nbranding: logo top center, “MURPHY AI” beneath\n\nsurface: natural rock with subtle reflection\n\ncolor palette: blue-grey, black\n\nultra-clean product rendering\n\n1:1 square format\n\nFastrack — Urban Surface (LIKE GARNIER WATER BUT DRY)\n\nHigh-end commercial watch advertisement, Fastrack sports watch, single watch leaning against its box, centered\n\nenvironment: dark smooth surface with slight gloss and subtle texture, faint moisture or light reflection, urban tone\n\nbackground: soft gradient with slight haze, minimal depth\n\nlighting: contrast studio lighting with subtle colored accent reflections, controlled highlights\n\ncomposition: tight and clean\n\nperspective typography (primary): “MOVE FAST” large in background, soft perspective, slightly glowing edges, integrated subtly\n\nsecondary typography:\n“SPORT MODE”\n“URBAN ACTIVE”\n\nbranding: logo top center, “MURPHY AI” beneath\n\nsurface: controlled reflection, not mirror-like\n\ncolor palette: black, grey, subtle accent color\n\nultra-detailed modern finish",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047170094716051776/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2047170094716051776",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "605c6a9f-74a3-46ae-a7b4-49bf3836234a",
+    "prompt": "A breathtaking luxury fashion magazine cover. Large bold silver serif brand name \"SOLÈNE\" elegantly placed at the very top of the frame, slightly transparent and overlapping the model's hair — exactly like a high-end fashion magazine masthead. Clean cream-white background, seamless studio, soft warm-toned lighting.\n\nA young, extremely cute and beautiful white woman with soft angelic facial features, full lips, big dreamy green eyes with long lashes, and long silky chocolate brown wavy hair cascading freely over both shoulders. She sits gracefully — upper body leaning slightly forward, one arm resting on her knee, the other hand delicately touching her jaw, her gaze looking slightly upward and off-camera with a soft mysterious expression — elegant and effortless.\n\nShe wears a dramatic floor-length dusty rose blush satin ballgown with exaggerated sculptural puff shoulders that billow outward like rose petals — the bodice is a sheer champagne silk mesh embroidered with tiny pearl and crystal details, fitted through the waist and blooming into an enormous tiered skirt pooling around her. The fabric catches the light with a soft luminous sheen.\n\nMagazine text overlaid naturally into the composition — left side in deep charcoal navy small serif caps: \"SOFT & SOVEREIGN / THE NEW ERA OF BEAUTY\" — right side: \"LUMINOUS & RARE / PURE GRACE\" — bottom of frame in large elegant serif display font, slightly transparent: \"DIVINE & UNTOUCHABLE\"\nVertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047541284005453933/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Ozair AI",
+      "author_url": "https://x.com/Ozayrr_irl",
+      "license": "MIT",
+      "original_id": "2047541284005453933",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "dab71814-213a-4fd9-a396-04ce14cf7403",
+    "prompt": "A stunning anime theatrical movie poster in portrait format. Studio Ghibli meets Makoto Shinkai visual language. A teenage girl in a tattered white shrine maiden robe stands on the wing of a crumbling giant stone deity — an ancient colossus covered in moss and glowing golden kanji script, slowly falling through a sea of clouds. Her long black hair streams upward against gravity. She reaches one hand toward the sky where a vast celestial rift tears open the heavens — beyond it, an inverted ocean floats above the clouds, ancient wooden cities hanging upside down from its surface, lanterns drifting like stars. The sky transitions from deep twilight blue at the bottom to a luminous peach and rose gold at the top. Volumetric god rays pierce through cloud layers. Cherry blossom petals and torn paper talismans spiral everywhere. Her expression is calm determination. Art style: hand-drawn 2D animation, ultra-detailed background painting, expressive linework, rich cel shading. Palette: deep indigo, peach, rose gold, warm amber, soft white. Title in large elegant Japanese kanji at the bottom with English subtitle beneath in a clean modern font. Tagline in small white italic text above the title. Mood: mythological, spiritual, bittersweet wonder. Theatrical release quality, Toho Films.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047890555250610457/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Oogie",
+      "author_url": "https://x.com/oggii_0",
+      "license": "MIT",
+      "original_id": "2047890555250610457",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9c8917d9-c4d7-4a4e-a696-b5bcca82cd33",
+    "prompt": "Create four connected premium realistic editorial images for OBSIDIAN coffee. Dark cinematic grown-up vibe like high-end sportswear or coffee campaigns. Dramatic but grounded studio lighting, realistic textures, clean composition. Image 1: Hero poster with ‘OBSIDIAN’ and premium coffee display with steam and beans. Image 2: Product lineup - bags, cans, capsules. Image 3: Packaging close-up + tagline ‘Coffee for grown-ups who chase flavor.’ Image 4: Lifestyle steaming cup shot. Highly polished, sharp, realistic materials, consistent branding, no surreal effects",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048598185841734064/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Chase Dimond | Email Marketing Nerd 📧",
+      "author_url": "https://x.com/ecomchasedimond",
+      "license": "MIT",
+      "original_id": "2048598185841734064",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "aefeb7c7-35d3-43de-a2fa-3715d2b4b624",
+    "prompt": "A hyper-realistic cinematic movie poster of a powerful female sorcerer with the same facial structure and likeness as the uploaded reference photo, bursting through a cracked Queen of Spades playing card.\nThe card explodes outward with stone fragments, dust, and debris frozen mid-air.\nShe wears an ornate royal maroon and gold embroidered medieval fantasy jacket, rich fabric textures, intricate detailing, regal and mystical.The sorcerer extends one hand forward toward the viewer, fingers glowing with intense magical energy, subtle golden sparks and dark arcane aura surrounding the hand.\nIntense piercing gaze, confident and dominant expression, cinematic hero framing.\nDramatic chiaroscuro lighting, dark moody background, volumetric light rays, ultra-detailed textures, shallow cinematic depth of field.\nPhotorealistic face, epic fantasy realism, movie poster composition, high contrast, dynamic motion, dust particles, masterpiece quality, ultra-sharp focus, 8K resolution, cinematic color grading",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048805574176112646/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Aijaz",
+      "author_url": "https://x.com/iamsofiaijaz",
+      "license": "MIT",
+      "original_id": "2048805574176112646",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9de785ec-d67d-4ce9-af66-fc20c13e975b",
+    "prompt": "Create a hyper-realistic Japanese-style futuristic product advertisement, ultra-detailed, cinematic lighting, premium clean layout.\n\nThe product is:\n\n[DESCRIBE YOUR IDEA]\n\nScene:\nPlace the product in a real-world, emotionally impactful environment where its function is clearly visible.\n\nFocus on:\n– a strong central moment\n– natural human interaction\n– clear demonstration of the benefit\n\nInclude:\n– product name\n– headline\n– subheadline\n– feature icons, colors, shape, etc\n– pricing\n– “how it works” section",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047226077760901445/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Marcio Lima 利真 マルシオ 💎",
+      "author_url": "https://x.com/Preda2005",
+      "license": "MIT",
+      "original_id": "2047226077760901445",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "25656c1f-ed60-41ef-a94f-17659d9a02fe",
+    "prompt": "Translate this theme from concept into form, and present both the transformation process and the final outcome within a single vertical A4 composition.\nUse a two-tier layout (top and bottom sections).\nTop Section:\nA 5-step visual process diagram that captures the essence of the theme.\nStructure the flow as:\nInspiration source → Emotional energy & social interaction → Abstract UI symbols and visual language → Structured composition & character styling → Final integrated design direction\nUse the first reference image strictly for Sharon’s identity, facial features, and expression\nUse the second reference image for outfit, pose, and styling direction\nVisual style:\nDelicate sketching, soft line art, UI-inspired diagram elements\nFloating icons like “Subscribed”, hearts, notification bells, social symbols\nSmall arrows, micro annotations, short English labels\nClean spacing with refined, minimal layout\nTitle: “MOTION TO FORM”\nBottom Section:\nA hero visual derived from the process above.\nA cute, premium advertising poster featuring Sharon in a glowing, dreamy environment\nShe appears radiant, confident, and joyful, embodying a “subscribed / viral moment”\nBlend both reference images seamlessly (face from image 1, styling from image 2)\nDesign direction:\nSoft pastel gradient background (pink, lavender, baby blue)\nSubtle golden-hour glow with light neon accents\nFloating 3D UI elements (Subscribed badges, hearts, icons)\nCinematic depth, soft lens flare, light particles, bokeh\nTypography:\nMain text: “Sharon is now SUBSCRIBED ✨”\nSecondary tagline: “Join the vibe. Stay connected.”\nAdd a fictional brand/platform name (AI-generated)\nOverall Direction:\nThe final visual should feel like a fusion of:\nConcept board\nSocial media campaign poster\nDesign development sheet\nStyle:\nMinimal, poetic, intelligent\nClean negative space with balanced composition\nNeutral base tones with 1–2 soft pastel accent colors\nFocus on:\nSkin glow and natural beauty enhancement\nFabric texture and styling details\nLight, shadow, and material realism\nUI elements integrated as part of the aesthetic\nRendering quality:\nUltra high resolution\nCommercial advertising quality\nSoft, dreamy, cinematic finish",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design",
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048674104035975506/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Sharon Riley",
+      "author_url": "https://x.com/Just_sharon7",
+      "license": "MIT",
+      "original_id": "2048674104035975506",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "763aea4b-495a-436a-ade9-279ccff27575",
+    "prompt": "A highly detailed digital artwork in a surreal, dynamic style inspired by premium athletic advertising for Nike, Inc. A young athletic woman with platinum blonde hair tied in a messy bun, fair skin, and a fiercely focused expression is captured mid-jump or leap, her body leaning slightly forward as if bursting with raw, untamed energy.\nShe wears a loose, off-white Nike crewneck sweatshirt with subtle embossed Nike branding on the chest, paired with flowy, semi-transparent pants featuring a swirling marbled pattern in graphite grey and electric violet, billowing dramatically around her legs. On her feet are sleek, futuristic white Nike sneakers with glowing violet accents, visible Air-inspired sole details, and an aerodynamic design.\nVibrant electric violet energy or ethereal smoke erupts dramatically from behind her, swirling and dissolving into abstract, cloud-like forms that interact with her clothing, creating a powerful sense of motion and release.\nThe background is a deep, moody gradient transitioning from charcoal grey to luminous twilight violet, emphasizing a minimalist yet striking composition.\nOverlay large, bold metallic silver text reading “Just Do It” in a sharp, modern sans-serif font, partially integrated and obscured by the energy smoke and the figure, making it feel like an organic part of the scene.\nInclude the iconic Nike Swoosh logo in the top-left corner in shimmering silver.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047721704202617219/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Heisenberg",
+      "author_url": "https://x.com/rovvmut_",
+      "license": "MIT",
+      "original_id": "2047721704202617219",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "1963f8c6-edb1-4c2e-a8fa-73d4e9017951",
+    "prompt": "A vibrant 2000s scrapbook-style collage featuring the same young woman in multiple cutout poses. One portrait is centered and large, showing her wearing round glasses and a beige hoodie, making a finger-heart gesture toward the camera. Other cutouts show her squatting with a vintage instant camera, and another blowing a pink bubblegum bubble.\n\nThe background looks like an open sketchbook with textured paper, filled with colorful paint strokes in rainbow tones, playful doodles, arrows, stars, hearts, butterflies, smiley faces, and pop-art stickers. Bold, bubbly typography stickers read phrases like “2000s Vibes,” “Dream Big,” “Be Yourself,” “Cool Dude,” “Say Cheese,” and “Pop!”\n\nThe overall aesthetic is nostalgic, cheerful, and youthful — inspired by early 2000s teen magazines and scrapbook journals. High saturation, soft lighting, clean white sticker outlines around each cutout, whimsical and fun mood, creative flat-lay composition, digital collage illustration style.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2012542946848174323/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2012542946848174323",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-17T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "7e6ea42f-2b75-4a41-a5d0-c77126bc03bb",
+    "prompt": "Ultra-clean modern editorial infographic. The topic is [ROUTINE] routine. Base all visuals, colors, objects, mood, ingredients, and steps entirely on this topic. Hero visual: a stylized flat-lay or floating arrangement of 3–4 iconic objects associated with this topic — slightly angled or in soft perspective, glowing subtly. All elements arranged dynamically around the hero in a non-restrictive editorial layout. Ingredients Section: Label it ‘What You Need’ — include 6–8 relevant items with small icons or emoji illustrations next to each, with a practical quantity or duration written like a recipe. Steps Section: 5–6 numbered panels with arrows or connecting lines forming a logical flow, each with a short action label and small relevant icon, using glassmorphism or frosted card styling. Stats Badges: 4–5 floating pill-shaped badges showing relevant metadata, displayed as clean minimal bubbles near the hero. Visual Style: Choose background color, accent colors, typography weight, and texture to naturally match the topic’s mood. Bold modern sans-serif typography. Clean vector icons. Subtle grain or texture. Composition: Hero centered or slightly offset, ingredients one side, steps opposite or below with connecting lines, stat badges as floating pills, generous negative space. Lighting: Soft natural studio lighting matching the topic’s tone. Premium editorial aesthetic, social-feed optimized. Ultra-crisp. No watermark",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design",
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048044376366948849/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2048044376366948849",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "eaff6752-6988-40b3-ae56-5e635f87fdb0",
+    "prompt": "Create a 4:5 vertical social poster in ultra high resolution, 8K print quality sharpness. Use the BMW car from the reference image as the main subject and use the background structure/composition from the reference image, but transform it into a BMW themed design. Replace all black tones with a flat high-saturation BMW blue background. Keep the same layout, spacing, visual balance, and poster composition from the reference image.\n\nBackground should use a smooth gradient from slightly lighter electric blue at the top to deep navy blue at the bottom. Add subtle grain texture (2 to 3%) and faint rectangular overlays (2 to 4% opacity). Keep it clean, graphic, premium, and non-realistic. Add a soft contact shadow under the car.\n\nUse the same BMW from the reference image, changing only the paint color to matte frozen blue or deep metallic navy. Keep the original body shape, wheels, stance, and design details from the reference image.\n\nShow the car in a rear 3/4 perspective matching the reference image angle exactly. Use a slightly elevated camera angle. Position the car slightly right of center.\n\nInclude visible carbon roof, aggressive rear diffuser, sharp controlled reflections, and subtle brake details.\n\nKeep composition identical to the reference image:\nTop: branding\nMiddle: giant type\nCenter: car overlapping text\nBottom: editorial block and specs\n\nTypography:\n\nPrimary text: “BMW”\nUltra condensed bold sans serif, tall vertical scaling like the reference poster. Color deep navy or near black. Static text with no distortion. Acts as structural backdrop.\n\nSecondary header: “BMW M4 G82”\nThin font with wide tracking.\n\nLogo area: BMW roundel centered above.\n\nEditorial block:\n\nHeadline: “BMW — Where Driving Becomes Instinct”\n\nBody copy focused on:\n\ndriver connection\n\ncontrol\n\nperformance precision\n\nUse the same boxed editorial layout as the reference image.\n\nBackground faded text: “M4” large scale with 3 to 5% opacity behind the box.\n\nBottom left:\n“ M4 G82”\n\nBottom right specs:\n\n405 kW / 550 PS\n3.4 s\n307 km/h\n\nLighting should be clean studio lighting with sharp but controlled highlights.\n\nColor grading should use deep blues, high contrast, clean blacks.\n\nCamera lens: 50mm, slightly elevated rear 3/4 angle.\n\nMood:\nPerformance.\nPrecision.\nDriver focus.\n\nAdd Bottom-right watermark: harboriis , with small x and Instagram logo",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048063332624843046/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Harboris",
+      "author_url": "https://x.com/harboriis",
+      "license": "MIT",
+      "original_id": "2048063332624843046",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c320cf58-1f22-417d-a052-6e351557a7f3",
+    "prompt": "FORMAT:\n4:5 vertical poster, ultra high resolution, 8K, ultra-premium automotive campaign, minimal cinematic realism\n\nCORE CONCEPT:\n“CONTROLLED UNSEALING”\n\nA precision-engineered object revealed with intent.\nNothing breaks.\nEverything separates perfectly.\n\nENVIRONMENT:\n\nDeep matte black studio\n\nBackground:\n- almost pure black\n- soft, controlled yellow glow diffused behind subject\n- no visible light source\n\nSurface:\n- ultra clean dark floor\n- very soft reflection (5–8%)\n- no scratches, no noise\n\nAir:\n- almost clean (NO visible dust)\n\nHERO STRUCTURE:\n\nA **precision-engineered display case** — not industrial, not damaged.\n\nDesign language:\n- monolithic black form\n- seamless panels\n- razor-sharp edges\n- minimal visible joints\n\nOpening behavior:\n- panels slide apart with mechanical precision\n- no tearing, no debris\n- perfect separation lines\n- slight offset gaps emitting soft yellow light\n\nInterior:\n- Porsche yellow inner chamber\n- smooth, matte-satin finish\n- soft controlled glow (not bright)\n\nPRODUCT:\n[Porsche 911 GT3 RS](chatgpt://generic-entity?number=0)\n\nAngle:\nRear 3/4, slightly low\n\nPosition:\nCentered, emerging forward subtly\n\nStance:\n- perfectly planted\n- minimal steering angle (almost straight)\n- composed, not aggressive\n\nDETAILING:\n\nSurface:\n- ultra refined gloss\n- clean, sharp reflections\n- no exaggerated highlights\n\nCarbon:\n- visible but subtle\n- premium, not loud\n\nTires:\n- clean satin finish\n- realistic, not shiny\n\nIntegration:\n- faint yellow light wrap from interior\n- soft contact shadow\n- barely visible reflection\n\nCOMPOSITION:\n\nTop:\nsmall Porsche crest\n\nCenter:\ncar framed by opening panels\n\nTypography:\nsecondary to structure\n\nBottom:\nclean editorial + specs\n\nNegative space:\ndominant and intentional\n\nTYPOGRAPHY:\n\nPRIMARY:\n“PORSCHE”\n\nStyle:\nUltra condensed\n\nTreatment:\n- subtly embedded into background\n- low contrast (dark graphite on black)\n- almost discovered, not announced\n\nSECONDARY:\n“911 GT3 RS”\nthin, technical\n\nEDITORIAL BLOCK:\n\nHeadline:\n“Porsche — Precisely Unsealed”\n\nBody:\nEngineered precision revealed with absolute control.\n\nMinimal copy. No storytelling overload.\n\nSPECS:\n\n386 kW / 525 PS  \n3.2 s  \n296 km/h  \n\nClean, technical alignment\n\nLIGHTING:\n\n- soft internal yellow glow (primary)\n- controlled top light (soft, even)\n- subtle rim separation\n- NO harsh contrast spikes\n\nFocus:\nsurface quality > drama\n\nCOLOR GRADING:\n\n- deep neutral blacks\n- controlled Porsche yellow\n- low saturation outside focal area\n- ultra clean finish\n\nCAMERA:\n\n50mm  \neye-level to slightly low  \nno distortion  \n\nMOOD:\n\nCalm.\nPrecise.\nObsessive.\n\nPower under control.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048765001817805295/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2048765001817805295",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a3112bc9-076e-4c80-afb4-83f2255d8937",
+    "prompt": "本次是生成图片任务：\n苹果设计师思维，顶级海报大师思维，用高桥流思路\n呈现海报设计\n表现如下文本，让其抓人，直击人心\n你可以智能理解文本，不一定照单全收文本，智能梳理文本， 把握人性，突出看点。尤其是我输入大段文本， 你核心呈现的，应该是你理解和处理后的核心文本\n智能判定适合文本语义的配色逻辑，合理排版，有呼吸感的呈现文案\n不要额外添加文字， 超大字展示这个文案\n```\n[太阳就站在黑夜的门口]\n```",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047875746711171155/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "小小东",
+      "author_url": "https://x.com/xiaoxiaodong01",
+      "license": "MIT",
+      "original_id": "2047875746711171155",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d2cb5e6f-320f-4618-afa3-ab26f8a0446f",
+    "prompt": "Create a character promotional poster for “[XXX]”, using a unified vertical (portrait) key visual composition.\nEach poster follows a hierarchy of large top / smaller bottom structure:\nThe upper half of the composition features a highly recognizable large silhouette of the character — focusing on the head, facial contour, mask, or upper-body outline — forming a bold and iconic primary visual.\nThe middle to lower section includes a full-body version of the character as the secondary subject, shown in a stable standing pose or with subtle motion, serving as the visual core of the composition.\nInside the large silhouette and around the character, apply double exposure and collage-style storytelling, blending multiple scenes, symbolic elements, small character interactions, supporting visuals, and environments into layered compositions of mist, ink wash, and negative space.\nOn both the left and right sides, place complementary supporting elements to create narrative tension and spatial balance.\nA flowing visual line should run through the entire composition (top to bottom), connecting the main character, internal collage elements, and the large silhouette above — enhancing cohesion and guiding the viewer’s eye.\nThe overall composition should preserve large areas of negative space, with edges treated using ink diffusion, soft blurring, and fragmented fading, evoking an Eastern aesthetic of balance between emptiness and form.\nThe overall style should feel refined, restrained, premium, and cohesive, emphasizing depth, storytelling, strong visual impact, and a consistent series identity.\nAspect ratio: 9:16.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design",
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048961908238070178/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Anissa",
+      "author_url": "https://x.com/SimplyAnnisa",
+      "license": "MIT",
+      "original_id": "2048961908238070178",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e9e24aad-9efa-4e5d-af74-924ab674c98b",
+    "prompt": "High-impact e-commerce infographic advertisement for \"Fujifilm Instax Mini 11\" blush pink instant camera. FOREGROUND: Extreme close-up of a hand holding a compact rounded blush-pink Fujifilm Instax Mini 11 camera angled toward camera, razor-sharp center focus, macro-lens shallow depth of field, visible 60mm silver lens ring, crystal pop-up flash, white instax mini 11 branding on body, red shutter button accent, fingertips softly blurred at edges. CENTRAL MODEL: confident young woman with straight dark brown hair, light natural makeup, cool editorial expression, wearing a bold orange and black vertical-striped sleeveless leather mini dress with deep red buckle details and silver stud buttons, holding the blush-pink Instax Mini 11 casually at chest height with camera face pointing outward, slight off-camera gaze, stylish composed energy. BACKGROUND: soft-focus cool light gray gradient studio backdrop fading to warm white center, diagonal pastel prism lens flares in pink peach and lavender cutting upper-left to lower-right, soft blush-pink and cream light leaks at corners, 4 to 5 blurred Fujifilm Instax Mini 11 cameras floating at various depths and rotation angles, scattered polaroid-style instant photo prints in background bokeh, subtle bokeh circles from studio lights. LIGHTING: professional three-point studio lighting, key light upper-left, fill light right side, rim light behind model for separation, glossy highlights on camera lens ring and flash unit. TYPOGRAPHY overlaid clean bold white sans-serif: massive semi-transparent \"INSTAX\" text spanning full width behind model at top center, top right bold text \"Fujifilm Instax Mini 11\" with subtitle \"Instant Film Camera Blush Pink\", mid-left small camera icon with bold \"Shoot and Print Instantly\" and subtext \"Credit Card Sized Photos in Seconds\", mid-right extra-large bold numeral \"60\" with smaller text \"mm Instax Lens Auto Exposure\", lower-left bold \"selfie\" with subtext \"Built-in Selfie Mirror and Close-Up Lens Mode\", bottom-right bold numeral \"1\" with subtext \"Year Warranty Included\", bottom center fine print \"ISO 800 Film | Auto Flash | Focus Range 0.3m to infinity | AA Battery Powered | Available in 5 Colors\". TECHNICAL: 8K ultra-sharp, hyperrealistic commercial ad aesthetic, editorial fashion meets lifestyle product photography style, color palette blush pink orange black cream pastel prism accents, tack-sharp on Instax camera with shallow DOF on everything else, 85mm macro slight low angle, warm vibrant professional color grading.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048636069349138568/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2048636069349138568",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "dd1912f3-148d-4571-ab35-caad8a04576a",
+    "prompt": "Cinematic product poster for WELLBI, India's premium bamboo apparel brand.\n\nSCENE: A lone young Indian man emerges from a dense, luminous bamboo forest \nat golden hour. Wears a perfectly draped, ultra-clean ivory WELLBI bamboo polo. \nBamboo stalks alive with warm amber and jade light filtering through canopy.\n\nVISUAL STORYTELLING: The bamboo forest IS the fabric — seamless living metaphor. \nThin golden light rays land on the polo, suggesting softness and breathability.\n\nCOMPOSITION: Low angle, subject centre-frame, bamboo framing both sides like \na natural arch. Horizon at lower third. Cinematic 2.39:1 anamorphic crop.\n\n— TYPOGRAPHY SYSTEM —\nHero line: \"GROWN.\" — single word, massive scale, Helvetica Neue Ultra Light, \nall caps, extreme letter-spacing +600, ghost white at 15% opacity overlaid \nacross the ENTIRE poster width — architectural, not decorative.\n\nSub-line: \"Not manufactured.\" — set in sharp Aktiv Grotesk Regular, \nsentence case, 18pt, tracking +80, positioned directly below hero word.\nWhite. Full opacity. Feels like a whisper after a shout.\n\nBrand name: \"WELLBI\" — bottom right corner. Neutral Grotesk Medium, \nall caps, tracking +300, 11pt. Separated by a 0.5pt hairline rule \nabove it, 40px wide. Restrained. Premium.\n\nLegal/descriptor: \"100% Bamboo Apparel — India\" — micro text, \n7pt, tracking +150, bottom left. Rotated 90° vertical. \nActs as a structural edge element, not an afterthought.\n\nCOLOUR PALETTE: Deep jungle green, warm amber, ivory white, earth brown.\n\nLIGHTING: ARRI Alexa Mini LF — golden hour rim, diffused fill, \nsubtle lens flare grazing the polo fabric.\n\nMOOD: Grounded luxury. Like a Loro Piana campaign shot in Assam.\n\nCAMERA: 85mm f/1.4, shallow DOF, anamorphic lens flare.\n\nEditorial brand poster for WELLBI sustainable Indian fashion.\n\nSCENE: Extreme close-up of a weathered artisan's hands spinning bamboo thread. \nBlurred WELLBI tee draped elegantly in background. Warm-lit rural Indian \nworkshop — clay walls, raw natural light.\n\nVISUAL STORYTELLING: Rough hands against silk-smooth bamboo fabric. \nHeritage craftsmanship. The contrast IS the message.\n\nCOMPOSITION: Split tonal — dark warm left (hands, workshop), \nlight cream right (garment). Hands at cross-point. Leica 50mm documentary realism.\n\n— TYPOGRAPHY SYSTEM —\nHero line: \"ONE LAKH HANDS.\" — Canela Display Thin, mixed case, \nenormous scale, set across 80% of poster width. \nThe word \"HANDS\" drops to second line, indented right — \nstaggered layout creates visual rhythm like musical notation.\n\nCounter-line: Below \"HANDS\", flush right: \"One fabric.\" — \nsame Canela Thin but 28pt, italic. The tonal shift from \nall-caps to italic sentence case creates emotional contrast — \nlike going from statement to confession.\n\nBrand stamp: \"WELLBI\" centred bottom — pressed as if letterpress embossed. \nFreight Display Pro Bold, tracked tight at -20. Earthen cream on warm brown.\nFeels physical. Tactile.\n\nDescriptor line: \"Handcrafted bamboo apparel since 2021 — India\" — \n9pt, Suisse Int'l Light, tracking +200, full width, very bottom edge. \nReads like a footnote on a heritage certificate.\n\nCOLOUR: Terracotta, aged ivory, saffron gold, deep walnut.\n\nLIGHTING: Soft natural window light, warm practical lamp. \nDocumentary-editorial quality.\n\nMOOD: Deeply human. D&AD craft award energy.\n\nCAMERA: Leica 50mm Summilux, skin texture visible, \ndocumentary realism with fashion editorial polish.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047654588657156577/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2047654588657156577",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "5a702013-6de0-43bd-a6cc-d85546108937",
+    "prompt": "A hyperrealistic premium denim advertisement shot in a dark, moody editorial style. A male figure wearing raw selvedge denim jeans is captured mid-stride against a near-black charcoal background, body angled diagonally at a bold 45-degree perspective toward the camera. The jeans feature a slim tapered silhouette with deep indigo wash, subtle thigh and knee fading, reinforced copper rivets catching ambient light, and clean off-white contrast stitching, dominating the lower two-thirds of the frame. The composition uses shallow depth of field with sharp focus on the denim texture and soft blur on the upper torso. The background is layered with subtle urban texture — faint graffiti strokes in electric yellow and muted olive, barely visible through a heavy dark vignette. Multiple rows of ultra-small all-caps typographic text orbit the figure at different angles reading phrases like \"RAW. REAL. RELENTLESS.\" and \"WEAR WHAT YOU'VE BEEN THROUGH\" — some running vertically, some at 30-degree angles, creating a chaotic yet intentional graphic zine energy. At the upper right, a bold brand wordmark appears in clean white against the dark background. At the top center, a thin horizontal navigation-style text bar reads \"AUTHENTIC FIT · LIVED-IN LUXURY · BUILT TO LAST\" in spaced all-caps serif font. A large commanding headline is placed center-right — \"OWN\" in massive ultra-bold white letters followed by \"THE MOMENT\" in lighter weight creating dramatic type hierarchy. Small yellow plus (+) symbols and diagonal arrows (↗) are scattered throughout as accent details. Bottom left features a bold slogan lockup: \"DEFINE YOUR DENIM\" in large bold sans-serif white text with a thin subline reading \"An unapologetic reminder that style is a statement. Every crease tells a story.\" The overall lighting is dramatic and directional — a single cold key light from the left causing copper rivets to shimmer and deep indigo denim to glow with subtle sheen against the darkness. Close macro detail visible on the fabric weave texture near the knee fade. Photorealistic. Commercial photography quality. High contrast. 4K resolution. 3:4 vertical format optimized for social media.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048024788078350620/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2048024788078350620",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "29338088-20be-4060-ac95-5c0e37d7201a",
+    "prompt": "虞姬试穿高定礼服，红色拖尾长裙佩剑，巴黎秀场聚光灯下",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048044673302982925/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "松果先森",
+      "author_url": "https://x.com/songguoxiansen",
+      "license": "MIT",
+      "original_id": "2048044673302982925",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d22c2fd3-7ec5-4c0a-a8d4-6f785dc7c2a7",
+    "prompt": "Luxury aesthetic skincare advertisement,soft pastel background, warm golden sunlight, dreamy soft focus, feminine vanity setup with mirror, pearls, candle and baby breath flowers.Cozy purple fluffy surface, high-end beauty branding style, ultra realistic, 4k, studio lighting, glossy reflection, soft shadows, bokeh background.\nAdd cute doodle elements (white and purple hand-drawn arrows, sparkles, hearts), handwritten notes and stickers.\n\nText overlay: \"Glowy Skin In A Bottle\" (big hand writing font)\"Nourish • Hydrate • Glow\"\n\"For Soft, Smooth & Glowing Skin\",\"Self care Everyday\"\nclean composition, aesthetic, viral beauty ad style, Instagram / TikTok/ X friendly (but no UI), premium soft feminine branding",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047645038147166555/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2047645038147166555",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8dba5aaf-3b3c-4ac1-a84a-b51d12530382",
+    "prompt": "你是一个高端东方情绪视觉生成系统，\n\n目标：将「情绪名称」：[名称]转译为具有哲思与共鸣的东方视觉海报，\n\n在生成前必须执行以下逻辑（隐式完成）：\n\n1. 用一句人话解释这个情绪的本质\n2. 判断其属于：循环 / 停滞 / 崩塌 / 拉扯 / 空洞\n3. 将该机制转译为东方视觉隐喻结构（而不是直接画情绪）\n\n——————————————————\n\n【整体风格】\n\n新中式极简东方美学（Neo-Chinese minimalism）\n克制（restrained）\n留白（negative space）\n诗意叙事（poetic storytelling）\n高端商业视觉（luxury oriental editorial）\n\n画面比例：9:16 竖版\n\n背景：\n宣纸白（#F5F0E6）\n极轻微纸张肌理\n留白 ≥50%\n\n——————————————————\n\n【构图】\n\n必须使用：\nS型流动构图 或 对角线构图\n\n画面具有明确视觉引导路径\n结构自然生长，不拼贴\n\n——————————————————\n\n【核心视觉（情绪空间装置）】\n\n构建一个“情绪结构空间”（不是风景，而是机制具象化）：\n\n基于情绪自动生成：\n\n- 若为循环 → 回旋水流 / 云气环 / 无尽路径\n- 若为停滞 → 静水 / 漂浮物 / 空舟\n- 若为崩塌 → 断裂山体 / 坠落结构\n- 若为拉扯 → 丝线 / 双向力结构\n- 若为空洞 → 空壳 / 雾化空间\n\n主体中必须包含：\n\n一个“微小人物”（极关键）：\n- 比例很小（强化情绪压迫感）\n- 行走 / 站立 / 停滞 / 观望\n- 与结构形成关系（被困 / 被拉 / 被吞没）\n- 古代服装\n\n——————————————————\n\n【材质与光影】\n\n材质：\n水 / 雾 / 石 / 宣纸 / 丝绸 / 金属（克制）\n\n光影：\n电影级侧逆光（cinematic side/back lighting）\n体积光（volumetric light）\n柔和轮廓光（rim light）\n\n整体光线：克制、真实、有空气感\n\n——————————————————\n\n【辅助元素（极少量）】\n\n可加入：\n\n- 云气 / 水纹\n- 极细金线（流动）\n- 朱砂印章（小）\n- 单行题注（极小）\n\n必须自然融入画面，非UI结构\n\n——————————————————\n\n【文字排版】\n\n左上角或沿构图走势：\n\n主标题：\n{情绪名称}\n\n副标题：\n{一句具有哲思的表达（自动生成）}\n\n细横线（极细）\n\n英文或拼音（可选）\n\n底部：\n\n一句总结（极克制、非鸡汤）\n\n——————————————————\n\n【色彩】\n\n主色：\n墨黑 / 深灰\n\n点缀：\n极少量金色 / 青绿 / 靛蓝\n\n整体低饱和\n\n——————————————————\n\n【质量要求】\n\n8K\n真实材质\n无塑料感\n无杂乱\n边缘干净\n\n强调：\n气韵 > 细节\n克制 > 炫技\n\n————\n情绪名称：[名称]",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design",
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048798194348515567/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "李岳",
+      "author_url": "https://x.com/liyue_ai",
+      "license": "MIT",
+      "original_id": "2048798194348515567",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "131ab958-6dfc-4b16-a2c5-cfc3d2f5a612",
+    "prompt": "A cinematic luxury fashion editorial set inside a grand vintage library with tall wooden bookshelves, soft fog covering the floor, and glowing butterflies floating in the air. A beautiful young woman with short wavy bob hair and soft natural makeup sits centered on a stack of antique books. She wears an elegant flowing satin gown in champagne color, posed gracefully with one hand resting on her face. A luxury designer handbag is placed prominently in front. Dramatic spotlight from above, symmetrical composition, moody atmosphere, shallow depth of field, ultra-realistic, high detail, 8K, fashion magazine style, premium aesthetic, soft shadows, rich tones.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047949150222778710/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Noor 🌸",
+      "author_url": "https://x.com/Noor_ul_ain43",
+      "license": "MIT",
+      "original_id": "2047949150222778710",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "cbd29926-2e2d-46a0-aec2-724271ac65c0",
+    "prompt": "[BRAND NAME]\n\nAct as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented brand content for Instagram and digital campaigns.\n\nPHASE 1: CONCEPTUAL FRAMEWORK\nCreate a dynamic digital collage that merges fashion photography with graphic design chaos.\n\nThis is controlled rebellion — a composition that feels spontaneous, energetic, and expressive while maintaining strong brand coherence.\n\nAesthetic direction:\n- Anti-polished\n- Raw textures\n- Layered imperfections\n- Youth-driven visual noise\n- High confidence, high movement energy\n\nVisual language:\nTorn edges, brush strokes, grain overlays, hand-drawn elements, and bold color blocking.\n\nPHASE 2: MODEL & PHOTOGRAPHY\n- Subject: One model (diverse casting, age 18–30)\n- Pose Energy: 80% attitude, 20% natural  \n  (jumping, leaning, sitting, mid-motion, power stance — NEVER static)\n- Outfit: Streetwear / athleisure aligned with [BRAND NAME]\n- Hero Product: One key product (clear visual anchor)\n\n- Photography Style: Editorial fashion cutout\n- Background Removal: Clean, sharp extraction\n- Camera Angle: Slight low angle (hero perspective)\n- Crop: Full body or 3/4 body (product clearly visible)\n\nPHASE 3: COLOR BLOCKING FOUNDATION\n- Primary Color Blob:\n  Large organic shape (40–60% of frame)\n\n- Color Selection:\n  1 dominant brand color (auto-adapt from [BRAND NAME])\n\n- Shape Style:\n  Irregular, hand-painted / torn paper (NO perfect geometry)\n\n- Texture:\n  Brush grain / noise (15–25% opacity)\n\n- Placement:\n  Behind or wrapping around subject  \n  (must frame, not hide product)\n\nPHASE 4: GRAPHIC ELEMENTS LAYER\nAdd 3–5 abstract elements:\n\nElement types (auto-select based on brand tone):\n- Scribbles / hand-drawn marks\n- Arrows / motion indicators\n- Circles / blobs\n- Texture overlays (dust, grain, fabric, noise)\n- Doodles / symbolic icons\n\nRules:\n- Colors: 2–3 total (primary + 1–2 accents)\n- Placement: Asymmetric (top-left + bottom-right bias)\n- Scale: Small (5%) + medium (15%)\n- Avoid center clutter\n- Keep imperfect, handmade feel\n\nPHASE 5: TYPOGRAPHY INTEGRATION\n- Logo:\n  Upper-left or upper-right (10–15% width)\n\n- Slogan/Headline:\n  Use brand slogan OR create one aligned to brand tone\n\n- Supporting Copy:\n  Optional 1-line descriptor\n\n- Type Style:\n  Bold sans-serif / grotesk / geometric (brand dependent)\n\n- Treatment:\n  Mix straight + slight rotation (2–5°)\n\n- Hierarchy:\n  Logo → Headline → Supporting copy\n\nPHASE 6: TEXTURE & BACKGROUND\n- Base Layer:\n  Off-white / light grey (NOT pure white)\n\n- Color Range:\n  RGB 245–250 (warm neutral)\n\n- Texture Options:\n  Paper grain / fabric texture / subtle noise\n\n- Rule:\n  Texture should be FELT, not dominant\n\nPHASE 7: COMPOSITION RULES\n- Layout:\n  Asymmetric balance (model off-center)\n\n- Breathing Room:\n  15–20% negative space\n\n- Layering Order:\n  Background → Color blob → Graphics → Model → Typography\n\n- Focal Point:\n  Model + product = 60%  \n  Graphics = 40% support\n\n- Movement:\n  Strong diagonal flow  \n  (top-left → bottom-right OR reverse)\n\nPHASE 8: BRAND INTELLIGENCE (AUTO-ADAPT)\n\nAdapt energy based on brand type:\n\n→ Streetwear / Sportswear  \nBold contrast, aggressive motion, louder graphics\n\n→ Luxury Streetwear  \nMinimal chaos, sharper spacing, refined typography\n\n→ Outdoor / Utility  \nTexture-heavy, grounded tones, functional realism\n\n→ Beauty / Lifestyle  \nSoft chaos, clean spacing, pastel or skin tones\n\n→ Tech / Modern  \nMinimal graphics, structured layout, sharp geometry\n\nPHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL)\n- Bottom strip (8–10% height)\n- Light neutral background\n- Social handles / icons\n- Clean grid layout\n- Keep minimal (contrast to collage)\n\nTECHNICAL SPECS:\n- Aspect Ratio: 4:5 (primary) or 1:1\n- Resolution: 2400x3000px+\n- Color Mode: sRGB (Instagram optimized)\n- Sharpness: High detail, slight grain allowed\n- Output Style: Digital collage mimicking analog craft\n\n- Photography Base (before cutout):\n  85mm lens, f/2.8, shallow depth of field",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048963140222861357/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2048963140222861357",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "2d575905-46dd-46c8-a609-a8751e54335d",
+    "prompt": "Create a visually rich infographic in Chinese about an endangered animal. Start by finding one online, research its habitat, diet, and unique traits. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic central animal as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.\n\n猜猜哪个是哪个？",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047153211560399009/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Bill The Investor",
+      "author_url": "https://x.com/billtheinvestor",
+      "license": "MIT",
+      "original_id": "2047153211560399009",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ae228bc5-3be7-4a48-a4a4-205609d77071",
+    "prompt": "Full-body fashion editorial shot of a confident young woman with long wavy dark brown hair, striking sharp facial features, defined cheekbones, deep-set eyes with a calm dominant gaze, sunglasses perched on top of her head, standing in a powerful pose — one hand resting on an open scissor door, body slightly turned, looking straight at camera with a composed, fierce expression.\nWearing a fitted black long-sleeve racing jersey with gold sponsor logos (Alpinestars collar detail), black racing gloves, with a white, black, and red Sparco racing suit draped and hanging off her body, and black racing shoes. Clean editorial styling, natural confident stance, wind slightly moving her dark wavy hair.\nBeside and partially interacting with a stylized cartoon Cat, positioned naturally as if sharing the same space. The Cat is illustrated in bold cartoon style with thick black outlines, vibrant neon color palette (neon green, blue, yellow accents), exaggerated proportions, expressive features, playful yet powerful presence.\nBackground: bright indoor motorsport garage pit lane setting with large industrial windows flooding soft diffused daylight, glossy reflective concrete floor, a neon green Lamborghini Huracán with open scissor door partially visible.\nFusion of hyper-realistic photography and graphic illustration, seamless integration between subject and cartoon. Add graphic overlay elements: doodle Gugu arrows, scribbles, racing-themed abstract shapes, speed lines, comic-style symbols, dynamic motion lines, checkered flag doodles.\nHigh contrast, HDR lighting, sharp focus, fashion editorial motorsport composition, surreal mixed-media aesthetic, ultra-detailed, 8K resolution.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048967861981594095/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2048967861981594095",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "49de1554-291d-4c7e-afc0-ca3d3e15c634",
+    "prompt": "Create a jaw-dropping premium advertising poster in 9:16 vertical format for a fictional ultra-limited Adidas sneaker called \"ADIDAS AEROBLADE X - LIMITED DROP\". The design must feel like a world-class campaign by a top creative agency, highly original, futuristic, visually explosive, and impossible to ignore.\n\nMain visual:\nA single hero sneaker floating in the center, shot from a dramatic low angle, as if it is levitating above a black obsidian running track split by glowing energy cracks. The shoe should look ultra-premium, highly engineered, sleek, aerodynamic, and fashion-forward. Its material should combine knit mesh, sculpted foam, translucent panels, reflective stripes, and a carbon-fiber sole plate. Neon light trails swirl around the shoe like captured speed. Small particles and mist add motion and intensity. In the background, use faint silhouettes of elite runners frozen mid-sprint, blurred just enough to keep all attention on the shoe.\n\nColor palette:\nMatte black, electric red, silver, deep charcoal, with subtle neon blue highlights.\n\nTypography and poster copy:\nRender all text cleanly, sharply, and professionally with strong hierarchy.\nMain headline:\n\"OWN THE SPEED\"\nProduct title:\n\"ADIDAS AEROBLADE X\"\nSubheadline:\n\"Built for the ones who never run ordinary.\"\nFeature callouts in elegant boxed layout:\n- \"Featherlight Adaptive Knit Upper\"\n- \"Carbon Energy Return Plate\"\n- \"Precision Grip Traction\"\n- \"Limited Collector Release\"\nPrice line:\n\"$280\"\nCTA:\n\"DROP LIVE NOW\"\nSecondary CTA:\n\"Only at https://t.co/xuQ7Pl8fga\"\nSmall footer text:\n\"Performance innovation meets futuristic street identity.\"\n\nLayout direction:\nThe headline should be bold and oversized, partially integrated into the background. Product name should sit near the shoe in a refined premium layout. Feature callouts should be clean, readable, and arranged vertically along one side. Add a subtle badge reading \"LIMITED SERIES\". The overall composition should feel like a luxury sports campaign mixed with futuristic editorial design.\n\nStyle:\nUltra-detailed, hyper-realistic product photography, cinematic studio lighting, premium advertising aesthetics, sharp focus, rich textures, subtle atmosphere, dynamic motion energy, high-end commercial poster, no clutter, no generic template look.\n\nMake the aspect ratio 9:16",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design",
+      "Product & Brand"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048773623297527836/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Ertan Dönmez | Ai Master",
+      "author_url": "https://x.com/ertanlabs",
+      "license": "MIT",
+      "original_id": "2048773623297527836",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ded189ef-9714-4353-a947-19e6f2cb2c17",
+    "prompt": "Minimalist luxury watch campaign, oversized wristwatch positioned like modern sculpture, model leaning against the dial, giant word “TIME” in bold typography behind, deep emerald studio background, reflective polished floor, Swiss luxury advertising aesthetic, cinematic editorial styling, ultra-clean composition, 1:1",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047704906904330554/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Smiling Khan",
+      "author_url": "https://x.com/AIwithkhan",
+      "license": "MIT",
+      "original_id": "2047704906904330554",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "6c8ff85c-783f-40a5-a6bf-354e39a1f31e",
+    "prompt": "请创作一张【主题为：】的[乙女恋爱游戏主视觉海报]风格的二次元宣传图。\n\n整体设定为：多位具有强烈权力感、领袖气场、成熟魅力的男性角色，围绕一位女性主角展开情感与权谋交织的修罗场关系。画面不是普通群像，而是典型女性向恋爱手游的官方KV海报：所有男性角色从不同方向靠近女主，形成守护、凝视、占有欲、克制深情、危险暧昧等复杂张力。女主位于视觉中心，气质聪慧、冷静、优雅，既像外交核心人物，又像乙女游戏中让所有人倾心的唯一女主。\n\n画风要求：高完成度日系二次元插画，女性向手游卡面质感，唯美、华丽、梦幻、精致，电影级光影，柔焦，镜头光晕，星光粒子，漂浮花瓣，细腻皮肤质感，精致发丝，服装高级，面部神情有戏剧张力。\n\n构图要求：竖版海报构图，人物半身到近景特写混合，女主居中，其他男性角色从左上、右上、左下、右下等方位围拢，形成视觉包围感与情绪压迫感；人物彼此之间有明确视线关系，所有情绪都聚焦在女主身上。\n\n背景要求：宫殿、议事厅、国际局势隐喻空间、权力中心、战争与秩序的象征性环境，但整体处理要浪漫化、幻想化，不要做成真实新闻照片，而是做成戏剧化的恋爱游戏世界观背景。\n\n排版要求：画面中加入中文游戏海报文案，包括大标题、副标题、角色名字、CV字样、人物台词、预约开启中文字样，以及应用商店风格按钮。整体排版像正式上线前的手游宣传海报，设计精致统一，不能杂乱。",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047303787249803449/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Larus Canus",
+      "author_url": "https://x.com/MrLarus",
+      "license": "MIT",
+      "original_id": "2047303787249803449",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "cc59d385-f4ba-4647-ac5a-f6929917213f",
+    "prompt": "[BRAND NAME = CHANGE TO YOUR BRAND]. \nAct as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented brand content for Instagram and digital campaigns. PHASE 1: CONCEPTUAL FRAMEWORK Create a dynamic digital collage that merges fashion photography with graphic design chaos. This is controlled rebellion – a composition that feels spontaneous and energetic while maintaining brand coherence. The aesthetic is anti-polished: torn edges, layered textures, hand-drawn elements, and bold color blocking that screams confidence and movement. PHASE 2: MODEL & PHOTOGRAPHY - Subject: One model (diverse casting, age 18-30) in a dynamic, confident pose - Pose Energy: 80% attitude, 20% natural – sitting, jumping, mid-motion, or power stance (avoid static standing) - Outfit: Street style/athleisure that aligns with [BRAND NAME] aesthetic – casual but styled - Hero Product: Feature 1 signature [BRAND NAME] product prominently (sneakers, bag, apparel) – this is the visual anchor - Photography Style: Editorial fashion cutout – model extracted from background with clean edges - Camera Angle: Slight low angle to empower subject (hero perspective) - Crop: Full body or 3/4 body showing hero product clearly - Background Removal: Model cut out cleanly for layering over collage elements PHASE 3: COLOR BLOCKING FOUNDATION - Primary Color Blob: Large organic shape (40-60% of composition) in bold, saturated brand color behind/around model - Shape Style: Irregular, hand-painted aesthetic – think Photoshop brush strokes or torn paper texture (NOT perfect geometric shapes) - Color Selection (Autonomous): Choose 1 hero color from [BRAND NAME] palette: - Texture: Visible brush strokes, grain, or subtle noise (15-25% opacity) – avoid flat digital fills - Placement: Blob positioned to frame model without obscuring key product details PHASE 4: GRAPHIC ELEMENTS LAYER Add 3-5 abstract graphic elements scattered across composition: - Element Types: - Color Palette: Use 2-3 accent colors total (main blob color + 1-2 contrasting tones from brand palette) - Placement: Asymmetric scatter – top-left and bottom-right zones primarily (avoid center crowding) - Scale: Mix small (5% of canvas) and medium (15% of canvas) elements – nothing overpowering - Aesthetic: Analog/handmade feel – imperfect circles, rough edges, visible texture PHASE 5: TYPOGRAPHY INTEGRATION - Brand Logo: Clean [BRAND NAME] logo placed in upper-left or upper-right quadrant (10-15% of width) - Slogan/Tagline: If [BRAND NAME] has an iconic slogan, integrate it using: - Supporting Copy: Optional 1-line descriptor (e.g., \"A MOMENT OF YOUR STYLE\") in smaller uppercase sans-serif - Type Treatment: Mix of aligned and slightly rotated text (2-5° angles) for dynamic energy - Hierarchy: Logo largest → Slogan medium → Copy smallest PHASE 6: TEXTURE & BACKGROUND - Base Layer: Off-white or light gray textured background (NOT pure white) - Texture Options (Autonomous selection): - Color: RGB 245-250 (near-white with warmth) – maintains brightness while adding depth - Treatment: Texture should be felt, not seen – enhances tactility without competing with foreground PHASE 7: COMPOSITION RULES - Layout: Asymmetric balance – model off-center, graphic elements counter-balance - Breathing Room: 15-20% negative space (textured background visible) to prevent claustrophobia - Layering Order: Background texture → Color blob → Graphic elements → Model (cutout) → Typography top layer - Focal Point: Model + hero product = primary focus (60% visual weight), graphics support (40%) - Movement: Diagonal lines and angled elements create directional flow (top-left to bottom-right or vice versa) PHASE 8: BRAND INTELLIGENCE (AUTONOMOUS) Autonomously adapt composition based on [BRAND NAME] personality: - Streetwear/Sportswear (Nike, Adidas, Supreme): - Luxury Streetwear (Balenciaga, Off-White, Gucci): - Beauty/Lifestyle (Glossier, Fenty, Skims): - Tech/Modern (Apple, Tesla, Beats): PHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL) - Bottom Strip: Clean white or light gray bar at bottom 8-10% of frame - Content: Social media handles (Instagram, Facebook, Twitter) in small sans-serif - Layout: Three-column grid with platform icons or text handles - Aesthetic: Minimal and professional – contrast with chaotic collage above TECHNICAL SPECS: - Aspect Ratio: 4:5 (Instagram feed) or 1:1 (square social post) - Resolution: 2400x3000px minimum (high-quality for zoom and detail) - Color Mode: sRGB, vibrant saturation (Instagram-optimized) - File Aesthetic: Digital collage that mimics analog craft (Photoshop + hand-drawn hybrid) - Model Photography: 85mm lens, f/2.8, shallow depth of field on original shoot (before cutout) - Style Reference: Nike social campaigns, Spotify wrapped graphics, Gen Z Instagram aesthetics, Hypebeast x streetwear collabs - Mood: Confident, energetic, youthful, authentic chaos, anti-corporate polish",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048802776419799152/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "AI Pulse",
+      "author_url": "https://x.com/youraipulse",
+      "license": "MIT",
+      "original_id": "2048802776419799152",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e983bbcf-5357-46ec-af95-6f97bdbbbc2d",
+    "prompt": "Minimalist conceptual fashion editorial poster, studio shot on a clean off-white seamless background. A glossy deep blue modern lounge chair placed in the center, with an oversized beige trench coat and tailored charcoal trousers draped naturally over it, creating the illusion of an invisible person sitting there. Polished brown leather loafers placed neatly on the floor in front of the chair. Large elegant typography behind the chair reading “LOST IN SILENCE” — “Lost” in flowing luxury cursive script, “IN SILENCE” in bold serif uppercase. Small subtle text in the corners like “quiet mind,” “fading identity,” “empty presence,” and “distant thoughts.” High-fashion magazine cover aesthetic, cinematic soft lighting, muted tones, surreal emotional atmosphere, clean composition, luxury editorial styling, premium fashion campaign look, artistic and symbolic.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048983944922882536/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Sarah",
+      "author_url": "https://x.com/AIwithSarah_",
+      "license": "MIT",
+      "original_id": "2048983944922882536",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "1beb9e9e-0812-440a-a7c3-75ef0fec6b6d",
+    "prompt": "A hyper-realistic premium product advertisement featuring an oversized futuristic comfort clog placed on a smooth glossy reflective floor. A modern model dressed in soft neutral-toned athleisure (off-white / beige) stands slightly leaning against the giant shoe with a relaxed, confident posture.\n\nBackground: clean gradient blending soft sky blue into subtle lavender tones, with massive bold typography in the background reading “STEP INTO EASE” in a modern sans-serif font, stretched vertically and partially behind the subject.\n\nLighting: high-end studio lighting with soft highlights, gentle reflections on the floor, and subtle rim light outlining the model and product for depth.\n\nComposition: editorial magazine layout, perfectly centered subject, strong negative space, luxury branding feel.\n\nAdditional text (small, minimal placement at bottom): “Designed for all-day comfort. Made to move with you.”\n\nStyle: ultra-clean, Apple-style minimalism meets fashion campaign, hyper-realistic, premium commercial photography, 8K, sharp details.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047729312384901449/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝐌",
+      "author_url": "https://x.com/Strength04_X",
+      "license": "MIT",
+      "original_id": "2047729312384901449",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "5347c1db-a35c-4465-a216-8c2ac0539bbf",
+    "prompt": "A cinematic, high-end sneaker advertisement poster featuring a young male model mid-air in a dynamic jumping pose, captured from a low-angle perspective to emphasize power and motion. The model is wearing a coordinated beige streetwear outfit (hoodie and joggers), with oversized chunky white sneakers that have bold orange accents on the sole and side stripes.\n\nThe background is a smooth studio gradient in warm tones, blending light yellow and vibrant orange for an eye-catching, energetic feel. Dramatic soft studio lighting enhances the subject, with glowing highlights and subtle shadows that complement the outfit and colour palette.\n\nBehind the model, large bold typography is seamlessly integrated into the composition, reading “RISE” in oversized modern sans-serif font, partially obscured by the subject for depth. Additional small promotional text is placed around the layout in a clean editorial style, such as:\n\n“RISE ABOVE. STAND OUT.”\n“BIGGER STEPS. BOLDER MOVES. BETTER YOU.”\n“COMFORT THAT ELEVATES.”\n“PREMIUM MATERIALS. RESPONSIVE CUSHIONING. TIMELESS DESIGN.”\n\nAt the bottom, a modern sneaker brand logo “AERO” appears with the tagline “MOVE DIFFERENT.”\n\nAdd subtle motion effects like dust particles or energy trails beneath the jumping foot to enhance impact. Ultra-realistic detail, sharp focus, high contrast, commercial fashion photography style, magazine-quality composition, 4K resolution.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2049022501850915160/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Ozair AI",
+      "author_url": "https://x.com/Ozayrr_irl",
+      "license": "MIT",
+      "original_id": "2049022501850915160",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3d2355a3-05c7-49a0-a98d-71b506e414b6",
+    "prompt": "{\n  \"style_id\": \"photo-flat-doodle-campaign-poster\",\n  \"style_name\": \"Photo × Flat-Doodle Campaign Poster\",\n  \"version\": \"1.0\",\n  \"aspect_ratio\": \"2:3\",\n  \"reference\": \"Shanghai edition — derived from TfL 'Your London Adventure Starts Here'\",\n\n  \"variables\": {\n    \"scene\": {\n      \"city\": \"上海 Shanghai\",\n      \"landmark_photo\": {\n        \"subject\": \"Oriental Pearl Tower with Lujiazui skyline in the background, viewed from across the Huangpu River\",\n        \"angle\": \"low-angle hero shot, Pearl Tower centered and vertical, the two pink spheres clearly visible\",\n        \"lighting\": \"early evening blue hour, city lights just starting to glow, sky still holding daylight\",\n        \"treatment\": \"unretouched realistic photograph, natural steel + concrete + river reflection, no filter\"\n      },\n      \"background_sky\": \"deep teal-to-indigo gradient sky with a subtle warm glow at the horizon, upper 40% of canvas kept open for headline\"\n    },\n\n    \"hero_character\": {\n      \"enabled\": true,\n      \"scale\": \"giant — roughly 1.2× tower height, standing on the right, body extends beyond canvas\",\n      \"pose\": \"holding a cartoon xiaolongbao steamer basket up to eye level with one hand, the other hand doing a casual wave, one foot slightly lifted mid-step\",\n      \"skin_tone\": \"flat neon-green (non-realistic)\",\n      \"face\": \"minimal — single curved smile, no nose, small cobalt-blue round eyes like dots\",\n      \"hair\": \"long straight black-with-hot-pink-streaks hair, high ponytail swinging to one side, short blunt bangs\",\n      \"outfit\": {\n        \"top\": \"oversized cobalt-blue modern qipao-inspired jacket with a stand collar, hot-pink frog-button closures, cropped length\",\n        \"bottom\": \"off-white baggy cargo pants with a neon-green side stripe and oversized pockets\",\n        \"shoes\": \"chunky pink-and-yellow platform sneakers\"\n      },\n      \"accessory\": \"bamboo-style cartoon steamer basket with three xiaolongbao peeking out, tiny yellow steam swirls drawn above\",\n      \"linework\": \"thin consistent black outline on qipao collar, frog buttons, ponytail strands, and steamer weave\"\n    },\n\n    \"doodle_props\": [\n      {\n        \"id\": \"giant_xiaolongbao_cloud\",\n        \"shape\": \"three oversized cartoon soup dumplings floating together with exaggerated steam swirls\",\n        \"colors\": [\"off-white dumpling skin\", \"hot-pink pleats\", \"sun-yellow steam\"],\n        \"position\": \"lower-left foreground, tilted, partially covering the tower base\"\n      },\n      {\n        \"id\": \"metro_heart_sticker\",\n        \"shape\": \"Shanghai Metro red circle mark restyled as a flat sticker with sparkle stars\",\n        \"colors\": [\"hot-pink circle\", \"off-white Chinese character 地\", \"neon-green sparkles\"],\n        \"position\": \"pasted onto the lower sphere of the Pearl Tower\"\n      },\n      {\n        \"id\": \"huangpu_wave\",\n        \"shape\": \"stylized cartoon river wave curl, like a chunky comma\",\n        \"colors\": [\"cobalt-blue wave\", \"off-white foam tips\"],\n        \"position\": \"mid-left, floating in front of the tower mid-section\"\n      },\n      {\n        \"id\": \"red_lantern\",\n        \"shape\": \"round traditional cartoon red lantern with a tiny tassel\",\n        \"colors\": [\"hot-pink lantern\", \"sun-yellow tassel\", \"neon-green string\"],\n        \"position\": \"center-upper, overlapping between the two pink spheres of the tower\"\n      },\n      {\n        \"id\": \"magnolia_petal_burst\",\n        \"shape\": \"a small cluster of 3 oversized cartoon magnolia petals (Shanghai's city flower)\",\n        \"colors\": [\"off-white petals\", \"hot-pink tips\"],\n        \"position\": \"far-left mid-height, drifting diagonally as a color accent\"\n      },\n      {\n        \"id\": \"panda_bubble_tea_buddy\",\n        \"shape\": \"tiny cartoon bubble tea cup with a smiling face and a panda-ear straw topper\",\n        \"colors\": [\"off-white cup\", \"ink-black pearls\", \"neon-green straw\"],\n        \"position\": \"bottom-right near the character's shoe, as a sidekick scale cue\"\n      }\n    ],\n\n    \"copy\": {\n      \"headline\": {\n        \"text\": \"你的上海奇遇 从这里开始\",\n        \"language\": \"zh-CN\",\n        \"max_lines\": 3,\n        \"english_variant\": \"Your Shanghai Adventure Starts Here\"\n      },\n      \"subhead\": {\n        \"text\": \"乘地铁。逛街巷。尝一口。\",\n        \"language\": \"zh-CN\"\n      },\n      \"logos\": {\n        \"bottom_left\": \"上海市人民政府 SHANGHAI MUNICIPAL GOVERNMENT\",\n        \"bottom_right\": \"上海地铁 SHANGHAI METRO — 每一站都是故事 (with metro roundel)\"\n      }\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047944141015802341/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Vigo Zhao",
+      "author_url": "https://x.com/VigoCreativeAI",
+      "license": "MIT",
+      "original_id": "2047944141015802341",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b90199b9-ba8f-4876-a0ed-08fa0542476a",
+    "prompt": "[BRAND NAME = AUTO VAULT MOTORS]\n[CAR MODEL = HYUNDAI CRETA 2025 • SX (O) TOP MODEL]\n[PRICE = ₹17.45 LAKH]\n[KEY HIGHLIGHTS = 12,500 KM • 1st OWNER • PETROL • FULL SERVICE RECORD • UNDER WARRANTY]\n[CONTACT = +91 98765 43210 • WHATSAPP AVAILABLE • JAMMU]\n\nAct as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented automotive resale promotions for Instagram and digital campaigns.\n\nPHASE 1: CONCEPTUAL FRAMEWORK\nCreate a high-conversion digital collage that positions this Creta as a premium smart buy.\n\nThis is not “used”.\nThis is “upgrade for less”.\n\nVisual strategy:\n- Blend premium SUV aspiration with deal urgency\n- Controlled chaos with refined execution\n- Price + car as dual hero\n\nAesthetic:\nClean chaos — less messy, more premium energy\n\nPHASE 2: MODEL & PHOTOGRAPHY\n- Subject: Hyundai Creta 2025 SX (O)\n- Pose Energy: Front 3/4 angle, slightly turned, confident stance\n- Hero Product: Full car body with emphasis on grill + DRLs\n\n- Photography Style: Clean high-resolution cutout\n- Camera Angle: Slight low angle (premium presence)\n- Crop: Full car visible\n\n- Optional Human Element:\n  Subtle driver silhouette inside for realism\n\nPHASE 3: COLOR BLOCKING FOUNDATION\n- Primary Color Blob:\n  Deep metallic blue (premium tone)\n\n- Size:\n  ~50% of composition\n\n- Shape Style:\n  Smooth torn-brush hybrid (refined, not aggressive)\n\n- Texture:\n  Light metallic grain (15%)\n\n- Placement:\n  Diagonal behind car (top-left → bottom-right flow)\n\nPHASE 4: GRAPHIC ELEMENTS LAYER\n- Price badge (bold, high contrast) — PRIMARY\n- “CERTIFIED” stamp badge\n- Minimal arrow accents pointing toward car\n- Soft glow lines (premium touch)\n\nRules:\n- Colors: Blue + white + subtle neon accent\n- Placement: Corners, avoid cluttering car\n- Scale: Price = largest graphic element\n\nPHASE 5: TYPOGRAPHY INTEGRATION\n- Logo:\n  Top-left (clean, small)\n\n- Headline:\n  “SMART UPGRADE”\n\n- Price (DOMINANT):\n  “₹17.45 LAKH”\n\n- Supporting Copy:\n  “2025 • 12,500 KM • 1st OWNER”\n  “PETROL • UNDER WARRANTY”\n\n- CTA:\n  “BOOK TEST DRIVE NOW”\n\n- Type Treatment:\n  Clean bold sans-serif, minimal rotation (2° max)\n\n- Hierarchy:\n  Price → Headline → Car name → Details → CTA → Logo\n\nPHASE 6: TEXTURE & BACKGROUND\n- Base:\n  Light grey premium tone (RGB ~246)\n\n- Texture:\n  Subtle paper + metallic grain blend\n\n- Rule:\n  Very controlled — premium feel\n\nPHASE 7: COMPOSITION RULES\n- Layout:\n  Car slightly right of center\n\n- Breathing Room:\n  20% clean space\n\n- Layering:\n  Background → Blob → Graphics → Car → Typography\n\n- Focal Split:\n  60% car + price  \n  40% support elements\n\n- Movement:\n  Diagonal guiding eye → price → CTA\n\nPHASE 8: BRAND INTELLIGENCE\nPremium used dealer:\n- Clean layout\n- Strong trust signals\n- Minimal chaos vs streetwear style\n\nPHASE 9: SOCIAL MEDIA FOOTER\n- Bottom strip (clean white)\n- Content:\n  📞 +91 98765 43210  \n  📍 Jammu  \n  💬 WhatsApp Available\n\n- Layout:\n  Minimal grid\n\nTECHNICAL SPECS:\n- 4:5 ratio (Instagram)\n- 2400x3000px+\n- sRGB\n- High clarity (car ultra sharp)\n- Controlled grain\n\n- Style:\n  Gen-Z collage × premium dealership aesthetic\n\nFINAL OUTPUT MOOD:\nPremium.\nTrustworthy.\nUrgent.\nSmart purchase.\nHigh conversion intent.",
+    "model": "gpt-image",
+    "category": "poster-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2049019141093528045/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2049019141093528045",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  }
+]

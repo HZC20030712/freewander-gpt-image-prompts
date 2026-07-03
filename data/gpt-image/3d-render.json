@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "79f7c201-3a39-4855-a2b5-249cd4ecdd13",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K\",\n    \"quality\": \"ultra-high definition\",\n    \"aspect_ratio\": \"2:3\",\n    \"render_style\": \"AI-edited, high-detail 3D render\",\n    \"lighting_quality\": \"soft studio lighting with realistic shadows\",\n    \"sharpness\": \"extreme clarity, crisp edges\",\n    \"noise\": \"none\",\n    \"compression\": \"none\"\n  },\n\n  \"Module_1_Image_1_Style\": {\n    \"subject\": {\n      \"character_type\": \"stylized 3D cartoon female\",\n      \"pose\": \"standing, body slightly angled, one hand raised with index finger touching lips\",\n      \"expression\": \"cheerful smile, wide eyes\",\n      \"hair\": {\n        \"color\": \"black\",\n        \"style\": \"two braided pigtails\",\n        \"accessories\": \"green cap\"\n      },\n      \"face\": {\n        \"eyes\": \"large, rounded, dark pupils\",\n        \"skin\": \"smooth, matte, stylized texture\"\n      }\n    },\n    \"clothing\": {\n      \"top\": \"sleeveless green crop top\",\n      \"bottom\": \"loose green jogger-style pants with drawstring\",\n      \"footwear\": \"white sneakers\"\n    },\n    \"accessories\": {\n      \"luggage\": \"green hard-shell suitcase with extended handle\"\n    },\n    \"color_palette\": [\n      \"multiple shades of green\",\n      \"white accents\"\n    ],\n    \"background\": {\n      \"color\": \"solid green\",\n      \"texture\": \"soft, slightly grainy studio backdrop\"\n    },\n    \"composition\": {\n      \"framing\": \"full body\",\n      \"camera_angle\": \"eye-level\",\n      \"depth\": \"subject sharply separated from background\"\n    }\n  },\n\n  \"Module_2_Image_2_Style\": {\n    \"subject\": {\n      \"character_type\": \"stylized 3D cartoon female\",\n      \"pose\": \"leaning slightly backward against background\",\n      \"expression\": \"playful, lips slightly pursed, eyes looking sideways\",\n      \"hair\": {\n        \"color\": \"brown\",\n        \"style\": \"short, tousled\",\n        \"accessories\": \"red sunglasses resting on head\"\n      }\n    },\n    \"clothing\": {\n      \"dress\": \"form-fitting blue ribbed dress with thin straps\",\n      \"footwear\": \"red high-heel sandals with bow detail\"\n    },\n    \"color_palette\": [\n      \"bold red\",\n      \"deep blue\"\n    ],\n    \"background\": {\n      \"color\": \"solid red\",\n      \"texture\": \"smooth matte surface\"\n    },\n    \"lighting\": {\n      \"direction\": \"soft directional light from one side\",\n      \"shadow\": \"defined shadow cast on red background\"\n    },\n    \"composition\": {\n      \"framing\": \"full body\",\n      \"pose_emphasis\": \"curved posture, crossed legs\"\n    }\n  },\n\n  \"Module_3_Image_3_Style\": {\n    \"subject\": {\n      \"characters\": [\n        {\n          \"type\": \"stylized 3D cartoon female\",\n          \"position\": \"left\",\n          \"wrapped_in\": \"red textured blanket\",\n          \"expression\": \"calm, slight smile, eyes looking upward\"\n        },\n        {\n          \"type\": \"stylized 3D cartoon male\",\n          \"position\": \"right\",\n          \"wrapped_in\": \"orange textured blanket\",\n          \"expression\": \"neutral, gentle gaze upward\"\n        }\n      ]\n    },\n    \"environment\": {\n      \"furniture\": \"red sofa\",\n      \"floor\": \"red surface\",\n      \"background\": {\n        \"color\": \"deep red\",\n        \"texture\": \"fabric-like horizontal texture\"\n      }\n    },\n    \"details\": {\n      \"feet\": \"female barefoot, male wearing socks\",\n      \"blanket_texture\": \"thick, knitted fabric\"\n    },\n    \"composition\": {\n      \"framing\": \"centered, medium-wide shot\",\n      \"symmetry\": \"balanced left and right composition\"\n    }\n  },",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2012437899955097836/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2012437899955097836",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-17T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b33ecc40-f54b-4bb6-a780-b7b1a37339bc",
+    "prompt": "A handcrafted felt miniature illustration of [Celebrity] reimagined as a soft wool doll character. The figure has simplified facial features, button-like eyes, subtle smile, and carefully crafted felt textures. He is wearing an outfit inspired by his iconic casual tech style—dark jacket, simple t-shirt, and trousers—recreated in knitted wool and fabric. The scene has a whimsical, storybook feel with grassy felt terrain, pastel hills, and a bright sky with soft clouds. Macro photography look, shallow depth of field, soft natural lighting, stop-motion animation aesthetic, ultra-detailed fibers and fabric textures, cozy yet futuristic mood, cinematic composition, high quality.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2011634592810438835/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2011634592810438835",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-15T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "0af6b1c9-6a57-4a9d-abe7-9fda403ff04e",
+    "prompt": "Transform the input photo into a refined monochromatic ink portrait on a pure white background. Clean side profile facing left, preserving exact facial identity and proportions. Soft charcoal-gray ink with subtle tonal variation, controlled splatter accents, delicate watercolor diffusion, and faint mist-like dispersion along the edges.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2024636606272229577/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2024636606272229577",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-20T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "2c2a5c1f-d84d-44ee-a537-ad837e408272",
+    "prompt": "Create an ultra-HD, hyper-realistic digital poster of a floating miniature island shaped like [Country], resting on white clouds in the sky. Blend iconic landmarks, natural landscapes (like [landmark 1], [landscape 2], or [landscape 3]), and cultural elements unique to [Country]. Carve \"[Country]\" into the terrain using large white 3D letters. Add artistic details like [wildlife], cinematic lighting, vivid colors, aerial perspective, and sun reflections to enhance realism",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2024277162652815403/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2024277162652815403",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "7a51cfe2-0051-4494-aa9e-00a2046f0e17",
+    "prompt": "Minimalist food photograph, [1080x1080] – a single [FOOD] rests on a light, matte surface and is captured mid-transformation into a 3D pixelized form: one half remains intact while the other organically fragments into large, floating cubes that drift outward, each cube revealing the object’s texture, ingredients, and colors. Studio lighting with soft, realistic shadows, shallow depth of field, tasteful perspective and composition, hyperrealistic detail, stylish geometric abstraction, subtle motion blur on the cubes, high resolution, cinematic close-up.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008127774750548155/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2008127774750548155",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-05T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "df0dc172-b523-46db-a7d6-151580afd4dd",
+    "prompt": "{\n  \"type\": \"image_generation\",\n  \"style\": \"hyper_realistic\",\n  \"quality\": \"8K DSLR\",\n  \"aspect_ratio\": \"4:5\",\n  \"camera\": {\n    \"angle\": \"slightly tilted cinematic perspective\",\n    \"lens\": \"50mm DSLR\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"smartphone and football action\"\n  },\n  \"scene\": {\n    \"setting\": \"smartphone placed on a wooden table\",\n    \"concept\": \"phone screen transformed into a miniature football stadium\",\n    \"environment\": \"indoor, soft daylight coming from the side\",\n    \"atmosphere\": \"cinematic, immersive, realistic\"\n  },\n  \"details\": {\n    \"screen\": \"weathered green football pitch with visible wear, dirt patches, and grass texture\",\n    \"players\": \"miniature football players actively playing a match with dynamic poses\",\n    \"lighting\": \"soft diffused daylight with subtle lens flares and realistic reflections\",\n    \"realism_effects\": [\n      \"fingerprints on screen\",\n      \"light scratches on phone body\",\n      \"natural smudges\",\n      \"micro dust particles\"\n    ]\n  },\n  \"materials\": {\n    \"phone\": \"metallic frame with realistic reflections\",\n    \"table\": \"textured wooden surface with warm tones\"\n  },\n  \"mood\": \"high-end cinematic, dramatic, premium advertising look\",\n  \"rendering\": {\n    \"sharpness\": \"ultra sharp\",\n    \"texture_detail\": \"extreme\",\n    \"lighting_quality\": \"studio grade\",\n    \"photorealism\": true\n  }\n}",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2006679801256656925/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝐌",
+      "author_url": "https://x.com/Strength04_X",
+      "license": "MIT",
+      "original_id": "2006679801256656925",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-01T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "65bde447-7949-4883-a30b-7bdca9ddcac1",
+    "prompt": "Present a clear, 45° top-down isometric miniature 3D cartoon diorama of the [BRAND], with soft refined textures, realistic PBR materials, and gentle lifelike lighting.\nCreate a small raised diorama-style base that includes the most recognizable elements of the store, along with tiny stylized characters if needed (no facial details).\nUse a clean solid [BACKGROUND COLOR] background.\n\nAt the top-center, display [BRAND] in large bold text, and place the official logo associated with [BRAND] below the subtext.\nAll text must automatically match the background contrast (white or black).\n\nComposition: perfectly centered layout, square 1080x1080, ultra-clean, high-clarity diorama aesthetic.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2019376568834093542/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2019376568834093542",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-05T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "1bc54fcc-bcc1-4563-a5b5-ec89fc11a2a8",
+    "prompt": "【テーマ】\n{ここにテーマを入力}\n\n【写真】\n{ここに使用する写真の内容を簡潔に入力}\n（例：公園で遊ぶ子ども / 親子の笑顔 / 走る子ども など）\n\n【タイトル】\n{画像内に入れるタイトルを入力}\n（例：こどもの日 / Happy Mother's Day / 春のはじまり など）\n\n---\n\nテーマ「{テーマ}」に基づいた、\n写真とクレヨンイラストを融合したライフスタイル系エディトリアルビジュアル。\n\n提供された写真をメインビジュアルとして使用する。\n\n■ シーン\n「{写真}」に合った自然な日常の瞬間。\n作り込みすぎないリアルな空気感、やわらかい自然光、\n人物の自然な動きや感情を重視。\n\n■ 構図\n人物を切り抜いたように配置し、\nざらっとした紙質のクラフト系背景\n（生成り、ベージュ、淡いグレー、ミルクティー）の上にレイアウト。\n\n・余白50%以上\n・左右非対称構図\n・抜け感のあるミニマルなエディトリアルデザイン\n\n■ イラスト（最重要）\nオイルパステル／クレヨンで描いたような、\nざらつきとかすれのある手描きイラストを重ねる。\n\n▼ルール\n・全体の30〜40%以内\n・線にムラとかすれ、紙のテクスチャが残る\n・力の入り具合で濃淡が変化（濃い部分・薄い部分が混在）\n・子どもが描いたような少し不器用なタッチ\n・影・立体表現は禁止（フラット）\n・人物の動きと連動させる（風・軌跡・流れ）\n\n▼モチーフ（テーマ連動）\n・{テーマ}を象徴する要素をクレヨンタッチで追加\n（例：こどもの日 → 鯉のぼり、風、空、草、雲、紙かぶと）\n・風の線、動きの線、小さなアイコン、太陽、雲、お花、ハート、星、ジグザグの動線\n・空気感をクレヨンの粗いストロークで演出\n\n■ タイトル文字（重要）\n画像内に「{タイトル}」を手描きクレヨン文字で配置する。\n・配置は左上または右上の余白部分\n・クレヨンで書いたようなざらつき・かすれのある文字\n・少し不器用で味のある手書き風\n・文字色はアースカラー（テラコッタ、マスタード、ダークブラウン）から選択\n・サイズは控えめでミニマルに（主役は写真）\n・装飾枠なし、フラット\n\n■ 色\nあたたかみのあるアースカラー、\nやわらかいくすみカラー\n（テラコッタ、マスタード、オリーブ、ミルクティー、淡いブルー）\n\n■ 雰囲気\nあたたかい、ノスタルジック、こども心、ハンドメイド感、\nやさしい、エモーショナル、ストーリー性のある日常\n\n■ スタイル\n絵本的ぬくもり × 北欧ミニマル × 上質なライフスタイル広告\n\n■ 品質\n高解像度、商用レベルのクオリティ",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048714101850071422/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "konmari",
+      "author_url": "https://x.com/konmari_tweet",
+      "license": "MIT",
+      "original_id": "2048714101850071422",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "42d88785-49a3-49f3-ac4c-1c779caaaa50",
+    "prompt": "Extreme close-up macro of miniature city diorama [CITY, COUNTRY] on a solid base, held between two human fingers. City fills 85–95% of frame.\n[COUNTRY] national flag stands prominently on flagpole in mid-ground, fully readable, gently waving—primary visual anchor.\n[ICONIC LANDMARK] positioned in clear foreground, unobstructed, instantly recognizable, naturally integrated.\nSmall street sign or plaque displays “[CITY NAME]” as authentic urban detail, positioned organically at street corner or plaza edge.\nSurrounding architecture reflects city’s authentic character without oversizing elements.\nUltra-realistic handcrafted miniature, detailed architecture, realistic materials, accurate proportions. Macro lens, deep depth of field keeping entire city sharp. Soft studio lighting, subtle shadows, tilt-shift realism. Neutral softly blurred background. Photorealistic, cinematic, premium quality.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007777809712976297/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2007777809712976297",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d55e5dd6-2705-48e2-a4d1-92f2b1ba8091",
+    "prompt": "A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007809696334479420/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2007809696334479420",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8e4ec8e0-330c-459a-aa4b-becac68320ca",
+    "prompt": "A high-quality 3D render of a cute young boy riding an orange electric scooter next to a small, round, furry blue monster. Both characters have shocked expressions with wide eyes and open mouths. The boy is wearing a highly textured, fuzzy teal sweater with a white patch that reads \"noo\" in red text, along with brown patterned pants and white sneakers. Clean teal studio background, soft lighting.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2014987855517614460/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Heisenberg",
+      "author_url": "https://x.com/rovvmut_",
+      "license": "MIT",
+      "original_id": "2014987855517614460",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "dce38e2a-14d6-47a9-a263-9e64abeb8cb3",
+    "prompt": "Create a high-detail 3D semi-realistic chibi character with slightly exaggerated cute proportions but with photorealistic facial rendering, natural skin pores, realistic lighting, and finely detailed hair strands. The character should look like a collectible designer toy figure with smooth surfaces, high-end materials, and ultra-clean edges. The character is styled in an fashion look: A tailored designer jacket in deep emerald green with gold stitching accents A sleek black silk fitted top underneath High-fashion tapered trousers in matte ivory tone  designer sneakers / footwear in white and gold with polished details Accessories must feel ultra- and fashionable:  oversized sunglasses with glossy black lenses and gold frame   wristwatch with metallic gold case and elegant dial Subtle designer bracelet and minimal accents The character stands confidently on top of a giant modern smartphone, like a collectible display piece. They are wearing stylish wireless over-ear headphones in metallic rose gold and holding the phone slightly forward while taking a playful joyful selfie, smiling and laughing with energetic expression. The smartphone screen displays a realistic modern music-player interface with colorful waveform animations and elegant UI elements. Scene style and lighting: Background: deep cinematic dark brown gradient studio backdrop Lighting: soft studio lighting with subtle reflections and rim light Materials: high-quality fabric textures, polished metals, and realistic plastics Style: collectible toy aesthetic mixed with semi-realistic chibi design Camera perspective: Aerial / top-down camera angle Slight cinematic depth of field for realism Rendering quality: Ultra-detailed 3D render 8K resolution smooth shading hyper-clean edges high clarity Add a small elegant watermark text “Naik Nelofar ” at the bottom of the image, subtle but clearly readable. Aspect ratio: 3:4 vertical composition",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2031741057105526932/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2031741057105526932",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-11T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b1042947-9b80-4d2f-a4bc-4969d89b1bb7",
+    "prompt": "{\n  \"prompt\": \"Create a hyper-realistic, ultra-detailed cinematic photo featuring a MINIATURE version of the person from the provided reference image (preserve facial likeness, skin tone, hairstyle, and overall identity). The tiny character is relaxing inside an OPEN vintage hard-shell suitcase that is used like a tiny bed. The suitcase sits on a clean stone/tile floor in a bright room with strong natural sunlight casting soft rectangular window shadows across the floor.\\n\\nONLY VARIABLES:\\n1) Character: use the user reference photo for the person’s face and identity.\\n2) Theme/Genre: {THEME}\\n\\nCOMPOSITION & SCALE:\\n- The person must be clearly mini-sized (toy-scale) relative to the suitcase, with correct perspective and believable proportions.\\n- The open suitcase interior is styled like a cozy miniature scene: pillow, textured blanket or towel, and themed tiny props.\\n- Add realistic micro-details: fabric weave, zipper teeth, suitcase latches, scuffs, stitching, subtle dust, realistic contact shadows.\\n\\nTHEME STYLING (derive everything from {THEME}):\\n- Choose a cohesive color palette and make the SUITCASE COLOR match the theme (e.g., beach = warm coral/sand; football = deep green/black or team-inspired; sporty = bold neon accents; cozy-casual = muted cream/tan; luxury = black/ivory/gold).\\n- Dress the tiny character in an outfit that fits {THEME}.\\n- Place 5–8 tiny theme props neatly inside the suitcase near the character (miniature scale, photoreal materials). Examples by theme:\\n  • Beach: tiny sunscreen bottle, mini sunglasses, seashells, flip-flops, mini straw hat, folded towel.\\n  • Football/Soccer: tiny soccer ball, mini jersey/scarf, cleats, shin guards, whistle, small tactic board.\\n  • Sporty/Fitness: tiny water bottle, mini dumbbell, resistance band, smartwatch, towel, energy bar.\\n  • Cozy/Casual: tiny book/magazine, mug, knitted throw, headphones, mini candle.\\n(If {THEME} is different, invent equivalent props that strongly communicate that theme.)\\n\\nLIGHTING & CAMERA:\\n- Bright natural sunlight, soft realistic shadows, subtle bounce light, HDR-like dynamic range.\\n- Photographic realism: shallow depth of field (but keep face and key props sharp), 50–85mm lens look.\\n- No text, no logos, no watermarks.\\n\\nFINAL LOOK:\\n- Hyper-real, high detail, clean editorial product-photography vibe, believable miniature diorama realism, crisp textures and natural skin rendering.\",\n  \"negative_prompt\": \"cartoon, CGI, illustration, anime, plastic-looking skin, uncanny face, distorted anatomy, extra fingers, deformed hands, duplicated limbs, wrong perspective, unrealistic scale, blurry, low-res, noisy, harsh artifacts, over-smoothed, bad shadows, floating objects, cluttered scene, messy background, text, watermark, logo, brand names, extra people, face not matching reference\",\n  \"variables\": {\n    \"THEME\": \"beach | football | sporty | cozy-casual | luxury | etc.\",\n    \"USER_IMAGE\": \"reference photo uploaded by the user (required)\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2002751900337275167/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Saman | AI",
+      "author_url": "https://x.com/Samann_ai",
+      "license": "MIT",
+      "original_id": "2002751900337275167",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "f930e763-87c1-41d2-ab63-42bf3cb7442e",
+    "prompt": "Hyper-realistic open [COUNTRY] passport on a studio surface, with gold-embossed “[Official Passport Name]” text and leather texture. From its pages rises a miniature 3D diorama of [COUNTRY], featuring [ICONIC LANDMARKS], [CITYSCAPES/COASTLINES/COUNTRYSIDE], and tiny human figures for scale. Passport pages show stamps and paper texture. Soft cinematic lighting, shallow depth of field, ultra-detailed photorealistic luxury style.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2022606746343317544/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2022606746343317544",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-14T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c5e01ef9-5c64-4e95-a19a-0e45f5821fce",
+    "prompt": "A high-fidelity 3D character render of a cute, stylized boy skateboarding in a dynamic pose. The boy has 'chibi' proportions with a large head, wearing oversized round wire-frame glasses and making a surprised 'O' mouth expression. He is dressed in an extremely fuzzy, textured blue mohair sweater with the text \"OID\" on the chest, a matching fuzzy blue beanie with a cream patch, and baggy camouflage-patterned pants made of a soft, velvet-like fabric. He wears chunky white sneakers and a small necklace pouch with a cartoon face. The background is a solid, seamless teal color. The lighting is soft and diffuse studio lighting, creating a clean, high-end \"blind box\" art toy aesthetic with hyper-realistic fabric textures.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2015648059771044000/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Heisenberg",
+      "author_url": "https://x.com/rovvmut_",
+      "license": "MIT",
+      "original_id": "2015648059771044000",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-26T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3fe2e57e-5c0f-4128-ac13-deb91d2a4a6c",
+    "prompt": "The scene is lit by warm golden hour sunlight, with glowing dust particles floating in the air, creating a soft magical atmosphere. Background is a rustic wooden village setting, softly blurred with shallow depth of field. Cinematic lighting, soft rim light on hair, volumetric light rays, ultra-detailed, high quality, Pixar / Disney-style 3D render, cute, cozy, whimsical, warm color palette, 4k, bokeh, soft focus.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007634587166630152/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Aijaz",
+      "author_url": "https://x.com/iamsofiaijaz",
+      "license": "MIT",
+      "original_id": "2007634587166630152",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fddb0291-6740-4b87-a7ab-e6e9df754054",
+    "prompt": "Create a 3D of [OBJECT] made of white snow. The voluminous are lying on a snowy surface, slightly sunken into the snow. Top-down view. A photo with realistic highlights and soft shadows. 1080x1080 dimension picture.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2004259040491409514/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2004259040491409514",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c7a6e685-0a0a-40a8-a454-79079e82da84",
+    "prompt": "Create a technical infographic of [VEHICLE] with a 45-degree isometric 3D perspective showing the device slightly tilted to reveal depth and dimension.\nCombine a realistic photoreal render with black ink technical annotations on pure white background. Include:\nKey component labels with color-coded callout boxes\nInternal component visibility through transparent/cutaway sections\nMeasurements, dimensions, and precise scale markers\nMaterial callouts and quantities\nColor-coded arrows for function/flow: RED (power/battery), BLUE (data/connectivity), ORANGE (thermal/processor), GREEN (sensors/haptics)\nSimple schematics or cross-sectional diagrams where relevant\n\nPlace “VEHICLE” title in a hand-drawn technical box (top-left corner).\nStyle: Black linework (technical pen/architectural), sketched but precise. Object remains clearly visible. Educational museum-exhibit vibe. Clean composition, balanced negative space.\nPerspective: Isometric 3D angle—tilted to show depth, dimension, and internal architecture dramatically. Like a professional product teardown or engineering manual.\nColors: ~10-15% accent density. Black dominant. White background.\nOutput: 1080×1080, ultra-crisp, social-feed optimized",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048733383140712808/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2048733383140712808",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "0af84cec-f0cd-43a5-abe0-efd3b34da4d6",
+    "prompt": "A soft, high-quality plush toy of [CHARACTER], with an oversized head, small body, and stubby limbs. Made of fuzzy fabric with visible stitching and embroidered facial features. The plush is shown sitting or standing against a neutral background. The expression is cute or expressive, and it wears simple clothes or iconic accessories if relevant. Lighting is soft and even, with a realistic, collectible plush look. Centered, full-body view",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2005387590372057491/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2005387590372057491",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b8a8f068-6f31-4eb2-acb0-8664f1e2c806",
+    "prompt": "Generate a whimsical miniature world featuring [LANDMARK NAME] crafted entirely from colorful modeling clay. Every element - buildings, trees, waterways, and urban features - should appear hand-sculpted with visible fingerprints and organic clay textures. Use a playful, childlike style with vibrant colors: bright azure sky, puffy cream clouds, emerald trees, and buildings in warm yellows, oranges, reds, and blues. The handmade quality should be evident in every surface and gentle curve.\nCapture from a wide perspective showcasing the entire miniature landscape in a harmonious, joyful composition. Include no text, words, or signage - only sculptural clay elements that define the location through recognizable architectural features",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008488331903139874/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2008488331903139874",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-06T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "540cc52f-018c-41cb-a22c-0796534e1b4f",
+    "prompt": "Depict [LANDMARK] frozen in an eternal state of construction. Camera & Angle (LOCKED): 45° elevated isometric view, camera distance fixed so the full landmark fills ~70% of the frame. No tilt variation. Structure: Lower sections are fully completed, solid, and instantly recognizable. Upper sections transition cleanly into unfinished construction: scaffolding, cranes, exposed beams, cables, and skeletal frameworks. The transition line between finished and unfinished is clearly visible and architecturally precise. Scale & Detail: Include small, static construction workers placed on scaffolding for scale. Include exactly 1–2 construction machines (crane arm, lift, or hoist), frozen in place. No motion, no blur, no debris falling. Materials (CONSISTENT): Finished areas: polished stone / glass / steel (appropriate to the landmark). Unfinished areas: raw concrete, steel beams, cables, structural frames. Materials are clean, realistic, and consistent across all renders. Lighting (LOCKED): Soft neutral cinematic lighting from upper left. Balanced exposure, gentle shadows, no dramatic highlights. Composition (LOCKED): Perfectly centered, symmetrical balance. Landmark sits on a subtle base or ground plane. Square format 1080×1080. Background (LOCKED): Minimal neutral sky or studio-gray backdrop. No clouds, no gradients, no distractions. Style: Hyper-realistic architectural render. Clean, precise, calm, and monumental. No stylization, no painterly effects. Mood: Timeless, quiet, contemplative. Frozen progress — never finished, never decaying.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009695503664239086/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2009695503664239086",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-09T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ffa9b121-7646-4123-a9a9-5b8b90c48999",
+    "prompt": "Create a technical infographic of [OBJECT] with a 45-degree isometric 3D perspective, slightly tilted to reveal depth, structure, and internal construction.\n\nCombine a realistic photoreal render with black ink technical annotations on a pure white background. Include:\n• Key component labels with clean callout boxes\n• Internal structure visibility through cutaway or exploded sections\n• Measurements, dimensions, and scale markers\n• Material callouts and quantities\n• Color-coded arrows indicating functional systems:\n•RED: impact force, collision zones, stress points\n•BLUE: airflow, spin, grip interaction, movement dynamics\n•GREEN: player control, handling, ergonomics\n•ORANGE: padding, reinforcement, energy absorption\n\nInclude simple sectional diagrams or force-flow schematics where relevant.\n\nPlace the title “[OBJECT]” inside a hand-drawn technical annotation box in the top-left corner.\n\nStyle:\nBlack ink technical linework (architectural / engineering manual style), precise but slightly hand-sketched. The object remains clearly visible beneath annotations. Clean, museum-exhibit / sports engineering vibe.\n\nPerspective:\nIsometric 3D angle emphasizing depth, form, and internal architecture — like a professional equipment teardown.\n\nColor palette:\nWhite background, black linework with ~10–15% accent color usage (functional arrows only).\n\nOutput:\n1080×1080, ultra-crisp, social-feed optimized, no watermark.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2019103270447505848/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2019103270447505848",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d3ab8aad-8ee1-41ea-a361-3caac763f1ab",
+    "prompt": "A hand-carved wooden miniature figure of [NAME], shaped with visible knife marks, natural grain texture, and smooth unfinished edges. Placed on a workshop table with carving tools, wood shavings, and soft warm directional lighting. 1080×1080.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2017886103781490917/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2017886103781490917",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-01T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "69b7a883-851f-472c-aabb-228a5fef5a83",
+    "prompt": "A hyper-realistic 1080x1080 photograph of a glass cube diorama placed on a lush, mossy forest floor with dappled sunlight. Inside the cube are miniature, highly detailed landmarks and cultural icons from [COUNTRY]. Include its most famous and recognizable architecture—traditional and modern—surrounded by greenery. Prominently display the 3D word “COUNTRY” at the base inside the cube, using large, bold white block letters and a flagpole of the country's flag. The scene is crisp, elegant, and immersive, with the forest background softly blurred to focus on the diorama’s sharp details.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008913329029263382/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2008913329029263382",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-07T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e54f43d7-792b-424d-a959-d04d7991f4ac",
+    "prompt": "Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural visualization style. The building is shown at a 45-degree angle from above, displaying three visible sides with intricate architectural detail. Photorealistic textures showing materials like stone, glass, metal, or brick. Include the base/ground level with tiny people, cars, and landscaping for scale. Clean white or light grey background. Professional architectural rendering with soft ambient shadows beneath the structure. Every window, column, ornamental detail, and structural element clearly visible. 1080x1080 dimension, centered composition. Style similar to video game building assets or architectural presentation models - clean, detailed, slightly stylized but realistic.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007082189742379459/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2007082189742379459",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "28010a3d-b9fe-47c7-ae2a-c25c46b02f6c",
+    "prompt": "Present a clear, 45° top-down isometric miniature 3D cartoon scene of [STADIUM], with soft refined textures, realistic PBR materials, and gentle lifelike lighting. Use a clean solid [COLOR] background. At the top-center, display the name of this stadium in large bold text, then directly beneath it show its real seating capacity in medium text, and place the official logo associated with this stadium below the capacity. All text must match the background contrast automatically (white or black). Centered layout, square 1080x1080 dimension",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2011027384837792185/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2011027384837792185",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-13T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8d26417c-86eb-427a-a044-2345887121ae",
+    "prompt": "A hand-painted isometric bird’s-eye view illustration of [COUNTRY] in a vintage map style, featuring iconic landmarks and natural scenery unique to the country. The landscape should blend seamlessly with a parchment-colored map background, and include detailed miniature architecture, cultural symbols, and geographical elements. The country name '[COUNTRY]' should appear in bold serif text below the scene. Maintain warm, earthy tones and soft lighting for a classic, illustrated map feel. 1080x1080 dimension.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2006361629651603477/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2006361629651603477",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-31T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9b554478-f6bf-4636-ac6f-7b1c2b64b176",
+    "prompt": "create a A 3D, Pixar-style animated young man sits cross-legged on a pure white, isolated background. He has bright, olive-toned skin, a neatly styled bright brown haircut with a slight wave, and a well-groomed bright brown beard and mustache. His large, expressive eyes, a deep hazel-brown, are slightly upturned and gaze thoughtfully to his left, with a subtle, dreamy smile playing on his lips and his right hand resting gently on his cheek.He wears a bright, textured orange knit cardigan over a light blue t-shirt, complemented by bright wash denim jeans. His footwear consists of stylish sneakers with a navy blue, grey, and white color scheme. A bright grey, modern backpack is slung over his left shoulder, and a matching bright grey lunchbox rests beside his right leg.The lighting is soft and even, creating gentle highlights on his hair and clothing, and a subtle bright beneath him, emphasizing his rounded, stylized form. The overall mood is one of relaxed contemplation and youthful optimism..",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2023686368162181501/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2023686368162181501",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-17T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9aaf0ea2-4a8d-4e97-a298-7c5a80c0ebb0",
+    "prompt": "A surreal, hyper-realistic close-up scene of a miniature [CAR] driving along a winding road that seamlessly transforms into a printed paper map of [CITY], [COUNTRY].\n\nThe road transitions naturally into the map’s printed streets, borders, and typography, with the vehicle driving directly over the map label “[CITY]”. The surrounding terrain reflects the natural landscape of [COUNTRY] — terrain texture, ground color, and environmental details match the region authentically (e.g. desert, mountains, coast, countryside).\n\nThe map features crisp cartographic details, labeled roads, subtle borders, and realistic paper texture. The vehicle is highly detailed and proportionally scaled, feeling tangible and grounded within the scene.\n\nLighting is bright and natural, directionally cast to create realistic highlights and defined shadows along the road’s curves. Shot from a slightly elevated angle with shallow depth of field, keeping the car and map sharply in focus while the background softly fades.\n\nVisual style is cinematic and ultra-realistic, blending tactile paper map textures with realistic terrain and vehicle materials.\n\nAspect ratio 1:1, high resolution, premium editorial quality, no text overlays, no watermark",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2018311275210523012/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2018311275210523012",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "f419e964-8da4-4177-a4d6-08ee1f50bdae",
+    "prompt": "Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle daylight with slightly brighter highlights.Muted pastel colors with soft blue and warm tones.Visible brush strokes and paper grain.Minimalist composition with large negative space.Calm, thoughtful, slightly open-ended atmosphere.\n\nChild character (around 12 years old).Subtle visual metaphors like light, shadow, perspective, reflection.Hand-painted picture book style, not cartoon, not anime, not 3D.\n\nTwo children in calm conversation,soft connection forming.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047174895293849972/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "宝玉",
+      "author_url": "https://x.com/dotey",
+      "license": "MIT",
+      "original_id": "2047174895293849972",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "6c90d8b9-8d28-4cb5-a36c-d0e4d06cf381",
+    "prompt": "Create a hyperrealistic miniature planet showcasing [CITY] with famous landmarks seamlessly curving around the spherical surface. Position bold 3D white text ”[CITY]” naturally integrated across the lush green central parkland with realistic shadows and dimensional depth. Capture from a top-down orbiting angle that emphasizes the dramatic planet curvature. Use soft golden hour daylight filtering through partly cloudy skies, casting gentle shadows on emerald grass and surrounding trees. The background should blend into a swirling atmospheric sky. Apply vibrant greens, warm earth tones, and soft blues. Render in polished photorealistic style with fine architectural detail",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008272089682199025/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2008272089682199025",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-05T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "dd797ac2-dc8e-411e-a22a-f6a96a9f3b40",
+    "prompt": "A high-resolution, photorealistic 3D action RPG mobile game screenshot of an epic battle featuring Doraemon characters. The perspective is from behind the main player character, Nobita. The background is a post-apocalyptic urban scene of rubble, crumbling concrete, rebar, debris, small fires, and intense purple and blue lightning in a dark, cloudy night sky.  Characters:  Foreground Left: Doraemon, holding an elaborate, multi-barrel gatling-style cannon which hums with blue energy in his hand.  Foreground Center: Nobita, in a combat stance with his multi-layered slingshot weapon, wearing his classic yellow shirt, blue shorts, and glasses.  Middle Ground Center: Giant Gian (the boss), massive, muscular, intimidating, holding a spiked mace, with glowing sinister red eyes and surrounded by purple energy effects.  Nameplates: Doraemon (Lv. 30, HP: 2150/2420, MP: 860/1000), Nobita (Lv. 30, HP: 1980/2200, MP: 900/1000), Gian (Lv. ??, HP: 85670/100000, x4).  UI Elements (All in English):  Left Side Panel: The title is \"MISSIONS\" and \"TEAM\". The \"MAIN QUEST\" header is followed by \"Defeat Giant Gian\" and \"Defeat the Corrupted Gian [0/1]\". The \"DAILY TASKS\" header is followed by \"Use skill to hit Gian 3 times (2/3) [Check]\", \"Use item to restore HP 1 time (1/1) [Check]\", and \"Achieve 1 Perfect Dodge (0/1)\".  Right Side Panel: The header \"BOSS MISSION\" is followed by \"Defeat Giant Gian\" and \"Defeat the Corrupted Gian [0/1]\".  Bottom Right Skill Buttons: Labels (clockwise from top): \"Heavy Strike\", \"Basic Attack\" (with Doraemon head), \"Bamboo Copter Flight\", \"Item Bag\", \"Tumble Dodge\". Glowing blue skill icons are present.  Bottom Center Item Bar: Above the items, \"STAMINA VALUE\" followed by \"120/130\". The items are \"Dorayaki (15)\", \"Healing Drink (8)\", \"Bamboo Copter (5)\", \"Time Beam Camera (3)\".  Mini-Map: Top right corner mini-map with skull icon.  D-pad: English text virtual D-pad on the bottom left.  Screen Details: Cinematic lighting and effects. The cool blue of Doraemon's weapon light, warm orange firelight, cold purple lightning, and Gian's sinister red eyes. Detailed textures on clothing and weapons. All English text is clean, legible, and accurate. The low-angle emphasizes the scale difference and battle tension.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047277688075739605/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2047277688075739605",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3db683bc-3478-40f6-a6c1-5e335c72bcc9",
+    "prompt": "Create a premium 3D rendered [FIGURE NAME] collectible vinyl figure in a modern designer toy aesthetic. The figure should feature glossy translucent vinyl material with subtle light refraction, bold saturated colors true to the character, and simplified geometric forms with smooth curves. Position against a pristine gradient background transitioning from light gray to white. Use professional product photography lighting with soft key light from above and gentle rim lighting to highlight the vinyl’s glossy finish. The character should be posed in a confident standing position, centered perfectly in frame. Apply shallow depth of field with the figure in sharp focus. Render in ultra-high resolution with clean minimalist composition, no text, logos, or distracting elements. Square aspect ratio 1080x1080 pixels, photorealistic quality with crisp details and vibrant color reproduction suitable for premium toy marketing",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009229875794858182/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2009229875794858182",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-08T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8c2ec1aa-a16f-4b1b-a308-f2d8fcc06374",
+    "prompt": "Present a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.\n\nThe scene features soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadow effects. Weather elements are creatively integrated into the urban architecture, establishing a dynamic interaction between the city's landscape and atmospheric conditions, creating an immersive weather ambiance.\n\nUse a clean, unified composition with minimalistic aesthetics and a soft, solid-colored background that highlights the main content. The overall visual style is fresh and soothing.\n\nDisplay a prominent weather icon at the top-center, with the date (x-small text) and temperature range (medium text) beneath it. The city name (large text) is positioned directly above the weather icon. The weather information has no background and can subtly overlap with the buildings.\n\nThe text should match the input city's native language.\nPlease retrieve current weather conditions for the specified city before rendering.\n\nCity name:【上海】",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046671817775960343/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "宝玉",
+      "author_url": "https://x.com/dotey",
+      "license": "MIT",
+      "original_id": "2046671817775960343",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c19e5c67-26d5-43d7-a69b-b38e9919d8f7",
+    "prompt": "Create an ultra-HD, hyper-realistic digital poster of a floating miniature island shaped like [COUNTRY], resting on white clouds in the sky. Blend iconic landmarks, natural landscapes (like forests, mountains, or beaches), and cultural elements unique to [COUNTRY]. Carve “[COUNTRY]” into the terrain using large white 3D letters. Add artistic details like birds (native to [COUNTRY]), cinematic lighting, vivid colors, aerial perspective, and sun reflections to enhance realism. Ultra-quality, 4K+ resolution.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2005231673320112428/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2005231673320112428",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "905185a9-ef40-4e21-ae26-09ec836ad982",
+    "prompt": "Create an ultra-HD, hyper-realistic digital poster of a floating miniature island shaped like [Country] on white clouds. Include iconic landmarks, landscapes ([landmark 1], [landscape 2], [landscape 3]), and cultural elements unique to [Country]. Carve “[Country]” in large white 3D letters. Add [wildlife], cinematic lighting, vivid colors, aerial perspective, and sun reflections for realism.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2030219494304731396/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2030219494304731396",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-07T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a124c92a-0948-4c36-afb4-47cbfd18b40c",
+    "prompt": "Create a stylized miniature model of [CHARACTERS] shaped entirely from soft polymer clay. The figure has rounded, childlike anatomy — large head, small body, and simplified details that feel friendly and handcrafted. Its outfit and accessories match [CHARACTERS]’ iconic look, modeled with smooth curves and lively, saturated tones.\nThe material appears dry and tactile, with a powdery matte finish and subtle surface texture—avoid gloss, shine, or reflections. Lighting should be gentle and even, wrapping softly around the form with faint ambient shading to reveal volume.\nPresent the figurine standing upright, slightly turned toward the right, framed in a minimal off-white environment with a smooth floor and faint contact shadow beneath. The overall composition feels calm, neat, and balanced—like a clay sculpture photographed for a design catalog.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009285406303387993/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2009285406303387993",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-08T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "56ed9608-042f-429d-a753-0cde85369178",
+    "prompt": "Create an ultra-realistic sky scene where soft, natural cloud formations organically assemble into the clear silhouette of a [OBJECT]. The cloud shape appears high in a vibrant blue sky, naturally floating above a recognizable nature below.\n\nThe composition is square (1080×1080), with the cloud formation occupying the upper portion of the frame while the landscape grounds the scene beneath it. Lighting is crisp and daylight-bright, with sunlit highlights on the clouds that enhance depth, softness, and realism.\n\nThe overall mood should feel calm, optimistic, and visually striking, with rich color saturation and a clean, peaceful atmosphere.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007449939169693886/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2007449939169693886",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-03T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "07cdc186-b0be-4a90-a54c-668262fa3ae8",
+    "prompt": "{\n  \"type\": \"image_generation\",\n  \"style\": \"ultra_realistic_cinematic\",\n  \"aspect_ratio\": \"3:4\",\n  \"resolution\": \"8K\",\n  \"camera\": {\n    \"model\": \"DSLR\",\n    \"lens\": \"50mm\",\n    \"angle\": \"dynamic slight tilt, courtside perspective\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"sharp on phone and players, soft background blur\"\n  },\n  \"scene\": {\n    \"subject\": \"smartphone lying on a wooden table\",\n    \"concept\": \"phone screen transformed into a professional tennis court\",\n    \"court_surface\": \"pristine blue hardcourt with fine scratches and chalk marks\",\n    \"players\": \"miniature tennis players serving, volleying, diving for shots\",\n    \"scale\": \"realistic miniature proportions\"\n  },\n  \"lighting\": {\n    \"type\": \"dramatic directional lighting\",\n    \"source\": \"stadium-style lights from the side\",\n    \"effect\": \"strong highlights and long shadows\",\n    \"reflection\": \"soft reflection of floodlights on phone glass\"\n  },\n  \"details\": {\n    \"phone_surface\": [\n      \"visible fingerprints\",\n      \"subtle smudges\",\n      \"micro scratches on edges\"\n    ],\n    \"atmosphere\": [\n      \"floating dust particles\",\n      \"light haze for depth\"\n    ],\n    \"textures\": \"hyper-detailed court surface, realistic materials\"\n  },\n  \"environment\": {\n    \"table\": \"natural wood with grain texture\",\n    \"background\": \"softly blurred, cinematic indoor setting\"\n  },\n  \"color_grading\": {\n    \"palette\": \"vibrant yet natural\",\n    \"contrast\": \"high but balanced\",\n    \"tone\": \"cinematic realism\"\n  },\n  \"aesthetic\": {\n    \"mood\": \"dynamic, energetic, premium sports visual\",\n    \"style\": \"high-end sports advertisement\"\n  },\n  \"render_quality\": {\n    \"sharpness\": \"ultra-crisp\",\n    \"detail_level\": \"extreme\",\n    \"photorealism\": \"DSLR-grade realism\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2006986719590248769/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝐌",
+      "author_url": "https://x.com/Strength04_X",
+      "license": "MIT",
+      "original_id": "2006986719590248769",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "f2464c4b-7cf0-4875-a507-726c1170d46c",
+    "prompt": "A hyper-detailed 3D render of a collectible chess piece designed as [ICON]. The figure is sculpted in polished marble and gold accents, with a stylized base resembling a classic chess piece. The character’s iconic features, clothing, or accessories are faithfully captured in a simplified but instantly recognizable form. Studio lighting with soft reflections, dramatic shadows, photorealistic textures, cinematic presentation. Centered on a clean neutral background",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007161169468108902/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2007161169468108902",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d4c0b565-17ae-4e68-a838-9383bc36fc7e",
+    "prompt": "Ultra-realistic 3D miniature diorama of a [BRAND NAME] environment built inside a giant [ICONIC OBJECT OF BRAND], shown in a clean cross-section or partially cut-open view revealing a detailed interior world.\n\nInside the structure, a fully detailed miniature [brand-specific environment: store / café / restaurant / showroom] exists, with realistic human activity such as staff working, customers interacting, and natural storytelling moments.\n\nThe [object] acts as both container and environment, with its materials and elements integrated into the architecture (e.g., layers, textures, surfaces forming terrain and structure).\n\nAdd dynamic storytelling elements: objects or particles suspended mid-air, subtle motion frozen in time (liquid splashes, falling elements, steam, crumbs, etc.).\n\nInclude volumetric atmosphere such as steam, fog, or light rays interacting with particles in the air to enhance cinematic depth.\n\nSurfaces must be hyper-realistic with micro details: imperfections, condensation, reflections, dust, oil sheen, texture variations depending on the material.\n\nLighting should follow a cinematic high-end advertising style, with strong contrast between warm and cool tones, soft rim lighting outlining the subject, and natural light direction enhancing depth and realism.\n\nComposition: slightly angled hero shot, clear cross-section visibility, centered subject, minimal but cinematic background with soft bokeh.\n\nShot on a macro lens, shallow depth of field, creamy bokeh background, ultra-detailed textures, 8K resolution, filmic color grading, luxury commercial photography style.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D",
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2036427989718802509/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "author_url": "https://x.com/Diplomeme",
+      "license": "MIT",
+      "original_id": "2036427989718802509",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fe5ec2e4-5038-45cd-ae4e-65bf9994eba4",
+    "prompt": "Full-body fashion editorial shot of a confident young person model sitting casually on a concrete ledge, legs slightly apart, one arm resting on knee, the other relaxed, looking straight at camera with a calm dominant expression.\n\nWearing a light denim jacket over a plain white t-shirt, neutral shorts, bright socks, and modern sneakers. Clean styling, natural pose, wind slightly moving hair and fabric.\n\nBeside and partially interacting with a stylized cartoon [ANIMAL], positioned naturally as if sharing the same space.\n\nThe [ANIMAL] is illustrated in bold cartoon style with thick black outlines, vibrant neon color palette (blue, green, yellow accents), exaggerated proportions, expressive features, playful yet powerful presence.\n\nBackground: bright outdoor urban setting with clear blue sky, soft clouds, sunlit concrete textures, strong natural daylight, crisp shadows.\n\nFusion of hyper-realistic photography and graphic illustration, seamless integration between subject and cartoon.\n\nAdd graphic overlay elements: doodle arrows, scribbles, abstract shapes, comic-style symbols, dynamic motion lines.\n\nHigh contrast, HDR lighting, sharp focus, fashion editorial composition, surreal mixed-media aesthetic, ultra-detailed, 8k resolution.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047991391763243032/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2047991391763243032",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b9ac2995-9971-48c6-ae15-efdf9cdd862c",
+    "prompt": "A vertical LEGO diorama showing [LANDMARK], [COUNTRY]). The scene is built entirely from LEGO bricks. A small [COUNTRY] flag is positioned at the top of the structure. Use a plain white background with a subtle shadow cast by the structure. 3D rendered, high-resolution, cute and clean LEGO style. 1080x1080 dimension",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008852020002979937/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2008852020002979937",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-07T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a5e3900b-3003-4601-ad8a-32c6d077a153",
+    "prompt": "A detailed transparent gashapon capsule diorama, held between fingers, featuring [NAME] in their [ICONIC POSE / STYLE]. Inside: [short description of figure’s look, clothing, and accessories], with background elements such as [relevant setting: stadium, stage, lecture hall, etc.]. Lighting should be dramatic and cinematic, matching their theme (e.g., golden spotlight, concert glow, academic ambience). The capsule has a transparent top and a colored base (choose fitting color: e.g., royal blue, gold, black, red), decorated with [motifs related to the person]. The base is labeled with [NAME or NICKNAME] in a matching font style. The design should look like a miniature collectible, with photorealistic detail, soft bokeh, and a square 1080x1080 composition",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2005694004202201118/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2005694004202201118",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-29T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "bcd8fddd-af80-43e0-a5bd-db2aaa1f38ec",
+    "prompt": "Create a 4:5 poster with a miniature 3D model of New York City, featuring the Statue of Liberty, Empire State Building, and Brooklyn Bridge bursting through a horizontally torn map. The name “New York” appears in sleek 3D white lettering, interacting naturally with the urban landscape. Use dramatic perspective, vibrant colors, and studio lighting for a sharp, high-detail, hyper-realistic photographic feel.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2020086191018897897/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Sharon Riley",
+      "author_url": "https://x.com/Just_sharon7",
+      "license": "MIT",
+      "original_id": "2020086191018897897",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-07T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fda9f5a7-d9dc-441d-afef-3d16b8b61e88",
+    "prompt": "Use the uploaded picture to create a cinematic sci-fi scene of a fierce futuristic biker riding a heavy armored motorcycle through a vast desert. The person has long hair tied in a messy ponytail, reflective tactical sunglasses, and visible arm tattoos. Wearing a rugged post-apocalyptic outfit with layered fabric, utility straps, and armored details.\nThe motorcycle is bulky and mechanical, with oversized tires, exposed machinery, and worn orange metal panels covered in dust. Sand blows around the bike as it moves forward, creating a dramatic motion effect. Warm golden sunlight, hazy atmosphere, shallow depth of field, ultra-realistic textures, high detail, cinematic color grading, epic movie poster style 8K resolution, sharp focus, dramatic lighting.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2016021450575225090/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2016021450575225090",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e14ee38f-1929-487f-ae0c-91698b3f947f",
+    "prompt": "Generates a clean, cinematic 1080×1080 corkboard layout that visually summarizes the story of movie using Polaroid snapshots, handwritten notes, detective-style strings, and vintage textures for \"STRANGER THINGS\"",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2029206984353087823/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2029206984353087823",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3c66712f-fdd7-4ff1-a59e-374607424cf3",
+    "prompt": "3D Pixar-style expression sheet, cute stylized avatar with wavy dark hair and round glasses, 3x3 grid layout, peeking through torn paper circles, emotions: wink, sunglasses cool, thinking, happy smile, thumbs up, drinking boba tea, friendly wave, laughing, cute pout, different outfits: green sweater, red jacket, yellow hoodie, striped tee, orange shirt, blue top, purple vest, pink cardigan, teal pullover. Soft cinematic lighting, clean white background, vibrant colors, high detail, adorable cartoon character, playful expressions, consistent character design across all poses",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046025895941750868/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Austin",
+      "author_url": "https://x.com/austinit",
+      "license": "MIT",
+      "original_id": "2046025895941750868",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-20T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "2187e215-f341-4c68-a63b-62512af20906",
+    "prompt": "Create a hyper-realistic 3D diorama-style model of [LANDMARK NAME]. The model should appear as a miniature, set on a raised cross-section of earth that reveals soil and rock layers beneath a lush grassy surface. The structure must be highly detailed and proportionally accurate, surrounded by tiny realistic elements like region-appropriate street lamps, native trees, shrubs, water features like small fountains, and historically or culturally fitting pathways. The scene should evoke the unique character of [LANDMARK NAME]’s surrounding landscape. The environment must include a soft white background to draw full attention to the model. Include the text “[LANDMARK NAME]” in large, bold, elegant lettering prominently displayed on a big sign or billboard at the front of the diorama, easily readable and eye-catching, along with a large national flag on a tall, prominent flagpole positioned beside [LANDMARK NAME], clearly visible and waving. 1080x1080 dimension",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007904078274445709/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2007904078274445709",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "76637d5b-9556-48ce-ae7e-655edc904eaa",
+    "prompt": "Convert the person in the attached reference photo into a \nhyper-vibrant 80s pop-art illustration.\n\nCHARACTER:\n- Faithfully recreate the person's facial features, skin tone, \n  hair color, and hair style from the reference photo\n- Automatically detect if the person is male or female and dress \n  them accordingly in relatable, everyday casual wear:\n\n  IF FEMALE → light summer dress or casual crop top with \n  high-waist jeans or linen trousers, simple sandals or \n  white sneakers, a small shoulder bag, minimal jewelry — \n  outfits a real person would actually wear on a day out\n\n  IF MALE → plain crew-neck tee or casual open shirt over \n  a basic tee, slim chinos or relaxed jeans, clean sneakers \n  or loafers, optional watch or crossbody bag — everyday \n  street-ready look\n\n- All clothing rendered in the pastel-neon color palette of \n  the art style — pinks, mints, lavenders, corals — but the \n  silhouette and style remain realistic and wearable\n- Place them in a fun, natural candid pose — mid-walk, \n  looking over the shoulder, sitting on steps, leaning \n  casually, or glancing upward — as if caught in a real moment\n- Bold black outlines on the entire figure, flat color fills, \n  minimal graphic shading\n\nBACKGROUND:\n- The setting is Portugal— depict its most recognizable \n  landmark, skyline, street, or scenery prominently\n- Render the entire background in hyper-vibrant pop-art \n  illustration style: bold outlines, flat pastel-neon fills, \n  no photorealism\n- Sky: warm gradient of hot pink to peach to mint, large \n  solid yellow or orange sun, puffy candy-pink clouds, \n  and scattered 4-point sparkle stars\n\nCOLOR PALETTE:\nHot pink bubblegum pink, mint green \nteal, lavender, coral , yellow-gold\n\nSTYLE KEYWORDS:\n80s pop-art, flat illustration, bold black outlines, pastel neon, \nanime-adjacent, retro sun-drenched, vibrant graphic novel aesthetic, \nno photorealism, clean cel-shaded look, relatable everyday fashion",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2043150084452577752/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2043150084452577752",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-12T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "113b3a69-9471-4b9c-a7e9-40f0169fe808",
+    "prompt": "Create a minimal poster. A large capsule pill centered in the frame. The top half of the pill is solid colored and features the [BRAND] logo clearly printed on it. The bottom half of the pill is transparent glass. Inside the transparent part of the capsule, fill it with a large amount of [OBJECT] related to the brand. Ultra clean white studio background, soft shadows, high-end product photography lighting, glossy realistic materials, highly detailed, minimal design, centered composition, modern advertising style.​​​​​​​​​​​​​​​​ 1080x1080 dimension.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2038694130650435769/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2038694130650435769",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-30T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "62bacff1-73f7-4872-a405-7ecce4a9b7bc",
+    "prompt": "A stylized 3D cartoon character of a [PERSON] with big expressive eyes and a slightly sad, pouty expression, standing against a solid pastel green background. He is wearing a soft white fuzzy beanie with ear flaps and matching white over-ear headphones. His hair is short, brown, and slightly messy, peeking out from under the cap. He wears an oversized light green t-shirt with a bold black graphic on the front, and his arms are crossed in a bored or annoyed pose. The lighting is soft, diffused studio lighting with smooth shadows, giving a clean aesthetic. Ultra-detailed, high-quality 3D render, Pixar-style, soft textures, shallow depth of field, centered composition, minimal background, vibrant but soft color palette.\n\nNegative prompt (optional):\nblurry, low quality, extra limbs, distorted face, harsh shadows, cluttered background, text artifacts, watermark",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2041332501051036082/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2041332501051036082",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-07T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c6f6be71-af8d-4cd6-a566-fad387d8911e",
+    "prompt": "Ultra-realistic 8K hype-brand product shot of a collectible thermal bottle with a sleek matte black finish and bold urban aesthetic. The bottle features a high-detail 3D character based on the attached reference photo, preserving exact facial identity and structure, styled with a confident, edgy expression.\nThe character wears oversized streetwear (premium hoodie with layered textures) and a reflective silver chain, inspired by high-end hype fashion. The artwork wraps dynamically around the bottle with a slightly distorted, graffiti-inspired layout for a bold visual impact.\nSurrounding elements include vibrant pop-art doodles — flames, arrows, stars, scribbles — with neon accents (electric red, orange, subtle glow effects), creating a high-energy, limited-edition drop feel. Add subtle glitch effects, sticker-style overlays, and micro-branding details to reinforce exclusivity.\nMaterial realism: soft-touch matte coating with fingerprint-level texture, contrasted by glossy UV print highlights and metallic reflections. Cinematic studio lighting with strong contrast, rim light glow, and controlled reflections to enhance depth and luxury street appeal.\nShot composition: centered hero product, low-angle perspective for dominance, shallow depth of field, ultra-clean dark or gradient background. Premium commercial photography style mixed with urban fashion campaign energy. Hyper-detailed, photorealistic, high contrast, sharp focus.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2039903864074510712/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2039903864074510712",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-03T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8f03b054-534e-4887-aea6-efc40abb78c9",
+    "prompt": "Full-body fashion editorial shot of a confident young person model sitting casually on a concrete ledge, legs slightly apart, one arm resting on knee, the other relaxed, looking straight at camera with a calm dominant expression.\n\nWearing a light denim jacket over a plain white t-shirt, neutral shorts, bright socks, and modern sneakers. Clean styling, natural pose, wind slightly moving hair and fabric.\n\nBeside and partially interacting with a stylized cartoon [ANIMAL], positioned naturally as if sharing the same space.\n\nThe [ANIMAL] is illustrated in bold cartoon style with thick black outlines, vibrant neon color palette (blue, green, yellow accents), exaggerated proportions, expressive features, playful yet powerful presence.\n\nBackground: bright outdoor urban setting with clear blue sky, soft clouds, sunlit concrete textures, strong natural daylight, crisp shadows.\n\nFusion of hyper-realistic photography and graphic illustration, seamless integration between subject and cartoon.\n\nAdd graphic overlay elements: doodle arrows, scribbles, abstract shapes, comic-style symbols, dynamic motion lines.\n\nHigh contrast, HDR lighting, sharp focus, fashion editorial composition, surreal mixed-media aesthetic, ultra-detailed, 8k resolution",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047996860112249119/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Al-Shamus",
+      "author_url": "https://x.com/im_shahid7",
+      "license": "MIT",
+      "original_id": "2047996860112249119",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ee47cde1-c72f-488f-a508-d598e42dc7c9",
+    "prompt": "Create a hyper-realistic 3D holographic blueprint projection of a [CAR NAME] emerging as a luminous cyan/blue wireframe model from a dark blue technical blueprint sheet on a wooden workshop table. The car appears as glowing electric blue wireframe lines with grid patterns and transparent surfaces, creating a futuristic holographic effect. The 3D model hovers above the flat blueprint drawings with dramatic lighting and bright cyan glow. Surround with precision drafting tools, compass, rolled blueprints, and technical instruments on dark wooden surface. Dark atmospheric background with studio lighting. Aspect ratio: 1:1 (1080x1080 pixels). Do not include any vehicle logos or brand emblems",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009945337788805362/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2009945337788805362",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-10T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b04efc09-6d34-45de-a35b-ccf6fdc03822",
+    "prompt": "A charcuterie-style board presents JAPAN as an edible sculpture: • Letters carved from compact sushi-rice blocks wrapped with nori trim • Rivers and lakes painted in glossy soy-mirin reduction • Mountain ranges piped in smooth wasabi-avocado mousse (Mount Fuji peak highlighted) • Coastlines dusted with shichimi togarashi spice mix Add one iconic red Torii-gate bamboo skewer garnish anchoring the composition. Polarised studio softbox lighting, 50 mm prime, f/4, shallow depth; crumbs, knife marks, and wood-grain preserved. Rendered in Cinema 4D + Octane, 16 : 9 warm tabletop scene. (NO text, flags, or extra objects outside the board.)",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2004950904152506497/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Gadgetify",
+      "author_url": "https://x.com/Gdgtify",
+      "license": "MIT",
+      "original_id": "2004950904152506497",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a97da2d5-08a3-4330-ac29-12b9d9fa54e2",
+    "prompt": "A photorealistic image, split down the middle. On the left side, a small, detailed bone that touches the center divider, resembling a dog bone set against a clear blue sky with clouds in  background. On the right side, the bone seamlessly transitions into a detailed, futuristic stunning spacecraft, maintaining the line and shape of the bone against a deep  space background scattered with stars. The spacecraft extends to the right edge, designed with elements that suggest a continuation of the bone's structure. The transition should be smooth, illustrating a creative blend where the organic shape of the bone becomes one with the mechanical structure of the spacecraft, set against a neutral background to emphasize the two subjects.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009878072565346585/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Umesh",
+      "author_url": "https://x.com/umesh_ai",
+      "license": "MIT",
+      "original_id": "2009878072565346585",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-10T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ce0268ac-f97c-459e-a038-25c0480a34c6",
+    "prompt": "A full-body 3D stylized cartoon boy, Pixar/Disney-inspired character design, cute and modern look, generated from the provided reference photo. Preserve the subject’s facial structure, proportions, and identity while translating them into a stylized animated form. He has well-groomed short-to-medium hair styled to match the reference, expressive eyes, soft facial features, and a friendly, confident smile.\nHe is wearing a clean white oversized t-shirt, a high-waisted casual jacket or hoodie (optional), slim-fit pants, and modern sneakers that match the color palette of the outfit. A small crossbody sling bag or backpack adds a trendy touch. Slim proportions, smooth skin, polished 3D render, standing in a relaxed walking or casual pose.\nClean white background, soft studio lighting, high detail, ultra-smooth textures, vibrant yet natural colors, modern fashion doll aesthetic, professional character render, cinematic quality, 4K resolution.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2016380202927206785/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Johnn",
+      "author_url": "https://x.com/john_my07",
+      "license": "MIT",
+      "original_id": "2016380202927206785",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a509351c-9685-4305-a6b4-51e18a59043a",
+    "prompt": "[insert book title or genre]\n\n Logic Steps: \n\n1. The Paper: Determine age and quality. (Crisp white for Sci-Fi, yellowed crumbling edges for Horror, vellum for Fantasy). \n\n2. The Typography: The letters themselves unglue from the page and stack to form the 3D structures. Examples: The word \"Castle\" forms the bricks of a fortress. \"Forest\" forms the trunks of trees. \n\n3. The Atmosphere: Mist or light spilling out from between the pages. \n\n4. The Desk: The surrounding surface matches the likely reader (Mahogany desk for Sherlock Holmes, metal grate for Cyberpunk). Output Rules: 45-degree angle looking down, focus on the paper texture and text transformation.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2004498171100094554/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Gadgetify",
+      "author_url": "https://x.com/Gdgtify",
+      "license": "MIT",
+      "original_id": "2004498171100094554",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-26T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "0434f628-00e4-4501-a9d5-fe4c0736f8fa",
+    "prompt": "Create a highly detailed, hyper-realistic image of a miniature diorama inside a glass dome, placed on a wooden table near a softly lit window. Inside the dome, show a [COUNTRY] cultural figure with iconic attire, prominently positioned in the center foreground taking up significant space in the composition to really “pop” from the scene, smiling and waving, in a stylized 3D miniature version of [COUNTRY]’s iconic setting. Include the most iconic background features of that location, all scaled in a whimsical, miniature style. The time of day, season, and mood will vary by [COUNTRY]’s cultural theme. The scene is captured from a slightly elevated perspective. The base of the dome has a wooden plaque with bold, gold-colored text labeled: ‘[COUNTRY]’ in a strong, readable font that stands out prominently. The scene should be bright, magical, joyful, and feel like a collectible souvenir moment from a dream trip. Aspect ratio: 1080x1080",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009335963672301968/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2009335963672301968",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-08T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "6b39440b-009b-4231-a1c4-ce53b754ce3c",
+    "prompt": "Eye-level straight-on view, looking directly into a hyper-vibrant 3D layered paper cut-out diorama.\nPokéball red and white, Pikachu yellow, sky blue and\ngrass green accents, extremely high saturation,\nPHYSICAL PAPER LAYERS clearly visible with hard cut edges and thick paper cross-sections at every depth plane. Maximalist composition, crowded Pokémon world scene — layered Pokémon Center and gym architecture receding through all depth planes,\nPikachu as central figure mid-thunderbolt on foreground layer, dozens of iconic Pokémon — Charizard, Gengar, Eevee, Snorlax, Mewtwo — each inhabiting separate depth planes, trainer Ash and rivals threading between battle layers, Pokéball burst effects frozen mid-release across all planes, tall grass and route pathways between habitat layers, legendary Pokémon silhouettes in remote background layers,\nscattered Pokéballs, badges and berry items crowding the vibrant foreground. Soft single-direction studio lighting creating deep drop shadows between every physical paper layer, matte paper texture throughout,\nNO glow, NO soft edges, NO volumetric lighting, octane render, 8k, clean details --ar 3:4",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046881068578689257/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "两斤",
+      "author_url": "https://x.com/0x00_Krypt",
+      "license": "MIT",
+      "original_id": "2046881068578689257",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ace84e96-cc70-41db-ab97-f227bfd76de7",
+    "prompt": "A square, 1:1 photorealistic close-up photograph of an incredibly detailed physical miniature geography and city model of [CITY], focused only on the city’s most recognizable landmark area (not the full city map).\n\nThe scene shows a compact 3D topographic environment built around the iconic landmark zone — realistic terrain, elevation changes, nearby rivers or coastline if relevant, and surrounding urban density scaled naturally to highlight the landmark as the clear focal point. The model feels like a premium museum diorama rather than a map.\n\nThousands of tiny, highly detailed buildings, roads, bridges, and infrastructure cluster organically around the landmark. The landmark itself rises prominently above everything else, instantly recognizable even at a glance.\n\nStrong natural side sunlight casts long, realistic shadows across the miniature terrain, enhancing depth and realism. Shallow depth of field (tilt-shift style) keeps the landmark zone sharply in focus while softly blurring the outer edges of the square frame. The entire scene appears as a tangible, physical model illuminated by real-world light.\n\nAbove the city, the sky is perfectly clean and empty — no clouds at all — except for the city name.\n\nThe name [CITY] appears integrated into the sky as thick, three-dimensional cloud typography, sculpted from dense white vapor. The letters are bold, volumetric, and clearly readable, with soft shadowing and subtle depth, floating naturally in the open sky. Opacity ~70%, but with enough thickness to remain instantly legible.\n\nA small, minimal national flag is placed subtly near the sky text (corner or aligned to the typography), balanced and unobtrusive.\n\nFormat: Square 1080×1080\nStyle: Ultra-photorealistic, cinematic, premium miniature realism\nMood: Awe, clarity, instantly recognizable, highly shareable",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2010080445619417602/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2010080445619417602",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-10T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "57852ada-6c04-46d3-a1e7-232793834c7b",
+    "prompt": "Do this for Pineapple Pizza: <instruction>\nInput A: user uploads an image or shares name of dish\n\nLogic  Identify the historical inventor (e.g., Raffaele Esposito or Henri Charpentier) and the exact year of origin.\n\nTask: A hyper-realistic 4:5 macro photograph of an oversized, open antique culinary codex resting on a dark velvet museum plinth.\n\nLeft Page (The Living Diorama):\nThe left side of the book is hollowed out like a secret compartment. Inside is a breathtaking 3D miniature scene. A highly detailed figurine of the dish’s inventor is captured mid-motion in a period-accurate kitchen. Around them are microscopic versions of the 10-15 key ingredients, each in its own tiny hand-blown glass vial or micro-wooden crate. Include miniature brass cooking tools specific to the era. The scene is lit from within the \"pages\" by a warm, magical amber glow.\n\nRight Page (The Technical Recipe):\nThe right page is flat, aged parchment featuring elegant, faded Spencerian calligraphy and hand-painted watercolor illustrations.\n1. Top: The dish name in both English and its native language, with the bold \"Origin Date.\"\n2. Middle: A vertical \"Ingredient Blueprint\" with hyper-detailed sketches of each raw component.\n3. Bottom: A small, detailed \"Origin Map\" showing the specific city of birth, styled like a 19th-century cartographic inset.\n4. Text: Visible, legible recipe steps written in ink that looks slightly raised on the paper.\n\nStyle:\nMuseum specimen photography. 85mm macro lens. The lighting should be a mix of cool gallery spotlights and the warm \"internal\" glow of the book's diorama. Extreme texture on the weathered leather binding and the tooth of the paper.\nOutput: ONE image, 4:5 aspect ratio.\n</instruction>",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D",
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2003860469132718409/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Gadgetify",
+      "author_url": "https://x.com/Gdgtify",
+      "license": "MIT",
+      "original_id": "2003860469132718409",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e2e3937c-93f9-4fb0-a90a-5538db695170",
+    "prompt": "Surreal diorama emerging from an open vintage book of \"Brave New World\" by Aldous Huxley: the pages form a futuristic hatching laboratory with rows of glowing test tubes containing embryonic figures on conveyor belts, lab-coated workers in white uniforms operating machines, a large all-seeing eye symbol on the wall, conveyor belts moving via hidden mechanisms, cool blue neon lighting, hyper-detailed miniature sculpture, clinical and eerie atmosphere, photorealistic.",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2002399592906993959/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Gadgetify",
+      "author_url": "https://x.com/Gdgtify",
+      "license": "MIT",
+      "original_id": "2002399592906993959",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-20T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9b4c803a-771d-4e2f-ae4c-0fb6a2c2e580",
+    "prompt": "2x2 grid, do this for 4 hidden gem international foods select * from popup_recipe_visualizer where recipe_target = '[dish_name]' and structural_base = 'l-shaped_open_box_white_interior' and wall_layer_2d = ( select line_art, typography, botanical_drawings from ingredient_inference_db where dish = '[dish_name]' ) and foreground_layer_3d = array[ 'bowl_of_completed_[dish_name]', 'kawaii_chibi_mascot_interacting_with_food', 'scattered_3d_garnishes_on_floor' ] and dynamic_action = 'thick_glossy_sauce_pouring_from_2d_wall_hole_into_3d_bowl' and render_engine = 'octane_render_soft_studio_lighting';",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D",
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048091166047158761/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Gadgetify",
+      "author_url": "https://x.com/Gdgtify",
+      "license": "MIT",
+      "original_id": "2048091166047158761",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b0054407-c92e-41e5-afc2-84bf4c6d077d",
+    "prompt": "2x2 grid, do this for 4 common ingredients (like rice, diamond): render_target = ( giant_sliced_open_[product_name] * 2.0 ) + ( inferred_harvesting_and_processing_diorama_inside * 1.8 ) + ( miniature_1:87_scale_plastic_workers * 1.5 ) + ( floating_2d_anatomy_diagram_box_top_right * 2.0 ) + ( tiny_ladders_and_sacks_exterior * 1.0 ) + ( clean_beige_studio_background * 1.2 ) - ( life_size_humans / 2.0 ) - ( cluttered_background / 2.0 ) - ( 3d_rendered_ui_box )",
+    "model": "gpt-image",
+    "category": "3d-render",
+    "difficulty": "intermediate",
+    "tags": [
+      "Illustration & 3D"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048964671852405035/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Gadgetify",
+      "author_url": "https://x.com/Gdgtify",
+      "license": "MIT",
+      "original_id": "2048964671852405035",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  }
+]

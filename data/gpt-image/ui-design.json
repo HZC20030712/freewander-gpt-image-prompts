@@ -1,0 +1,467 @@
+[
+  {
+    "id": "010ea1b6-2728-46ad-ae88-1fb347f94108",
+    "prompt": "Create a technical infographic of [OBJECT] with a 45-degree isometric 3D perspective showing the device slightly tilted to reveal depth and dimension.\nCombine a realistic photoreal render with black ink technical annotations on pure white background. Include:\nKey component labels with color-coded callout boxes\nInternal component visibility through transparent/cutaway sections\nMeasurements, dimensions, and precise scale markers\nMaterial callouts and quantities\nColor-coded arrows for function/flow: RED (power/battery), BLUE (data/connectivity), ORANGE (thermal/processor), GREEN (sensors/haptics)\nSimple schematics or cross-sectional diagrams where relevant\n\nPlace “OBJECT” title in a hand-drawn technical box (top-left corner).\nStyle: Black linework (technical pen/architectural), sketched but precise. Object remains clearly visible. Educational museum-exhibit vibe. Clean composition, balanced negative space.\nPerspective: Isometric 3D angle—tilted to show depth, dimension, and internal architecture dramatically. Like a professional product teardown or engineering manual.\nColors: ~10-15% accent density. Black dominant. White background.\nOutput: 1080×1080, ultra-crisp, social-feed optimized.",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2017928823497453789/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2017928823497453789",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-01T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "193eb4a3-cc01-413e-a826-d81815bc20f3",
+    "prompt": "Create a typographic illustration shaped like a [OBJECT], where the text [BRAND SLOGAN] forms the shape — bold and playful lettering style that fills the entire silhouette — letters adapt fluidly to the curves and contours of the [OBJECT] — [COLOR DESCRIPTION] with [BACKGROUND COLOR] background that enhances the focus on the main shape — include [BRAND] logo positioned below the [OBJECT] — vector-style, clean, high resolution, 1080x1080 pixels, square format.",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2005620980891480567/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2005620980891480567",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-29T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "4c7a41cf-7a16-4f81-a2a6-6ab3539a23a8",
+    "prompt": "A simple illustration of a [subject] in [outfit], [doing action], with a [facial expression] expression, in the style of Gemma Correll, playful hand-drawn linework, quirky character design, minimal detail, expressive posture, clean white background, charming editorial illustration feel",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047993289283133945/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Amira Zairi",
+      "author_url": "https://x.com/azed_ai",
+      "license": "MIT",
+      "original_id": "2047993289283133945",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3ad6594a-3ab0-4d13-a046-a26c35179ca0",
+    "prompt": "A hyper-realistic 8K close-up portrait of a person's head and upper neck, shot from a slightly low-angle perspective looking upward.\nUse the uploaded image as the face reference - the face must match 100% exactly (same identity, facial structure, proportions, skin details, and expression). Do not alter the face in any way.\nThe subject is wearing bright yellow sunglasses with reflective lenses showing colorful abstract digital scenes in shades of pink, blue, and yellow.\nThe face is rendered in detailed grayscale, showing realistic skin texture, pores, and light stubble on the jawline, creating strong contrast with the rest of the head.\nThe hair and most of the head and neck are made of glowing digital circuit patterns, abstract shapes, lines, and data streams in vibrant colors like magenta, cyan, blue, green, yellow, and orange. These elements appear layered and complex, with a soft internal glow.\nParts of the digital head are breaking apart and dissolving outward into pixels, lines, and glitch fragments that fade into a clean white background, giving a glitch-art, futuristic look.\nCinematic lighting highlights one side of the face, with shadows under the chin and subtle rim lighting around the digital elements.\nOverall style is futuristic, cyber-inspired, high-detail, and photorealistic.",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2016088197714084320/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Duet | AI",
+      "author_url": "https://x.com/Sheldon056",
+      "license": "MIT",
+      "original_id": "2016088197714084320",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "dff64079-d8c4-43a6-af9f-4db29fa9fa0b",
+    "prompt": "A cinematic digital artwork of a stylish animated girl walking out of a modern X (Twitter) profile interface. The background shows a real mobile UI profile screen with the name \"Noor 🌸\", verified badge, username @Noor_ul_ain43, and detailed bio.\nThe girl matches the profile picture — soft aesthetic illustration style, short wavy black hair, gold hoop earrings, minimal makeup, wearing a black turtleneck and beige coat with matching pants and sneakers.\nShe is stepping forward confidently from the screen into real space. The right half of her body dissolves into dynamic particles — a mix of black dust, teal, and orange energy splashes, flowing outward like liquid + digital fragments.\nClean composition: left side = structured UI, right side = abstract particle explosion. Soft cinematic lighting, depth of field, ultra-detailed textures, smooth shadows, 4K render, octane render, Unreal Engine 5 style, trending on ArtStation.",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047227731839184901/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Noor 🌸",
+      "author_url": "https://x.com/Noor_ul_ain43",
+      "license": "MIT",
+      "original_id": "2047227731839184901",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ff5a0947-de50-4594-a9c3-d0c2f36356ba",
+    "prompt": "Create an infographic image of [washing machine], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:\n•Key component labels\n•Internal cutaway or exploded-view outlines\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure)\n•Simple schematic or sectional diagrams where relevant\n\nPlace the title [PRODUCT] inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations feel sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.\n\nColor palette:\nWhite background, black annotation lines and text only. No colors.\n\nOutput:\n1080×1080, ultra-crisp, social-feed optimized, no watermark.",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2018668607966769212/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2018668607966769212",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-03T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "cda15dd7-998a-45a9-ac5b-6fa817e0fe5a",
+    "prompt": "A creative 3D photo manipulation of a social media profile interface, featuring a surprised young woman with short messy yellow hair, round glasses, and expressive wide eyes, wearing a sleeveless yellow top. She is breaking through a torn paper effect from the screen, holding the ripped edges with both hands. The tear reveals a dark background behind her, adding depth. The UI resembles a modern social media profile page with profile picture, username “Noor 🌸”, verified badge, bio text, and follower stats. Top banner shows a black-and-white close-up of eyes. Clean minimal layout, soft shadows, realistic lighting, high detail, depth-of-field, ultra-realistic textures, cinematic composition, vibrant color contrast, trending AI art style, 4K resolution.",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048088005836173316/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Noor 🌸",
+      "author_url": "https://x.com/Noor_ul_ain43",
+      "license": "MIT",
+      "original_id": "2048088005836173316",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ac4ee73b-a4c9-4475-afe6-384d8a3fdf19",
+    "prompt": "高复杂度信息图：结合今天的新闻，CEO 换成了Ternus，信息图要竖版 3:4要有乔布斯、cook、Ternus 三人头像，以及产品，以及超多苹果服务标志，整体风格偏 WWDC 的苹果风格，完整展现苹果庞大商业帝国",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046480096471765192/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Jackywine",
+      "author_url": "https://x.com/Jackywine",
+      "license": "MIT",
+      "original_id": "2046480096471765192",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "2ca5f55f-d2e4-4cb4-ac00-9db567bc1b11",
+    "prompt": "Create a premium presentation-style campaign board for MVMT’s Cinco de Mayo campaign on a soft warm neutral background.\n\nAt the top, add the title:\n“MVMT | CINCO DE MAYO CAMPAIGN”\n\nBelow it, show three clearly labeled vertical panels side by side with subtle shadows:\n“LANDING PAGE”\n“EMAIL”\n“AD CREATIVE”\n\nOverall style:\nClean, premium, masculine-leaning, modern DTC design. The image should feel like a polished creative review board, not a collage. All three panels should clearly belong to the same campaign, with shared typography, colors, product styling, and seasonal details.\n\nUse a warm, elevated palette:\ncream, sand, stone, black, charcoal, dark olive, terracotta, muted green, and warm golden accents.\n\nCinco de Mayo direction:\nTasteful and refined, not cheesy. Use subtle festive touches like papel picado-inspired accents, citrus, warm stone textures, celebratory drinks, and sunlit lifestyle styling.\n\nShared headline direction:\n“GOOD TIMES. BOLD STYLE.”\nOptional secondary line:\n“VIVA LA FIESTA.”\n\nPanel 1 — Landing Page:\nCreate the widest and most detailed panel as a tall desktop ecommerce landing page.\nInclude:\n- MVMT site header\n- hero with bold headline\n- premium black watch as hero product\n- stylish male lifestyle model\n- CTA button\n- icon/value prop row\n- supporting lifestyle banner\n- curated product grid\n- realistic footer\n\nPanel 2 — Email:\nCreate a slimmer tall ecommerce email mockup.\nInclude:\n- promo bar\n- MVMT logo and header\n- hero section with same campaign art direction\n- curated category or product row\n- supporting lifestyle block\n- featured products section\n- compact footer\n\nPanel 3 — Ad Creative:\nCreate a bold vertical Facebook ad.\nInclude:\n- strong headline\n- premium product composition with black watch, sunglasses, and bracelet\n- citrus and celebratory props\n- CTA button\n- compact benefit strip at the bottom with messages like:\n“FREE SHIPPING & RETURNS”\n“2 YEAR WARRANTY”\n“DESIGNED IN CALIFORNIA”\n\nImportant:\n- landing page should feel broader and more layered\n- email should feel modular and structured\n- ad should feel bold, simple, and conversion-focused\n- labels above each panel should be clearly visible\n- text should be mostly legible\n- everything should feel premium, realistic, and cohesive\n\nAvoid:\ncheesy fiesta graphics, bright rainbow colors, clutter, generic templates, messy collage styling, or cartoonish holiday visuals.\n\nOutput:\nA highly realistic single-image campaign board showing a landing page, email, and ad creative for MVMT’s Cinco de Mayo campaign, all clearly labeled and designed as one cohesive system.",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047172163313222013/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Chase Dimond | Email Marketing Nerd 📧",
+      "author_url": "https://x.com/ecomchasedimond",
+      "license": "MIT",
+      "original_id": "2047172163313222013",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "75245b4e-3f7d-4ab1-a3eb-4cac9a78ff94",
+    "prompt": "Create a cohesive collection of playful icons for [BRAND NAME], a [BRAND TYPE/INDUSTRY] brand. Style should be [STYLE KEYWORDS: e.g., rounded, 3D, flat, hand-drawn, minimal] with a [COLOR STYLE: vibrant, pastel, gradient, monochrome] palette. Use [DESIGN TRAITS: soft shadows, bold outlines, subtle textures, glow, etc.] to give a friendly and modern feel. Maintain consistency across all icons with a unified grid, proportions, and visual language. Icons should represent [LIST OF FEATURES/FUNCTIONS]. Ensure high clarity, balanced spacing, and scalable design suitable for UI, apps, and branding.",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047546614257221653/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Aleena Amir",
+      "author_url": "https://x.com/aleenaamiir",
+      "license": "MIT",
+      "original_id": "2047546614257221653",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d963346a-bbd1-4eae-a3aa-26d12fa37c70",
+    "prompt": "帮我生成 特斯拉 主要零部件 细节全图，周围 也加上 各模块细节图",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047204364499276110/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "木马人",
+      "author_url": "https://x.com/cnyzgkc",
+      "license": "MIT",
+      "original_id": "2047204364499276110",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "1a632db0-d89c-4f52-a5ed-0750ca1b3e0d",
+    "prompt": "Make a portrait-sized wallpaper about several activities from the hobby of (Name Hobby), in the wallpaper it contains various movements in the hobby activity, make the wallpaper design as if it was designed by a professional graphic designer, the coloring and UI of the wallpaper are colorful and don't look commonplace, don't be monotonous, and don't look stiff from the visual of the wallpaper, arranged neatly and precisely, 8k resolution",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048746995465203876/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2048746995465203876",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "efc9a24c-8da4-44f3-a150-ff29b2b51102",
+    "prompt": "Ultra-modern high-end skincare advertising collage featuring four beautiful young Asian women, each portrait styled in a separate geometric section of a dynamic diagonal layout. Clean editorial beauty photography with soft natural skin texture, glowing healthy complexion, and subtle makeup. Bright vibrant color blocking design using pink, yellow, cyan, and coral tones. Minimal abstract background shapes, smooth gradients, and modern graphic design composition. Studio-quality lighting, fashion magazine aesthetic, premium cosmetic campaign feel. Each woman posed confidently in different angles, smiling softly, fresh and youthful vibe. Balanced symmetry with sharp diagonal divisions and circular portrait frames. Highly polished commercial beauty branding style, cinematic lighting, ultra-detailed, 4k resolution.\n\nIMPORTANT NEGATIVE PROMPT:\nNo text, no typography, no logos, no brand names, no product bottles, no packaging, no watermark, no labels, no written elements.",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047550158427259188/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Cherry 2.O",
+      "author_url": "https://x.com/Mind_Boticni",
+      "license": "MIT",
+      "original_id": "2047550158427259188",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-24T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a2374328-8e06-438b-a9bf-8e4380da6ba5",
+    "prompt": "请基于用户输入的【核心文字 / 单词 / 词组 / 短句 / 字母】，创作一张高完成度的「斜向透视平面字体概念海报 / Oblique Planar Perspective Typographic Poster」。\n\n用户输入：[主题文字]；\n文字语言：[中文 / 英文 / 中英混排]；\n可选补充语境：[____]；\n可选情绪倾向：[____]；\n可选禁用元素：[____]。 \n\n这不是普通插画，不是简单把文字放大后的字效海报，也不是传统正面平铺式平面排版，而是一张以“文字为主视觉核心”的现代实验性字体海报。整体必须采用「斜向透视平面字体构成 / Oblique Planar Perspective Typography」的方式来设计：文字不应完全贴在正面平面上，而应像被放置在不同倾斜角度的二维平面中，通过斜向基准线、透视压缩、平面偏转、角度切入、错位构成、向量指向、方向线条、半透明几何平面与模块化色块，共同建立一种“仍然是平面设计，但具有明显角度感、空间方向感、视觉张力和向量关系”的字体构成效果。\n\n请先真正理解用户输入内容的字面含义、情绪气质、隐含象征、文化联想、心理感受与语义张力，再把这些理解转译成一个具有“方向性、倾斜关系、平面透视感和视觉对抗 / 连接关系”的字体海报系统。如果主题偏情绪型，请重点通过斜向文字平面的距离关系、重心偏移、留白方向、线条走势、模块密度变化和色块压迫 / 释放来表达；如果主题偏动作型，请重点通过倾斜推进、速度线、方向箭头、透视切片、错位平面和向量轨迹来表达；如果主题偏关系型，请重点通过多个文字主体、几何平面和图形模块之间的角度差、相交、重叠、对峙、包裹、切割和中介结构来表达；如果主题偏抽象概念型，请先找到一个简洁但具有视觉转译潜力的抽象隐喻，再通过斜向透视字体、向量辅助系统、局部遮挡、层级偏移、模块重复和变形网格来构建画面。\n\n整体画面必须呈现为一张现代、锐利、清亮、时尚、有实验性、有传播力、有视觉记忆点的高完成度字体海报。用户输入的文字必须成为第一视觉主体，是整个海报的核心内容。文字可以横排、竖排、拆分、错位、分组、重组、局部裁切、局部遮挡、嵌套、倾斜、透视压缩、斜向旋转，甚至分别放置在不同角度的二维平面中，但必须始终保持较高识别度与清晰可读性。画面中至少要让观众明显感受到：文字不再是正面贴平，而是进入了一个由多个倾斜平面和方向关系组成的平面空间系统中。\n\n请重点强化以下风格特征：文字有斜向角度感、近大远小的平面透视感、不同方向的向量关系、倾斜基准线、辅助箭头、几何切面、模块推进、局部框线、数据感标注、小型目录式辅助说明、少量点阵与路径线。可以让不同的文字或文字组处在不同倾斜平面中，形成彼此之间的视角差、方向冲突、视觉对话或张力关系。图形元素必须围绕文字构建，而不是独立装饰；它们应该支撑文字、切割文字、包裹文字、延伸文字的方向、强化文字的倾斜动势，并与文字共同构成一个完整的视觉句子。\n\n视觉语言上，请采用 modern graphic design、oblique planar perspective typography、experimental typography、bold typographic composition、flat vector aesthetics、high-contrast graphic layout、contemporary editorial poster、crisp vector-like precision 的方向。整体不是写实，不是摄影，不是复古文学封面，不是包豪斯旧海报感，不是厚重肌理风，不是暗沉艺术海报，也不是普通 PPT 封面。它应当是更当代、更清亮、更锋利、更数字化、更具有设计公司提案感与展览海报感的视觉结果。\n\n【新版配色要求】\n配色必须鲜亮、透亮、清亮、艳丽、高对比，但不要固定使用蓝色与橙色组合，也不要默认落入常见的蓝橙撞色方案。请根据主题语义、情绪气质和视觉隐喻，自动生成一组更大胆、更有想象力、更有新鲜感的现代高对比配色。允许使用非常规组合、跳跃性色彩、强烈撞色、冷暖冲突、霓虹感、数码感、未来感或艺术化配色，但整体必须仍然有秩序、有审美控制、有设计感，不能杂乱失控。\n\n请优先采用“2 个主色 + 1 到 2 个高亮点缀色 + 留白 / 结构支点色”的配色组织方式。可以探索但不限于以下方向：荧光绿 + 品红 + 冷白、亮黄 + 紫罗兰 + 黑色、酸橙绿 + 深紫 + 青蓝、玫红 + 青绿 + 银白、樱桃红 + 湖蓝 + 纯白、薄荷青 + 亮红 + 深蓝、荧光黄 + 桃红 + 紫色、珊瑚橙 + 青蓝 + 白色、多彩数码拼接配色等。每次生成时，请尽量形成一套独立的色彩记忆点，不要重复单一固定主配色，不要让作品系列都长得像同一张图换字。\n\n文字颜色不要全部使用纯黑，可以根据构图关系，让不同文字主体使用不同高饱和色，或在同一组大字中形成主次色分配。允许少量深色作为结构支点，但整体画面应以鲜亮、清透、醒目、前卫的色彩印象为主。色彩应服务于语义表达，而不是仅仅为了热闹；要让观众觉得颜色是“被设计过的”，而不是随机堆砌的。\n\n构图应大胆、倾斜、具有推进感和方向感，但同时要控制画面秩序。建议采用 1 组核心标题主体、1 组斜向透视文字平面系统、1 组几何向量与色块结构、少量辅助标注信息与点线符号。画面需要保留足够留白，让高饱和色与倾斜文字更有呼吸感和展览海报感。可以加入少量小字说明、标签、编号、英文关键词、极简副标题或短句，用来强化概念，但必须克制，不要抢夺主标题的视觉权重。辅助信息可模拟视觉识别系统或编辑设计中的注释语言，例如短词、参数、索引、方向说明、概念标签等。\n\n字体与排版必须现代、清晰、醒目、有力量，并且具有一定实验性。中文适合使用几何无衬线、现代设计感强的标题字、窄长字形或有切面感的字形；英文适合使用 bold grotesk、condensed sans、geometric sans、editorial sans 等。允许局部拉伸、压缩、斜切、透视变形、切片错位，但不要把文字做成真实 3D 挤出字，不要厚重投影，不要真实立体建模，不要金属字，不要玻璃字，不要浮雕字。重点是“平面中的空间感”，而不是“物理三维立体感”。\n\n图形元素可使用：斜向矩形、倾斜平面框、三角切角、圆点系统、箭头、路径线、细线辅助网格、透视边框、方向向量、点阵模块、数据感短线、色块面片、半透明几何切片、局部环形线、分区标签、小尺寸索引信息等。这些元素都必须服务主题语义和字体构成，不应沦为纯装饰。\n\n请避免以下问题：不要做成普通正面平铺字体海报、不要做成传统极简主义排版封面、不要做成写实摄影或插画、不要做成厚重 3D 字、不要做成复古低饱和或米灰色调海报、不要堆砌无关图形、不要过度装饰、不要让文字不可读、不要让画面脏乱拥挤、不要让图形与主题词脱节、不要反复默认同一套主配色。\n\n如果适合，请自动生成一句极短的副标题或概念短句，用来辅助解释主题，例如 “Between ____ and ____”、“The tension of ____”、“A state of ____”、“Where ____ begins”，或根据中文语境生成一句更简洁的中文短句，但必须保持简短、克制、设计化。\n\n最终输出应是一张：高完成度、现代、鲜亮、高对比、平面、锐利、实验性强、具有斜向透视字体构成感、可读且有设计感、并且在配色上更大胆自由、更有想象力、更不落入固定蓝橙套路的现代字体概念海报。",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048816632613453900/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Larus Canus",
+      "author_url": "https://x.com/MrLarus",
+      "license": "MIT",
+      "original_id": "2048816632613453900",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "8f3bbdb8-998a-4b82-a5f9-5f6e0dbb1ee5",
+    "prompt": "Create a premium 4:3 presentation cover slide introducing Chronicle, the AI-native presentation platform from https://t.co/SSfpg45Jtr.  \n\nStyle: \nelegant, minimal, modern, premium startup aesthetic. Similar to high-end brand guideline covers (like Apple / Linear / Notion style). Soft gradient background with subtle depth, clean whitespace, refined typography, polished editorial layout.  \n\nMain title: \nCHRONICLE  \n\nSubtitle: \nAI PRESENTATION PLATFORM  \n\nBody copy (small elegant text): \nTurn raw ideas into polished, high-impact presentations. \nStart from notes, docs, links, or existing decks. \nGenerate beautiful, on-brand slides with AI. \nEdit freely on a flexible canvas. \nExport to PPT, PDF, or publish as a website.  \n\nFeature highlights (small premium labels): \nSTORY-FIRST \nON-BRAND DESIGN \nAI EDITING \nFREEFORM CANVAS \nPPT EXPORT \nTEAM COLLABORATION  \n\nBottom-right elegant logo text: \nchronicle  \n\nVisual feeling: \nbusiness-class premium, strategy deck quality, consulting-grade presentation, slightly futuristic but highly professional.  \n\nComposition: \nclean editorial balance, asymmetrical layout, strong whitespace, presentation software hero shot feeling.  \n\nAspect ratio: \n4:3  \n\nLanguage: \nEnglish only",
+    "model": "gpt-image",
+    "category": "ui-design",
+    "difficulty": "intermediate",
+    "tags": [
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046615173411262959/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Cellier@undefined",
+      "author_url": "https://x.com/cellier_",
+      "license": "MIT",
+      "original_id": "2046615173411262959",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  }
+]

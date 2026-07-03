@@ -12,7 +12,7 @@ Phase 1 policy:
 
 | Source | URL | License | Status |
 |---|---|---|---|
-| `nanobanana-trending-prompts` | https://github.com/jau123/nanobanana-trending-prompts | To verify | Pending sync |
+| `nanobanana-trending-prompts` | https://github.com/jau123/nanobanana-trending-prompts | MIT | Synced |
 | `awesome-gpt-image-2` | To verify | To verify | Pending sync |
 
 ## Acceptance Rules

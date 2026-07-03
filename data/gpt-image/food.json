@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "c46367d0-6b49-41ed-a87c-4e4a51a59810",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K ultra high definition\",\n    \"aspect_ratio\": \"3:4\",\n    \"camera_style\": \"studio food photography with cinematic lighting\",\n    \"depth_of_field\": \"shallow depth of field, sharp subject, soft background\",\n    \"lighting\": \"soft directional key light, subtle rim light, controlled highlights\",\n    \"style\": \"hyper-realistic food illustration with editorial infographic overlays\",\n    \"composition_rules\": [\n      \"no zoom\",\n      \"no crop\",\n      \"center-weighted vertical composition\",\n      \"floating elements frozen in motion\"\n    ],\n    \"text_design\": {\n      \"ingredient_name_color\": \"metallic gold\",\n      \"ingredient_description_color\": \"pure white\",\n      \"font_style\": \"elegant serif for titles, clean sans-serif for descriptions\",\n      \"indicator_lines\": \"long, thin, smooth golden lines with rounded corners\"\n    }\n  },\n\n  \"module_1_image_1_style\": {\n    \"scene_description\": \"A vertical stack of assorted cake slices floating above a white ceramic plate against a soft pink gradient background.\",\n    \"background\": {\n      \"color\": \"soft pastel pink\",\n      \"texture\": \"smooth gradient\",\n      \"lighting\": \"even, studio-lit, no harsh shadows\"\n    },\n    \"main_subjects\": [\n      \"multiple layered sponge cake slices\",\n      \"white whipped cream layers\",\n      \"raspberry cream layer\",\n      \"chocolate cream topping\"\n    ],\n    \"visible_ingredients\": [\n      \"vanilla sponge cake\",\n      \"whipped cream\",\n      \"raspberries\",\n      \"blueberries\",\n      \"strawberries\",\n      \"macarons (vanilla and chocolate)\",\n      \"chocolate bar pieces\",\n      \"mint leaves\",\n      \"small nut fragments\"\n    ],\n    \"motion_elements\": [\n      \"floating fruits\",\n      \"floating macarons\",\n      \"crumbs suspended in air\"\n    ],\n    \"text_labels\": [\n      \"Vanilla Cake – soft, fluffy sponge cake layered with white cream filling\",\n      \"Macaron – creamy filling between almond meringue shells\",\n      \"Raspberries – juicy, fresh raspberries\",\n      \"Chocolate Bar – chunks of smooth milk chocolate\",\n      \"Raspberry Cream – soft sponge cake layered with creamy, fruity raspberry cream\"\n    ]\n  },\n\n  \"module_2_image_2_style\": {\n    \"scene_description\": \"Rolled Syrian dessert presented vertically with syrup pouring from above, placed in a warm, rustic kitchen environment.\",\n    \"background\": {\n      \"environment\": \"traditional kitchen\",\n      \"elements\": [\n        \"warm lantern light\",\n        \"wooden surfaces\",\n        \"brass and copper utensils\"\n      ],\n      \"lighting\": \"warm ambient lighting with soft highlights\"\n    },\n    \"main_subjects\": [\n      \"rolled white dessert dough\",\n      \"cream filling spilling out\",\n      \"golden syrup stream\"\n    ],\n    \"visible_ingredients\": [\n      \"white cheese dough\",\n      \"cream filling\",\n      \"pistachios\",\n      \"sugar syrup\"\n    ],\n    \"motion_elements\": [\n      \"syrup dripping vertically\",\n      \"pistachio crumbs falling\"\n    ],\n    \"text_labels\": [\n      \"White Cheese Dough – soft outer layer made from cheese and semolina\",\n      \"Cream Filling – creamy filling inside the roll\",\n      \"Pistachios – crushed pistachios sprinkled over and inside the rolls\"\n    ]\n  }",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2011994819124752631/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2011994819124752631",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-16T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3f173d1c-5de4-4efa-a86a-3d593b714dd9",
+    "prompt": "{\n  \"resolution\": \"8K UHD\",\n  \"aspect_ratio\": \"3:4\",\n  \"image_style\": \"hyper-realistic commercial food photography\",\n  \"global_settings\": {\n    \"quality\": \"Ultra-high detail, sharp focus, studio-grade clarity\",\n    \"lighting\": \"Soft but controlled studio lighting with visible highlights and splash definition\",\n    \"motion\": \"Frozen mid-air action, ingredients suspended\",\n    \"background_style\": \"Solid or smooth gradient background, color varies per module\",\n    \"camera\": \"High-speed photography look, shallow to medium depth of field\",\n    \"post_processing\": \"Balanced contrast, natural saturation, no artificial glow\"\n  },\n\n  \"modules\": {\n\n    \"module_1_berry_smoothie_explosion\": {\n      \"scene_description\": \"A vibrant smoothie bowl exploding with fruit and liquid splashes\",\n      \"bowl\": {\n        \"color\": \"Deep blue ceramic bowl\",\n        \"finish\": \"Glossy\",\n        \"position\": \"Centered, floating mid-air\"\n      },\n      \"base_contents\": {\n        \"type\": \"Thick berry smoothie\",\n        \"color\": \"Deep purple-magenta\",\n        \"texture\": \"Creamy with visible swirl marks\"\n      },\n      \"ingredients\": {\n        \"fruits\": [\n          \"Banana slices (round, pale yellow)\",\n          \"Blueberries (whole, dark blue)\",\n          \"Raspberries (whole, red)\"\n        ],\n        \"herbs\": [\n          \"Fresh mint leaves (bright green)\"\n        ]\n      },\n      \"motion_effects\": {\n        \"liquid\": \"Berry smoothie splashing upward and outward\",\n        \"particles\": \"Small droplets suspended in air\"\n      },\n      \"background\": {\n        \"color\": \"Bright pink\",\n        \"texture\": \"Smooth, seamless\"\n      }\n    },\n\n    \"module_2_minimal_pink_smoothie_bowl\": {\n      \"scene_description\": \"Minimalist floating smoothie bowl with granola and berries\",\n      \"bowl\": {\n        \"color\": \"Light pink ceramic bowl with dark speckles\",\n        \"finish\": \"Matte\",\n        \"position\": \"Floating centrally\"\n      },\n      \"base_contents\": {\n        \"type\": \"Smoothie\",\n        \"color\": \"Soft pink with purple undertones\",\n        \"texture\": \"Thick and smooth\"\n      },\n      \"toppings\": {\n        \"granola\": \"Golden-brown oat clusters\",\n        \"seeds\": \"Small black seeds scattered\",\n        \"fruits\": [\n          \"Strawberries (halved)\",\n          \"Raspberries (whole)\",\n          \"Blackberries (whole)\"\n        ]\n      },\n      \"motion_effects\": {\n        \"ingredients\": \"Granola flakes, seeds, and berries floating gently\"\n      },\n      \"background\": {\n        \"color\": \"Pastel lavender\",\n        \"gradient\": \"Subtle, soft gradient\"\n      }\n    },\n\n    \"module_3_cereal_milk_honey_splash\": {\n      \"scene_description\": \"Dynamic cereal stack with milk splash and honey drizzle\",\n      \"bowl\": {\n        \"color\": \"Blue ceramic bowl\",\n        \"finish\": \"Glossy\",\n        \"position\": \"Centered, resting visually but surrounded by motion\"\n      },\n      \"contents\": {\n        \"cereal\": \"Golden cornflakes stacked vertically\",\n        \"milk\": \"White milk splashing and dripping over flakes\",\n        \"fruits\": [\n          \"Raspberries\",\n          \"Blueberries\"\n        ]\n      },\n      \"additional_elements\": {\n        \"honey\": {\n          \"source\": \"Wooden honey dipper\",\n          \"state\": \"Honey dripping mid-air\"\n        }\n      },\n      \"motion_effects\": {\n        \"splashes\": \"Milk splashes frozen in dramatic arcs\",\n        \"particles\": \"Floating flakes and droplets\"\n      },\n      \"background\": {\n        \"color\": \"Deep blue\",\n        \"tone\": \"High contrast\"\n      }\n    },\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009157208240755151/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2009157208240755151",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-08T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3b295244-577e-4d3c-a2c8-291f0860c9e2",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K ultra high definition\",\n    \"aspect_ratio\": \"2:3 vertical\",\n    \"image_type\": \"AI-edited cinematic food photography\",\n    \"detail_level\": \"extreme micro-detail, sharp focus, clean edges\",\n    \"style_constraint\": \"enhanced realism, minimal alteration from original composition\"\n  },\n\n  \"module_1_image_1_style\": {\n    \"subject\": \"single hard-shell taco\",\n    \"composition\": {\n      \"orientation\": \"diagonal, floating in mid-air\",\n      \"foreground_focus\": \"taco shell and filling\",\n      \"motion\": \"ingredients suspended, sauce splash frozen mid-air\"\n    },\n    \"visible_elements\": {\n      \"shell\": \"golden yellow hard taco shell with crisp texture\",\n      \"filling\": [\n        \"shredded cooked meat with visible fibers\",\n        \"green sauce layered on top\",\n        \"small red diced pieces\",\n        \"white crumbled cheese\"\n      ],\n      \"floating_garnish\": [\n        \"avocado slices\",\n        \"purple onion rings\",\n        \"green herb leaves\",\n        \"small reddish-brown meat cubes\",\n        \"tiny white crumbs\"\n      ],\n      \"liquid\": \"orange-red sauce splash erupting upward behind taco\"\n    },\n    \"lighting\": {\n      \"type\": \"high-contrast studio lighting\",\n      \"highlights\": \"glossy reflections on sauce and meat\",\n      \"background_lights\": \"soft circular bokeh in warm and cool tones\"\n    },\n    \"background\": {\n      \"color\": \"dark with neon-like blurred lights\",\n      \"depth\": \"strong depth of field, background fully defocused\"\n    }\n  },\n\n  \"module_2_image_2_style\": {\n    \"subject\": \"three grilled meat skewers\",\n    \"composition\": {\n      \"orientation\": \"vertical skewers, slightly angled\",\n      \"foreground_focus\": \"center skewer\",\n      \"motion\": \"ingredients and sauce suspended\"\n    },\n    \"visible_elements\": {\n      \"skewers\": \"wooden sticks with pointed ends\",\n      \"meat\": \"chunked grilled meat with char marks and uneven texture\",\n      \"garnish\": \"small green herb leaves attached to meat\",\n      \"floating_items\": [\n        \"round cucumber slices\",\n        \"thin onion rings\"\n      ],\n      \"sauce\": {\n        \"container\": \"small white ramekin\",\n        \"action\": \"thick orange sauce splashing upward from bowl\"\n      },\n      \"particles\": \"tiny spice or crumb particles scattered in air\"\n    },\n    \"lighting\": {\n      \"type\": \"dramatic directional lighting\",\n      \"highlights\": \"strong sheen on meat surface\",\n      \"contrast\": \"deep shadows\"\n    },\n    \"background\": {\n      \"color\": \"solid deep red\",\n      \"texture\": \"soft grain with floating particles\"\n    }\n  },\n\n  \"module_3_image_3_style\": {\n    \"subject\": \"four sushi rolls\",\n    \"composition\": {\n      \"orientation\": \"floating cluster\",\n      \"spacing\": \"uneven depth, some closer, some blurred behind\",\n      \"motion\": \"sesame seeds and herbs suspended\"\n    },\n    \"visible_elements\": {\n      \"sushi_structure\": {\n        \"outer_layer\": \"white rice\",\n        \"inner_layer\": \"dark seaweed\",\n        \"fillings\": [\n          \"orange fish slice\",\n          \"green avocado\"\n        ]\n      },\n      \"toppings\": [\n        \"toasted sesame seeds\",\n        \"brown crunchy coating\",\n        \"finely chopped green herbs\"\n      ],\n      \"particles\": [\n        \"sesame seeds\",\n        \"small green herb pieces\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"soft but crisp studio lighting\",\n      \"focus\": \"front sushi pieces sharp, rear slightly blurred\"\n    },\n    \"background\": {\n      \"color\": \"dark blue-grey\",\n      \"depth\": \"clean bokeh-free backdrop with floating particles\"\n    }\n  },\n  \"post_processing\": {\n    \"clarity\": \"ultra-sharp\",\n    \"noise\": \"minimal\",\n    \"color_balance\": \"rich but natural\",\n    \"ai_signature\": \"clean AI-edited look without exaggeration\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009887009591226787/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2009887009591226787",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-10T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "a18d229a-51a5-4b59-a9d3-825873060ae7",
+    "prompt": "この商品広告をプロのデザイナー目線でリデザインして。\n今のトレンド、ターゲットに合わせた洗練されたデザインで。",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046498264774791514/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "GENEL | AIを用いた動画制作",
+      "author_url": "https://x.com/genel_ai",
+      "license": "MIT",
+      "original_id": "2046498264774791514",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "zh",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c37daea5-062c-49c4-aebf-44d29caab0c4",
+    "prompt": "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K ultra high definition\",\n      \"aspect_ratio\": \"3:4 vertical\",\n      \"image_quality\": \"extreme sharpness, high dynamic range, professional studio lighting\",\n      \"style\": \"AI-edited hyperreal food photography\",\n      \"focus\": \"crisp textures, frozen motion, liquid dynamics, surface details\",\n      \"background_quality\": \"clean, controlled, noise-free\"\n    },\n\n    \"module_1\": {\n      \"identity\": \"Image 1 – Ice Cream Cone with Purple Splash\",\n      \"subject\": {\n        \"main_object\": \"waffle cone ice cream\",\n        \"cone\": \"light brown waffle cone with diamond grid texture, matte finish\",\n        \"ice_cream_scoops\": [\n          {\n            \"color\": \"off-white / vanilla\",\n            \"texture\": \"creamy with visible scoop ridges\"\n          },\n          {\n            \"color\": \"off-white / vanilla\",\n            \"texture\": \"slightly uneven surface, melting edges\"\n          }\n        ],\n        \"toppings\": [\n          \"raspberries\",\n          \"blackberries\"\n        ],\n        \"sauce\": {\n          \"color\": \"glossy purple\",\n          \"behavior\": \"thick liquid splashing outward and downward\",\n          \"coverage\": \"dripping over scoops and cone\"\n        }\n      },\n      \"motion\": {\n        \"action\": \"frozen splash moment\",\n        \"details\": \"liquid droplets suspended mid-air, see-through splash edges\"\n      },\n      \"background\": {\n        \"color\": \"deep dark maroon / black\",\n        \"style\": \"studio backdrop with subtle gradient\"\n      },\n      \"lighting\": {\n        \"type\": \"high-contrast studio lighting\",\n        \"effects\": \"specular highlights on sauce and ice cream, shadow depth under cone\"\n      }\n    },\n\n    \"module_2\": {\n      \"identity\": \"Image 2 – Chocolate Ice Cream Bar with Bite\",\n      \"subject\": {\n        \"main_object\": \"chocolate-coated ice cream bar on wooden stick\",\n        \"coating\": {\n          \"exploded_view\": false,\n          \"surface\": \"milk chocolate coating with embedded nut pieces\",\n          \"texture\": \"rough, uneven, crunchy appearance\"\n        },\n        \"bite_detail\": {\n          \"location\": \"top edge\",\n          \"interior_layers\": [\n            \"chocolate ice cream\",\n            \"thin darker chocolate layer\"\n          ],\n          \"edges\": \"jagged bite marks\"\n        },\n        \"stick\": {\n          \"material\": \"light wood\",\n          \"finish\": \"smooth, rounded end\"\n        }\n      },\n      \"motion\": {\n        \"elements\": \"small chocolate fragments floating in air\",\n        \"behavior\": \"scattered outward from the bar\"\n      },\n      \"background\": {\n        \"color\": \"warm brown gradient\",\n        \"style\": \"clean studio environment\"\n      },\n      \"lighting\": {\n        \"type\": \"directional studio lighting\",\n        \"effects\": \"strong highlights on chocolate bumps, soft shadows\"\n      }\n    },\n\n    \"module_3\": {\n      \"identity\": \"Image 3 – Red Berry Popsicle with Fruits\",\n      \"subject\": {\n        \"main_object\": \"rectangular red popsicle\",\n        \"surface\": {\n          \"texture\": \"frosted, icy crystals visible\",\n          \"shape\": \"rounded corners, vertical grooves\"\n        },\n        \"stick\": {\n          \"material\": \"light wooden stick\",\n          \"visible\": true\n        },\n        \"surroundings\": [\n          \"whole strawberries with green tops\",\n          \"blueberries\",\n          \"raspberries\",\n          \"mint leaves\",\n          \"crushed ice pieces\"\n        ]\n      },\n      \"color_palette\": [\n        \"bright red\",\n        \"deep blue\",\n        \"fresh green\",\n        \"clear ice\"\n      ],\n      \"background\": {\n        \"composition\": \"entire frame filled with fruits and ice\",\n        \"style\": \"top-down macro food arrangement\"\n      },\n      \"lighting\": {\n        \"type\": \"even bright lighting\",\n        \"effects\": \"wet shine on fruit skins, crystalline ice reflections\"\n      }\n    },",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2010312584059351261/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2010312584059351261",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-11T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ab042d39-81d2-48e9-a29e-4ee96481884b",
+    "prompt": "{\n  \"resolution\": \"8K\",\n  \"style\": \"hyper-realistic commercial product photography\",\n  \"composition\": {\n    \"subject\": \"carbonated beverage can\",\n    \"position\": \"center frame, floating mid-air\",\n    \"orientation\": \"slightly tilted vertical\",\n    \"framing\": \"tight hero shot\"\n  },\n  \"can_details\": {\n    \"material\": \"metallic aluminum\",\n    \"top_bottom\": \"silver with visible pull tab\",\n    \"surface\": \"glossy with condensation droplets\",\n    \"label\": {\n      \"text\": \"{{BRAND_NAME}}\",\n      \"font\": \"bold uppercase sans-serif\",\n      \"color\": \"white\",\n      \"background_band\": \"deep blue\",\n      \"placement\": \"wrapped around center of can\"\n    }\n  },\n  \"liquid_effects\": {\n    \"color\": \"bright green\",\n    \"type\": \"carbonated liquid splash\",\n    \"motion\": \"frozen mid-explosion\",\n    \"details\": [\n      \"semi-transparent fluid\",\n      \"fine droplets suspended in air\",\n      \"dynamic curved splash arcs\",\n      \"visible carbonation bubbles\"\n    ]\n  },\n  \"fruit_elements\": {\n    \"type\": \"sliced fruit\",\n    \"motion\": \"floating around the can\",\n    \"texture\": \"fresh, juicy, glossy\"\n  },\n  \"lighting\": {\n    \"type\": \"studio lighting\",\n    \"highlights\": \"strong reflections\",\n    \"shadows\": \"soft\"\n  },\n  \"background\": {\n    \"color\": \"smooth gradient matching liquid tone\",\n    \"environment\": \"clean studio backdrop\"\n  },\n  \"render_quality\": {\n    \"sharpness\": \"ultra-sharp\",\n    \"contrast\": \"high\",\n    \"realism\": \"photorealistic\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009519057717088345/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2009519057717088345",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-09T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "28da11b2-5b10-4bda-a2ef-ec63a2bb5329",
+    "prompt": "Top-down flat lay on a rustic wooden table, cozy aesthetic, soft natural light. A glass of iced tea with lemon slices and ice cubes, a glazed donut, a small succulent plant in a white pot, a vintage book, and eyeglasses. A sleeping tabby cat curled on a blanket at the edge. White hand-drawn doodle outlines and arrows around each object with playful handwritten labels like “refreshing iced tea,” “sweet treat,” “little green friend,” “afternoon read,” and “cutest thing in the world – cat.” Warm tones, minimal shadows, lifestyle photography, high detail, Instagram aesthetic.",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048725842096976020/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Sairah",
+      "author_url": "https://x.com/Sairah_0",
+      "license": "MIT",
+      "original_id": "2048725842096976020",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "68fd87f1-c5db-47a6-ae5b-7196609e7030",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K UHD\",\n    \"quality\": \"ultra-high\",\n    \"render_style\": \"AI-edited hyper-realistic food photography\",\n    \"sharpness\": \"extreme micro-detail\",\n    \"noise\": \"none\",\n    \"compression\": \"lossless\",\n    \"lighting_quality\": \"studio-controlled, cinematic\",\n    \"color_accuracy\": \"true-to-image\",\n    \"focus\": \"selective shallow depth of field\",\n    \"texture_emphasis\": \"maximum\"\n  },\n\n  \"camera_profile\": {\n    \"camera_type\": \"full-frame DSLR / mirrorless equivalent\",\n    \"lens\": \"macro prime\",\n    \"focal_length\": \"85mm–105mm\",\n    \"aperture\": \"f/2.8\",\n    \"iso\": \"low ISO\",\n    \"shutter\": \"studio synchronized\",\n    \"white_balance\": \"neutral, image-matched\"\n  },\n\n  \"module_1_image_1_style\": {\n    \"subject\": \"square matcha cheesecake slice\",\n    \"composition\": {\n      \"orientation\": \"portrait\",\n      \"angle\": \"three-quarter front view\",\n      \"placement\": \"centered on dark ceramic plate\",\n      \"crop\": \"tight food-focused crop\"\n    },\n    \"layers\": {\n      \"top_layer\": \"glossy matcha glaze with visible drip trails\",\n      \"middle_layer\": \"smooth pale-green cheesecake body\",\n      \"bottom_layer\": \"thin golden biscuit crust\"\n    },\n    \"surface_details\": {\n      \"glaze\": \"highly reflective, thick, slow-dripping matcha glaze\",\n      \"powder\": \"matcha powder dusted on top and plate\",\n      \"crumbs\": \"fine crumbs near base\"\n    },\n    \"garnish\": {\n      \"top\": [\"round green confection\", \"fresh mint leaves\", \"single raspberry\"],\n      \"plate\": [\"extra raspberry\", \"mint leaves\", \"matcha powder\"]\n    },\n    \"background\": {\n      \"color\": \"dark charcoal / black\",\n      \"elements\": [\"black bowl containing green sauce\"],\n      \"blur\": \"strong background blur\"\n    },\n    \"lighting\": {\n      \"key_light\": \"soft directional from upper left\",\n      \"highlights\": \"strong specular highlights on glaze\",\n      \"shadows\": \"soft, natural falloff\"\n    },\n    \"mood\": \"luxurious, modern, minimal, gourmet\"\n  },\n\n  \"module_2_image_2_style\": {\n    \"subject\": \"blue and white layered cake slice\",\n    \"composition\": {\n      \"orientation\": \"portrait\",\n      \"angle\": \"slightly elevated front angle\",\n      \"placement\": \"centered on white decorative plate\"\n    },\n    \"layers\": {\n      \"cake_layers\": \"soft white sponge layers\",\n      \"filling_layers\": \"translucent blue jelly layers with sparkle\",\n      \"top_layer\": \"smooth pastel blue glaze\"\n    },\n    \"surface_details\": {\n      \"drip\": \"single vertical glossy blue drip down front\",\n      \"sparkle\": \"tiny reflective particles embedded in jelly\",\n      \"top_decor\": \"glass-like blue spheres\"\n    },\n    \"garnish\": {\n      \"top\": [\"dark glossy cherry with long stem\", \"three transparent blue spheres\", \"tiny star-shaped sprinkles\"],\n      \"plate\": [\"subtle sugar-like sparkles\"]\n    },\n    \"background\": {\n      \"color\": \"light icy blue\",\n      \"effect\": \"soft bokeh dots\",\n      \"props\": [\"white ribbon partially visible\"]\n    },\n    \"lighting\": {\n      \"key_light\": \"soft frontal light\",\n      \"fill\": \"even illumination\",\n      \"highlights\": \"glass reflections on spheres\"\n    },\n    \"mood\": \"dreamy, delicate, whimsical, clean\"\n  },",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009446363331973461/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2009446363331973461",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-09T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "696ae01c-bc09-444a-aa94-eb2b222068f2",
+    "prompt": "Ultra-clean modern recipe infographic. Showcase [FOOD] in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2013233539706233086/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2013233539706233086",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-19T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "7b4e843d-9a63-4494-aa24-8bddd70ad0c0",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K\",\n    \"quality\": \"ultra-high\",\n    \"render_style\": \"hyperrealistic commercial CGI\",\n    \"lighting\": \"studio-grade, high-contrast, glossy highlights\",\n    \"focus\": \"extreme sharpness, macro-level texture visibility\",\n    \"color_depth\": \"rich, saturated, clean gradients\",\n    \"noise\": \"none\",\n    \"artifacts\": \"none\"\n  },\n\n  \"Module_1_Image_1_Style\": {\n    \"subject\": {\n      \"primary_object\": \"Snickers mint chocolate bar in turquoise wrapper\",\n      \"pose\": \"diagonally tilted, floating mid-air\",\n      \"orientation\": \"top-left to bottom-right angle\",\n      \"visibility\": \"full front-facing packaging visible\"\n    },\n    \"packaging_details\": {\n      \"colors\": [\"turquoise\", \"brown\", \"white\", \"blue\"],\n      \"text_visible\": [\"SNICKERS\", \"SNICKES\", \"with mint\"],\n      \"surface\": \"glossy plastic wrapper with subtle creases\",\n      \"product_image\": \"chocolate bar segment printed on wrapper\"\n    },\n    \"ingredients_visible\": [\n      \"fresh mint leaves\",\n      \"whole almonds\",\n      \"white sugar-like spherical candies\",\n      \"chocolate bar pieces\"\n    ],\n    \"motion_elements\": {\n      \"liquid\": \"clear water splash forming a curved arc around the bar\",\n      \"droplets\": \"floating water bubbles and droplets suspended in air\"\n    },\n    \"background\": {\n      \"color\": \"light aqua blue\",\n      \"texture\": \"smooth gradient\",\n      \"depth\": \"foreground and background elements clearly separated\"\n    },\n    \"lighting\": {\n      \"key_light\": \"bright frontal studio light\",\n      \"rim_light\": \"cool highlights on water edges\",\n      \"reflections\": \"strong specular highlights on wrapper and liquid\"\n    }\n  },\n\n  \"Module_2_Image_2_Style\": {\n    \"subject\": {\n      \"primary_object\": \"Hershey’s Special Dark chocolate mint packaging\",\n      \"pose\": \"upright, centered, slightly elevated\",\n      \"orientation\": \"front-facing, symmetrical composition\"\n    },\n    \"packaging_details\": {\n      \"colors\": [\"black\", \"green\", \"yellow\"],\n      \"text_visible\": [\n        \"SPECIAL DARK\",\n        \"HERSHEY’S\",\n        \"SABOR MENTA\",\n        \"60% DE CACAU\",\n        \"100 g\"\n      ],\n      \"surface\": \"matte-black wrapper with glossy highlights\"\n    },\n    \"ingredients_visible\": [\n      \"mint leaves\",\n      \"embossed Hershey’s chocolate squares\"\n    ],\n    \"motion_elements\": {\n      \"liquid\": \"thick molten chocolate splashes wrapping around the package\",\n      \"droplets\": \"small chocolate particles suspended mid-air\"\n    },\n    \"background\": {\n      \"color\": \"deep green gradient\",\n      \"base_surface\": \"liquid chocolate pool beneath the package\"\n    },\n    \"lighting\": {\n      \"key_light\": \"warm directional light\",\n      \"accent_light\": \"golden highlights on chocolate splashes\",\n      \"contrast\": \"high contrast between dark wrapper and green background\"\n    }\n  },\n\n  \"Module_3_Image_3_Style\": {\n    \"subject\": {\n      \"primary_object\": \"Twix Blueberry Muffin packaged snack\",\n      \"pose\": \"slightly tilted, floating above background\",\n      \"orientation\": \"front-facing with angled depth\"\n    },\n    \"packaging_details\": {\n      \"colors\": [\"purple\", \"gold\", \"white\"],\n      \"text_visible\": [\"TWIX\", \"BLUEBERRY MUFFIN\"],\n      \"surface\": \"glossy purple plastic wrapper\"\n    },\n    \"food_elements\": [\n      \"blueberry muffin\",\n      \"sliced muffin revealing purple interior\",\n      \"whole blueberries\"\n    ],\n    \"motion_elements\": {\n      \"liquid\": \"purple splash forming circular motion behind the product\",\n      \"particles\": \"crumbs and droplets suspended in air\"\n    },\n    \"background\": {\n      \"color\": \"turquoise-blue\",\n      \"texture\": \"clean gradient with high saturation\"\n    },\n    \"lighting\": {\n      \"key_light\": \"bright neutral studio light\",\n      \"rim_light\": \"purple-tinted highlights on splash edges\",\n      \"detail_visibility\": \"crumb texture and muffin pores clearly visible\"\n    }\n  },",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2012353813425144239/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2012353813425144239",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-17T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e1ad6036-3b6f-45c3-a1d3-5448fe620a08",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K ultra high definition\",\n    \"aspect_ratio\": \"3:4\",\n    \"quality\": \"hyper-realistic commercial product photography\",\n    \"focus\": \"sharp foreground, controlled depth of field\",\n    \"lighting_style\": \"cinematic studio lighting with volumetric light rays\",\n    \"motion\": \"frozen action splash photography\",\n    \"render_style\": \"AI-edited, ultra-detailed, advertising-grade\"\n  },\n\n  \"module_1_purple_acai_style\": {\n    \"primary_subject\": {\n      \"object\": \"slim aluminum energy drink can\",\n      \"orientation\": \"slightly tilted clockwise, floating mid-air\",\n      \"surface\": \"matte metallic purple with fine water droplets\",\n      \"branding\": {\n        \"text_visible\": [\"THE PURPLE EDITION\", \"Açaí Berry\", \"ENERGY DRINK\"],\n        \"graphics\": \"stylized bull illustration in white\"\n      }\n    },\n    \"background\": {\n      \"color\": \"deep purple gradient\",\n      \"lighting\": \"bright diagonal light rays from upper right\",\n      \"atmosphere\": \"misty with fine water particles\"\n    },\n    \"surrounding_elements\": {\n      \"fruits\": [\n        {\n          \"type\": \"blueberries\",\n          \"state\": [\"whole\", \"one halved\"],\n          \"texture\": \"glossy skin, visible pulp on cut fruit\"\n        }\n      ],\n      \"leaves\": \"small green leaves attached to berries\",\n      \"liquid\": \"clear water splashes forming arcs around can\"\n    },\n    \"motion_details\": {\n      \"water\": \"dynamic splash trails frozen mid-air\",\n      \"droplets\": \"micro droplets suspended around subject\"\n    },\n    \"color_palette\": [\"purple\", \"violet\", \"deep blue\", \"white\", \"fresh green\"]\n  },\n\n  \"module_2_white_coconut_berry_style\": {\n    \"primary_subject\": {\n      \"object\": \"slim aluminum energy drink can\",\n      \"orientation\": \"slightly tilted counter-clockwise, floating\",\n      \"surface\": \"white metallic finish with condensation droplets\",\n      \"branding\": {\n        \"text_visible\": [\"THE WHITE EDITION\", \"Coconut & Berry\", \"ENERGY DRINK\"],\n        \"graphics\": \"bull illustration in gray\"\n      }\n    },\n    \"background\": {\n      \"color\": \"sky blue gradient\",\n      \"lighting\": \"strong sunlight beams from upper right\",\n      \"atmosphere\": \"clean, airy, refreshing\"\n    },\n    \"surrounding_elements\": {\n      \"fruits\": [\n        {\n          \"type\": \"blueberries\",\n          \"state\": \"whole\",\n          \"texture\": \"smooth, reflective skin\"\n        },\n        {\n          \"type\": \"coconut\",\n          \"state\": \"broken slices\",\n          \"texture\": \"white flesh with dark brown shell\"\n        }\n\n      \"ice\": {\n        \"form\": \"transparent ice cubes\",\n        \"detail\": \"sharp edges, internal cracks visible\"\n      },\n      \"liquid\": \"clear water splashes\"\n    },\n    \"motion_details\": {\n      \"water\": \"curved splash paths wrapping around can\",\n      \"ice\": \"suspended mid-air with subtle rotation\"\n    },\n    \"color_palette\": [\"white\", \"light blue\", \"cyan\", \"natural brown\", \"cool gray\"]\n  \n  \"module_3_green_lemon_mojito_style\": {\n    \"primary_subject\": {\n      \"object\": \"tall soda can\",\n      \"orientation\": \"tilted slightly clockwise, floating\",\n      \"surface\": \"dark green metallic body with lighter green label\",\n      \"branding\": {\n        \"text_visible\": [\"LEMON SODA\", \"MOJITO\", \"L’ORIGINALE MOJITO ANALCOLICO ITALIANO\"],\n        \"logo\": \"CRODO emblem at top\n    \"background\": {\n      \"color\": \"vibrant green gradient\",\n      \"lighting\": \"intense sun flare from upper right\"\n    },\n    \"surrounding_elements\": {\n      \"fruits\": [\n        {\n          \"type\": \"lime\",\n          \"state\": [\"whole\", \"sliced wedge\"],\n          \"texture\": \"visible citrus pulp, glossy rind\"\n        }\n      ],\n      \"leaves\": \"fresh mint leaves with visible veins\",\n      \"liquid\": \"sparkling water splashes\"\n    },\n    \"motion_details\": {\n      \"water\": \"explosive splash bursts around can\",\n      \"droplets\": \"dense spray of fine droplets\"\n    },\n    \"color_palette\": [\"lime green\", \"dark green\", \"yellow-green\", \"white\"]\n  }",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2010681413562155183/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2010681413562155183",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-12T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "db41ffbd-17cc-4fac-a9ce-6637d5c2b3ca",
+    "prompt": "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K ultra-high-definition\",\n      \"aspect_ratio\": \"3:4 vertical\",\n      \"style\": \"hyper-realistic AI-edited commercial beverage photography\",\n      \"sharpness\": \"extreme clarity, micro-detail visibility\",\n      \"lighting_quality\": \"cinematic studio lighting with controlled highlights and shadows\",\n      \"motion_freeze\": \"high-speed capture, frozen liquid splashes and particles\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n\n    \"module_1_glass_beverage_style\": {\n      \"subject\": {\n        \"type\": \"transparent glass\",\n        \"glass_style\": \"tall cylindrical glass with thick base\",\n        \"surface_details\": \"cold condensation droplets on outer glass surface\",\n        \"fill_level\": \"80 percent full\",\n        \"label_text_visible\": [\n          \"mock up\",\n          \"iced coffee / protein shake\",\n          \"SEPARATED SHADOWS\"\n        ]\n      },\n\n      \"liquid_and_layers\": {\n        \"beverage_type\": \"iced latte or chocolate protein shake\",\n        \"liquid_color\": \"rich coffee brown or creamy cocoa\",\n        \"layering\": \"soft milk-to-coffee gradient with subtle swirls\",\n        \"texture\": \"smooth, thick, glossy, realistic viscosity\"\n      },\n\n      \"motion_and_splash\": {\n        \"action\": \"liquid splash erupting from inside the glass\",\n        \"splash_behavior\": \"curved arcs rising above rim with suspended droplets\",\n        \"droplet_detail\": \"micro droplets frozen mid-air with sharp definition\"\n      },\n\n      \"floating_elements\": {\n        \"ice_cubes\": \"large clear ice cubes rotating in mid-air\",\n        \"coffee_beans_or_cocoa\": \"roasted coffee beans or cocoa powder particles floating\",\n        \"cream_stream\": \"thin stream of milk or cream pouring into glass\"\n      },\n\n      \"pose_and_camera\": {\n        \"position\": \"centered hero composition\",\n        \"angle\": \"three-quarter close-up\",\n        \"camera_feel\": \"slightly low angle for premium, powerful presence\"\n      },\n\n      \"background\": {\n        \"color_palette\": \"deep espresso brown fading into warm beige highlights\",\n        \"bokeh\": \"soft cinematic bokeh lights with warm glow\",\n        \"atmosphere\": \"luxurious, indulgent, high-end café mood\"\n      },\n\n      \"surface_and_reflection\": {\n        \"base\": \"wet reflective surface with subtle liquid pooling\",\n        \"shadow_style\": \"clean, soft separated shadow beneath glass\",\n        \"reflection_quality\": \"controlled highlights along glass edges\"\n      }\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2019431396885070327/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Johnn",
+      "author_url": "https://x.com/john_my07",
+      "license": "MIT",
+      "original_id": "2019431396885070327",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-05T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "b4953596-4f50-4e6a-a631-04c506154d25",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K\",\n    \"aspect_ratio\": \"3:4\",\n    \"image_quality\": \"ultra-high definition\",\n    \"sharpness\": \"extreme\",\n    \"lighting_quality\": \"studio-grade cinematic lighting\",\n    \"render_style\": \"hyper-realistic AI-edited food photography\",\n    \"noise\": \"none\",\n    \"text_or_logos\": \"none\",\n    \"focus\": \"tack-sharp foreground with controlled depth\"\n  },\n\n  \"Module_1_Image_1_Style\": {\n    \"subject\": \"two grilled tortilla wraps\",\n    \"composition\": {\n      \"main_action\": \"wraps floating above a bowl of sauce\",\n      \"orientation\": \"one wrap stacked diagonally over another\",\n      \"perspective\": \"slightly low-angle, centered composition\"\n    },\n    \"food_details\": {\n      \"wrap_texture\": \"lightly grilled tortilla with golden brown char spots\",\n      \"filling_visible\": [\n        \"diced cooked chicken\",\n        \"golden french fries\",\n        \"green peas\"\n      ],\n      \"sauce\": {\n        \"type\": \"thick creamy white sauce\",\n        \"motion\": \"large splash forming curved arcs\",\n        \"bowl_material\": \"ceramic\",\n        \"bowl_color\": \"light beige\"\n      }\n    },\n    \"motion_elements\": [\n      \"suspended sauce droplets\",\n      \"floating parsley leaves\"\n    ],\n    \"background\": {\n      \"color\": \"dark warm brown gradient\",\n      \"texture\": \"smooth, studio backdrop\"\n    },\n    \"surface\": \"wooden tabletop visible at bottom\",\n    \"mood\": \"dynamic, indulgent, dramatic food motion\"\n  },\n\n  \"Module_2_Image_2_Style\": {\n    \"subject\": \"potato chips in a bowl\",\n    \"composition\": {\n      \"main_action\": \"chips flying upward above the bowl\",\n      \"distribution\": \"evenly spaced mid-air chips forming a vertical cascade\",\n      \"camera_position\": \"eye-level close-up\"\n    },\n    \"food_details\": {\n      \"chips_texture\": \"thin, crispy, lightly curved\",\n      \"chips_color\": \"golden yellow with seasoning speckles\",\n      \"bowl\": {\n        \"material\": \"ceramic\",\n        \"color\": \"warm orange\",\n        \"fill_state\": \"bowl partially filled with chips\"\n      }\n    },\n    \"seasoning_elements\": [\n      \"fine spice dust\",\n      \"small crumbs\",\n      \"rosemary sprigs floating\"\n    ],\n    \"background\": {\n      \"color\": \"warm orange gradient\",\n      \"lighting\": \"soft diffused with highlights on chips\"\n    },\n    \"ground_details\": [\n      \"scattered crumbs\",\n      \"spice particles\",\n      \"rosemary pieces\"\n    ],\n    \"mood\": \"energetic, crunchy, commercial snack photography\"\n  },\n\n  \"Module_3_Image_3_Style\": {\n    \"subject\": \"beef noodle soup in a bowl\",\n    \"composition\": {\n      \"main_action\": \"bowl floating in mid-air\",\n      \"camera_angle\": \"slightly elevated front angle\",\n      \"framing\": \"centered with wide negative space\"\n    },\n    \"food_details\": {\n      \"bowl_color\": \"dark matte black\",\n      \"broth\": \"clear brown liquid\",\n      \"noodles\": \"white flat noodles\",\n      \"protein\": \"thin slices of raw or lightly cooked beef\",\n      \"herbs\": [\n        \"green basil leaves\"\n      ]\n    },\n    \"floating_elements\": [\n      \"basil leaves\",\n      \"chili slices\",\n      \"garlic cloves\",\n      \"herb fragments\"\n    ],\n    \"steam\": {\n      \"visibility\": \"clearly visible\",\n      \"shape\": \"soft swirling trails\",\n      \"opacity\": \"semi-transparent\"\n    },\n    \"background\": {\n      \"color\": \"soft teal gradient\",\n      \"texture\": \"clean studio backdrop\"\n    },\n    \"mood\": \"fresh, aromatic, premium culinary presentation\"\n  },",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2010981812609434034/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2010981812609434034",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-13T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fb19e888-827a-4ee2-a05e-59a969c26f8f",
+    "prompt": "A cinematic, ultra-realistic advertising shot of a man holding a Lay’s [FLAVOR NAME] chips packet in his hand.\nThe packet color, branding, and typography are perfectly accurate to Lay’s official design.\nThe man’s outfit color, texture, and style match the packet theme (same color palette and mood), modern and stylish, premium fashion look.\nHis pose is confident and natural, hand clearly gripping the Lay’s packet in the foreground.\nBackground environment matches the flavor theme\n\nspices, ingredients, atmosphere, and lighting inspired by the flavor (for example: fiery spices for masala, fresh greens for sour cream, smoky tones for barbecue).\n\nChips are flying in slow motion around the scene with realistic motion blur and seasoning particles in the air.\n\nDramatic golden-hour lighting, cinematic depth of field, sharp focus on the packet, soft background bokeh.\n\nHyper-realistic textures, commercial food photography, high contrast, rich colors,\n\nultra-detailed, 8K quality, professional brand advertisement\n\nstyle",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2012780826715619644/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝐌",
+      "author_url": "https://x.com/Strength04_X",
+      "license": "MIT",
+      "original_id": "2012780826715619644",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-18T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "7dd096d8-61cc-4564-a6e5-72d5cce058cd",
+    "prompt": "{\n\"global_settings\": {\n\"resolution\": \"8K ultra high definition\",\n\"aspect_ratio\": \"3:4\",\n\"camera_style\": \"studio food photography with cinematic lighting\",\n\"depth_of_field\": \"shallow depth of field, sharp subject, soft background\",\n\"lighting\": \"soft directional key light, subtle rim light, controlled highlights\",\n\"style\": \"hyper-realistic food illustration with editorial infographic overlays\",\n\"composition_rules\": [\n\"no zoom\",\n\"no crop\",\n\"center-weighted vertical composition\",\n\"floating elements frozen in motion\"\n],\n\"text_design\": {\n\"ingredient_name_color\": \"metallic gold\",\n\"ingredient_description_color\": \"pure white\",\n\"font_style\": \"elegant serif for titles, clean sans-serif for descriptions\",\n\"indicator_lines\": \"long, thin, smooth golden lines with rounded corners\"\n}\n},\n\n\"module_1_image_1_style\": {\n\"scene_description\": \"A vertical stack of assorted cake slices floating above a white ceramic plate against a soft pink gradient background.\",\n\"background\": {\n\"color\": \"soft pastel pink\",\n\"texture\": \"smooth gradient\",\n\"lighting\": \"even, studio-lit, no harsh shadows\"\n},\n\"main_subjects\": [\n\"multiple layered sponge cake slices\",\n\"white whipped cream layers\",\n\"raspberry cream layer\",\n\"chocolate cream topping\"\n],\n\"visible_ingredients\": [\n\"vanilla sponge cake\",\n\"whipped cream\",\n\"raspberries\",\n\"blueberries\",\n\"strawberries\",\n\"macarons (vanilla and chocolate)\",\n\"chocolate bar pieces\",\n\"mint leaves\",\n\"small nut fragments\"\n],\n\"motion_elements\": [\n\"floating fruits\",\n\"floating macarons\",\n\"crumbs suspended in air\"\n],\n\"text_labels\": [\n\"Vanilla Cake – soft, fluffy sponge cake layered with white cream filling\",\n\"Macaron – creamy filling between almond meringue shells\",\n\"Raspberries – juicy, fresh raspberries\",\n\"Chocolate Bar – chunks of smooth milk chocolate\",\n\"Raspberry Cream – soft sponge cake layered with creamy, fruity raspberry cream\"\n]\n},",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2015252863333929304/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2015252863333929304",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "6c40a54d-b332-43e3-a839-7c67da07d49b",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K UHD\",\n    \"aspect_ratio\": \"3:4\",\n    \"image_type\": \"AI-edited hyper-realistic commercial product photography\",\n    \"camera\": {\n      \"focus\": \"ultra-sharp center focus\",\n      \"depth_of_field\": \"shallow DOF with soft background falloff\",\n      \"angle\": \"straight-on frontal view\",\n      \"lens\": \"macro-commercial lens look\"\n    },\n    \"lighting\": {\n      \"style\": \"studio lighting\",\n      \"key_light\": \"strong frontal soft light\",\n      \"rim_light\": \"subtle edge highlights on fruits and splashes\",\n      \"reflections\": \"specular highlights on liquid droplets and metal can\"\n    },\n    \"textures\": [\n      \"highly detailed aluminum can surface\",\n      \"realistic liquid physics\",\n      \"sharp fruit skin texture\",\n      \"visible condensation droplets\"\n    ],\n    \"quality_flags\": [\n      \"extreme detail\",\n      \"photorealistic\",\n      \"AI-enhanced clarity\",\n      \"no motion blur\",\n      \"clean background\"\n    ]\n  },\n\n  \"Module_1_Image_1_Style_Orange\": {\n    \"subject\": \"Orange flavored soda can\",\n    \"can_details\": {\n      \"material\": \"metal aluminum\",\n      \"condition\": \"top torn open with jagged sharp cracks\",\n      \"crack_position\": \"irregular split at the top rim, metal bent outward\",\n      \"surface\": \"covered with water droplets and condensation\"\n    },\n    \"fruit_elements\": {\n      \"whole_oranges\": \"multiple whole oranges floating behind and above the can\",\n      \"orange_slice\": \"one visible half-cut orange slice near the top center\",\n      \"leaves\": \"green citrus leaves attached to some oranges\"\n    },\n    \"liquid_effects\": {\n      \"splash_color\": \"bright orange liquid\",\n      \"motion\": \"liquid bursting upward and outward from inside the can\",\n      \"droplets\": \"numerous suspended droplets frozen mid-air\",\n      \"base_splash\": \"orange liquid pooling and splashing at the bottom\"\n    },\n    \"background\": {\n      \"color\": \"solid warm orange\",\n      \"gradient\": \"slight tonal variation, no patterns\"\n    }\n  },\n\n  \"Module_2_Image_2_Style_Acai\": {\n    \"subject\": \"Açaí flavored soda can\",\n    \"can_details\": {\n      \"material\": \"metal aluminum\",\n      \"condition\": \"can split horizontally into two broken sections\",\n      \"cracks\": \"jagged tearing edges with visible sharp metal folds\",\n      \"surface\": \"covered with condensation droplets\"\n    },\n    \"fruit_elements\": {\n      \"acai_berries\": \"multiple dark purple berries erupting from inside the can\",\n      \"berry_motion\": \"berries floating upward and outward\",\n      \"leaves\": \"few green leaves visible on sides\"\n    },\n    \"liquid_effects\": {\n      \"splash_color\": \"deep purple liquid\",\n      \"motion\": \"explosive splash radiating outward\",\n      \"droplets\": \"fine droplets suspended in air\"\n    },\n    \"background\": {\n      \"color\": \"warm beige to light brown gradient\",\n      \"tone\": \"soft neutral backdrop\"\n    }\n  },\n\n  \"Module_3_Image_3_Style_Goiaba_Guava\": {\n    \"subject\": \"Guava flavored soda can\",\n    \"can_details\": {\n      \"material\": \"metal aluminum\",\n      \"condition\": \"vertical split down the center of the can\",\n      \"cracks\": \"uneven torn edges exposing inside\",\n      \"surface\": \"visible water droplets and moisture\"\n    },\n    \"fruit_elements\": {\n      \"guava_halves\": \"multiple guava halves with pink interiors\",\n      \"whole_guavas\": \"several whole green guavas around the can\",\n      \"leaves\": \"green guava leaves scattered\"\n    },\n    \"liquid_effects\": {\n      \"splash_color\": \"red guava juice\",\n      \"motion\": \"juice bursting upward and sideways\",\n      \"droplets\": \"dense red droplets suspended mid-air\"\n    },\n    \"background\": {\n      \"color\": \"solid deep red\",\n      \"tone\": \"high contrast with fruit and liquid\"\n    }\n  }",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009947657905811727/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2009947657905811727",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-10T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3721be5b-93d4-43ec-a6ec-0ddea2a9fa1c",
+    "prompt": "{\n  \"style\": \"Minimalist modern recipe infographic\",\n  \"visual_aesthetic\": {\n    \"photography_style\": \"Top-down / 3-quarter angle food photography\",\n    \"design_language\": \"Scandinavian, editorial cookbook layout\",\n    \"background\": \"Soft neutral beige / cream\",\n    \"lighting\": \"Soft diffused light with gentle shadows\",\n    \"detail_level\": \"Ultra-realistic, ultra-sharp, 8K resolution\"\n  },\n  \"layout\": {\n    \"composition\": \"Finished dish centered on a white ceramic plate or bowl\",\n    \"elements\": [\n      \"Floating ingredient icons in soft circular frames\",\n      \"Clean vector-style ingredient illustrations\",\n      \"Clear ingredient labels with quantities\",\n      \"Curved step-by-step flow with numbered cooking icons\"\n    ],\n    \"typography\": \"High readability, modern sans-serif\",\n    \"spacing\": \"Balanced, airy, uncluttered\"\n  },\n  \"recipes\": [\n    {\n      \"dish_name\": \"Traditional Polish Pierogi\",\n      \"dish_presentation\": \"Golden boiled dumplings filled with potato and cheese, lightly buttered and garnished with fresh chives\",\n      \"ingredients\": [\n        { \"name\": \"All-purpose flour\", \"quantity\": \"2.5 cups\" },\n        { \"name\": \"Potatoes\", \"quantity\": \"3 medium\" },\n        { \"name\": \"Farmer cheese\", \"quantity\": \"200g\" },\n        { \"name\": \"Onion\", \"quantity\": \"1 medium\" },\n        { \"name\": \"Butter\", \"quantity\": \"40g\" },\n        { \"name\": \"Salt\", \"quantity\": \"1 tsp\" },\n        { \"name\": \"Water\", \"quantity\": \"0.75 cups\" }\n      ],\n      \"steps\": [\n        \"Prepare dough\",\n        \"Cook and mash filling\",\n        \"Fill and shape pierogi\",\n        \"Boil until tender\",\n        \"Serve with butter\"\n      ],\n      \"meta\": {\n        \"calories\": \"270 kcal / serving\",\n        \"time\": \"70 min\",\n        \"servings\": 4\n      }\n    },\n    {\n      \"dish_name\": \"Vinaigrette Salad\",\n      \"dish_presentation\": \"Colorful diced vegetables mixed with light dressing, neatly molded and topped with fresh herbs\",\n      \"ingredients\": [\n        { \"name\": \"Beetroot\", \"quantity\": \"2 medium\" },\n        { \"name\": \"Potatoes\", \"quantity\": \"2 medium\" },\n        { \"name\": \"Carrots\", \"quantity\": \"1 medium\" },\n        { \"name\": \"Pickled cucumbers\", \"quantity\": \"2 pcs\" },\n        { \"name\": \"Green peas\", \"quantity\": \"1 cup\" },\n        { \"name\": \"Sunflower oil\", \"quantity\": \"2 tbsp\" },\n        { \"name\": \"Fresh dill\", \"quantity\": \"1 bunch\" }\n      ],\n      \"steps\": [\n        \"Boil vegetables\",\n        \"Cool and dice\",\n        \"Mix ingredients\",\n        \"Dress salad\",\n        \"Chill and serve\"\n      ],\n      \"meta\": {\n        \"calories\": \"180 kcal / serving\",\n        \"time\": \"30 min + chill\",\n        \"servings\": 4\n      }\n    },\n    {\n      \"dish_name\": \"Solyanka Soup\",\n      \"dish_presentation\": \"Rich hearty soup with sliced meats, olives, lemon, and herbs, served steaming in a ceramic bowl\",\n      \"ingredients\": [\n        { \"name\": \"Mixed meats\", \"quantity\": \"400g\" },\n        { \"name\": \"Onion\", \"quantity\": \"1 large\" },\n        { \"name\": \"Pickles\", \"quantity\": \"3 pcs\" },\n        { \"name\": \"Tomato paste\", \"quantity\": \"2 tbsp\" },\n        { \"name\": \"Olives\", \"quantity\": \"1/2 cup\" },\n        { \"name\": \"Garlic\", \"quantity\": \"2 cloves\" },\n        { \"name\": \"Bay leaf\", \"quantity\": \"1 pc\" },\n        { \"name\": \"Lemon\", \"quantity\": \"For serving\" }\n      ],\n      \"steps\": [\n        \"Simmer broth\",\n        \"Sauté aromatics\",\n        \"Add meats and pickles\",\n        \"Season and simmer\",\n        \"Serve with lemon\"\n      ],\n      \"meta\": {\n        \"calories\": \"320 kcal / serving\",\n        \"time\": \"90 min\",\n        \"servings\": 5\n      }\n    }\n  ]\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2018899983752380850/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Johnn",
+      "author_url": "https://x.com/john_my07",
+      "license": "MIT",
+      "original_id": "2018899983752380850",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "0779a383-e2fc-4c6b-a7b5-7b60a432c5c0",
+    "prompt": "Create a branded technical infographic of a [SNACK], combining a realistic photograph or photoreal render of the product with technical annotation overlays placed directly on top. Use black ink–style line drawings with strategic [BRAND COLOR] accents (architectural sketch look) on a pure white studio background, including:\n• Key component labels\n• Internal cross-section showing structure, layering, or internal design\n• Measurements, dimensions, and specifications\n• Material callouts with composition and quantities\n• Arrows indicating function for primary features and structural integrity\n• Simple schematic or sectional diagram showing key mechanical or design elements\n• Sustainability callouts\nTitle placement: Inside a hand-drawn technical annotation box with accent border reading the product name in bold font, positioned in upper corner.\nStyle & layout rules:\n• The realistic product remains clearly visible\n• Annotations feel sketched, technical, and architectural\n• Accents used for highlight (20-30% of linework), black for primary technical lines (70-80%)\n• Clean composition with balanced negative space\n• Educational, food-engineering vibe with premium branding\n• Include subtle brand logo mark in corner\nVisual style: Minimal technical illustration aesthetic, black linework with accents over realistic imagery, precise but slightly hand-drawn feel.\nColor palette: White background, black annotation lines/text, [BRAND COLOR] for accents and key callouts only.\nOutput: 1080×1080, ultra-crisp, social-feed optimized, no watermark",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink",
+      "UI & Graphic"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2031795709243019280/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "TechieSA",
+      "author_url": "https://x.com/TechieBySA",
+      "license": "MIT",
+      "original_id": "2031795709243019280",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-11T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c9baba7a-e7cb-469c-a67d-7b1235176730",
+    "prompt": "{\n  \"image_type\": \"high-detail food photography, AI-edited surreal composition\",\n  \"resolution\": \"8K ultra-high-definition\",\n  \"aspect_ratio\": \"3:4\",\n  \"main_subject\": {\n    \"object\": \"single cube-shaped red velvet cake piece\",\n    \"position\": \"floating in mid-air\",\n    \"orientation\": \"slightly angled, front face visible, top frosting facing upward\",\n    \"texture\": {\n      \"cake\": \"fine, dense crumb texture with visible granules\",\n      \"frosting\": \"smooth, creamy, thick layer with soft ridges\"\n    }\n  },\n  \"cake_details\": {\n    \"layers\": [\n      {\n        \"type\": \"red velvet sponge\",\n        \"color\": \"deep red\",\n        \"count\": 2\n      },\n      {\n        \"type\": \"cream filling\",\n        \"color\": \"pale off-white\",\n        \"count\": 1,\n        \"position\": \"center layer\"\n      }\n    ],\n    \"top_frosting\": {\n      \"style\": \"swirled frosting peak\",\n      \"color\": \"off-white / cream\",\n      \"surface_detail\": \"soft curved piping lines\",\n      \"toppings\": \"small red velvet crumbs scattered on top\"\n    }\n  },\n  \"motion_elements\": {\n    \"crumbs\": {\n      \"presence\": true,\n      \"distribution\": \"scattered around the cake in mid-air\",\n      \"size_variation\": \"fine dust to small chunks\",\n      \"motion\": \"frozen mid-flight\"\n    }\n  },\n  \"secondary_object\": {\n    \"object\": \"metal spoon\",\n    \"material\": \"polished stainless steel\",\n    \"position\": \"below the cake\",\n    \"orientation\": \"slightly tilted upward\",\n    \"reflection\": \"subtle reflections visible on spoon surface\",\n    \"interaction\": \"crumbs falling toward spoon\"\n  },\n  \"lighting\": {\n    \"style\": \"studio lighting\",\n    \"direction\": \"soft directional light from upper side\",\n    \"highlights\": \"gentle highlights on frosting and spoon\",\n    \"shadows\": \"soft shadows, no harsh edges\",\n    \"contrast\": \"moderate contrast emphasizing texture\"\n  },\n  \"background\": {\n    \"color_palette\": [\n      \"dark maroon\",\n      \"deep burgundy\",\n      \"muted pink gradient\"\n    ],\n    \"style\": \"smooth gradient backdrop\",\n    \"depth\": \"shallow depth of field\",\n    \"noise\": \"clean, minimal grain\"\n  },\n  \"color_profile\": {\n    \"dominant_colors\": [\n      \"deep red\",\n      \"cream white\",\n      \"dark maroon\"\n    ],\n    \"saturation\": \"rich but controlled\",\n    \"tone\": \"luxurious and dramatic\"\n  },\n  \"composition\": {\n    \"framing\": \"centered subject with vertical emphasis\",\n    \"visual_balance\": \"cake centered, spoon offset below\",\n    \"negative_space\": \"ample empty space around subject\"\n  },\n  \"style_tags\": [\n    \"hyper-realistic\",\n    \"AI-edited look\",\n    \"surreal food photography\",\n    \"freeze-motion effect\",\n    \"premium dessert aesthetic\"\n  ],\n  \"camera_simulation\": {\n    \"focus\": \"sharp focus on cake\",\n    \"background_blur\": \"smooth bokeh-like gradient\",\n    \"angle\": \"eye-level to slightly low angle\"\n  },\n  \"post_processing\": {\n    \"clarity\": \"high\",\n    \"sharpness\": \"very high\",\n    \"color_grading\": \"cinematic dessert tones\",\n    \"artifacts\": \"none visible\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2017552798297297339/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2017552798297297339",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-31T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ea57afd8-56d9-4480-aeb6-a05e01536cdf",
+    "prompt": "Clean & appetizing meal prep layouts\n\nDesign a minimalist healthy meal prep poster for [MEAL PLAN], with clean containers, colorful balanced ingredients, calorie/macros panel, weekly layout, soft pastel background, bright natural light, wellness brand typography, crisp shadows, modern Instagram design.",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048076798798217594/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Dheepan Ratnam",
+      "author_url": "https://x.com/Dheepanratnam",
+      "license": "MIT",
+      "original_id": "2048076798798217594",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "98e26aba-40f3-4a10-a999-8543f6de45ac",
+    "prompt": "{\n  \"image_type\": \"Hyper-realistic cinematic food photography\",\n  \"resolution\": \"8K\",\n  \"aspect_ratio\": \"3:4\",\n  \"camera\": {\n    \"shot_type\": \"Hero shot\",\n    \"angle\": \"Slightly low-angle with central focus\",\n    \"focus\": \"Ultra-sharp foreground with controlled depth of field\",\n    \"motion_capture\": \"Frozen mid-air action with splash dynamics\"\n  },\n  \"lighting\": {\n    \"style\": \"Cinematic studio lighting\",\n    \"highlights\": \"Strong specular highlights emphasizing oil, glaze, and moisture\",\n    \"shadows\": \"Deep, dramatic shadows for contrast and depth\",\n    \"rim_light\": \"Visible edge lighting outlining food elements\",\n    \"ambient\": \"Low-key lighting environment\"\n  },\n  \"background\": {\n    \"color\": \"Dark charcoal to deep maroon tones\",\n    \"texture\": \"Smoky, atmospheric backdrop\",\n    \"elements\": [\n      \"Rising steam\",\n      \"Spice-infused smoke\",\n      \"Floating embers and sparks\"\n    ]\n  },\n  \"primary_subjects\": [\n    {\n      \"item\": \"Cooked food pieces\",\n      \"position\": \"Suspended mid-air\",\n      \"surface_detail\": \"Charred edges, textured crust, glossy coating\",\n      \"motion\": \"Erupting upward with dynamic splash behavior\"\n    }\n  ],\n  \"secondary_elements\": [\n    {\n      \"item\": \"Sauce or gravy\",\n      \"state\": \"Thick and glossy\",\n      \"motion\": \"Explosive splash with visible droplets and arcs\",\n      \"detail\": \"Oil separation visible as shimmering droplets\"\n    },\n    {\n      \"item\": \"Herbs\",\n      \"types\": [\n        \"Fresh coriander leaves\",\n        \"Mint leaves\"\n      ],\n      \"motion\": \"Scattered and floating naturally\"\n    },\n    {\n      \"item\": \"Spices\",\n      \"types\": [\n        \"Whole dried red chilies\",\n        \"Whole spices (clearly visible star-shaped and pod-like forms)\",\n        \"Crushed spice particles\"\n      ],\n      \"behavior\": \"Suspended mid-air, dispersed unevenly\"\n    },\n    {\n      \"item\": \"Vegetables\",\n      \"types\": [\n        \"Bell peppers (green and red)\",\n        \"Onion chunks\"\n      ],\n      \"cut\": \"Large rustic chunks\",\n      \"surface\": \"Light char and gloss\"\n    }\n  ],\n  \"supporting_food_items\": [\n    {\n      \"item\": \"Rice grains\",\n      \"detail\": \"Individual grains clearly visible, mid-air dispersion\",\n      \"motion\": \"Erupting outward with spices\"\n    },\n    {\n      \"item\": \"Nuts and dry fruits\",\n      \"types\": [\n        \"Cashews\",\n        \"Raisins\"\n      ],\n      \"position\": \"Mixed with rice and floating\"\n    },\n    {\n      \"item\": \"Flatbread pieces\",\n      \"detail\": \"Torn edges, soft interior texture, char marks visible\",\n      \"motion\": \"Suspended mid-air with crumbs\"\n    }\n  ],\n  \"condiments\": [\n    {\n      \"item\": \"Green chutney\",\n      \"texture\": \"Thick, coarse\",\n      \"motion\": \"Upward splash from a bowl\",\n      \"container\": \"Dark stone bowl with matte finish\"\n    },\n    {\n      \"item\": \"White yogurt-based sauce\",\n      \"texture\": \"Smooth and creamy\",\n      \"container\": \"Dark stone bowl\"\n    }\n  ],\n  \"surface_environment\": {\n    \"base\": \"Dark textured surface\",\n    \"elements\": [\n      \"Scattered spice flakes\",\n      \"Burnt crumbs\",\n      \"Small glowing embers\",\n      \"Charcoal-like stones\"\n    ]\n  },\n  \"color_palette\": [\n    \"Deep reds\",\n    \"Burnt orange\",\n    \"Charcoal black\",\n    \"Smoky maroon\",\n    \"Herb green\",\n    \"Creamy white highlights\"\n  ],\n  \"mood\": \"Bold, intense, premium, cinematic, high-impact food commercial aesthetic\",\n  \"realism_level\": \"Extreme hyper-realism with tactile textures and moisture detail\",\n  \"post_processing\": {\n    \"contrast\": \"High\",\n    \"clarity\": \"Very high\",\n    \"sharpening\": \"Selective sharpening on food textures\",\n    \"noise\": \"Minimal\",\n    \"color_grading\": \"Warm highlights with deep shadows\"\n  }\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008455129624965416/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2008455129624965416",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-06T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "029ac4fd-1d40-4c05-a437-58833e5b21a3",
+    "prompt": "{\n  \"prompt_name\": \"Lays_Spanish_Tomato_Tango_Explosion\",\n  \"description\": \"Ultra-realistic commercial food photography showing a red Lay’s snack packet torn open from the top, positioned at the bottom center of the frame. Golden ridged potato chips are explosively bursting upward in frozen mid-air motion. Thick red tomato sauce splashes dynamically around the chips, forming arcs and droplets. Fresh whole tomatoes and halved tomatoes with visible seeds are flying around. Small crispy crumbs and seasoning particles are suspended in the air. The Lay’s logo is clearly visible on the packet, with readable text: 'Spanish Tomato Tango Flavour'. The packet surface is glossy and reflective with realistic wrinkles. Background is a deep red gradient filled with floating sauce droplets and particles, creating intense energy.\",\n  \"lighting\": \"Dramatic warm studio lighting with strong highlights, deep shadows, and high contrast\",\n  \"color_palette\": [\"deep red\", \"tomato red\", \"golden yellow\", \"dark orange\"],\n  \"motion\": \"High-energy explosive upward motion with frozen splashes and flying fragments\",\n  \"focus\": \"Ultra-sharp focus on chips, sauce splashes, and packet branding\",\n  \"texture_detail\": \"Highly detailed ridged chip texture, glossy liquid splashes, realistic foil reflections\",\n  \"style\": \"Premium FMCG commercial advertising, cinematic realism\",\n  \"resolution\": \"8K\",\n  \"aspect_ratio\": \"3:4\"\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007635164718084527/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2007635164718084527",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-04T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "ed7f7a33-944e-48a5-ac9b-dd0e8d2c8f0e",
+    "prompt": "- Ultra-cinematic beverage advertising shot of a sparkling lime soda can, captured from a low three-quarter angle with the camera positioned slightly below the product for a heroic, powerful perspective; the can appears partially torn open as vivid lime wedges explode outward in slow motion, frozen mid-air with high-energy splashes of neon-green liquid and micro droplets; intense backlighting makes the citrus flesh glow translucently while sharp rim light outlines",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2011078719734235390/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "𝐌",
+      "author_url": "https://x.com/Strength04_X",
+      "license": "MIT",
+      "original_id": "2011078719734235390",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-13T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9791841b-af50-447b-a5a3-d4dbaaa4e4dd",
+    "prompt": "<instruction>\nInputs: Ingredients = [User Choice, e.g., Chicken, Bacon]\n\nStep 1: Global Analysis\nAnalyze the ingredients.\nSelect 4 Distinct Countries with a famous dish using these ingredients  \n\nGoal: A \"Culinary Atlas\" Grid showing 4 different cultural variations of the ingredients.\n\nLayout Rule:\nOutput Format: A 2x2 Grid.\nContent per Panel: Each of the 4 panels must show a Single Open Book Spread for that specific country.\n\nInside Each Panel (The Book Spread Rule):\nLeft Page (The History): 2D Vintage Sepia Sketches. A visual timeline or illustrated recipe of the dish (e.g., \"1850 -> 1920 -> Today\"). Flat, ink-drawn style.\nRight Page (The Reality): 3D Pop-up Diorama. The finished, steaming meal emerges physically from the page. A tiny miniature chef from that country is standing on the page next to the massive food.\nConsistency: All 4 books should look like part of the same series, but with different cultural contents.\n\nLighting: Cinematic top-down lighting, highlighting the depth difference between the flat left page and the 3D right page.\nOutput: 2x2 Grid, High Definition, Macro Detail.\n</instruction>",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2004986136335110526/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Gadgetify",
+      "author_url": "https://x.com/Gdgtify",
+      "license": "MIT",
+      "original_id": "2004986136335110526",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "0df42b8f-d581-4baa-acb3-9e0f1fa0c3a9",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K ultra-high-definition\",\n    \"aspect_ratio\": \"3:4 vertical\",\n    \"render_style\": \"hyper-realistic commercial food photography\",\n    \"quality\": \"premium advertising grade\",\n    \"sharpness\": \"extreme micro-detail, crisp edges\",\n    \"noise\": \"none\",\n    \"artifacts\": \"none\",\n    \"depth_of_field\": \"shallow, subject-focused\",\n    \"motion\": \"frozen mid-air ingredients\",\n    \"background_style\": \"solid single-color studio backdrop\"\n  },\n\n  \"subject\": {\n    \"main_food\": \"chocolate chip cookies\",\n    \"quantity\": 3,\n    \"appearance\": [\n      \"golden-brown freshly baked cookies\",\n      \"soft cracked surface\",\n      \"visible melted chocolate chips\",\n      \"slightly crisp edges\",\n      \"natural handmade texture\"\n    ],\n    \"branding_rules\": [\n      \"no text\",\n      \"no logo\",\n      \"no embossing\",\n      \"no patterns\",\n      \"no symbols\"\n    ]\n  },\n\n  \"secondary_elements\": {\n    \"ingredients_flying\": [\n      \"dark chocolate chunks\",\n      \"cookie crumbs\",\n      \"fine sugar crystals\"\n    ],\n    \"motion_style\": \"dynamic floating explosion\",\n    \"distribution\": \"balanced around the cookies, natural randomness\",\n    \"particle_detail\": \"sharp, frozen motion with depth separation\"\n  },\n\n  \"composition\": {\n    \"camera_angle\": \"slightly low angle\",\n    \"framing\": \"center-weighted hero composition\",\n    \"spacing\": \"clean negative space around subject\",\n    \"focus_priority\": \"front cookie in razor-sharp focus\"\n  },\n\n  \"lighting\": {\n    \"type\": \"professional studio lighting\",\n    \"key_light\": \"soft directional key light\",\n    \"fill_light\": \"gentle fill for texture clarity\",\n    \"rim_light\": \"subtle rim highlight for separation\",\n    \"shadows\": \"soft and natural, no harsh contrast\"\n  },\n\n  \"color_palette\": {\n    \"background_color\": \"pastel blue\",\n    \"cookie_tones\": \"warm golden browns\",\n    \"accent_colors\": \"rich chocolate browns, crystal sugar whites\",\n    \"contrast\": \"high subject-background separation\"\n  },\n\n  \"photography_style\": {\n    \"genre\": \"luxury food advertising\",\n    \"mood\": \"fresh, indulgent, premium\",\n    \"cleanliness\": \"spotless studio look\",\n    \"post_processing\": \"minimal, natural, high-end retouching\"\n  },\n\n  \"exclusions\": [\n    \"text\",\n    \"logos\",\n    \"watermarks\",\n    \"hands\",\n    \"plates\",\n    \"props\",\n    \"packaging\",\n    \"background objects\",\n    \"cartoon style\",\n    \"illustration style\"\n  ]\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2019457811370164329/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2019457811370164329",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-05T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "fc8d8428-0d72-4a7a-a448-d71237ba6faa",
+    "prompt": "A hyper-realistic, high-speed commercial photograph featuring a man with uploaded face as reference in a chef's jacket, apron, and checkered trousers. He stands in a rustic, high-end kitchen, lifting the lid off a large, steaming copper pot with a look of pure amazement. From the pot, a literal galaxy of gourmet food explodes upwards and outwards in suspended animation: whole roasted spices, vibrant vegetables, splashes of rich sauces, floating plates of intricately plated fine dining dishes,and swirling clouds of aromatic steam filled with golden glitter. The ingredients form spiral nebulae around him. The background is a warm, blurred professional kitchen with copper cookware hanging. The lighting is warm, cinematic, and focused, highlighting the textures of the flying food with macro-level detail. Shot with a fast shutter speed to freeze motion, 8k resolution, Octane Render culinary aesthetic. 100% use my real face.",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2025363555584016837/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "simeon-sanai",
+      "author_url": "https://x.com/Naiknelofar788",
+      "license": "MIT",
+      "original_id": "2025363555584016837",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3cd1af68-d92f-44ed-a4b9-e23f3b86c81e",
+    "prompt": "{\n\"master_prompt\": {\n\"global_settings\": {\n\"resolution\": \"8K ultra high definition\",\n\"aspect_ratio\": \"3:4 vertical\",\n\"image_quality\": \"extreme sharpness, high dynamic range, professional studio lighting\",\n\"style\": \"AI-edited hyperreal food photography\",\n\"focus\": \"crisp textures, frozen motion, liquid dynamics, surface details\",\n\"background_quality\": \"clean, controlled, noise-free\"\n},\n\n\"module_1\": {  \n  \"identity\": \"Image 1 – Ice Cream Cone with Purple Splash\",  \n  \"subject\": {  \n    \"main_object\": \"waffle cone ice cream\",  \n    \"cone\": \"light brown waffle cone with diamond grid texture, matte finish\",  \n    \"ice_cream_scoops\": [  \n      {  \n        \"color\": \"off-white / vanilla\",  \n        \"texture\": \"creamy with visible scoop ridges\"  \n      },  \n      {  \n        \"color\": \"off-white / vanilla\",  \n        \"texture\": \"slightly uneven surface, melting edges\"  \n      }  \n    ],  \n    \"toppings\": [  \n      \"raspberries\",  \n      \"blackberries\"  \n    ],  \n    \"sauce\": {  \n      \"color\": \"glossy purple\",  \n      \"behavior\": \"thick liquid splashing outward and downward\",  \n      \"coverage\": \"dripping over scoops and cone\"  \n    }  \n  },  \n  \"motion\": {  \n    \"action\": \"frozen splash moment\",  \n    \"details\": \"liquid droplets suspended mid-air, see-through splash edges\"  \n  },  \n  \"background\": {  \n    \"color\": \"deep dark maroon / black\",  \n    \"style\": \"studio backdrop with subtle gradient\"  \n  },  \n  \"lighting\": {  \n    \"type\": \"high-contrast studio lighting\",  \n    \"effects\": \"specular highlights on sauce and ice cream, shadow depth under cone\"  \n  }  \n},  \n\n\"module_2\": {  \n  \"identity\": \"Image 2 – Chocolate Ice Cream Bar with Bite\",  \n  \"subject\": {  \n    \"main_object\": \"chocolate-coated ice cream bar on wooden stick\",  \n    \"coating\": {  \n      \"exploded_view\": false,  \n      \"surface\": \"milk chocolate coating with embedded nut pieces\",  \n      \"texture\": \"rough, uneven, crunchy appearance\"  \n    },  \n    \"bite_detail\": {  \n      \"location\": \"top edge\",  \n      \"interior_layers\": [  \n        \"chocolate ice cream\",  \n        \"thin darker chocolate layer\"  \n      ],  \n      \"edges\": \"jagged bite marks\"  \n    },  \n    \"stick\": {  \n      \"material\": \"light wood\",  \n      \"finish\": \"smooth, rounded end\"  \n    }  \n  },  \n  \"motion\": {  \n    \"elements\": \"small chocolate fragments floating in air\",  \n    \"behavior\": \"scattered outward from the bar\"  \n  },  \n  \"background\": {  \n    \"color\": \"warm brown gradient\",  \n    \"style\": \"clean studio environment\"  \n  },  \n  \"lighting\": {  \n    \"type\": \"directional studio lighting\",  \n    \"effects\": \"strong highlights on chocolate bumps, soft shadows\"  \n  }  \n},  \n\n\"module_3\": {  \n  \"identity\": \"Image 3 –Purple Berry Popsicle with Fruits\",  \n  \"subject\": {  \n    \"main_object\": \"rectangular red popsicle\",  \n    \"surface\": {  \n      \"texture\": \"frosted, icy crystals visible\",  \n      \"shape\": \"rounded corners, vertical grooves\"  \n    },  \n    \"stick\": {  \n      \"material\": \"light wooden stick\",  \n      \"visible\": true  \n    },  \n    \"surroundings\": [  \n      \"whole strawberries with green tops\",  \n      \"blueberries\",  \n      \"raspberries\",  \n      \"mint leaves\",  \n      \"crushed ice pieces\"  \n    ]  \n  },  \n  \"color_palette\": [  \n    \"bright red\",  \n    \"deep blue\",  \n    \"fresh green\",  \n    \"clear ice\"  \n  ],  \n  \"background\": {  \n    \"composition\": \"entire frame filled with fruits and ice\",  \n    \"style\": \"top-down macro food arrangement\"  \n  },  \n  \"lighting\": {  \n    \"type\": \"even bright lighting\",  \n    \"effects\": \"wet shine on fruit skins, crystalline ice reflections\"  \n  }  \n},",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2015977087161794591/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2015977087161794591",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "afb1a8b3-4a9f-44c9-a35e-978af54e0cda",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K ultra high definition\",\n    \"aspect_ratio\": \"2:3 vertical\",\n    \"style\": \"hyper-realistic AI-edited food photography\",\n    \"clarity\": \"extreme sharpness, micro-texture visibility\",\n    \"motion\": \"frozen action with suspended ingredients\",\n    \"lighting_quality\": \"studio-grade, high-contrast, cinematic\",\n    \"background_separation\": \"strong subject isolation with clean depth\"\n  },\n\n  \"module_1_image_1_style\": {\n    \"scene_description\": \"A dynamic salad explosion emerging from a matte black bowl placed on a round wooden surface. Ingredients are mid-air, scattered upward and outward.\",\n    \"ingredients_visible\": [\n      \"green lettuce leaves\",\n      \"cherry tomatoes (whole and sliced)\",\n      \"cucumber slices arranged in a curved stack\",\n      \"black olives\",\n      \"white cheese cubes\",\n      \"orange citrus slice\",\n      \"small broccoli florets\",\n      \"fresh green basil leaves\"\n    ],\n    \"motion_details\": {\n      \"ingredients\":",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2017200760631828679/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "K",
+      "author_url": "https://x.com/ChillaiKalan__",
+      "license": "MIT",
+      "original_id": "2017200760631828679",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-30T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "173e99ae-25d3-4c6c-a300-465bfb0631d3",
+    "prompt": "{\n  \"resolution\": \"8K\",\n  \"aspect_ratio\": \"3:4\",\n  \"image_type\": \"photorealistic commercial product render\",\n  \"scene_description\": {\n    \"main_subject\": \"A vertically centered ice cream bar on a wooden stick\",\n    \"orientation\": \"upright, front-facing, slightly elevated perspective\",\n    \"composition\": \"single product centered with surrounding ingredient callouts and curved arrows\"\n  },\n  \"background\": {\n    \"color\": \"warm golden-yellow gradient\",\n    \"texture\": \"smooth, matte, evenly lit\",\n    \"lighting_falloff\": \"subtle vignette, darker towards edges\"\n  },\n  \"lighting\": {\n    \"type\": \"studio lighting\",\n    \"key_light\": \"soft frontal light highlighting chocolate gloss\",\n    \"fill_light\": \"balanced fill to preserve texture detail\",\n    \"specular_highlights\": \"visible on melted chocolate coating\",\n    \"shadows\": \"soft shadow beneath ice cream stick\"\n  },\n  \"ice_cream_bar\": {\n    \"shape\": \"rounded rectangular bar\",\n    \"surface\": \"smooth with visible embedded inclusions\",\n    \"layers\": [\n      {\n        \"layer_position\": \"top coating\",\n        \"material\": \"milk chocolate\",\n        \"state\": \"melted and dripping\",\n        \"texture\": \"glossy, thick, fluid\",\n        \"details\": [\n          \"multiple chocolate drips flowing downward\",\n          \"irregular almond pieces embedded in coating\",\n          \"rounded drip edges with gravity pull\"\n        ]\n      },\n      {\n        \"layer_position\": \"left interior\",\n        \"material\": \"chocolate ice cream\",\n        \"texture\": \"dense, creamy\",\n        \"details\": [\n          \"small dark brownie chunks evenly dispersed\",\n          \"matte finish compared to outer chocolate\"\n        ]\n      },\n      {\n        \"layer_position\": \"right interior\",\n        \"material\": \"vanilla ice cream\",\n        \"texture\": \"smooth and creamy\",\n        \"details\": [\n          \"visible caramel pieces\",\n          \"light beige caramel chunks with rounded edges\"\n        ]\n      }\n    ]\n  },\n  \"stick\": {\n    \"material\": \"light natural wood\",\n    \"texture\": \"smooth with subtle grain\",\n    \"shape\": \"rounded edges, flat profile\",\n    \"visibility\": \"fully visible below ice cream bar\"\n  },\n  \"ingredient_callouts\": {\n    \"style\": {\n      \"arrows\": \"curved, thick, dark brown\",\n      \"text_color\": \"dark brown\",\n      \"font_style\": \"clean sans-serif\",\n      \"layout\": \"balanced around product\"\n    },\n    \"labels\": [\n      {\n        \"text\": \"Chocolate with almonds\",\n        \"position\": \"top-left\",\n        \"visual_aid\": [\n          \"whole almonds\",\n          \"small chocolate squares\"\n        ]\n      },\n      {\n        \"text\": \"Chocolate ice cream with brownies\",\n        \"position\": \"left-middle\",\n        \"visual_aid\": [\n          \"brownie chunks\"\n        ]\n      },\n      {\n        \"text\": \"Chocolate ice cream with brownies\",\n        \"position\": \"right-middle\",\n        \"visual_aid\": [\n          \"brownie chunks\"\n        ]\n      },\n      {\n        \"text\": \"Vanilla ice cream with caramel pieces\",\n        \"position\": \"bottom-right\",\n        \"visual_aid\": [\n          \"caramel cubes\",\n          \"white vanilla pieces\"\n        ]\n      }\n    ]\n  },\n  \"color_palette\": {\n    \"primary_colors\": [\n      \"milk chocolate brown\",\n      \"golden yellow\",\n      \"cream white\"\n    ],\n    \"secondary_colors\": [\n      \"dark brownie brown\",\n      \"light caramel orange\",\n      \"almond beige\"\n    ]\n  },\n  \"render_quality\": {\n    \"sharpness\": \"extreme micro-detail visibility\",\n    \"texture_fidelity\": \"high realism\",\n    \"noise\": \"none\",\n    \"depth_of_field\": \"moderate, product fully in focus\"\n  },\n  \"style_tags\": [\n    \"luxury dessert advertising\",\n    \"hyper-realistic food photography\",\n    \"commercial product render\",\n    \"clean studio composition\"\n  ]\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2020329970497999135/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2020329970497999135",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-08T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "087c31b5-07b4-49cb-a58b-f06368eb09aa",
+    "prompt": "Ultra-high-resolution 8K cinematic commercial food advertisement of **[BRAND NAME] instant noodles**, vertical 3:4 aspect ratio.\n\nA bold hero composition featuring the **[BRAND NAME] noodle packet** floating in the upper frame, front-facing and perfectly lit, with crisp edges, realistic packaging texture, and clear branding. Below it, a steaming bowl branded with **[BRAND NAME]**, filled with glossy, curly noodles lifted dramatically mid-air using chopsticks, noodles stretching naturally under gravity.\n\nNoodles appear richly coated in **[FLAVOR / SAUCE TYPE]**, with visible ingredients such as **[VEGETABLES / CHILIES / GARNISH]** suspended mid-air around the bowl. Steam rises dynamically, interacting with floating spice particles and food fragments.\n\nBackground is a **completely new cinematic environment** (not copied from reference), abstract and high-energy, filled with swirling flames, sparks, embers, smoke, and motion blur, creating depth and intensity while keeping the food in sharp focus.\n\nLighting is premium studio cinematic lighting:\nwarm golden key light, soft fill light, strong rim light outlining the packet and noodles, high contrast with glowing highlights and deep shadows.\n\nColor palette dominated by **[PRIMARY BRAND COLORS]**, enhanced with warm orange-gold food tones and contrasting greens from vegetables. Hyper-realistic textures on noodles, sauce, packaging, and bowl.\n\nShallow depth of field, dramatic bokeh in background, extreme sharpness on hero elements, photorealistic yet stylized for advertising impact.\n\nMood: bold, energetic, spicy, indulgent, mouth-watering, premium commercial look.\n\nNo people, no clutter, no copied backgrounds. Designed for high-impact food advertising, posters, and social media hero visuals.\n\n[BRAND NAME] → Maggi\n[FLAVOR / SAUCE TYPE] → spicy masala\n[PRIMARY BRAND COLORS] → yellow and red",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2008810720826478640/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2008810720826478640",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-07T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "c33800bf-06e8-47cd-a803-ff908d07ed7e",
+    "prompt": "A premium [BRAND NAME] [PRODUCT TYPE] centered in the frame, iconic [BRAND COLOR / PACKAGING STYLE] packaging partially unwrapped, emerging from darkness like a legendary luxury artifact, rich [PRODUCT MATERIAL – chocolate / cream / liquid / filling] cracking open and transforming in slow motion, surreal transformation in progress, [CORE INGREDIENT / FLAVOR ELEMENT] flowing, melting, or bursting outward in cinematic waves, fragments and droplets levitating in zero gravity, slow-motion splash frozen mid-air, ultra-detailed glossy textures, realistic material physics, rich highlights and reflections, dramatic cinematic rim lighting, deep shadows, luxury advertising aesthetic, dreamlike surreal atmosphere, hyper-real product photography blended with fantasy, macro depth of field, clean dark background with subtle [BRAND COLOR] glow, product dominant and razor-sharp, brand name clearly visible on packaging, no extra text, no watermark, no extra logos, 8K ultra-HD, HDR, global illumination, unreal engine style, viral commercial look, high contrast, premium composition",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2006643289185989070/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2006643289185989070",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-01T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "e2de7e98-13b9-44cd-abcf-5d0a48c39ffe",
+    "prompt": "[\n  {\n    \"id\": \"pineapple_beach_v2\",\n    \"type\": \"photorealistic advertising shot\",\n    \"subject\": {\n      \"item\": \"pineapple juice bottle\",\n      \"label_text\": \"NFC Pineapple Juice\",\n      \"pose\": \"slightly tilted forward\"\n    },\n    \"environment\": {\n      \"location\": \"tropical beach\",\n      \"ground\": \"sunlit wet tropical sand\",\n      \"background_elements\": [\n        \"gently swaying palm trees\",\n        \"clear turquoise ocean with soft waves\",\n        \"bright blue sky with thin clouds\"\n      ],\n      \"interactions\": \"a small wave splashes lightly against the bottle base\"\n    },\n    \"surrounding_elements\": [\n      \"fresh pineapple slices with visible texture\",\n      \"sparkling seawater droplets in mid-air\"\n    ],\n    \"lighting\": {\n      \"description\": \"golden sunlight\",\n      \"effects\": \"soft reflections on glass bottle\"\n    }\n  },\n\n  {\n    \"id\": \"strawberry_mountain_v2\",\n    \"type\": \"photorealistic advertising shot\",\n    \"subject\": {\n      \"item\": \"strawberry juice bottle\",\n      \"label_text\": \"NFC Strawberry Juice\",\n      \"details\": \"heavy condensation with frost accents\"\n    },\n    \"environment\": {\n      \"location\": \"high-altitude mountains\",\n      \"ground\": \"icy rocks with light snow patches\",\n      \"atmosphere\": \"crisp cold air with drifting mist\"\n    },\n    \"surrounding_elements\": [\n      \"fresh strawberries partially resting on ice\"\n    ],\n    \"lighting\": {\n      \"description\": \"soft sunrise light cutting through fog\",\n      \"effects\": \"subtle glow around the bottle\"\n    },\n    \"style_descriptors\": [\n      \"cinematic macro shot\",\n      \"ultra high detail\",\n      \"cold-meets-warm contrast\",\n      \"deep red highlights\",\n      \"fresh and premium feel\",\n      \"hyper-realistic surface details\"\n    ],\n    \"parameters\": \"--ar 9:16 --stylize 250\"\n  },\n\n  {\n    \"id\": \"citrus_grove_v2\",\n    \"type\": \"photorealistic advertising shot\",\n    \"subject\": {\n      \"item\": \"citrus blend juice bottle\",\n      \"label_text\": \"NFC Citrus Mix\",\n      \"pose\": \"centered upright\"\n    },\n    \"environment\": {\n      \"location\": \"lush citrus grove\",\n      \"background_elements\": [\n        \"sunlit yellow and orange fruits hanging above\",\n        \"soft green leaves framing the bottle\"\n      ]\n    },\n    \"action_elements\": {\n      \"description\": \"fresh splash of clear water rising around the base\",\n      \"items\": [\n        \"thin lemon slices\",\n        \"juicy lime wedges\",\n        \"bright orange segments\"\n      ]\n    },\n    \"lighting\": {\n      \"description\": \"sun rays filtering through leaves\",\n      \"tone\": \"vibrant citrus warmth\"\n    },\n    \"parameters\": \"--ar 9:16 --stylize 250\"\n  },\n\n  {\n    \"id\": \"tropical_hammock_v2\",\n    \"type\": \"photorealistic advertising shot\",\n    \"subject\": {\n      \"item\": \"tropical mixed Nestle juice bottle\",\n      \"label_text\": \"NFC Tropical Juice\",\n      \"pose\": \"relaxed tilt as if resting\"\n    },\n    \"environment\": {\n      \"location\": \"sunlit hammock between palm trees\",\n      \"background\": \"soft-focus ocean horizon with glowing sunlight\"\n    },\n    \"surrounding_elements\": [\n      \"fresh pineapple slices\",\n      \"ripe mango slices\",\n      \"orange wedges\",\n      \"dragonfruit cubes\"\n    ],\n    \"mood_and_style\": {\n      \"atmosphere\": \"luxury vacation vibe\",\n      \"colors\": \"rich tropical saturation\",\n      \"lighting\": \"warm cinematic highlights with soft shadows\"\n    },\n    \"parameters\": \"--ar 9:16 --stylize 250\"\n  }\n]",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2004935778183590081/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2004935778183590081",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2025-12-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "48c383d0-7d8d-48c1-af0d-41a80d096610",
+    "prompt": "{\n  \"global_settings\": {\n    \"resolution\": \"8K ultra-high-definition\",\n    \"aspect_ratio\": \"3:4 vertical\",\n    \"render_style\": \"photorealistic high-end biscuit photography\",\n    \"quality\": \"luxury advertising standard\",\n    \"clarity\": \"ultra-sharp with visible fine textures\",\n    \"grain\": \"zero\",\n    \"visual_artifacts\": \"none\",\n    \"depth_of_field\": \"selective focus with soft background falloff\",\n    \"motion_capture\": \"ingredients suspended in mid-air\",\n    \"background_style\": \"clean monochrome studio backdrop\"\n  },\n\n  \"subject\": {\n    \"main_food\": \"assorted biscuit-style cookies\",\n    \"quantity\": 4,\n    \"appearance\": [\n      \"uniform baked biscuits with refined edges\",\n      \"lightly toasted surface with subtle cracks\",\n      \"visible chocolate bits and butter layers\",\n      \"dry-crisp texture typical of premium biscuits\",\n      \"precise handcrafted finish\"\n    ],\n    \"branding_rules\": [\n      \"no typography\",\n      \"no logos\",\n      \"no imprints\",\n      \"no decorative marks\",\n      \"no symbols\"\n    ]\n  },\n\n  \"secondary_elements\": {\n    \"ingredients_floating\": [\n      \"mini chocolate chips\",\n      \"biscuit crumbs\",\n      \"powdered sugar dust\"\n    ],\n    \"motion_style\": \"controlled burst with natural spread\",\n    \"distribution\": \"organic scatter surrounding the biscuits\",\n    \"particle_detail\": \"high-speed frozen motion with layered depth\"\n  },\n\n  \"composition\": {\n    \"camera_angle\": \"slightly elevated three-quarter angle\",\n    \"framing\": \"central hero focus with visual breathing space\",\n    \"spacing\": \"ample negative space for premium feel\",\n    \"focus_priority\": \"foreground biscuit in extreme sharp focus\"\n  },\n\n  \"lighting\": {\n    \"type\": \"studio-grade cinematic lighting\",\n    \"key_light\": \"soft diffused directional light\",\n    \"fill_light\": \"low-intensity fill to reveal surface detail\",\n    \"rim_light\": \"delicate edge glow for separation\",\n    \"shadows\": \"smooth and realistic with gentle falloff\"\n  },\n\n  \"color_palette\": {\n    \"background_color\": \"muted pastel teal\",\n    \"biscuit_tones\": \"light golden beige and toasted browns\",\n    \"accent_colors\": \"deep cocoa browns, soft sugar whites\",\n    \"contrast\": \"strong subject isolation from background\"\n  },\n\n  \"photography_style\": {\n    \"genre\": \"premium biscuit advertising\",\n    \"mood\": \"clean, refined, indulgent\",\n    \"cleanliness\": \"immaculate studio finish\",\n    \"post_processing\": \"subtle professional retouching, natural tones\"\n  },\n\n  \"exclusions\": [\n    \"text\",\n    \"branding\",\n    \"watermarks\",\n    \"hands\",\n    \"serving ware\",\n    \"props\",\n    \"wrappers\",\n    \"environmental elements\",\n    \"illustration\",\n    \"cartoon rendering\"\n  ]\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2019796977299681757/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Johnn",
+      "author_url": "https://x.com/john_my07",
+      "license": "MIT",
+      "original_id": "2019796977299681757",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-06T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "55d9d30d-3b99-4231-a8ae-e4465d6f578a",
+    "prompt": "Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: \"200g spaghetti\", \"150g mushrooms\", \"3 garlic cloves\", \"200ml cream\", \"1 tbsp olive oil\", \"parmesan\", \"parsley\", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2046705259267948789/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Ege",
+      "author_url": "https://x.com/egeberkina",
+      "license": "MIT",
+      "original_id": "2046705259267948789",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-21T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d20dda2d-70b6-4ed4-ac2e-f10d01ef1845",
+    "prompt": "Advertising-style food photography of a stack of pancakes arranged on a rustic table, with maple syrup droplets floating above in mid-air and a splash of syrup frozen in motion. High-resolution photo manipulation with selective soft focus, clean negative space for text, dramatic lighting, and crisp detail. --ar 3:2 --v 7",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2015786436696637532/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2015786436696637532",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-26T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "9c626014-9d1d-477e-acf6-648aa41e739f",
+    "prompt": "{\n  \"project\": {\n    \"title\": \"Hyper-Visual Fried Chicken Action Series\",\n    \"output_quality\": \"8K Ultra-HD\",\n    \"aspect_ratio\": \"2:3\",\n    \"style_intent\": \"High-end commercial food photography\",\n    \"consistency_rule\": \"Each module shares structure but maintains unique visual dynamics\"\n  },\n\n  \"global_camera_and_rendering\": {\n    \"camera_perspective\": \"Close-up to extreme macro\",\n    \"focus_behavior\": \"Crisp subject focus with controlled depth falloff\",\n    \"shutter_effect\": \"High-speed freeze-frame\",\n    \"texture_priority\": \"Ultra-detailed crispy breading and crumbs\",\n    \"color_profile\": \"Warm golden browns, deep reds, high contrast\",\n    \"lighting_quality\": \"Studio-grade directional lighting with rim highlights\",\n    \"rendering_clarity\": \"No blur, no softness, no painterly effects\"\n  },\n\n  \"negative_prompt\": [\n    \"motion blur\",\n    \"plastic textures\",\n    \"smooth or waxy food\",\n    \"flat lighting\",\n    \"low detail crumbs\",\n    \"muddy colors\",\n    \"overexposed highlights\",\n    \"cartoon style\",\n    \"unrealistic food physics\",\n    \"oil fog\",\n    \"text artifacts\"\n  ],\n\n  \"modules\": {\n\n    \"module_1_image_1_style\": {\n      \"scene_type\": \"Liquid impact action shot\",\n      \"subject\": \"Single fried chicken drumstick\",\n      \"positioning\": \"Centered, upright\",\n      \"action\": \"Drumstick impacting or emerging from liquid splash\",\n      \"liquid_properties\": {\n        \"color\": \"Deep red-brown\",\n        \"viscosity\": \"Thick, glossy\",\n        \"behavior\": \"High splash crown with upward droplets\"\n      },\n      \"particle_details\": {\n        \"crumbs\": \"Small to medium golden crumbs suspended mid-air\",\n        \"distribution\": \"Surrounding the subject evenly\"\n      },\n      \"lighting\": {\n        \"key_light\": \"Strong frontal light emphasizing texture\",\n        \"rim_light\": \"Subtle edge highlights on liquid and crust\"\n      },\n      \"background\": \"Dark, nearly black, softly blurred\",\n      \"surface_reflections\": \"Glossy reflections visible in liquid surface\",\n      \"mood\": \"Intense, dramatic, high-impact\"\n    },\n\n    \"module_2_image_2_style\": {\n      \"scene_type\": \"Mid-air food reveal\",\n      \"subject\": \"Single fried chicken drumstick\",\n      \"action\": \"Drumstick suspended above an open food box\",\n      \"crumb_motion\": \"Crumbs falling downward from drumstick\",\n      \"container\": {\n        \"type\": \"Cardboard food box\",\n        \"color\": \"White exterior with red interior accents\",\n        \"state\": \"Open lid, visible interior\"\n      },\n      \"lighting\": {\n        \"style\": \"Soft studio light\",\n        \"effect\": \"Even illumination with gentle highlights\"\n      },\n      \"background\": {\n        \"tone\": \"Bright, light neutral\",\n        \"depth\": \"Shallow depth of field, softly blurred\"\n      },\n      \"texture_visibility\": \"Highly defined crunchy coating\",\n      \"mood\": \"Clean, fresh, appetizing, modern\"\n    },\n\n    \"module_3_image_3_style\": {\n      \"scene_type\": \"Explosive reveal action shot\",\n      \"subject\": \"Single fried chicken drumstick\",\n      \"action\": \"Drumstick bursting upward from food box\",\n      \"explosion_elements\": {\n        \"crumbs\": \"Large and small fragments radiating outward\",\n        \"direction\": \"Radial burst from center\"\n      },\n      \"lighting\": {\n        \"backlight\": \"Strong radial backlight creating light rays\",\n        \"contrast\": \"High contrast between subject and background\"\n      },\n      \"container\": {\n        \"type\": \"Cardboard food box\",\n        \"color\": \"Red and white\",\n        \"text_visibility\": \"Visible word 'CHICKEN' on front\"\n      },\n      \"background\": \"Dark with bright light rays emanating behind subject\",\n      \"surface\": \"Dark tabletop with scattered crumbs\",\n      \"mood\": \"Energetic, bold, cinematic\"\n    }",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2009591285406208118/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2009591285406208118",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-09T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "5e3c6b42-43b2-4d0b-a850-1735f539d4e6",
+    "prompt": "Ultra-premium cinematic food photography, 8K UHD, 3:4 aspect ratio.\nA high-end studio composition featuring a single floating bowl as the hero subject, captured in a high-speed moment with ingredients suspended mid-air. The image conveys controlled energy, freshness, and indulgence.\nLighting is soft, directional, and studio-grade, sculpting textures with clean highlights and natural shadows. Depth of field is shallow-to-medium, isolating the subject while maintaining dimensional realism.\nColors are rich yet natural, with balanced contrast and refined saturation. No artificial glow or exaggerated effects.\nThe background is a seamless solid or smooth gradient, carefully chosen to complement the ingredients and enhance visual separation.\nThe bowl is centered, weightless, and dominant. Liquids form elegant arcs and droplets; solid ingredients float naturally with believable physics. Textures are hyper-realistic — creamy bases show organic swirls, crunchy elements appear crisp, herbs look fresh and vibrant.\nShot with a luxury commercial food advertising aesthetic — modern, clean, minimal, bold, and premium.",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2014162814739611701/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2014162814739611701",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-22T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "cfcd0f0f-5adc-4637-afed-c771222fc628",
+    "prompt": "{\n  \"ENVIRONMENT\": {\n    \"Background\": \"Gradient(Dark_Warm_Brown)\",\n    \"Atmospheric_FX\": [\"Floating_Particles\", \"Depth_Blur\", \"Cinematic_Bokeh\"],\n    \"Lighting\": {\n      \"Type\": \"Directional_Studio_Warmer\",\n      \"Highlights\": \"Specular_Glossy_Reflections\",\n      \"Shadow_Softness\": \"High\"\n    }\n  },\n\n  \"CORE_ASSETS\": {\n    \"Primary_Subject\": \"Wafer_Rolls\",\n    \"Physics\": \"Zero_Gravity_Diagonal_X_Composition\",\n    \"Material_Properties\": {\n      \"Outer\": \"Milk_Chocolate_Coating\",\n      \"Surface_Texture\": \"Irregular_Nut_Clusters_Embedded\",\n      \"Interior_Cross_Section\": {\n        \"Structure\": \"Crispy_Hollow_Wafer\",\n        \"Core\": \"Silky_Chocolate_Cream_Filling\"\n      }\n    }\n  },\n\n  \"PARTICLE_SYSTEMS\": [\n    {\n      \"Object\": \"Chocolate_Blocks\",\n      \"Detail\": \"Rectangular_Embossed_Letter_B\",\n      \"State\": \"Floating\"\n    },\n    {\n      \"Object\": \"Hazelnuts\",\n      \"State\": \"Halved_and_Fragmented\",\n      \"Distribution\": \"Random_Orbit\"\n    }\n  ],\n\n  \"FLUID_DYNAMICS\": {\n    \"Element\": \"Chocolate_Splash\",\n    \"Behavior\": \"Dynamic_Backdrop_Flow\",\n    \"Viscosity\": \"Thick_Glossy\"\n  },\n\n  \"RENDER_OUTPUT\": {\n    \"Resolution\": \"8K_UHD\",\n    \"Aspect_Ratio\": \"3:4\",\n    \"Quality_Flags\": [\"Hyper_Realistic\", \"Sharp_Foreground\", \"Indulgent_Mood\"]\n  }\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2020693181730598932/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2020693181730598932",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-02-09T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3ab224d4-bbf9-4149-a2b7-80689220dcc5",
+    "prompt": "{\n  \"master_prompt\": {\n    \"scene_type\": \"high-speed commercial luxury shake photography\",\n    \"product\": {\n      \"type\": \"elegant frosted glass bottle filled with velvety strawberry shake\",\n      \"brand_name\": \"ROSÉ VELVET\",\n      \"label_design\": \"minimalist vertical blush label with embossed rose-gold serif typography\",\n      \"liquid_color\": \"creamy pastel pink with natural strawberry swirls\"\n    },\n    \"composition\": {\n      \"action\": \"dynamic high-velocity creamy splash explosion\",\n      \"surrounding_elements\": [\n        \"sculptural waves of thick strawberry shake splashing outward\",\n        \"silky ribbons of strawberry puree suspended mid-air\",\n        \"floating fresh strawberry halves with visible seeds and juicy texture\",\n        \"soft dusting of powdered sugar diffusing delicately\",\n        \"fine droplets of creamy pink mist catching the light\"\n      ],\n      \"placement\": \"centered hero bottle with a crisp reflection on a polished white marble surface\"\n    },\n    \"lighting\": {\n      \"style\": \"luxury glossy studio product lighting\",\n      \"effects\": [\n        \"sharp rim lighting to define bottle silhouette\",\n        \"brilliant highlights on creamy splashes and glossy strawberry surfaces\",\n        \"soft rosy glow in the background for warmth and elegance\"\n      ]\n    },\n    \"color_palette\": {\n      \"background\": \"smooth gradient of blush pink fading into soft champagne ivory\",\n      \"accents\": \"fresh strawberry red, rose gold, and creamy vanilla tones\"\n    },\n    \"technical_specs\": {\n      \"camera\": \"macro lens, eye-level angle\",\n      \"shutter\": \"ultra-fast freeze-motion capture\",\n      \"depth_of_field\": \"shallow focus on the label, gentle blur on dynamic splash elements\",\n      \"quality\": \"8K resolution, ultra-photorealistic texture\"\n    }\n  }\n}",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink",
+      "Poster Design"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2028279420419752307/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "Meem",
+      "author_url": "https://x.com/mehvishs25",
+      "license": "MIT",
+      "original_id": "2028279420419752307",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-03-02T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "3b48d1c8-aa1b-4800-a7b8-4b34b157a0a0",
+    "prompt": "FORMATO:\nPóster social premium 4:5 vertical para Instagram, ultra alta resolución, 8K, nitidez extrema, calidad publicitaria, aspecto gourmet editorial, composición impactante y moderna\n\n⸻\n\nESCENA / FONDO:\n\nBar gastronómico moderno y elegante, ambiente urbano sofisticado, mesa de piedra oscura con textura premium, profundidad cinematográfica\n\nEntorno:\n\n* Superficie de mármol negro con reflejos suaves y elegantes\n* Fondo desenfocado con ambiente de restaurante moderno\n* Sutil presencia de botellas, servilletas y barra de fondo\n* Bokeh cálido y elegante, sin distraer del plato\n* Estética de restaurante trendy de ciudad\n\nAtmósfera:\n\n* Ambiente acogedor y premium\n* Sensación de comida recién servida\n* Ligero vapor saliendo del plato\n* Energía social, experiencia compartida\n* Estilo casual-lujo gastronómico\n\nIluminación:\n\n* Luz principal cálida lateral superior derecha\n* Luz de relleno suave para resaltar texturas\n* Brillos naturales en la salsa cremosa\n* Contraste elegante entre sombras profundas y luces cálidas\n* Reflejos delicados sobre la batata caramelizada\n\nPaleta de color:\n\n* Dominante: negro piedra, gris carbón, marrón tostado\n* Acentos: naranja batata, blanco crema, rojo remolacha/frutos rojos\n* Toques verdes frescos de hierbas\n\n⸻\n\nPRODUCTO (HERO SHOT):\n\nPlato protagonista de batatas fritas crujientes servidas en vajilla artesanal negra, cubiertas con crema blanca abundante, salsa roja intensa y hierbas frescas\n\nAcción:\n\n* Batatas elevándose ligeramente en el aire para efecto dinámico\n* Una batata principal en foco absoluto con textura crujiente visible\n* Salsa cremosa cayendo lentamente en movimiento\n* Gotas de salsa roja suspendidas en el aire\n* Sensación irresistible y adictiva\n\nInteracción:\n\n* Dos tenedores entrando desde los laterales, capturando comida\n* Representa deseo, compartir y experiencia real\n* Movimiento natural y espontáneo\n\nDetalle de texturas:\n\n* Exterior crujiente y caramelizado de la batata\n* Interior suave y cremoso\n* Salsa blanca espesa y brillante\n* Salsa roja vibrante con intensidad visual\n* Microdetalles de sal, especias y cebollino fresco\n\n⸻\n\nELEMENTOS SECUNDARIOS:\n\nFondo superior:\n\n* Bolsa kraft desenfocada\n* Botella elegante fuera de foco\n* Vajilla minimalista moderna\n\nPrimer plano:\n\n* Tenedores metálicos con brillo sutil\n* Migas pequeñas y gotas de salsa para realismo\n\n⸻\n\nTIPOGRAFÍA:\n\nTITULAR PRINCIPAL:\n\n“BATATA BRUTAL”\n\nEstilo:\n\n* Tipografía sans serif ultra bold condensada\n* Moderna, premium, agresiva visualmente\n* Kerning ajustado\n* Impacto publicitario\n\nColor:\n\n* Blanco roto con ligero degradado cálido\n\nEfectos:\n\n* Sombra suave\n* Relieve sutil\n* Ligero glow premium\n\nUbicación:\n\n* Centro superior, integrado con el plato\n\n⸻\n\nSUBTÍTULO:\n\nCrujiente por fuera.\nAdictiva por dentro.\n\nEstilo:\n\n* Sans serif bold limpia\n* Elegante y minimalista\n\nColor:\n\n* Blanco al 85% opacidad\n\nUbicación:\n\n* Parte inferior izquierda\n\n⸻\n\nCAPA TIPOGRÁFICA DE FONDO:\n\nCRUNCH / SAUCE / SHARE / REPEAT\n\nEstilo:\n\n* Mayúsculas finas\n* Tracking amplio\n* Repetición modular\n\nColor:\n\n* Gris claro al 15%\n\nFunción:\n\n* Textura visual sin distraer\n\n⸻\n\nBRANDING:\n\nParte superior izquierda:\n\nLogo minimalista del restaurante o marca\n\nParte inferior:\n\nSweet Potato • Signature Sauce • Gourmet Edition\n\nEsquina inferior derecha:\n\nInstagram / web minimalista\n\nBanda lateral vertical:\n\nCRUJIENTE • CREMOSO • BRUTAL\n\n⸻\n\nCÁMARA:\n\nLente:\n\n50mm gastronómico cinematográfico\n\nÁngulo:\n\nPicado suave de 45 grados con presencia heroica\n\nProfundidad de campo:\n\n* Enfoque extremo en batata central\n* Fondo con caída progresiva cremosa\n\nSensación:\n\nFotografía real de campaña premium Michelin casual food\n\n⸻\n\nPOSTPRODUCCIÓN:\n\n* Contraste alto pero elegante\n* Nitidez localizada solo en comida\n* Glow suave en salsas\n* Color grading cálido premium\n* Sombras profundas sofisticadas\n* Micro film grain 2%\n* Texturas hiperrealistas\n* Detalle extremo en comida\n* Acabado de anuncio internacional",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2048659308645106081/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ivangrisa.sol 🫂",
+      "author_url": "https://x.com/Ivangrisa",
+      "license": "MIT",
+      "original_id": "2048659308645106081",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-27T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "550db581-ea2f-4353-a628-f4a92e460d42",
+    "prompt": "Epic 8K cinematic fantasy food scene: a colossal crispy fried chicken leg rising like a legendary artifact through a tidal explosion of molten creamy sauce. Sauce behaves like liquid clouds, forming waves and splashes in mid-air. Pickle chunks, herb leaves, and seasoning particles float like asteroids in a food universe. Extreme macro texture on the crust—cracks, bubbles, and crunch visible. Powerful dramatic lighting with deep shadows and glowing highlights. Vibrant golden-yellow background with cinematic depth and atmospheric particles. Hyper-realistic yet mythic, bold surreal advertising masterpiece.",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2007269989359948066/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "ShaHid WaNii",
+      "author_url": "https://x.com/meng_dagg695",
+      "license": "MIT",
+      "original_id": "2007269989359948066",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-01-03T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  },
+  {
+    "id": "d3fd8f6e-b4c9-4079-af41-d9fda9c89bb3",
+    "prompt": "Create a clean, high-quality McDonald’s advertisement.\nUse a bold red brand color with yellow brand accents.\nShow a Big Mac, fries, and a drink in a realistic, appetizing style.\nInclude the golden arches in the background.\nAdd bold white headline text: “Better together.”\nInclude smaller text: “Big Mac + Fries — The classic combo.”\nAdd price and minimal product details at the bottom.\nKeep the layout simple, balanced, and premium with strong brand consistency.",
+    "model": "gpt-image",
+    "category": "food",
+    "difficulty": "intermediate",
+    "tags": [
+      "Food & Drink"
+    ],
+    "preview": {
+      "url": "https://images.meigen.ai/tweets/2047273916406677721/0.jpg"
+    },
+    "source": {
+      "type": "github",
+      "repo": "nanobanana-trending-prompts",
+      "repo_url": "https://github.com/jau123/nanobanana-trending-prompts",
+      "author": "UxUi Tega (Design & Ai)",
+      "author_url": "https://x.com/Tegadesigns",
+      "license": "MIT",
+      "original_id": "2047273916406677721",
+      "collected_at": "2026-07-03T10:33:13.422Z",
+      "last_synced": "2026-07-03T10:33:13.422Z"
+    },
+    "metadata": {
+      "version": "1.0",
+      "created_at": "2026-04-23T00:00:00Z",
+      "updated_at": "2026-07-03T10:33:13.422Z",
+      "language": "en",
+      "status": "active"
+    }
+  }
+]
