@@ -1,0 +1,20 @@
+{
+  "repository": "freewander-gpt-image-prompts",
+  "schema_version": "v1.0",
+  "phase": "phase-1",
+  "model": "gpt-image",
+  "asset_policy": {
+    "original_freewander_assets_allowed": false,
+    "allowed_source_licenses": [
+      "MIT",
+      "Apache-2.0",
+      "BSD-2-Clause",
+      "BSD-3-Clause",
+      "CC0-1.0",
+      "CC-BY-4.0"
+    ]
+  },
+  "categories": [],
+  "items": [],
+  "status": "staging"
+}
