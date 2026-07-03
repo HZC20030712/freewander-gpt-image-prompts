@@ -3,7 +3,7 @@
 > A curated collection of GPT Image prompts, example outputs, and structured
 > metadata for product photography, poster design, cinematic scenes, and more.
 
-[View on FreeWander](https://freewander.app/gallery?utm_source=github&utm_medium=repo&utm_campaign=gpt-image-prompts)
+[View on FreeWander](https://freewander.app/?utm_source=github&utm_medium=repo&utm_campaign=gpt-image-prompts)
 
 ## Data Overview
 
@@ -1051,8 +1051,8 @@ Read structured prompt entries from `data/index.json` and category files.
 
 Use the same prompt flow on FreeWander:
 
-- [Browse gallery](https://freewander.app/gallery?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-prompts)
-- [Generate images](https://freewander.app/generate?utm_source=github&utm_medium=repo&utm_campaign=gpt-image-prompts)
+- [Browse gallery](https://freewander.app/?utm_source=github&utm_medium=readme&utm_campaign=gpt-image-prompts)
+- [Generate images](https://freewander.app/?utm_source=github&utm_medium=repo&utm_campaign=gpt-image-prompts)
 
 ## License & Attribution
 
