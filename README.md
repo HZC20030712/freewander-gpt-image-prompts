@@ -1063,7 +1063,7 @@ Use the same prompt flow on FreeWander:
 
 ## Current Status
 
-This staging copy is the local initialization pack prepared before GitHub push.
+This repository is officially maintained by FreeWander as an open-source dataset.
 The public repository should only be created after:
 
 1. GitHub authentication is restored

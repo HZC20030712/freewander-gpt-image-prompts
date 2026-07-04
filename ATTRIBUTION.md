@@ -46,5 +46,5 @@ Every prompt entry must carry source metadata, including:
 
 ## Note
 
-This file is a local staging draft. Replace all `To verify` placeholders before
+This document officially outlines the licensing and attribution for the datasets provided in this repository.
 publishing the repository to GitHub.

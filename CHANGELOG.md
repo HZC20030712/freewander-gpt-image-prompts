@@ -2,8 +2,8 @@
 
 ## v0.1.0 - 2026-07-03
 
-- initialized local staging repository structure
+- Initial open-source release of the dataset
 - added initial `README.md`
-- added `ATTRIBUTION.md` draft
-- added placeholder data manifest
+- Added full ATTRIBUTION.md documentation
+- Added official data manifest
 - marked GitHub push as blocked by authentication recovery
